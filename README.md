@@ -186,8 +186,149 @@ Se hace cada 8000 km motor y filtro, cada 16000 km primaria. Ver manual para mas
 * Motor : Valvoline Moto 20w50
 * Primaria : Motul 3000 20w50
 
+## Aceite Horquilla
 
+Se consigue el **Motul Fork Oil 20W** que es el que recomienda Motul para Harley
 
+**Castrol Fork Oil 15W** / ver cual recomienda Castrol
+
+Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
+
+## Frenos
+
+### Pastillas
+
+**EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes 
+
+las que sirven para la 883 y la 1200 son
+**P/N FA387HH , FA381HH**
+
+### Discos
+
+Necesito investigar mas.. hay reemplazos pero importados.
+Los discos se pueden rectificar si estan rayados.
+
+### Liquido de frenos
+
+Algunos años llevan DOT 5 (pre 2007 creo) y otros DOT 4.
+
+**DOT 5 y DOT 4 NO SE PUEDEN MEZCLAR**
+
+Ojo que **DOT 5 NO es lo mismo que DOT 5.1**!  DOT 5 es siliconado, y los demas NO lo son.
+
+Para DOT 4, Wagner Lockheed se fabrica en Argentina.
+
+Para DOT 5, esta complicado, Bel Ray tiene liquido DOT 5; todavia no consegui un lugar donde tengan siempre.
+
+Notas sobre DOT 5: El DOT 5 es un fluido no higroscópico compuesto de silicona (polidemil siloxanos). No se puede utilizar en vehículos cuyo líquido de frenos tenga una base sintética. Absorbe gran cantidad de aire (tres veces más que los de tipo DOT 3 y DOT 4), sobre todo en alturas elevadas. Esto dificulta el proceso de purga, ya que el aire atrapado se expande al aumentar la temperatura. No se debe mezclar con ningún otro tipo de líquido de frenos. Su punto de ebullición es de 260ºC.
+
+## Bujias
+
+**Champion RA8HC** -- las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso...
+
+NGK DCPR7E
+NGK DCPR7EIX
+
+luz 0,8 mm - verificar con manual
+
+Averiguar bien, aca hay lista de alternativas
+
+http://www.harley-performance.com/harley-spark-plug.html
+
+http://www.nightrider.com/biketech/hdsparkplugs01.htm
+
+## Bateria
+
+Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años…
+
+La que lleva de Yuasa es YTX14L-BS (la YTX14-BS tiene los bornes al revés, se puede poner orientando los bornes hacia atrás y alargando los cables) 
+
+Buscando en ML : YTX14L salen varios modelos teóricamente compatibles
+
+Esta trae bornes que sirven, la puse en 883 y 1200 con buen resultado: 
+
+SLA Max BTX14HL - va perfecto, testeada agosto 2019, mejor que la Motobatt
+
+Motobatt Gel MBTX12U - Gaona Motos - AR$ 1200 (mayo2015), RPM1240 también la tiene
+Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt)
+A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas
+
+VER TAMBIEN BATERIAS DE LITIO COMPATIBLES, son carisimas
+Sirve la WEX6L21-MF
+http://www.wstandardusa.com/index.php/battery/wex6l21-mf-1.html
+
+Ideas: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD
+
+## Luces
+
+Se consiguen todas, son comunes, H4 la delantera, las otras llevar la muestra.
+
+Delantera **H4
+
+Trasera Osram P27-7W 12V **3157**
+
+Giros ? Delanteras son doble filamento en mis motos, en las versiones latinas filamento simple.
+
+## Discos de embrague
+
+Info vieja, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa 
+
+se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/index.php
+
+http://www.suberplastic.com.ar/
+
+## Juntas de motor
+
+**Cometic** son MUY superiores a las originales de Harley
+
+EFI 1200 (NO son las mismas que para la 883)
+Rocker Box Rebuild Gasket Kit
+Cometic Gasket kit 0934-1236 
+tambien pueder tener el codigo C9195 en el catalogo
+
+YA LAS PUSE, PARECE QUE ANDAN MUY BIEN! >> diez años sin perder aceite a 2019, mucho mejores que las originales que perdían aceite de 0km, Cometic lo mejor, nunca más juntas HD
+
+883 Carburador
+para la 883 es C9954 la parte de arriba sola, idem el kit que pedi para la 1200
+mirar el catalogo de Cometic que hay para todo el motor, primaria, etc kits completos
+
+## Rayos de la rueda
+
+Rayos 33
+http://www.chiuchich.com.ar/espanol/espanol.htm
+
+## Correa de transmision
+
+Fábricas de correas en Argentina ? no reemplace ninguna todavia
+
+http://www.ges.com.ar/
+
+http://www.alestel.com.ar/
+
+http://www.correasrincon.com.ar/
+
+## PINTURA
+
+Aca compré pintura de retoque para White Gold Pearl
+
+PINTURERIAS VICTORICA  
+Pinturería
+Dirección: Av. Victorica 951, B1744BWJ Gran Buenos Aires, Buenos Aires
+Teléfono:0237 462-2242
+
+## Carburador 883
+
+No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
+
+## Inyección 1200
+
+Parece que comparte algunas piezas con automotriz, fijarse bien si es Delphi o magneti marelli el sistema
+
+Ver si hay filtro de nafta alternativo que le sirva a la bomba
+
+## Otros
+
+puños, pedales, respaldos, etc, se fabrican personalizados.....
 
 ## Proximamente mas información
 
