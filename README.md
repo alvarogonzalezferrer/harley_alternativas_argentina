@@ -48,9 +48,51 @@ Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como pr
 
 **AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
 
+## Filtros de aceite
+
+Características
+
+Altura : 86 mm -- esto puede variar algunos filtros son mas largos o mas cortos
+
+Ø exterior : 75 mm
+
+Rosca : 3/4"-16
+
+**Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. 
+
+**HIFlo HF170C** es cromado y específico para Harley, se consigue en Mercado Libre barato. 
+
+**PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; *investigar que modelo le sirve..*
+
+**FRAM** lista un filtro especifico para Harley Sportster en su sitio web, pero parece que no lo venden en Argentina, es para mercado USA : 
+* PH6065B - cromado, valvula alivio a 7-9 PSI
+* PH6022 - negro, valvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
+
+**OJO NO USAR FILTROS DE AUTO POR QUE PUEDEN RESTRINGIR EL FLUJO CON SU VALVULA DE RETORNO Y MATAR EL MOTOR**, prestar atencion a los PSI de la valvula de alivio/bypass, y las dimensiones del filtro!….
+
+Otras opciones de emergencia : 
+**Fram PH3614**, el del Neon, Stratus, PSI 12 : 
+http://www.framcatalog.com/PartDetail.aspx?b=F&pn=PH3614
+
+El filtro tiene que tener Rosca central de 3 / 4 de pulgada por 16 hilos. Y pocos PSI de retorno de valvula NO MAS de 12 PSI. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
+
+Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
+* Fram PH4967
+* Purolator PL14476
+* Mobil1 M1-102
+* Bosch 3330
+* Hastings LF410
+* WIX 51394
+
+Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
+
+Con respecto a la pinta: si es cromado, hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
+
 ## Cambios de aceite
 
 Variantes sugeridas para el cambio de aceite
+
+Se hace cada 8000 km motor y filtro, cada 16000 km primaria. Ver manual para mas info.
 
 ### Economico
 
@@ -70,6 +112,9 @@ Variantes sugeridas para el cambio de aceite
 * Filtro Mahle o HiFlo
 * Motor : Valvoline Moto 20w50
 * Primaria : Motul 3000 20w50
+
+
+
 
 ## Proximamente mas información
 
