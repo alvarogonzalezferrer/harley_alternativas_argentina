@@ -19,17 +19,15 @@ Dunlop se consiguen también.
 
 ### Medidas:
 
-trasera 
+Trasera | Delantera | Modelo
+------------ | -------------  | ---
+150 80 16 | 90 90 21 | XL 1200 C
+150 80 16 | 100 90 19 | XL 883 
 
-  150 80 16
 
-delanteras
-
-  90 90 21 { 1200 custom }
-
-  100 90 19 { 883 }
 
 Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la Fate Gaucha, o la Pirelli, son baratas y tienen diente de perro (son agrícolas).
 
+# Aceite
 
 Saludos y buenas rutas!
