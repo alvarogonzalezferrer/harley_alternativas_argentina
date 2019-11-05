@@ -24,39 +24,62 @@ Trasera | Delantera | Modelo
 150 80 16 | 90 90 21 | XL 1200 C
 150 80 16 | 100 90 19 | XL 883 
 
-
-
 Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la Fate Gaucha, o la Pirelli, son baratas y tienen diente de perro (son agrícolas).
 
-# Aceite
+# Aceite de motor
 
 Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
+
+Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL.
 
 ## Recomendaciones de fabricantes
 
 Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas) ver https://www.harley-davidson.com/au/en/owners/parts-and-service/genuine-motor-oil.html
 
-**Bel-Ray** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo… 
+**Valvoline Moto 20w50** 
 
-**Motorex** recomienda **Legend 20w50** tanto para motor como primaria. A vece se consigue.
+**Bel-Ray V-twin 20W50 (preferido)** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo… 
+
+**Motorex** recomienda **Legend 20w50** tanto para motor como primaria. A vece se consigue. https://www.motorex.com/en-us/sales-consulting/oil-finder/
 
 **Motul** recomienda **Motul 3000 20w50** para primaria y **7100 20w50** en motor.
+
+Da varias opciones mas, Motul 7100 10w40, 7100 20w50, y Motul 5100 10w40 segun el clima de trabajo.
+
+https://www.motul.com/es/es/lubricants
+
+El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético.  
 
 **Castrol** recomienda para Sportster, motor Y primaria (ambos se consiguen en Argentina, son sinteticos):
 * Castrol Power 1 Racing 4T 10W-50
 * Castrol Power 1 4T 20W-50
 
 **AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
+http://superoil.com/original/html/harley-davidson.htm
+
+https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synthetic-motorcycle-oil/?zo=537451
+
+En caso de usar aceite de auto, recomiendan 
+
+**Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor) 
+
+# PARA HARLEY NO USAR NUNCA ACEITE QUE SEAN PARA AUTOS NAFTEROS 
+## NI LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
+### Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA SERVICIO PESADO. 
+
+Otras ideas a investigar:
+
+* Penzzoil Alto rendimiento
+* Motul 3000 20w50
+* YAMALUBE 20W50 ?? No probado
 
 ## Filtros de aceite
 
 Características
 
-Altura : 86 mm -- esto puede variar algunos filtros son mas largos o mas cortos
-
-Ø exterior : 75 mm
-
-Rosca : 3/4"-16
+* Altura : 86 mm -- esto puede variar algunos filtros son mas largos o mas cortos
+* Ø exterior : 75 mm
+* Rosca : 3/4"-16
 
 **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. 
 
@@ -87,6 +110,56 @@ Otros alternativos que se publican en internet, y que pueden reemplazar el origi
 Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
 
 Con respecto a la pinta: si es cromado, hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
+
+## Aceite de primaria
+
+Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley, la moto explotara en una bola de fuego matando a todos los que lo rodean... en fin, no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...
+
+Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, dejando de lado el Formula+
+
+El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equivalente a uno de motor **20w50**.
+
+
+Un aceite 100% sintético 20W50 en primaria de primer nivel, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
+
+**Ver que el aceite sea para moto y cumpla la norma JASO MA**
+
+La etiqueta **JASO MA o MA2**, nos garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
+
+https://www.aceiteparamimotor.com/normativa-jaso-ma-ma1-ma2-para-motocicletas-c1200x38165
+
+Facil de conseguir en Argentina:
+
+**Bel-Ray Sport Trans** es 85W y es el mejor, pero no se consigue facil en Argentina
+
+El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster
+
+Motorex recomienda **Motorex Legend 20w50**, se consigue en ML (2019)
+
+Castrol recomienda: 
+**Castrol Power 1 Racing 4T 10W-50**
+**Castrol Power 1 4T 20W-50**
+    
+De auto:
+**Valvoline SynPower 75W-90 GL5** sirve y se consigue facil.
+
+No daña los metales amarillos. Que diga “slip differential”o similar para el embrague del diferencial 
+
+**Valvoline High Perf 80w90 GL5** también (mineral, más barato) 
+
+También sirve un **75w90** o similar, pero certificado para usar en primarias con embrague húmedo y **GL4**.
+
+Ipone fabrica un **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
+
+Mas informacion:
+
+GL5 Gear Oil - Is It Safe To Use In the Sporty? - ANSWERED - Harley Davidson Forums 
+
+https://www.hdforums.com/forum/sportster-models/804458-gl5-gear-oil-is-it-safe-to-use-in-the-sporty-answered.html
+
+
+
+
 
 ## Cambios de aceite
 
