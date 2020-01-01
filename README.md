@@ -125,19 +125,23 @@ Características
 **PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; *investigar que modelo le sirve..*
 
 **FRAM** lista un filtro especifico para Harley Sportster en su sitio web, pero parece que no lo venden en Argentina, es para mercado USA : 
-* PH6065B - cromado, valvula alivio a 7-9 PSI
+
+* PH6065B - cromado, valvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
+
+http://www.fram.com/parts-search/PH6065B
+
 * PH6022 - negro, valvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
+
+http://www.fram.com/parts-search/PH6022
 
 **OJO NO USAR FILTROS DE AUTO POR QUE PUEDEN RESTRINGIR EL FLUJO CON SU VALVULA DE RETORNO Y MATAR EL MOTOR**, prestar atencion a los PSI de la valvula de alivio/bypass, y las dimensiones del filtro!….
 
 Otras opciones de emergencia : 
-**Fram PH3614**, el del Neon, Stratus, PSI 12 : 
-http://www.framcatalog.com/PartDetail.aspx?b=F&pn=PH3614
-
+**Fram PH3614**, el del Neon, Stratus, PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
 El filtro tiene que tener Rosca central de 3 / 4 de pulgada por 16 hilos. Y pocos PSI de retorno de valvula NO MAS de 12 PSI. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
 
 Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
-* Fram PH4967
+* Fram PH3614 (es practicamente el mismo que el PH6022)
 * Purolator PL14476
 * Mobil1 M1-102
 * Bosch 3330
