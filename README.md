@@ -1,4 +1,5 @@
-# Harley Davidson Sportster 
+# Harley Davidson Sportster
+
 ## Alternativas de repuestos en Argentina
 
 Lista de repuestos alternativos para Harley Davidson Sportster que se consiguen en Argentina
@@ -9,7 +10,7 @@ Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos a
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
-**Documento Actualizado** 31-Dic-2019 , 83,000 km recorridos sin problemas.
+**Documento Actualizado** 01-Enero-2020 , 83000 km recorridos sin problemas.
 
 ## ATENCIÓN
 
@@ -21,7 +22,7 @@ EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS DE AUTOR SERÁN RESPO
 
 **SOLO SE PERMITE EL USO NO COMERCIAL DE ESTA INFORMACIÓN.**
 
-## Cubiertas
+# Cubiertas
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
 
@@ -29,7 +30,7 @@ Dunlop se consiguen también.
 
 Ídem Michelin y Pirelli. 
 
-### Medidas:
+## Medidas:
 
 Trasera | Delantera | Modelo
 ------------ | -------------  | ---
@@ -44,13 +45,13 @@ Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es 
 
 Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL (ver boletin informativo oficial mas abajo).
 
-
-
 ## Recomendaciones de fabricantes
 
 Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas) ver https://www.harley-davidson.com/au/en/owners/parts-and-service/genuine-motor-oil.html
 
-Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - sae 20w50 ; AMBOS dice que sirven para motor Y primaria.
+Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - SAE 20w50. 
+
+El **Formula+** mineral esta siendo discontinuado en USA, era el aceite que se usaba en primaria.
 
 El boletín de servicio de Harley especifica:
 
@@ -153,15 +154,13 @@ Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si u
 
 Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, dejando de lado el antiguo Formula+
 
-Harley-Davidson (2019) recomienta, en mineral, el **H-D 360 20w50** para la primaria también.
-
-El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equivalente a uno de motor **20w50**.
+El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equivalente a uno de motor **20w50**. Aparentemente Harley lo esta discontinuando en 2020, sugiriendo que se use el SYN3.
 
 Un aceite 100% sintético 20W50 en primaria de primer nivel, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
 
 **Ver que el aceite sea para moto y cumpla la norma JASO MA**
 
-La etiqueta **JASO MA o MA2**, nos garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
+La etiqueta **JASO MA o MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
 
 https://www.aceiteparamimotor.com/normativa-jaso-ma-ma1-ma2-para-motocicletas-c1200x38165
 
@@ -169,7 +168,7 @@ Facil de conseguir en Argentina:
 
 **Bel-Ray Sport Trans** es 85W y es el mejor, pero no se consigue facil en Argentina
 
-El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster
+El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster.
 
 Motorex recomienda **Motorex Legend 20w50**, se consigue en ML (2019)
 
@@ -201,7 +200,9 @@ Variantes sugeridas para el cambio de aceite
 El motor lleva 3 US quarts, que son 2.83 litros.
 La primaria lleva 1 US quart, que es 0,946 litros.
 
-Se hace cada 8000 km motor y filtro, cada 16000 km la primaria. 
+Se hace un cambio cada 8000 km motor y filtro, cada 16000 km la primaria. 
+
+Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez al año.
 
 **Ver manual para mas info.**
 
@@ -209,7 +210,7 @@ Se hace cada 8000 km motor y filtro, cada 16000 km la primaria.
 * Ver https://www.harley-davidson.com/store/4-qt-h-d-360-motorcycle-oil-change-kit-chrome-filter
 * Filtro : Harley original, viene negro y cromado 
 * Motor : H-D 360 motorcycle oil
-* Primaria : H-D 360 motorcycle oil
+* Primaria : Formula+ (lo estan discontinuando en 2020, ver si se consigue, sino poner SYN3?)
 * Total aproximado : 55 USD
 
 ### Oficial sintetico
@@ -238,7 +239,13 @@ Se hace cada 8000 km motor y filtro, cada 16000 km la primaria.
 * Motor : Valvoline Moto 20w50
 * Primaria : Motul 3000 20w50
 
-## Aceite Horquilla
+# Filtro de aire
+
+El filtro de aire original es **lavable**. 
+
+Ver el manual del propietario. Se lava segun el procedimiento del manual, y se vuelve a poner.
+
+# Aceite Horquilla
 
 Se consigue el **Motul Fork Oil 20W** que es el que recomienda Motul para Harley
 
@@ -246,21 +253,24 @@ Se consigue el **Motul Fork Oil 20W** que es el que recomienda Motul para Harley
 
 Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
-## Frenos
+# Frenos
 
-### Pastillas
+## Pastillas
 
 **EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes 
+
+Website: https://ebcbrakes.com/
 
 las que sirven para la 883 y la 1200 son
 **P/N FA387HH , FA381HH**
 
-### Discos
+## Discos
 
-Necesito investigar mas.. hay reemplazos pero importados.
+Necesito investigar mas... hay reemplazos pero importados.
+
 Los discos se pueden rectificar si estan rayados.
 
-### Liquido de frenos
+## Liquido de frenos
 
 Algunos años llevan DOT 5 (pre 2007 creo) y otros DOT 4.
 
@@ -274,7 +284,7 @@ Para DOT 5, esta complicado, Bel Ray tiene liquido DOT 5; todavia no consegui un
 
 Notas sobre DOT 5: El DOT 5 es un fluido no higroscópico compuesto de silicona (polidemil siloxanos). No se puede utilizar en vehículos cuyo líquido de frenos tenga una base sintética. Absorbe gran cantidad de aire (tres veces más que los de tipo DOT 3 y DOT 4), sobre todo en alturas elevadas. Esto dificulta el proceso de purga, ya que el aire atrapado se expande al aumentar la temperatura. No se debe mezclar con ningún otro tipo de líquido de frenos. Su punto de ebullición es de 260ºC.
 
-## Bujias
+# Bujias
 
 **Champion RA8HC** -- las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso...
 
@@ -292,20 +302,22 @@ http://www.harley-performance.com/harley-spark-plug.html
 
 http://www.nightrider.com/biketech/hdsparkplugs01.htm
 
-## Bateria
+# Bateria
 
 Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años…
 
-La que lleva de Yuasa es YTX14L-BS (la YTX14-BS tiene los bornes al revés, se puede poner orientando los bornes hacia atrás y alargando los cables) 
+La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al revés, se puede poner orientando los bornes hacia atrás y alargando los cables) 
 
-Buscando en ML : YTX14L salen varios modelos teóricamente compatibles
+Buscando en ML : **YTX14L** salen varios modelos teóricamente compatibles
 
 Esta trae bornes que sirven, la puse en 883 y 1200 con buen resultado: 
 
 SLA Max BTX14HL - va perfecto, testeada agosto 2019, mejor que la Motobatt
 
-Motobatt Gel MBTX12U - Gaona Motos - AR$ 1200 (mayo2015), RPM1240 también la tiene
+Motobatt Gel MBTX12U - Gaona Motos, RPM1240 también la tiene
+
 Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt)
+
 A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas
 
 VER TAMBIEN BATERIAS DE LITIO COMPATIBLES, son carisimas
@@ -314,7 +326,7 @@ http://www.wstandardusa.com/index.php/battery/wex6l21-mf-1.html
 
 Ideas: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD
 
-## Luces
+# Luces
 
 Se consiguen todas, son comunes, H4 la delantera, las otras llevar la muestra.
 
@@ -324,7 +336,7 @@ Trasera Osram P27-7W 12V **3157**
 
 Giros ? Delanteras son doble filamento en mis motos, en las versiones latinas filamento simple.
 
-## Discos de embrague
+# Discos de embrague
 
 Info vieja, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa 
 
@@ -332,27 +344,20 @@ se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/
 
 http://www.suberplastic.com.ar/
 
-## Juntas de motor
+# Juntas de motor
 
 **Cometic** son MUY superiores a las originales de Harley
 
-EFI 1200 (NO son las mismas que para la 883)
-Rocker Box Rebuild Gasket Kit
-Cometic Gasket kit 0934-1236 
-tambien pueder tener el codigo C9195 en el catalogo
+Su website : https://www.cometic.com/
 
-YA LAS PUSE, PARECE QUE ANDAN MUY BIEN! >> diez años sin perder aceite a 2019, mucho mejores que las originales que perdían aceite de 0km, Cometic lo mejor, nunca más juntas HD
+Mirar el catalogo de Cometic que hay para todo el motor, primaria, etc kits completos
 
-883 Carburador
-para la 883 es C9954 la parte de arriba sola, idem el kit que pedi para la 1200
-mirar el catalogo de Cometic que hay para todo el motor, primaria, etc kits completos
-
-## Rayos de la rueda
+# Rayos de la rueda
 
 Rayos 33
 http://www.chiuchich.com.ar/espanol/espanol.htm
 
-## Correa de transmision
+# Correa de transmision
 
 Fábricas de correas en Argentina ? no reemplace ninguna todavia
 
@@ -362,29 +367,29 @@ http://www.alestel.com.ar/
 
 http://www.correasrincon.com.ar/
 
-## PINTURA
+# PINTURA
 
-Aca compré pintura de retoque para White Gold Pearl
+Aca compré pintura :
 
 PINTURERIAS VICTORICA  
 Pinturería
 Dirección: Av. Victorica 951, B1744BWJ Gran Buenos Aires, Buenos Aires
 Teléfono:0237 462-2242
 
-## Carburador 883
+# Carburador (mi 883)
 
 No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
 
-## Inyección 1200
+# Inyección (mi 1200)
 
 Parece que comparte algunas piezas con automotriz, fijarse bien si es Delphi o magneti marelli el sistema
 
 Ver si hay filtro de nafta alternativo que le sirva a la bomba
 
-## Otros
+# Otros
 
-puños, pedales, respaldos, etc, se fabrican personalizados.....
+puños, pedales, respaldos, etc, se fabrican personalizados... o se compran por eBay, Amazon, etc.
 
-## Proximamente mas información
+# Proximamente mas información
 
 Saludos y buenas rutas!
