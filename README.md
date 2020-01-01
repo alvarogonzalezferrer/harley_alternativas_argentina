@@ -9,6 +9,8 @@ Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos a
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
+**Documento Actualizado** 31-Dic-2019 , 83,000 km recorridos sin problemas.
+
 ## ATENCIÓN
 
 Modelos más nuevos **TIENEN DIFERENCIAS** en algunas cosas, especialmente eléctricamente. Esta información es orientativa solamente!
@@ -40,11 +42,35 @@ Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la F
 
 Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
 
-Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL.
+Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL (ver boletin informativo oficial mas abajo).
+
+
 
 ## Recomendaciones de fabricantes
 
 Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas) ver https://www.harley-davidson.com/au/en/owners/parts-and-service/genuine-motor-oil.html
+
+Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - sae 20w50 ; AMBOS dice que sirven para motor Y primaria.
+
+El boletín de servicio de Harley especifica:
+
+Las motocicletas se envían de fábrica con LUBRICANTE SINTÉTICO COMPLETO SCREAMIN 'EAGLE SYN3 20W50. 
+
+Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor. 
+
+Aunque H-D 360 es compatible con SYN3, sugerimos cambiar la mezcla de fluidos lo antes posible.
+
+Para cambiar el lubricante a H-D 360, drene completamente el SYN3 antes de llenarlo con H-D 360. Quedará una cantidad residual de líquido. No es necesario eliminar el fluido residual.
+
+Si SYN3 o H-D 360 no está disponible, la tercera opción sería agregar un aceite de motor diesel aceptable. Sugerimos nuevamente cambiar la mezcla de fluidos lo antes posible. NO agregue aceite de motor diesel a la cadena primaria o la transmisión.
+
+Las designaciones de aceite de motor diesel aceptables incluyen: SH, CH-4, CI-4 y CJ-4. Las viscosidades preferidas para los aceites de motor diesel en orden descendente son: 20W50, 15W40 y 10W40.
+
+En la primera oportunidad, consulte a un distribuidor autorizado para volver a cambiar al 100% de aceite Harley-Davidson.
+
+No cambie las marcas de lubricantes indiscriminadamente porque algunos lubricantes interactúan químicamente cuando se mezclan. El uso de lubricantes inferiores puede dañar el motor. (00184a)
+
+## Otras marcas:
 
 **Valvoline Moto 20w50** 
 
@@ -125,10 +151,11 @@ Con respecto a la pinta: si es cromado, hay algunos de estos que vienen cromados
 
 Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley, la moto explotara en una bola de fuego matando a todos los que lo rodean... en fin, no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...
 
-Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, dejando de lado el Formula+
+Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, dejando de lado el antiguo Formula+
+
+Harley-Davidson (2019) recomienta, en mineral, el **H-D 360 20w50** para la primaria también.
 
 El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equivalente a uno de motor **20w50**.
-
 
 Un aceite 100% sintético 20W50 en primaria de primer nivel, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
 
@@ -167,20 +194,35 @@ GL5 Gear Oil - Is It Safe To Use In the Sporty? - ANSWERED - Harley Davidson For
 
 https://www.hdforums.com/forum/sportster-models/804458-gl5-gear-oil-is-it-safe-to-use-in-the-sporty-answered.html
 
-
-
-
-
 ## Cambios de aceite
 
 Variantes sugeridas para el cambio de aceite
 
-Se hace cada 8000 km motor y filtro, cada 16000 km primaria. Ver manual para mas info.
+El motor lleva 3 US quarts, que son 2.83 litros.
+La primaria lleva 1 US quart, que es 0,946 litros.
+
+Se hace cada 8000 km motor y filtro, cada 16000 km la primaria. 
+
+**Ver manual para mas info.**
+
+### Oficial mineral
+* Ver https://www.harley-davidson.com/store/4-qt-h-d-360-motorcycle-oil-change-kit-chrome-filter
+* Filtro : Harley original, viene negro y cromado 
+* Motor : H-D 360 motorcycle oil
+* Primaria : H-D 360 motorcycle oil
+* Total aproximado : 55 USD
+
+### Oficial sintetico
+* Ver https://www.harley-davidson.com/store/4-qt-syn3-full-synthetic-motorcycle-lubricant-oil-change-kit-chrome-filter
+* Filtro : Harley original, viene negro y cromado 
+* Motor : H-D SYN3 motorcycle oil
+* Primaria : H-D SYN3 motorcycle oil
+* Total aproximado : 80 USD
 
 ### Economico
 
 * Filtro : FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), o HiFlo HF170C cromado (15 USD)
-* Motor : Castrol Viscus 25w60 DIESEL 4 litros, 20 USD
+* Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
 * Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
 
