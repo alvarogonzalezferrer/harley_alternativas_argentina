@@ -83,6 +83,10 @@ El boletín de servicio de Harley especifica:
 
 Da varias opciones mas, Motul 7100 10w40, 7100 20w50, y Motul 5100 10w40 segun el clima de trabajo.
 
+Uno bueno semi sintetico que se consigue en Argentina: Aceite **Motul 5100 4t 15w50**
+
+En sintetico se consigue **Motul 7100 10w60**, ideal para el verano
+
 https://www.motul.com/es/es/lubricants
 
 El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético.  
@@ -226,7 +230,7 @@ Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez a
 
 ### Economico
 
-* Filtro : FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), o HiFlo HF170C cromado (15 USD)
+* Filtro : FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170 (10 USD) o HiFlo HF170C cromado (15 USD)
 * Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
 * Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
@@ -234,7 +238,7 @@ Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez a
 ### Sintetico
 
 * Filtro Mahle o HiFlo
-* Motor : Castrol Power 1 4T 20w50
+* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 10w60 (verano)
 * Primaria : Castrol Power 1 4T 20w50
 
 ### Mineral
