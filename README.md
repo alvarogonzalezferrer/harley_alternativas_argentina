@@ -55,21 +55,21 @@ El **Formula+** mineral esta siendo discontinuado en USA, era el aceite que se u
 
 El boletín de servicio de Harley especifica:
 
-Las motocicletas se envían de fábrica con LUBRICANTE SINTÉTICO COMPLETO SCREAMIN 'EAGLE SYN3 20W50. 
-
-Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor. 
-
-Aunque H-D 360 es compatible con SYN3, sugerimos cambiar la mezcla de fluidos lo antes posible.
-
-Para cambiar el lubricante a H-D 360, drene completamente el SYN3 antes de llenarlo con H-D 360. Quedará una cantidad residual de líquido. No es necesario eliminar el fluido residual.
-
-Si SYN3 o H-D 360 no está disponible, la tercera opción sería agregar un aceite de motor diesel aceptable. Sugerimos nuevamente cambiar la mezcla de fluidos lo antes posible. NO agregue aceite de motor diesel a la cadena primaria o la transmisión.
-
-Las designaciones de aceite de motor diesel aceptables incluyen: SH, CH-4, CI-4 y CJ-4. Las viscosidades preferidas para los aceites de motor diesel en orden descendente son: 20W50, 15W40 y 10W40.
-
-En la primera oportunidad, consulte a un distribuidor autorizado para volver a cambiar al 100% de aceite Harley-Davidson.
-
-No cambie las marcas de lubricantes indiscriminadamente porque algunos lubricantes interactúan químicamente cuando se mezclan. El uso de lubricantes inferiores puede dañar el motor. (00184a)
+> Las motocicletas se envían de fábrica con LUBRICANTE SINTÉTICO COMPLETO SCREAMIN 'EAGLE SYN3 20W50. 
+> 
+>  Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor. 
+> 
+> Aunque H-D 360 es compatible con SYN3, sugerimos cambiar la mezcla de fluidos lo antes posible.
+> 
+> Para cambiar el lubricante a H-D 360, drene completamente el SYN3 antes de llenarlo con H-D 360. Quedará una cantidad residual de líquido. No es necesario eliminar el fluido residual.
+> 
+> Si SYN3 o H-D 360 no está disponible, la tercera opción sería agregar un aceite de motor diesel aceptable. Sugerimos nuevamente cambiar la mezcla de fluidos lo antes posible. NO agregue aceite de motor diesel a la cadena primaria o la transmisión.
+> 
+> Las designaciones de aceite de motor diesel aceptables incluyen: SH, CH-4, CI-4 y CJ-4. Las viscosidades preferidas para los aceites de motor diesel en orden descendente son: 20W50, 15W40 y 10W40.
+> 
+> En la primera oportunidad, consulte a un distribuidor autorizado para volver a cambiar al 100% de aceite Harley-Davidson.
+> 
+> No cambie las marcas de lubricantes indiscriminadamente porque algunos lubricantes interactúan químicamente cuando se mezclan. El uso de lubricantes inferiores puede dañar el motor. (00184a)
 
 ## Otras marcas:
 
@@ -369,12 +369,15 @@ http://www.correasrincon.com.ar/
 
 # PINTURA
 
-Aca compré pintura :
+Tienen pintura de retoque en los colores de Harley:
 
-PINTURERIAS VICTORICA  
-Pinturería
-Dirección: Av. Victorica 951, B1744BWJ Gran Buenos Aires, Buenos Aires
-Teléfono:0237 462-2242
+> PINTURERIAS VICTORICA  
+> 
+> Pinturería
+> 
+> Dirección: Av. Victorica 951, B1744BWJ Gran Buenos Aires, Buenos Aires
+> 
+> Teléfono:0237 462-2242
 
 # Carburador (mi 883)
 
@@ -389,6 +392,20 @@ Ver si hay filtro de nafta alternativo que le sirva a la bomba
 # Otros
 
 puños, pedales, respaldos, etc, se fabrican personalizados... o se compran por eBay, Amazon, etc.
+
+# Manuales
+
+El manual del propietario se puede bajar de:
+
+https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm
+
+Las hojas de servicio de piezas de:
+
+https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
+
+El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online escaneado:
+
+Aca hay algunos: https://www.carlsalter.com/harley-service-manuals.asp
 
 # Proximamente mas información
 
