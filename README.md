@@ -75,7 +75,7 @@ El boletín de servicio de Harley especifica:
 
 **Valvoline Moto 20w50** 
 
-**Bel-Ray V-twin 20W50 (preferido)** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo… 
+**Bel-Ray V-twin 20W50 (preferido)** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo: http://www.lubelray.com.ar/ 
 
 **Motorex** recomienda **Legend 20w50** tanto para motor como primaria. A vece se consigue. https://www.motorex.com/en-us/sales-consulting/oil-finder/
 
@@ -94,13 +94,27 @@ El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético.
 **Castrol** recomienda para Sportster, motor Y primaria (ambos se consiguen en Argentina, son sinteticos):
 * Castrol Power 1 Racing 4T 10W-50
 * Castrol Power 1 4T 20W-50
+* Castrol Actevo 20W50
+* Castrol Power 1 V-Twin 4T 20W-50
+
+**Silkolene** recomienda (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
+
+https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
+
+**Ipone M4 Mineral 20w50** : http://www.ipone.com.ar/
+
+Ipone tambien vende uno formulado para Vtwin, para motor y primaria **IPone ROAD TWIN 4T 15W50** - semi sintetico
+
+**Mannol Sintetico 20w50** : http://www.mannol.com.ar/
 
 **AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
 http://superoil.com/original/html/harley-davidson.htm
 
 https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synthetic-motorcycle-oil/?zo=537451
 
-En caso de usar aceite de auto, recomiendan 
+Los españoles recomiendan **Gulf 20w50**, mineral
+
+En caso de usar aceite de **automovil**, recomiendan 
 
 **Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor) 
 
@@ -124,25 +138,26 @@ Características
 
 **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. 
 
-**HIFlo HF170C** es cromado y específico para Harley, se consigue en Mercado Libre barato. 
+**HIFlo HF170C** es cromado (o negro HF170B) y específico para Harley, se consigue en Mercado Libre barato. **Es mejor en calidad que el original de Harley**. http://www.hiflofiltro.com/catalogue/filter/hf170
+Tambien hay un modelo "high performance" con un elemento filtrante mejorado, el HF170RC, pero no lo vi en venta en Argentina. Ver http://www.hiflofiltro.com/catalogue/filter/HF170RC
 
 **PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; *investigar que modelo le sirve..*
 
 **FRAM** lista un filtro especifico para Harley Sportster en su sitio web, pero parece que no lo venden en Argentina, es para mercado USA : 
 
-* PH6065B - cromado, valvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
+* FRAM PH6065B - cromado, valvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
 
 http://www.fram.com/parts-search/PH6065B
 
-* PH6022 - negro, valvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
+* FRAM PH6022 - negro, valvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
 
 http://www.fram.com/parts-search/PH6022
 
-**OJO NO USAR FILTROS DE AUTO POR QUE PUEDEN RESTRINGIR EL FLUJO CON SU VALVULA DE RETORNO Y MATAR EL MOTOR**, prestar atencion a los PSI de la valvula de alivio/bypass, y las dimensiones del filtro!….
+**OJO NO USAR CUALQUIER FILTRO DE AUTO (ALGUNOS SIRVEN) POR QUE PUEDEN RESTRINGIR EL FLUJO CON SU VALVULA DE RETORNO Y MATAR EL MOTOR**, prestar atencion a los PSI de la valvula de alivio/bypass, y las dimensiones del filtro!….
 
 Otras opciones de emergencia : 
 **Fram PH3614**, el del Neon, Stratus, PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
-El filtro tiene que tener Rosca central de 3 / 4 de pulgada por 16 hilos. Y pocos PSI de retorno de valvula NO MAS de 12 PSI. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
+El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula NO MAS de 12 PSI. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
 
 Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
 * Fram PH3614 (es practicamente el mismo que el PH6022)
@@ -180,6 +195,10 @@ El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la prima
 
 Motorex recomienda **Motorex Legend 20w50**, se consigue en ML (2019)
 
+**Silkolene** recomienda (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
+
+https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
+
 Castrol recomienda: 
 **Castrol Power 1 Racing 4T 10W-50**
 **Castrol Power 1 4T 20W-50**
@@ -193,7 +212,9 @@ No daña los metales amarillos. Que diga “slip differential”o similar para e
 
 También sirve un **75w90** o similar, pero certificado para usar en primarias con embrague húmedo y **GL4**.
 
-Ipone fabrica un **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
+**Ipone**
+  Tiene **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
+  **IPone ROAD TWIN 4T 15W50** - semi sintetico
 
 Mas informacion:
 
