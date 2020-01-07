@@ -45,7 +45,11 @@ Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es 
 
 Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL (ver boletin informativo oficial mas abajo).
 
+Se puede usar aceite mineral, o sintetico (lo importante es NO MEZCLAR, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
+
 ## Recomendaciones de fabricantes
+
+## Harley aceites
 
 Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas) ver https://www.harley-davidson.com/au/en/owners/parts-and-service/genuine-motor-oil.html
 
@@ -75,7 +79,15 @@ El boletín de servicio de Harley especifica:
 
 **Valvoline Moto 20w50** 
 
+**Valvoline Durablend 4t 20w50 X1lt - Semisintetico**  -- motor
+
+Bel-Ray recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
+
 **Bel-Ray V-twin 20W50 (preferido)** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo: http://www.lubelray.com.ar/ 
+
+**Bel-Ray V-Twin Synthetic Motor Oil 10W-50** (ver abajo, es full sintetico, similar al Harley SYN3)
+
+**Bel-Ray Full Synthetic Ester** es el recomendado, se consigue de marca IPone sintetico con formula similar en Argentina. 
 
 **Motorex** recomienda **Legend 20w50** tanto para motor como primaria. A vece se consigue. https://www.motorex.com/en-us/sales-consulting/oil-finder/
 
@@ -85,25 +97,29 @@ Da varias opciones mas, Motul 7100 10w40, 7100 20w50, y Motul 5100 10w40 segun e
 
 Uno bueno semi sintetico que se consigue en Argentina: Aceite **Motul 5100 4t 15w50**
 
-En sintetico se consigue **Motul 7100 10w60**, ideal para el verano
+En sintetico se consigue **Motul 7100 10w60**, ideal para el verano (nota: investigarlo mas)
 
 https://www.motul.com/es/es/lubricants
 
 El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético.  
 
-**Castrol** recomienda para Sportster, motor Y primaria (ambos se consiguen en Argentina, son sinteticos):
+**Castrol** recomienda para Sportster, motor Y primaria:
 * Castrol Power 1 Racing 4T 10W-50
 * Castrol Power 1 4T 20W-50
 * Castrol Actevo 20W50
 * Castrol Power 1 V-Twin 4T 20W-50
 
-**Silkolene** recomienda (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
+**Silkolene** recomienda (motor y caja) Silkolene V-Twin 20w50, existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
 
 https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 
-**Ipone M4 Mineral 20w50** : http://www.ipone.com.ar/
+**Ipone** tambien vende uno formulado para Vtwin, para motor y primaria 
 
-Ipone tambien vende uno formulado para Vtwin, para motor y primaria **IPone ROAD TWIN 4T 15W50** - semi sintetico
+**IPone ROAD TWIN 4T 15W50** - semi sintetico
+
+Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone
+
+http://www.ipone.com.ar/
 
 **Mannol Sintetico 20w50** : http://www.mannol.com.ar/
 
@@ -122,11 +138,6 @@ En caso de usar aceite de **automovil**, recomiendan
 ## NI LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
 ### Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA SERVICIO PESADO. 
 
-Otras ideas a investigar:
-
-* Penzzoil Alto rendimiento
-* Motul 3000 20w50
-* YAMALUBE 20W50 ?? No probado
 
 ## Filtros de aceite
 
@@ -171,15 +182,17 @@ Tu repuestero amigo te va a saber recomendar alguno con las mismas característi
 
 Con respecto a la pinta: si es cromado, hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
 
-## Aceite de primaria
+# Aceite de primaria
 
-Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley, la moto explotara en una bola de fuego matando a todos los que lo rodean... en fin, no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...
+Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley, la moto explotara en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
 
 Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, dejando de lado el antiguo Formula+
 
-El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equivalente a uno de motor **20w50**. Aparentemente Harley lo esta discontinuando en 2020, sugiriendo que se use el SYN3.
+El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equivalente a uno de motor **20w50**. 
 
-Un aceite 100% sintético 20W50 en primaria de primer nivel, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
+*Nota: Aparentemente Harley lo esta discontinuando en 2020 al Formula+, sugiriendo que se use el SYN3.*
+
+Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
 
 **Ver que el aceite sea para moto y cumpla la norma JASO MA**
 
@@ -189,7 +202,7 @@ https://www.aceiteparamimotor.com/normativa-jaso-ma-ma1-ma2-para-motocicletas-c1
 
 Facil de conseguir en Argentina:
 
-**Bel-Ray Sport Trans** es 85W y es el mejor, pero no se consigue facil en Argentina
+**Bel-Ray Sport Trans** es 85W y es el preferido, pero no se consigue facil en Argentina
 
 El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster.
 
@@ -202,6 +215,11 @@ https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 Castrol recomienda: 
 **Castrol Power 1 Racing 4T 10W-50**
 **Castrol Power 1 4T 20W-50**
+
+Mobil 1 recomienda  para primaria (nunca los consegui en Argentina)
+
+* Mobil 1 Racing™ 4T 10W-40, but it is also okay to use Mobil 1™ V-Twin 20W-50. 
+* Mobil 1 75w90 gear oil
     
 De auto:
 **Valvoline SynPower 75W-90 GL5** sirve y se consigue facil.
@@ -216,11 +234,25 @@ También sirve un **75w90** o similar, pero certificado para usar en primarias c
   Tiene **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
   **IPone ROAD TWIN 4T 15W50** - semi sintetico
 
-Mas informacion:
+*Mas informacion:*
 
 GL5 Gear Oil - Is It Safe To Use In the Sporty? - ANSWERED - Harley Davidson Forums 
 
 https://www.hdforums.com/forum/sportster-models/804458-gl5-gear-oil-is-it-safe-to-use-in-the-sporty-answered.html
+
+Red Line - no se consigue en Argentina pero dio informacion valiosa 
+
+https://www.redlineoil.com/find-products-for-my-vehicle
+https://www.redlineoil.com/20w50-motorcycle-oil - motor
+https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
+
+> Thank you for contacting Red Line Oil, in the shared Sportster primary/transmission the 75W90 is recommended, a product that has been used extensively and performs well.
+>
+> The 75W90 is the product we have have used for a number of years with very good results in Sportster/Buell transmissions, matching the viscosity and type fluid called for.
+> The 80W Motorcycle Gear Oil is a lower viscosity than called for, the ShockProof gear oils can due to their unique characteristics could cause sticking of the Harley clutches.
+> The 75W90 would be preferred and recommended over 80W Motorcycle Gear Oil in these applications.
+>
+>There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings. 
 
 ## Cambios de aceite
 
@@ -251,7 +283,7 @@ Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez a
 
 ### Economico
 
-* Filtro : FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170 (10 USD) o HiFlo HF170C cromado (15 USD)
+* Filtro : FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
 * Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
 * Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
@@ -286,11 +318,11 @@ Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
 ## Pastillas
 
-**EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes 
+**EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes; en mi experiencia frenan mejor que las originales de Harley, sobre todo con lluvia.
 
 Website: https://ebcbrakes.com/
 
-las que sirven para la 883 y la 1200 son
+las que sirven para la 883 (2004) y la 1200 (2008) son (OJO EN MODELOS MAS NUEVOS, ESTOS **NO** SON LOS MODELOS DE PASTILLA, VER EL CATALOGO OFICIAL DE EBC SEGUN EL AÑO)
 **P/N FA387HH , FA381HH**
 
 ## Discos
@@ -309,7 +341,7 @@ Ojo que **DOT 5 NO es lo mismo que DOT 5.1**!  DOT 5 es siliconado, y los demas 
 
 Para DOT 4, Wagner Lockheed se fabrica en Argentina.
 
-Para DOT 5, esta complicado, Bel Ray tiene liquido DOT 5; todavia no consegui un lugar donde tengan siempre.
+Para DOT 5, esta complicado, Bel Ray tiene liquido DOT 5; **todavia no consegui un lugar en Argentina donde tengan siempre. Espero sugerencias.**
 
 Notas sobre DOT 5: El DOT 5 es un fluido no higroscópico compuesto de silicona (polidemil siloxanos). No se puede utilizar en vehículos cuyo líquido de frenos tenga una base sintética. Absorbe gran cantidad de aire (tres veces más que los de tipo DOT 3 y DOT 4), sobre todo en alturas elevadas. Esto dificulta el proceso de purga, ya que el aire atrapado se expande al aumentar la temperatura. No se debe mezclar con ningún otro tipo de líquido de frenos. Su punto de ebullición es de 260ºC.
 
