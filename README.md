@@ -10,7 +10,7 @@ Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos a
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
-**Documento Actualizado** 01-Enero-2020 , 83000 km recorridos sin problemas.
+**Documento Actualizado** 04-Febrero-2020 , 83500 km recorridos sin problemas.
 
 ## ATENCIÓN
 
@@ -256,12 +256,12 @@ https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
 
 ## Cambios de aceite
 
-Variantes sugeridas para el cambio de aceite
+Variantes sugeridas para el cambio de aceite. Hay combinaciones posibles, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades. 
 
-El motor lleva 3 US quarts, que son 2.83 litros.
-La primaria lleva 1 US quart, que es 0,946 litros.
+El motor lleva **3 US quarts**, que son **2.83 litros**.
+La primaria lleva **1 US quart**, que es **0,946 litros**.
 
-Se hace un cambio cada 8000 km motor y filtro, cada 16000 km la primaria. 
+Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**. 
 
 Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez al año.
 
@@ -283,28 +283,36 @@ Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez a
 
 ### Economico
 
-* Filtro : FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
+* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
 * Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
 * Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
 
 ### Sintetico
 
-* Filtro Mahle o HiFlo
+* Filtro: Mahle o HiFlo
 * Motor : Castrol Power 1 4T 20w50 ó Motul 7100 10w60 (verano)
 * Primaria : Castrol Power 1 4T 20w50
 
 ### Mineral
 
-* Filtro Mahle o HiFlo
+* Filtro: Mahle o HiFlo
 * Motor : Valvoline Moto 20w50
 * Primaria : Motul 3000 20w50
+
+### Favorito mio
+
+* Motor : Castrol Power 1 4T 15w50 (semi syn)
+* Primaria: Castrol Power 1 10w50 (full syn)
+* Filtro : HiFlo cromado HF170C
 
 # Filtro de aire
 
 El filtro de aire original es **lavable**. 
 
 Ver el manual del propietario. Se lava segun el procedimiento del manual, y se vuelve a poner.
+
+En caso de tener que cambiarlo, K&N tiene todos los reemplazos: https://www.knfiltros.com/
 
 # Aceite Horquilla
 
