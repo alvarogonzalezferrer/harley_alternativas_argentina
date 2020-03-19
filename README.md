@@ -73,7 +73,7 @@ Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar ac
 
 Se puede usar aceite mineral, o sintetico (lo importante es NO MEZCLAR, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
 
-Vida útil : un aceite almacenado, SELLADO en su envase original, puede durar hasta 5 años. Podemos tener aceites y filtros almacenados para sobrevivir epocas "populares" donde se prohibe la importación. 
+Vida útil : un aceite almacenado, SELLADO en su envase original, puede durar hasta 5 años. Podemos tener aceites y filtros almacenados para sobrevivir epocas "populares" donde se prohibe la importación.
 
 ## Recomendaciones de fabricantes
 
@@ -358,6 +358,8 @@ Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
 Website: https://ebcbrakes.com/
 
+Cartilla: https://ebcbrakes.com/brakes-selector-chart/
+
 las que sirven para la 883 (2004) y la 1200 (2008) son (OJO EN MODELOS MAS NUEVOS, ESTOS **NO** SON LOS MODELOS DE PASTILLA, VER EL CATALOGO OFICIAL DE EBC SEGUN EL AÑO)
 **P/N FA387HH , FA381HH**
 
@@ -405,6 +407,8 @@ Lo mejor es mantener la batería siempre con battery tender (cargador flotante, 
 
 La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al revés, se puede poner orientando los bornes hacia atrás y alargando los cables)
 
+**NOTA: MODELOS MAS NUEVOS LLEVAN OTRA BATERIA - FALTA INVESTIGAR MÁS**
+
 Buscando en ML : **YTX14L** salen varios modelos teóricamente compatibles
 
 Esta trae bornes que sirven, la puse en 883 y 1200 con buen resultado:
@@ -427,7 +431,12 @@ Ideas: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD
 
 Se consiguen todas, son comunes, H4 la delantera, las otras llevar la muestra.
 
-Delantera **H4
+**MODELOS MAS NUEVOS LLEVAN LUCES LED**
+
+Delantera **H4** - Puede ser reemplazada por una unidad LED más eficiente. Hay modelos Harley oficiales y también copias.
+
+Reemplazo para luz delantera en LED : Harley DayMaker : https://www.harley-davidson.com/store/daymaker-led-headlamp-pa-11-67700145--1
+El modelo es de 5-3/4" (5.75", 14,6 cm) de diametro, existen otras versiones en Amazon y Ebay mucho mas baratas y que cumplen la misma función.
 
 Trasera Osram P27-7W 12V **3157**
 
