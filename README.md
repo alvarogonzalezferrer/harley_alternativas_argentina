@@ -478,11 +478,12 @@ Mirar el catalogo de Cometic que hay para todo el motor, primaria, etc kits comp
 # Rayos de la rueda
 
 Rayos 33
-http://www.chiuchich.com.ar/espanol/espanol.htm
+
+https://www.facebook.com/RayosyNiples33/
 
 # Correa de transmision
 
-Fábricas de correas en Argentina ? no reemplace ninguna todavia
+Fábricas de correas en Argentina : no reemplace ninguna todavia, no se si hacen al por menor.
 
 http://www.ges.com.ar/
 
