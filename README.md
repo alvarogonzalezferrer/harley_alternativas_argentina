@@ -57,6 +57,8 @@ XL 2004+ y variantes | 150 80 16 / 3.00 x 16"
 2011+ XL883L | 150 60 17 / 4.50 x 17"
 2014 a 2017 XL1200T | 150 70 17 / 4.50 x 17"
 
+Metzeler tiene mejor grip, es mas blando el caucho, pero duran menos. Las prefiero sobre las Dunlop, que son mas duras y en lluvia no se agarran bien. Michelin no probé todavía...
+
 ### Tamaños máximos
 
 Estos son los tamaños máximos SIN modificar guardabarros stock, polea, etc.
@@ -389,9 +391,9 @@ Notas sobre DOT 5: El DOT 5 es un fluido no higroscópico compuesto de silicona 
 
 **NGK DCPR7E** -- van bien y se consiguen en Argentina, son las mismas que usa el Fiat 500 Sport motor 16v multiair y algunos Alfa Romeo
 
-NGK DCPR7EIX -- se consiguen en Argentina?
+**NGK DCPR8E-N** -- son brasileras y un poco mas frias que las 7E, se consiguen barato en Argentina, tambien las usan los Fiat
 
-NGK DCPR8E-N -- son brasileras y un poco mas frias que las 7E, se consiguen barato en Argentina, tambien las usan los Fiat
+NGK DCPR7EIX -- se consiguen en Argentina? Son japonesas. Intenté comprarlas en Mercado Garca, me cobraron una fortuna y me mandaron las comunes brasileras...
 
 luz 0,8 mm - verificar con manual
 
@@ -407,22 +409,28 @@ Lo mejor es mantener la batería siempre con battery tender (cargador flotante, 
 
 La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al revés, se puede poner orientando los bornes hacia atrás y alargando los cables)
 
-**NOTA: MODELOS MAS NUEVOS LLEVAN OTRA BATERIA - FALTA INVESTIGAR MÁS**
+Yuasa hace dos modelos que sirven: GYZ16HL (alta performance) / YTX14L-BS (comun)
 
-Buscando en ML : **YTX14L** salen varios modelos teóricamente compatibles
+https://www.yuasabatteries.com/battery/gyz16hl/
+
+https://www.yuasabatteries.com/battery/ytx14l-bs/
+
+Lamentablemente Yuasa Argentina **no** importa (2020) ninguna de las dos... son unos cabeza dura que no quieren importarla.
+
+Buscando en Mercado Libre : **YTX14L** salen varios modelos teóricamente compatibles
 
 Esta trae bornes que sirven, la puse en 883 y 1200 con buen resultado:
 
-SLA Max BTX14HL - va perfecto, testeada agosto 2019, mejor que la Motobatt
+**SLA Max BTX14HL** - va perfecto, testeada agosto 2019, mejor que la Motobatt
 
-Motobatt Gel MBTX12U - Gaona Motos, RPM1240 también la tiene
+**Motobatt Gel MBTX12U** - Gaona Motos, RPM1240 también la tiene
 
 Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt)
 
 A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas
 
 VER TAMBIEN BATERIAS DE LITIO COMPATIBLES, son carisimas
-Sirve la WEX6L21-MF
+Sirve la **WEX6L21-MF**
 http://www.wstandardusa.com/index.php/battery/wex6l21-mf-1.html
 
 Ideas: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD
