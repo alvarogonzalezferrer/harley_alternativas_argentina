@@ -10,7 +10,7 @@ Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos a
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
-**Documento Actualizado** 04-Febrero-2020 , 83500 km recorridos sin problemas.
+**Documento Actualizado** 28-Marzo-2020 , 83500 km recorridos sin problemas.
 
 ## ATENCIÓN
 
@@ -30,11 +30,13 @@ Dunlop se consiguen también.
 
 Ídem Michelin y Pirelli.
 
+Stock, Harley vendió motos con cubiertas Dunlop ó Michelin, en diferentes medidas según modelo y año.
+
+Metzeler tiene mejor grip, es mas blando el caucho, pero duran menos. Las prefiero sobre las Dunlop, que son mas duras y en lluvia no se agarran bien. Michelin no probé todavía...
+
 ## Medidas
 
 Harley proporciona una guia de tamaños de ruedas aqui : https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf
-
-Stock, Harley vendió motos con cubiertas Dunlop ó Michelin, en diferentes medidas según modelo y año.
 
 ### Delantera
 
@@ -48,6 +50,7 @@ XL883C / XL1200C / XL1200V | 90 90 21 - 2.15 x 21"
 +2016 XL1200CX | 120 70 19 / 3.00 x 19"
 
 ### Trasera
+
 Modelos | Medida
 --------|---------
 1981 a 2003 | 130 90 16 / 3.00 x 16"
@@ -57,17 +60,69 @@ XL 2004+ y variantes | 150 80 16 / 3.00 x 16"
 2011+ XL883L | 150 60 17 / 4.50 x 17"
 2014 a 2017 XL1200T | 150 70 17 / 4.50 x 17"
 
-Metzeler tiene mejor grip, es mas blando el caucho, pero duran menos. Las prefiero sobre las Dunlop, que son mas duras y en lluvia no se agarran bien. Michelin no probé todavía...
-
 ### Tamaños máximos
 
-Estos son los tamaños máximos SIN modificar guardabarros stock, polea, etc.
+Estos son los tamaños máximos de cubiertas SIN modificar guardabarros stock, polea, etc.
 
 (Ver archivo adjunto para la tabla) - **TODO sin hacer**
 
 Nota: Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la Fate Gaucha, o la Pirelli, son baratas y tienen diente de perro (son agrícolas).
 
+# Cambios de aceite
+
+Variantes sugeridas para el cambio de aceite. Hay combinaciones posibles, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
+
+El motor lleva **3 US quarts**, que son **2.83 litros**.
+La primaria lleva **1 US quart**, que es **0,946 litros**.
+
+Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
+
+Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez al año.
+
+**Ver manual para mas info.**
+
+### Oficial mineral
+* Ver https://www.harley-davidson.com/store/4-qt-h-d-360-motorcycle-oil-change-kit-chrome-filter
+* Filtro : Harley original, viene negro y cromado
+* Motor : H-D 360 motorcycle oil
+* Primaria : Formula+ (lo estan discontinuando en 2020, ver si se consigue, sino poner SYN3?)
+* Total aproximado : 55 USD
+
+### Oficial sintetico
+* Ver https://www.harley-davidson.com/store/4-qt-syn3-full-synthetic-motorcycle-lubricant-oil-change-kit-chrome-filter
+* Filtro : Harley original, viene negro y cromado
+* Motor : H-D SYN3 motorcycle oil
+* Primaria : H-D SYN3 motorcycle oil
+* Total aproximado : 80 USD
+
+### Economico
+
+* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
+* Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
+* Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
+* Total aproximado de servicio básico : 37 USD a 50 USD
+
+### Sintetico
+
+* Filtro: Mahle o HiFlo
+* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 10w60 (verano)
+* Primaria : Castrol Power 1 4T 20w50
+
+### Mineral
+
+* Filtro: Mahle o HiFlo
+* Motor : Valvoline Moto 20w50
+* Primaria : Motul 3000 20w50
+
+### Favorito mio
+
+* Motor : Castrol Power 1 4T 15w50 (semi syn)
+* Primaria: Castrol Power 1 10w50 (full syn)
+* Filtro : HiFlo cromado HF170C
+
 # Aceite de motor
+
+## Analisis largo
 
 Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
 
@@ -79,7 +134,7 @@ Vida útil : un aceite almacenado, SELLADO en su envase original, puede durar ha
 
 ## Recomendaciones de fabricantes
 
-## Harley aceites
+### Harley Davidson
 
 Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas) ver https://www.harley-davidson.com/au/en/owners/parts-and-service/genuine-motor-oil.html
 
@@ -105,7 +160,7 @@ El boletín de servicio de Harley especifica:
 >
 > No cambie las marcas de lubricantes indiscriminadamente porque algunos lubricantes interactúan químicamente cuando se mezclan. El uso de lubricantes inferiores puede dañar el motor. (00184a)
 
-## Otras marcas:
+### Otras marcas:
 
 **Valvoline Moto 20w50**
 
@@ -164,10 +219,10 @@ En caso de usar aceite de **automovil**, recomiendan
 
 **Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor)
 
+**Nota importante**
 # PARA HARLEY NO USAR NUNCA ACEITE QUE SEAN PARA AUTOS NAFTEROS
 ## NI LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
 ### Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA SERVICIO PESADO.
-
 
 ## Filtros de aceite
 
@@ -213,6 +268,8 @@ Tu repuestero amigo te va a saber recomendar alguno con las mismas característi
 Con respecto a la pinta: si es cromado, hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
 
 # Aceite de primaria
+
+## Analisis largo
 
 Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley, la moto explotara en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
 
@@ -284,58 +341,6 @@ https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
 >
 >There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings.
 
-## Cambios de aceite
-
-Variantes sugeridas para el cambio de aceite. Hay combinaciones posibles, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
-
-El motor lleva **3 US quarts**, que son **2.83 litros**.
-La primaria lleva **1 US quart**, que es **0,946 litros**.
-
-Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
-
-Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez al año.
-
-**Ver manual para mas info.**
-
-### Oficial mineral
-* Ver https://www.harley-davidson.com/store/4-qt-h-d-360-motorcycle-oil-change-kit-chrome-filter
-* Filtro : Harley original, viene negro y cromado
-* Motor : H-D 360 motorcycle oil
-* Primaria : Formula+ (lo estan discontinuando en 2020, ver si se consigue, sino poner SYN3?)
-* Total aproximado : 55 USD
-
-### Oficial sintetico
-* Ver https://www.harley-davidson.com/store/4-qt-syn3-full-synthetic-motorcycle-lubricant-oil-change-kit-chrome-filter
-* Filtro : Harley original, viene negro y cromado
-* Motor : H-D SYN3 motorcycle oil
-* Primaria : H-D SYN3 motorcycle oil
-* Total aproximado : 80 USD
-
-### Economico
-
-* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
-* Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
-* Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
-* Total aproximado de servicio básico : 37 USD a 50 USD
-
-### Sintetico
-
-* Filtro: Mahle o HiFlo
-* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 10w60 (verano)
-* Primaria : Castrol Power 1 4T 20w50
-
-### Mineral
-
-* Filtro: Mahle o HiFlo
-* Motor : Valvoline Moto 20w50
-* Primaria : Motul 3000 20w50
-
-### Favorito mio
-
-* Motor : Castrol Power 1 4T 15w50 (semi syn)
-* Primaria: Castrol Power 1 10w50 (full syn)
-* Filtro : HiFlo cromado HF170C
-
 # Filtro de aire
 
 El filtro de aire original es **lavable**.
@@ -343,6 +348,8 @@ El filtro de aire original es **lavable**.
 Ver el manual del propietario. Se lava segun el procedimiento del manual, y se vuelve a poner.
 
 En caso de tener que cambiarlo, K&N tiene todos los reemplazos: https://www.knfiltros.com/
+
+Hay filtros de "alto flujo" o "personalizados" de todo tipo, es cuestion de mirar los catalogos y elegir uno que nos guste.
 
 # Aceite Horquilla
 
