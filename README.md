@@ -30,7 +30,7 @@ La información de este documento sirve principalmente para modelos 2004 y mas n
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
 
-Dunlop se consiguen también. Ídem Michelin y Pirelli. También hay algunas marcas chinas de dudosa efectividad, tienen un caucho muy duro con poco grip, NO SON RECOMENDABLES.
+Dunlop, Michelin y Pirelli también se consiguen en las medidas necesarias. También hay algunas marcas chinas de dudosa efectividad, tienen un caucho muy duro con poco grip, NO SON RECOMENDABLES.
 
 Harley vendió motos con cubiertas Dunlop, ó Michelin, en diferentes medidas según modelo y año.
 
