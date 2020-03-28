@@ -14,11 +14,15 @@ Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
 ## ATENCIÓN
 
-Modelos más nuevos **TIENEN DIFERENCIAS** en algunas cosas, especialmente eléctricamente. Esta información es orientativa solamente!
-
 LA INFORMACIÓN SE PROPORCIONA "COMO ESTÁ", **SIN GARANTÍA DE NINGÚN TIPO**, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO.
 
 EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGÚN RECLAMO, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DERIVADAS DE, FUERA DE, O EN CONEXIÓN CON LA INFORMACIÓN O SU USO U OTRO TIPO DE ACCIONES CON LA INFORMACIÓN PRESENTADA.
+
+Modelos más nuevos / mas viejos **TIENEN DIFERENCIAS** en algunas cosas, especialmente eléctricamente. Esta información es orientativa solamente!
+
+La HARLEY DAVIDSON SPORTSTER se fabrica desde 1957, las variantes de diseño y modelos son grandes! Es importante investigar a que generación pertenece nuestra moto.
+
+La información de este documento sirve principalmente para modelos 2004 y mas nuevos. Algunas cosas pueden servir para modelos mas viejos.
 
 **SOLO SE PERMITE EL USO NO COMERCIAL DE ESTA INFORMACIÓN.**
 
@@ -26,11 +30,9 @@ EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS DE AUTOR SERÁN RESPO
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
 
-Dunlop se consiguen también.
+Dunlop se consiguen también. Ídem Michelin y Pirelli. También hay algunas marcas chinas de dudosa efectividad, tienen un caucho muy duro con poco grip, NO SON RECOMENDABLES.
 
-Ídem Michelin y Pirelli.
-
-Stock, Harley vendió motos con cubiertas Dunlop ó Michelin, en diferentes medidas según modelo y año.
+Harley vendió motos con cubiertas Dunlop, ó Michelin, en diferentes medidas según modelo y año.
 
 Metzeler tiene mejor grip, es mas blando el caucho, pero duran menos. Las prefiero sobre las Dunlop, que son mas duras y en lluvia no se agarran bien. Michelin no probé todavía...
 
@@ -527,6 +529,8 @@ https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
 El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online escaneado:
 
 Aca hay algunos: https://www.carlsalter.com/harley-service-manuals.asp
+
+Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
 # Proximamente mas información
 
