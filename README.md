@@ -146,6 +146,8 @@ El **Formula+** mineral esta siendo discontinuado en USA, era el aceite que se u
 
 El boletín de servicio de Harley especifica:
 
+https://serviceinfo.harley-davidson.com/sip/service/procedure/1332041847506356430/BLAISE/1137435/en_US?nid=5728
+
 > Las motocicletas se envían de fábrica con LUBRICANTE SINTÉTICO COMPLETO SCREAMIN 'EAGLE SYN3 20W50.
 >
 >  Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor.
