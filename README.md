@@ -10,7 +10,7 @@ Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos a
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
-**Documento Actualizado** 28-Marzo-2020 , 83500 km recorridos sin problemas.
+**Documento Actualizado** 06-Abril-2020 , 83500 km recorridos sin problemas.
 
 ## ATENCIÓN
 
@@ -119,7 +119,7 @@ Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez a
 ### Favorito mio
 
 * Motor : Castrol Power 1 4T 15w50 (semi syn)
-* Primaria: Castrol Power 1 10w50 (full syn)
+* Primaria: Castrol Power 1 4T 15w50 (semi syn)
 * Filtro : HiFlo cromado HF170C
 
 # Aceite de motor
@@ -196,6 +196,7 @@ El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético.
 * Castrol Power 1 Racing 4T 10W-50
 * Castrol Power 1 4T 20W-50
 * Castrol Actevo 20W50
+* Castrol Actevo X-Tra 20w50 - semi synthetic
 * Castrol Power 1 V-Twin 4T 20W-50
 
 **Silkolene** recomienda (motor y caja) Silkolene V-Twin 20w50, existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
@@ -285,31 +286,35 @@ El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equi
 
 Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
 
-**Ver que el aceite sea para moto y cumpla la norma JASO MA**
+El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un sintetico: **75w90** de caja, o de moto **15w50** o **20w50**.
+
+**Ver que el aceite sea para moto y cumpla la norma JASO MA** <- esto es MUY importante!
 
 La etiqueta **JASO MA o MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
 
 https://www.aceiteparamimotor.com/normativa-jaso-ma-ma1-ma2-para-motocicletas-c1200x38165
 
-Facil de conseguir en Argentina:
-
 **Bel-Ray Sport Trans** es 85W y es el preferido, pero no se consigue facil en Argentina
+
+Facil de conseguir en Argentina:
 
 El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster.
 
-Motorex recomienda **Motorex Legend 20w50**, se consigue en ML (2019)
+Motorex recomienda **Motorex Legend 20w50**, se conseguia en Mercado Libre en 2019, en 2020 ya no lo veo listado.
 
-**Silkolene** recomienda (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
+**Silkolene** recomienda su V Twin 20w50 (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
 
 https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 
-Castrol recomienda:
+Castrol recomienda opciones:
 **Castrol Power 1 Racing 4T 10W-50**
 **Castrol Power 1 4T 20W-50**
+**Castrol Power 1 4T 15w50**
 
 Mobil 1 recomienda  para primaria (nunca los consegui en Argentina)
 
 * Mobil 1 Racing™ 4T 10W-40, but it is also okay to use Mobil 1™ V-Twin 20W-50.
+* **Mobil 1 15w50 full syn** (coincide con la recomendacion del libro)
 * Mobil 1 75w90 gear oil
 
 De auto:
