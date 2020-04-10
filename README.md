@@ -10,7 +10,7 @@ Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos a
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
-**Documento Actualizado** 06-Abril-2020 , 83500 km recorridos sin problemas.
+**Documento Actualizado** 10-Abril-2020 , 83500 km recorridos sin problemas.
 
 ## ATENCIÓN
 
@@ -542,25 +542,27 @@ Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidso
 
 # Almacenar la moto
 
-A veces debemos dejar la moto parada, ya sea por un viaje, una cuarentena, o lo que fuere.
+A veces nos vemos obligados a dejar la moto parada, ya sea por un viaje, una cuarentena, o lo que fuere.
 
 Para asegurar que la moto funcione bien al momento de volver a usarla, seguir estos pasos:
 
-1. Lavarla bien, secarla y encerarla con cera protectora. Aplicar WD40 en las partes bajas de la moto para desplazar la humedad.
+1. **Lavarla** bien, secarla y encerarla con cera protectora. Aplicar WD40 en las partes bajas de la moto para desplazar la humedad.
 
-2. Inflarle +5 psi cada neumatico, para evitar que se deformen (35 psi adelante, 40 psi atras)
+2. Inflarle +5 psi cada **neumatico**, para evitar que se deformen (35 psi adelante, 40 psi atras)
 
-3. Rociar RAID anti insectos en las partes baja de la moto, un poquito, no esta de mas.
+3. Rociar RAID anti **insectos** en las partes baja de la moto, un poquito, no esta de mas.
 
-4. Es importante que el sistema de combustible no falle, ya que la nafta tiene a ponerse fea y formar grumos y tapar conductos. Para esto tenemos que llenar el tanque de nafta premium, colocar estabilizador de combustible (segun las instrucciones del fabricante del producto que compremos), y, en caso de motos carburadas, combiene vaciar el carburador (cerrando la canilla de paso de nafta, y dejando funcionar la moto hasta que se apague).
+4. Es importante que el **sistema de combustible** no falle, ya que la nafta tiene a ponerse fea y formar grumos y tapar conductos. Para esto tenemos que llenar el tanque de nafta premium, colocar estabilizador de combustible (segun las instrucciones del fabricante del producto que compremos), y, en caso de motos carburadas, seria util vaciar el carburador (cerrando la canilla de paso de nafta, y dejando funcionar la moto hasta que se apague).
 
-5. Bateria: tenemos dos opciones, una es quitarla de la moto y ponerla con un "mantenedor de bateria", otra es dejarla colocada, tambien con el "manenedor de bateria". Quitar el fusible principal MAXI es buena idea tambien. El "mantenedor de bateria" es un dispositivo que mantiene la carga de la bateria como si la estuvieramos usando, se usa en nautica, y equipos generadores tambien, es economico, NO ES UN CARGADOR tradicional de taller, es un mantenedor o cargador flotante.
+5. **Bateria**: tenemos dos opciones, una es quitarla de la moto y ponerla con un "mantenedor de bateria", otra es dejarla colocada, tambien con el "mantenedor de bateria". Quitar el fusible principal MAXI es buena idea tambien. El "mantenedor de bateria" es un dispositivo que mantiene la carga de la bateria como si la estuvieramos usando, se usa en nautica, y equipos generadores tambien, es economico y prolonga la vida util de la costosa bateria (+200 USD vale la original aproximadamente...)
+
+6. Opcional: cambiarle el **aceite** por aceite nuevo, esto sobre todo si vamos a dejar la moto mucho tiempo parada.
 
 En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible, ponerle mantenedor de bateria, inflar las cubiertas.
 
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
-Guardarla obviamente en un lugar fresco y seco, la humedad es un enemigo de las motos y todo lo que sea metales. 
+Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
 
 
 
