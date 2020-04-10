@@ -540,6 +540,30 @@ Aca hay algunos: https://www.carlsalter.com/harley-service-manuals.asp
 
 Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
+# Almacenar la moto
+
+A veces debemos dejar la moto parada, ya sea por un viaje, una cuarentena, o lo que fuere.
+
+Para asegurar que la moto funcione bien al momento de volver a usarla, seguir estos pasos:
+
+1. Lavarla bien, secarla y encerarla con cera protectora. Aplicar WD40 en las partes bajas de la moto para desplazar la humedad.
+
+2. Inflarle +5 psi cada neumatico, para evitar que se deformen (35 psi adelante, 40 psi atras)
+
+3. Rociar RAID anti insectos en las partes baja de la moto, un poquito, no esta de mas.
+
+4. Es importante que el sistema de combustible no falle, ya que la nafta tiene a ponerse fea y formar grumos y tapar conductos. Para esto tenemos que llenar el tanque de nafta premium, colocar estabilizador de combustible (segun las instrucciones del fabricante del producto que compremos), y, en caso de motos carburadas, combiene vaciar el carburador (cerrando la canilla de paso de nafta, y dejando funcionar la moto hasta que se apague).
+
+5. Bateria: tenemos dos opciones, una es quitarla de la moto y ponerla con un "mantenedor de bateria", otra es dejarla colocada, tambien con el "manenedor de bateria". Quitar el fusible principal MAXI es buena idea tambien. El "mantenedor de bateria" es un dispositivo que mantiene la carga de la bateria como si la estuvieramos usando, se usa en nautica, y equipos generadores tambien, es economico, NO ES UN CARGADOR tradicional de taller, es un mantenedor o cargador flotante.
+
+En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible, ponerle mantenedor de bateria, inflar las cubiertas.
+
+Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
+
+Guardarla obviamente en un lugar fresco y seco, la humedad es un enemigo de las motos y todo lo que sea metales. 
+
+
+
 # Proximamente mas información
 
 Saludos y buenas rutas!
