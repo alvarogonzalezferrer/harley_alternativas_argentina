@@ -12,6 +12,18 @@ Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
 **Documento Actualizado** 10-Abril-2020 , 83500 km recorridos sin problemas.
 
+## Donaciones
+
+Hacer este documento lleva mucho tiempo, esfuerzo e investigación.
+
+Si quieres ayudarme a continuar con mi trabajo, podes donar mediante Bitcoin a mi dirección, todo ayuda, pueden ser centavos, no importa!
+
+**33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q**
+
+![Wallet 33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q](archivos_soporte/btc/wallet.png)
+
+**Muchas gracias por tu donación!**
+
 ## ATENCIÓN
 
 LA INFORMACIÓN SE PROPORCIONA "COMO ESTÁ", **SIN GARANTÍA DE NINGÚN TIPO**, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO.
@@ -534,7 +546,7 @@ Las hojas de servicio de piezas de:
 
 https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
 
-El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online escaneado:
+El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online.
 
 Aca hay algunos: https://www.carlsalter.com/harley-service-manuals.asp
 
