@@ -526,11 +526,23 @@ Tienen pintura de retoque en los colores de Harley:
 
 No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
 
-# Inyección (mi 1200)
+# Inyección EFI (mi 1200)
 
-Parece que comparte algunas piezas con automotriz, fijarse bien si es Delphi o magneti marelli el sistema
+Parece que comparte algunas piezas con automotriz, fijarse bien si es Delphi o magneti marelli el sistema; debo investigarlo más.
 
 Ver si hay filtro de nafta alternativo que le sirva a la bomba
+
+## Velocidad de ralenti / idle
+
+La velocidad de ralenti / idle en las motos de inyeccion electronica no se puede alterar. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
+
+La verdad es que SI se puede alterar la velocidad de ralenti, la moto de fábrica regula demasiado rapido, para cumplir con los hippies de la Unión Europea.
+
+La **IAC**, el motor paso a paso es el que controla el aire del ralenti. Se puede poner uno manual. Otra opcion es reprogramar la computadora de la EFI con diferentes metodos, o reemplazarla, o una combinacion de las anteriores.
+
+No conviene bajar de **900 rpm** el ralenti, para mantener una correcta lubricación.
+
+**Pronto mas información.**
 
 # Otros
 
@@ -575,7 +587,6 @@ En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible,
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
 Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
-
 
 
 # Proximamente mas información
