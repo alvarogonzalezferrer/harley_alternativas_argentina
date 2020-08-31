@@ -624,19 +624,35 @@ En caso de quedar muchisimo tiempo parado, es conveniente limpiar los gicleur/ch
 
 # Inyección EFI (mi 1200)
 
-Parece que comparte algunas piezas con automotriz, fijarse bien si es Delphi o magneti marelli el sistema; debo investigarlo más.
+*Parece que comparte algunas piezas con automotriz, fijarse bien si es Delphi o magneti marelli el sistema; debo investigarlo más.* <- nota para mi
 
-Ver si hay filtro de nafta alternativo que le sirva a la bomba
+*Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* <- nota para mi
+
+Mucha información sobre la EFI:
+
+http://sportsterpedia.com/doku.php/techtalk:evo:engctl03
 
 ## Velocidad de ralenti / idle
 
-La velocidad de ralenti / idle en las motos de inyeccion electronica no se puede alterar. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
+La velocidad de ralenti / idle en las motos de inyeccion electronica *no se puede alterar*. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
 
-La verdad es que SI se puede alterar la velocidad de ralenti, la moto de fábrica regula demasiado rapido, para cumplir con los hippies de la Unión Europea.
+La verdad es que **SI** se puede alterar la velocidad de ralenti, la moto de fábrica regula demasiado rapido, para cumplir con los hippies de la Unión Europea.
 
-La **IAC**, el motor paso a paso es el que controla el aire del ralenti. Se puede poner uno manual. Otra opcion es reprogramar la computadora de la EFI con diferentes metodos, o reemplazarla, o una combinacion de las anteriores.
+La **IAC**, el motor paso a paso es el que controla el aire del ralenti. Se puede poner uno manual.
+
+Otra opcion es reprogramar la computadora de la EFI con diferentes metodos, o reemplazarla, o una combinacion de las anteriores.
 
 No conviene bajar de **900 rpm** el ralenti, para mantener una correcta lubricación.
+
+Los EFI Sportsters (2007 y posteriores) incluyen un control de aire en ralentí (IAC) para establecer la velocidad de ralentí del motor. El IAC está montado en el cuerpo del acelerador.
+
+En funcionamiento normal, la apertura y el cierre de la placa del acelerador en el cuerpo del acelerador (a través de los cables del acelerador) determina la cantidad de flujo de aire hacia el colector de admisión. Pero en el sistema EFI, el ECM controla el IAC que abre y cierra una vía de aire alrededor de la placa del acelerador para suministrar aire al colector durante el ralentí del motor.
+
+El IAC tiene un pivote impulsado por motor (o pasador / eje / tapón) que permite que más (cuando se retrae) o menos (cuando se extiende) aire ingrese. El motor IAC está controlado por pulsos eléctricos para extender o retraer el pivote, cada pulso mueve el pivote una distancia determinada, es un "motor paso a paso". Sin embargo, dado que el IAC no tiene retroalimentación al ECM para indicar su posición actual, los cambios de posición se basan en que el ECM lleve un registro de dónde colocó por última vez el pivote.
+
+Cuando se apaga el encendido, el ECM 'reinicia' el IAC enviando suficientes pulsos (definidos en la programación del ECM) para extender completamente el pivote y cerrar efectivamente el bypass de aire. Luego, antes de que se apague la energía, el IAC recibe una cantidad de pulsos calculados (pasos) para retraerlo a una posición de "estacionamiento". Esta posición de estacionamiento permite un mayor flujo de aire y velocidad de ralentí en preparación para la siguiente operación de arranque. A menudo será audible en el período de 10 segundos después de apagar la llave.
+
+El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acelerador está abierto), la batería cae por debajo de 9v o el VSS se vuelve mayor que 0 (la moto se está moviendo).
 
 **Pronto mas información.**
 
