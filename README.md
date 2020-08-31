@@ -409,14 +409,35 @@ Website: https://ebcbrakes.com/
 
 Cartilla: https://ebcbrakes.com/brakes-selector-chart/
 
-las que sirven para la 883 (2004) y la 1200 (2008) son (OJO EN MODELOS MAS NUEVOS, ESTOS **NO** SON LOS MODELOS DE PASTILLA, VER EL CATALOGO OFICIAL DE EBC SEGUN EL AÑO)
-**P/N FA387HH , FA381HH**
+Pastillas para Sportster : https://ebcbrakesdirect.com/motorcycle/harley-davidson-sportster
+
+Resumen EBC de pastillas de freno:
+**VERIFICAR ANTES DE COMPRAR, NO TENGO TODOS LOS AÑOS DE MOTOS!**
+
+*Nota*: si tiene doble caliper, precisa dos juegos delanteros. Por ejemplo la XL883R.
+
+*Nota*: hay varios compuestos mas blandos o duros, la HH es sinterizado, es la que me gusta a mi, frena mucho mas pero desgasta mas rapido los discos de freno; poner el compuesto que les guste a ustedes. Hay organico (suave, pero frena menos) y semi sinterizado también.
+
+**NOTA** : la XR1200R lleva pastillas especiales, ver la tabla!
+
+Modelo | Frente | Trasera
+--------|---------|---------
+79 a 81 | FA071 | FA072
+82 a 83 | FA071 | FA078
+84 a inicio 87 | FA094 | FA078
+97 a 99 | FA094 | FA200
+2000-2003| FA400 | FA400
+2004 a 2013 |  FA381HH | FA387HH
+2014 a 2020 | FA640HH | FA254HH
+XR1200 / XR1200X | FA296HH (2u)| EPFA387HH
 
 ## Discos
 
 Necesito investigar mas... hay reemplazos pero importados.
 
 Los discos se pueden rectificar si estan rayados.
+
+**EBC** vende discos de freno EXCELENTES para Sportster.-
 
 ## Liquido de frenos
 
