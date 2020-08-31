@@ -656,6 +656,18 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 **Pronto mas información.**
 
+# Convertir 883 a 1200
+
+Es posible convertir una 883 a 1200, incluso a más, 1275cc por ejemplo, de manera relativamente sencilla. Se cambian cilindros, pistones, refuerzo el embrague, ajustar el encendido y el combustible y listo.
+
+Hay muchos kits diferentes que se pueden elegir, yo opte por Hammer Performance, el cual considero el mejor.
+
+Este es el kit que yo tengo, Hammer Performance, super buena atención.
+
+http://hammerperf.com/883conversions.shtml
+
+*Pronto mas informacion...*
+
 # Otros
 
 Puños, pedales, respaldos, etc, se fabrican personalizados... o se compran por eBay, Amazon, etc.
