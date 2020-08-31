@@ -101,12 +101,16 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Oficial mineral
 
+![Aceite SYN3](archivos_soporte\aceite\hd360_kit.jpg)
+
 * Filtro : Harley original, viene negro y cromado
 * Motor : H-D 360 motorcycle oil
 * Primaria : H-D 360 motorcycle oil (Formula+ lo estan discontinuando en 2020)
 * Total aproximado : 55 USD
 
 ### Oficial sintético
+
+![Aceite SYN3](archivos_soporte/aceite/syn3_kit.jpg)
 
 * Filtro : Harley original, viene negro y cromado
 * Motor : H-D SYN3 motorcycle oil
@@ -518,17 +522,67 @@ Trasera Osram P27-7W 12V **3157**
 
 Giros ? Delanteras son doble filamento en mis motos, en las versiones latinas filamento simple.
 
-# Discos de embrague
+# Embrague
 
-Info vieja, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa
+## Problema común del embrague
 
-se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/index.php
+El embrague tiene un problema crónico de diseño, a veces fallan unos remaches y "explota" el disco resorte del embrague. Se puede solucionar cambiando ese disco por uno mejor (en lugar de volver a poner lo mismo).
 
-http://www.suberplastic.com.ar/
+Como se mencionó anteriormente, la placa de resorte se encuentra en el medio del paquete de embrague. Consiste en dos placas de acero separadas, unidas con resortes planos remachados, móviles, intercalados entre las dos placas de acero. Hay una placa de fricción a cada lado de la placa de resorte. La idea es absorber parte de la fuerza instantánea del acoplamiento del embrague y liberarla durante unos pocos microsegundos de transferencia de energía del resorte.
+
+Si bien el objetivo funcional es una buena idea, esta placa de resorte ha causado innumerables dolores de cabeza a muchos motociclistas. Cuando los remaches fallan, quedan atrapados entre las placas de fricción y de acero, lo que hace que el embrague funcione mal y dañe las placas y la canasta del embrague.
+
+![Disco explotado](archivos_soporte/embrague/grenade_plate.jpg)
+
+#### Sintomas
+
+Es mejor abordar este problema antes de que suceda. Da varios sintomas de que esta por explotar: el embrague puede estar "raro", endurecido, puede costar poner neutro. Se puede ver pedacitos de viruta de bronce en el aceite de primaria (los remaches), o incluso pedazos grandes de remache.
+
+#### Solucion
+
+La opción preferida es eliminar la placa de resorte por completo instalando **dos placas de acero adicionales y una placa de fricción adicional**. Esto funciona para embragues de **1991** en adelante.
+
+Si bien es posible hacerlo en los modelos 1991 y anteriores con placas stock, una implementación más típica para los modelos 1986 y superiores es utilizar un kit completo de recambio con nuevas placas de acero y de fricción. Hay varios proveedores de estos kits, como Energy One, Barnett & Alto, en varios materiales diferentes.
+
+Esta solución hace que el acoplamiento del embrague sea un poco más "agarre" y, a veces, hay un "chirrido" asociado. Pero la mayoría de los usuarios prefieren la tranquilidad de eliminar el Spring Plate a pesar de estos "inconvenientes".
+
+Algunos usuarios aprovechan esta oportunidad para reemplazar el resorte de diafragma original por uno más fuerte.
+
+Si tiene una falla de la placa de resorte, con remaches faltantes esparcidos alrededor de primaria, asegúrese de verificar todos los lugares donde puedan haberse ido. La canasta del embrague puede haber sido marcada por la falla, lo que requerirá un limado cuidadoso para eliminar las rebabas o, si es lo suficientemente grave, puede requerir el reemplazo de la canasta del embrague. Si no se repara adecuadamente, las nuevas placas no se moverán suavemente para liberar el embrague.
+
+Además, las placas de embrague existentes pueden haberse deformado durante la falla. Si la placa de resorte se desintegró, es mejor reemplazar todo para evitar dañar las piezas nuevas. También debe verificar cuidadosamente que la placa de presión y la placa de liberación no se hayan dañado, ni ningún otro componente principal (cadena, piñones, etc.).
+
+Puesto a cambiar, es mejor poner **partes mejores** que las originales, por ejemplo:
+
+* Barnett, kevlar: https://www.barnettclutches.com/ -- **"Extra Plate Clutch Kit- Kevlar"** o fibra de carbono, a eleccion.
+* Embrague Screamig Eagle P/N  38002-04 : https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04
+* Alto Products, tiene uno con remaches de acero inoxidable: https://www.altousa.com/
+* Energy One, kevlar: https://www.energyoneclutches.com/
+
+
+**Leer mas en:**
+* http://sportsterpedia.com/doku.php/techtalk:evo:priclutch01
+* https://duckduckgo.com/?q=sportster+grenade+plate
+* https://www.cyclepedia.com/sportster-spring-plate/
+
+## Sacar embrague
+
+Para sacar el embrague precisamos comprimirlo con una herramienta especial.
+
+Podemos comprar la herramienta (USD +70), o fabricarla muy barato con un tubo de PVC de 3" y una planchuela perforada.
+
+Ver este video: https://www.youtube.com/watch?v=zQnlt8twX3k
+
+![Sacar embrague](archivos_soporte/embrague/herramienta_comprimir_embrague.jpg)
+
+## Discos de embrague
+**Info vieja**, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa
+
+*Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)*
 
 # Juntas de motor
 
-**Cometic** son MUY superiores a las originales de Harley
+La marca **Cometic** son MUY superiores a las originales de Harley
 
 Su website : https://www.cometic.com/
 
@@ -588,7 +642,7 @@ No conviene bajar de **900 rpm** el ralenti, para mantener una correcta lubricac
 
 # Otros
 
-puños, pedales, respaldos, etc, se fabrican personalizados... o se compran por eBay, Amazon, etc.
+Puños, pedales, respaldos, etc, se fabrican personalizados... o se compran por eBay, Amazon, etc.
 
 # Manuales
 
