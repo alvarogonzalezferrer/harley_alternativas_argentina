@@ -253,16 +253,16 @@ http://superoil.com/original/html/harley-davidson.htm
 
 https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synthetic-motorcycle-oil/?zo=537451
 
-Los españoles recomiendan **Gulf 20w50**, mineral
+**Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre. *Solo para golosos*
 
-En caso de usar aceite de **automovil**, recomiendan
+Los españoles recomiendan **Gulf 20w50**, mineral (una porqueria).-
+
+En caso de usar aceite de **automovil**, recomiendan:
 
 **Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor)
 
-**Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre.
-
 **Nota importante**
-# PARA HARLEY NO USAR NUNCA ACEITE QUE SEAN PARA AUTOS NAFTEROS
+# NO USAR NUNCA ACEITE QUE SEAN PARA AUTOS NAFTEROS
 ## NI LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
 ### Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA SERVICIO PESADO.
 
