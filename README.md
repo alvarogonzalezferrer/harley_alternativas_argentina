@@ -674,28 +674,28 @@ Puños, pedales, respaldos, etc, se fabrican personalizados... o se compran por 
 
 # Manuales
 
-El manual del propietario se puede bajar de:
+El manual del *propietario* se puede bajar de:
 
 https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm
 
-Las hojas de servicio de piezas de:
+Las hojas de *servicio* de piezas de:
 
 https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
 
 El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online.
 
 Aca tengo un manual de taller interesante:
-[Manual de taller!](manuales/Sportster_04-06_Repair_Manual.7z)
+* [Manual de taller!](archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
 
-Necesitas 7-Zip para abrirlo: https://www.7-zip.org/
+*Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
 
-Aca hay algunos: https://www.carlsalter.com/harley-service-manuals.asp
+* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
 
-Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
+* Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
 Podemos buscar online tambien:
 * https://www.duckduckgo.com/?q=sportster+workshop+manual
-* https://www.google.com/?q=sportster+workshop+manual
+* https://www.google.com/search?q=sportster+workshop+manual
 
 # Almacenar la moto
 
