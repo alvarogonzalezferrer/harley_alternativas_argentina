@@ -78,7 +78,7 @@ XL 2004+ y variantes | 150 80 16 / 3.00 x 16"
 
 Estos son los tamaños máximos de cubiertas SIN modificar guardabarros stock, polea, etc.
 
-(Ver archivo adjunto para la tabla) - **TODO sin hacer**
+(Ver archivo adjunto para la tabla) - *TO-DO: sin hacer*
 
 Nota: Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la Fate Gaucha, o la Pirelli, son baratas y tienen diente de perro (son agrícolas).
 
@@ -91,19 +91,23 @@ La primaria lleva **1 US quart**, que es **0,946 litros**.
 
 Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
 
-Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez al año.
+Si no se alcanzan los kilometros en el año, **es recomendable cambiarlo una vez al año**.
 
 **Ver manual para mas info.**
 
+### Kits oficiales
+
+https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
+
 ### Oficial mineral
-* Ver https://www.harley-davidson.com/store/4-qt-h-d-360-motorcycle-oil-change-kit-chrome-filter
+
 * Filtro : Harley original, viene negro y cromado
 * Motor : H-D 360 motorcycle oil
-* Primaria : Formula+ (lo estan discontinuando en 2020, ver si se consigue, sino poner SYN3?)
+* Primaria : H-D 360 motorcycle oil (Formula+ lo estan discontinuando en 2020)
 * Total aproximado : 55 USD
 
-### Oficial sintetico
-* Ver https://www.harley-davidson.com/store/4-qt-syn3-full-synthetic-motorcycle-lubricant-oil-change-kit-chrome-filter
+### Oficial sintético
+
 * Filtro : Harley original, viene negro y cromado
 * Motor : H-D SYN3 motorcycle oil
 * Primaria : H-D SYN3 motorcycle oil
@@ -126,7 +130,7 @@ Si no se alcanzan los kilometros en el año, es recomendable cambiarlo una vez a
 
 * Filtro: Mahle o HiFlo
 * Motor : Valvoline Moto 20w50
-* Primaria : Motul 3000 20w50
+* Primaria : Valvoline Moto 20w50
 
 ### Favorito mio
 
@@ -165,7 +169,7 @@ Mas info de la Viscosidad SAE :
 
 ### Harley Davidson
 
-Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas) ver https://www.harley-davidson.com/au/en/owners/parts-and-service/genuine-motor-oil.html
+Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas).
 
 Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - SAE 20w50.
 
@@ -263,7 +267,7 @@ En caso de usar aceite de **automovil**, recomiendan
 Características
 
 * Altura : 86 mm -- esto puede variar algunos filtros son mas largos o mas cortos
-* Ø exterior : 75 mm
+* Diametro Ø exterior : 75 mm
 * Rosca : 3/4"-16
 
 **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro.
@@ -299,19 +303,19 @@ Otros alternativos que se publican en internet, y que pueden reemplazar el origi
 
 Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
 
-Con respecto a la pinta: si es cromado, hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
+Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
 
 # Aceite de primaria
 
+Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), *dejando de lado el antiguo Formula+ en 2020*.-
+
 ## Analisis largo
 
-Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley, la moto explotara en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
+Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley Formula+, la moto explotará en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
 
-Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, dejando de lado el antiguo Formula+
+El **HD Formula+** de primaria era el equivalente a un semi sintético de caja **80w90**, ó equivalente a uno de motor **20w50**.
 
-El **HD Formula+** de primaria seria un semi sintético de caja **80w90** o equivalente a uno de motor **20w50**.
-
-*Nota: Aparentemente Harley lo esta discontinuando en 2020 al Formula+, sugiriendo que se use el SYN3.*
+*Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360.*
 
 Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
 
@@ -319,11 +323,9 @@ El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un si
 
 **Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** <- esto es MUY importante!
 
-La etiqueta **JASO MA o MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
+La etiqueta **JASO MA ó MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
 
-https://www.aceiteparamimotor.com/normativa-jaso-ma-ma1-ma2-para-motocicletas-c1200x38165
-
-**Bel-Ray Sport Trans** es 85W y es el preferido, pero no se consigue facil en Argentina
+**Bel-Ray Sport Trans** es 85W y es bueno, pero no se consigue facil en Argentina
 
 Facil de conseguir en Argentina:
 
@@ -335,7 +337,7 @@ Motorex recomienda **Motorex Legend 20w50**, se conseguia en Mercado Libre en 20
 
 https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 
-Castrol recomienda opciones:
+Castrol recomienda varias opciones:
 **Castrol Power 1 Racing 4T 10W-50**
 **Castrol Power 1 4T 20W-50**
 **Castrol Power 1 4T 15w50**
@@ -346,8 +348,8 @@ Mobil 1 recomienda  para primaria (nunca los consegui en Argentina)
 * **Mobil 1 15w50 full syn** (coincide con la recomendacion del libro)
 * Mobil 1 75w90 gear oil
 
-De auto:
-**Valvoline SynPower 75W-90 GL5** sirve y se consigue facil.
+De auto -- NO RECOMENDABLE, solo para desesperados:
+**Valvoline SynPower 75W-90 GL5** sirve y se consigue fácil.
 
 No daña los metales amarillos. Que diga “slip differential”o similar para el embrague del diferencial
 
@@ -542,6 +544,8 @@ Tienen pintura de retoque en los colores de Harley:
 # Carburador (mi 883)
 
 No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
+
+En caso de quedar muchisimo tiempo parado, es conveniente limpiar los gicleur/chicler cuidadosamente. Ver el manual de desarme.
 
 # Inyección EFI (mi 1200)
 
