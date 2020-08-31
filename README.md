@@ -101,7 +101,7 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Oficial mineral
 
-![Aceite HD360](archivos_soporte\aceite\hd360_kit.jpg)
+![Aceite HD360](archivos_soporte/aceite/hd360_kit.jpg)
 
 * Filtro : Harley original, viene negro y cromado
 * Motor : H-D 360 motorcycle oil
