@@ -422,10 +422,10 @@ Resumen EBC de pastillas de freno:
 
 Modelo | Frente | Trasera
 --------|---------|---------
-79 a 81 | FA071 | FA072
-82 a 83 | FA071 | FA078
-84 a inicio 87 | FA094 | FA078
-97 a 99 | FA094 | FA200
+1979 a 1981 | FA071 | FA072
+1982 a 1983 | FA071 | FA078
+1984 a inicio 1987 | FA094 | FA078
+1987 a 1999 | FA094 | FA200
 2000-2003| FA400 | FA400
 2004 a 2013 |  FA381HH | FA387HH
 2014 a 2020 | FA640HH | FA254HH
