@@ -144,7 +144,22 @@ Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar ac
 
 Se puede usar aceite mineral, o sintetico (lo importante es NO MEZCLAR, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
 
-Vida útil : un aceite almacenado, SELLADO en su envase original, puede durar hasta 5 años. Podemos tener aceites y filtros almacenados para sobrevivir epocas "populares" donde se prohibe la importación.
+Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir epocas *"nacionales y populares"* donde se prohibe la importación.
+
+Observar lo siguiente de aceite:
+
+* Viscosidad : lo indica la norma **SAE**, por ejemplo **20w50**.
+* Certificación del **API** (Instituto Americano de Petróleo), aditivos modernos: SJ (+2001), **SL (+2004), SM (+2010), SN,SP (+2020)** ; SA a SH inclusive son con aditivos **obsoletos** (motores de 1930 a 1996)
+* Certificado **JASO** : al menos MA, idealmente **MA2**.
+
+El JASO es una norma diseñada por la asociación japonesa de ingenieros de automoción. Se ideó a causa del problema que presentaban los embragues húmedos (bañados en aceite) presentes en las motocicletas japonesas.
+
+Mas info del certificado API :
+* https://www.api.org/~/media/Files/Certification/Engine-Oil-Diesel/Publications/Motor%20Oil%20Guide%202020.pdf
+* https://www.widman.biz/Seleccion/certificacion.html
+
+Mas info de la Viscosidad SAE :
+* https://www.widman.biz/Seleccion/viscosidad.html
 
 ## Recomendaciones de fabricantes
 
@@ -223,7 +238,7 @@ Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone
 
 http://www.ipone.com.ar/
 
-**Mannol Sintetico 20w50** : http://www.mannol.com.ar/
+**Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50
 
 **AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
 http://superoil.com/original/html/harley-davidson.htm
@@ -235,6 +250,8 @@ Los españoles recomiendan **Gulf 20w50**, mineral
 En caso de usar aceite de **automovil**, recomiendan
 
 **Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor)
+
+**Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre.
 
 **Nota importante**
 # PARA HARLEY NO USAR NUNCA ACEITE QUE SEAN PARA AUTOS NAFTEROS
@@ -300,7 +317,7 @@ Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL 
 
 El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un sintetico: **75w90** de caja, o de moto **15w50** o **20w50**.
 
-**Ver que el aceite sea para moto y cumpla la norma JASO MA** <- esto es MUY importante!
+**Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** <- esto es MUY importante!
 
 La etiqueta **JASO MA o MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
 
