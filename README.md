@@ -622,15 +622,48 @@ No esta de mas ponerle un estabilizador de combustible si se deja parada. Tambi�
 
 En caso de quedar muchisimo tiempo parado, es conveniente limpiar los gicleur/chicler cuidadosamente. Ver el manual de desarme.
 
+Video de como *LIMPIAR* el carburador : https://www.youtube.com/watch?v=Pp4l-zbQcy0
+
+Como limpiar el *filtro de nafta*:
+
+https://www.youtube.com/watch?v=8Xs6ZjrAD6o
+
+
 # Inyección EFI (mi 1200)
 
-*Parece que comparte algunas piezas con automotriz, fijarse bien si es Delphi o magneti marelli el sistema; debo investigarlo más.* <- nota para mi
+*Los inyectores 2007-2017 son Deplhi* <- nota para mi
 
 *Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* <- nota para mi
 
 Mucha información sobre la EFI:
 
 http://sportsterpedia.com/doku.php/techtalk:evo:engctl03
+
+http://www.nightrider.com/biketech/motorcycle_efi_basics.htm
+
+## Modo diagnostico
+
+La central ECM tiene un modo de diagnostico incorporado, para saber los codigos de error.
+
+Es bastante facil de usar. *FALTA PONER LA MANERA DE HACERLO*
+
+Por ahora, ver este video: https://www.youtube.com/watch?v=j3JiSOjkuZ0
+
+## Limpiar los inyectores
+
+La idea seria sacarlos y limpiarlos con ultrasonido, o usar algun aditivo...
+
+Tercera opcion, sacarlos, activarlos con una bateria 9v mientras le mandas limpiador con una manguera.
+
+https://www.youtube.com/watch?v=-eDcY0WhALI
+
+## Diagnosticar inyectores
+
+* https://www.youtube.com/watch?v=H4HYD69TyuE
+
+## Cambiar el filtro de nafta
+
+* https://www.youtube.com/watch?v=EWng7GX_R44
 
 ## Velocidad de ralenti / idle
 
