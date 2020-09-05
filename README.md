@@ -505,7 +505,7 @@ Buscando en Mercado Libre : **20HL BS** salen varios modelos teóricamente compa
 
 ## Modelos 2004 a 2020
 
-La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes Dl revés, se puede poner orientando los bornes hacia atrás y alargando los cables)
+La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al revés, *se puede poner orientando los bornes hacia atrás y alargando los cables*)
 
 Yuasa hace dos modelos que sirven: GYZ16HL (alta performance) / YTX14L-BS (comun)
 
@@ -513,7 +513,7 @@ https://www.yuasabatteries.com/battery/gyz16hl/
 
 https://www.yuasabatteries.com/battery/ytx14l-bs/
 
-Lamentablemente Yuasa Argentina **no** importa (2020) ninguna de las dos... son unos cabeza dura que no quieren importarla.
+Lamentablemente Yuasa Argentina **no** importa (2020) ninguna de las dos... son unos cabeza dura que no quieren importarla, contacte al importador y no me dieron bola.
 
 Buscando en Mercado Libre : **YTX14L** salen varios modelos teóricamente compatibles
 
@@ -531,7 +531,7 @@ VER TAMBIEN BATERIAS DE LITIO COMPATIBLES, son carisimas
 Sirve la **WEX6L21-MF**
 http://www.wstandardusa.com/index.php/battery/wex6l21-mf-1.html
 
-Ideas: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD
+*Ideas a explorar: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD*
 
 # Luces
 
