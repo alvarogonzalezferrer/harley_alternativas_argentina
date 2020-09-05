@@ -1,0 +1,9 @@
+La sonda lambda de los escapes puede ser engañada para pedirle a la ECM que use una mezcla mas rica (AFR air fuel ratio) para compensar por escape y filtro mas libre (Stage I)
+
+
+Esto sirve para un STAGE I sin poner Fuel Pack o dispositivos similares. Tiene un limite, obviamente, si modificamos mucho, deberemos poner un administrador de combustible. 
+
+Yo prefiero el Power Commander de Dynojet, pero hay muchos...
+
+
+TO-DO : hacer una lista, y explicar como engañar la sonda como hacen los Xieds que vende Night rider
