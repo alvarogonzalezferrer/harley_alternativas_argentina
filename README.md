@@ -479,9 +479,25 @@ http://www.nightrider.com/biketech/hdsparkplugs01.htm
 
 Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años…
 
-## Modelos 2003 y anteriores
+## Modelos 1979-1985
+
+Varios compatibles: YUASA YB16-B-CX, GYZ20H, YTX20H-BS.
+
+## Modelos 1986-1996
+
+Modelo de Yuasa **YTX20H-BS** y compatibles.
+
+Notar que tiene el borne (+) izquierdo vista de frente.
+
+https://www.yuasabatteries.com/battery/ytx20h-bs/
+
+## Modelos 1997-2003
 
 Modelo de Yuasa **YTX20HL-BS** y compatibles.
+
+Notar que tiene el borne (+) derecho vista de frente.
+
+https://www.yuasabatteries.com/battery/ytx20hl-bs
 
 Dimensiones 175mm x 87mm x 155mm
 
