@@ -1,0 +1,12 @@
+TO-DO - terminar este documento
+
+
+app: Harley Droid 
+
+https://play.google.com/store/apps/details?id=org.harleydroid
+
+software
+
+hardware : ELM327 + cable casero 
+
+como hacer el cable - TO-DO : por explicar

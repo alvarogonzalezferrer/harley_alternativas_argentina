@@ -1,0 +1,21 @@
+EXPLOSIONES AL DESACELERAR usualmente por mezcla FINA
+al acelerar usualmente mezcla rica
+EXPLICACION
+
+An engine is not supposed to backfire and, when it is persistent, It could be harmful to the engine. If there is an explosion in the exhaust pipe when the cylinder is trying to exhaust its spent combustion products, a back pressure is created which interferes with the next cycle. This could result in incomplete extraction, irregular charging with the fresh mixture, 
+and overheating. In addition, valves are not designed to seal against pressure from their backsides and a broken valve rattling around in the combustion chamber is a real possibility. While the explosion sound ranges from a baby fart to a gunshot, its annoying to say the least. In almost all the situations studied various causes and remedies have been found with none answering the question entirely.
+
+In general, backfiring on deceleration (as opposed to acceleration) is generally caused by a lean condition in the pilot circuit. What happens is that the mixture leans out enough to where is fails to ignite consistently. This, in turn allows some unburned fuel to get into the exhaust pipes. Then, when the engine does fire, these unburned gasses are ignited in the exhaust pipe, causing the backfire. Then, the classic diagnosis is too lean a fuel mixture. 
+
+---
+The answer is popping can occur through both rich and lean conditions, you need to determine each case individually.
+
+Most common is running the bike at high speed and throttle conditions and snapping the throttle shut (say like at the end of the main straight of the track - an often heard noise). In this case closing the throttle will enliminate the air supply to the engine instantly, however the fuel reduction normally lags slightly, result there is unburnt fuel in the exhaust system - when exposed the the atmosphere it explodes (if in small quantities) or burns in much larger quantities - i.e. pops and bangs and flames from the exhaust - usually quite loud. Fuel injected bikes suffer much less from this than ones fitted with carburettors.
+
+Under the same conditions as above, if there is an exhaust air leak allowing air to enter the exhaust system allowing an explosive mixture to develop within the pipe, a very loud explosion will result as the pressure wave is directed out the outlet pipe.
+
+On the other means, running excessively lean will often result in partial combustion and again this mixture will normally explode once it leaves the exhaust system - normally a softer popping noise. Often fitting a free flowing system (any aftermarket system) will result in lean running in parts of the rev range. Since bikes tend to be tuned lean from new, this effective further leaning of the mixture can push the engine over the edge resulting in popping. This condition is easily duplicated on an inertia dyno when allowing the engine to spool down with the throttle at small openings.
+
+Popping from the exhaust is also quite system dependent and can be tolerated to an extent (for whatever source reason). However please consider that while running a lean mixture might be good for the environment, a lean fuel mixture also encourages detonation in the combustion chamber which can be lethal to the engine. Likewise large explosions and flames in the exhaust system are at minimum anti-social, they can also pose risk to the rider if they leave the exhaust system before the tail-pipe.
+
+First ensure the system is leak free and then decide what to do next - that is does the noise bother me or my neighbours and will I damage my engine riding with this condition.
