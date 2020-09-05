@@ -4,24 +4,24 @@
 
 Como fabricar un scanner de diagnostico para la moto casero con poca plata
 
-NOTA: Desde 2011, varios modelos HD están equipados con un CAN-BUS, también conocido como “HD-LAN”. Tiene 6 pines el enchufe en la moto.
-
 ATENCION: Esta información es solo para los modelos con conector de 4 pines, y ECU de Delphi.
 
 Sporster 2007 a 2013 tienen el conector de 4 pines, 2014 a 2020 el de 6 pines (y esta informacion NO sirve para esos modelos). Modelos 2006 y anteriores tienen CARBURADOR y no precisas renegar con la EFI (lo mejor!)
 
+NOTA: Desde 2011 en adelante, varios modelos HD están equipados con un CAN-BUS, también conocido como “HD-LAN”. Tiene 6 pines el enchufe en la moto.
+
 TO-DO - terminar este documento ; ver info en https://svd.tools/
 
-informacion : 
+Informacion : 
 
 https://california-motorcycles.com/blogs/mecanicaharley/el-sistema-de-comunicaciones-can-bus-de-harley-davidson-hdlan
 
-software app: Harley Droid 
+Software app: Harley Droid 
 
 	https://play.google.com/store/apps/details?id=org.harleydroid
 
 
-hardware : scanner ELM327 + cable casero ODB2 a J1850 (harley)
+Hardware : scanner ELM327 + cable casero ODB2 a J1850 (harley)
 
 	ELM327 -> https://listado.mercadolibre.com.ar/elm327
 
@@ -37,7 +37,15 @@ hardware : scanner ELM327 + cable casero ODB2 a J1850 (harley)
 		
 		https://www.obd2cables.com/products/
 	
+-- partes necesarias
 
+Lista de partes
+
+     1 x conector de terminal Deutsch DT064S-CE06 (o HD 72114-94BK)
+     1 x Cerradura de cuña Deutsch W4S-P012 (o HD 72154-94)
+     3 x conector hembra Deutsch 0462-201-16141 (o HD 72191-94)
+     Cable de 3 hilos de 18 AWG (0,75 mm2)
+     1 x conector hembra J1979 (tiendas de automóviles)
 
 --- info de como armar el cable ---
 
