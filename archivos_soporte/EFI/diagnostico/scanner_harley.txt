@@ -1,3 +1,5 @@
+Como fabricar un scanner de diagnostico para la moto casero con poca plata
+
 TO-DO - terminar este documento
 
 
@@ -10,3 +12,5 @@ software
 hardware : ELM327 + cable casero 
 
 como hacer el cable - TO-DO : por explicar
+
+	J1850 Harley bus -- lo venden armado en amazon, pero se puede hacer facilmente
