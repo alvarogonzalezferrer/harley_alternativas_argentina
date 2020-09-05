@@ -41,11 +41,20 @@ Hardware : scanner ELM327 + cable casero ODB2 a J1850 (harley)
 
 Lista de partes
 
-     1 x conector de terminal Deutsch DT064S-CE06 (o HD 72114-94BK)
-     1 x Cerradura de cuña Deutsch W4S-P012 (o HD 72154-94)
-     3 x conector hembra Deutsch 0462-201-16141 (o HD 72191-94)
-     Cable de 3 hilos de 18 AWG (0,75 mm2)
-     1 x conector hembra J1979 (tiendas de automóviles)
+	A la moto:
+		1 x conector de terminal Deutsch DT064S-CE06 (o HD 72114-94BK) (suele venir completo, sino pedir lo de abajo, los pines y la cerradura)
+     
+		1 x Cerradura de cuña Deutsch W4S-P012 (o HD 72154-94)
+		3 x conector hembra Deutsch 0462-201-16141 (o HD 72191-94)
+	 
+	Conectado por:
+		Cable de 3 hilos de 18 AWG (0,75 mm2)
+     
+	Al lector ELM327:
+		1 x conector hembra J1979 (tiendas de automóviles)
+
+Comprar partes:
+	Ficha moto: https://www.ebay.com/sch/&_nkw=72114-94BK
 
 --- info de como armar el cable ---
 
