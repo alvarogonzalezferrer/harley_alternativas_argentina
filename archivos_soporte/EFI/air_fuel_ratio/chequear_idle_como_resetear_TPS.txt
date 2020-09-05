@@ -1,0 +1,56 @@
+http://xlforum.net/vbportal/forums/showpost.php?p=1332273&postcount=28
+
+http://xlforum.net/vbportal/forums/showthread.php?t=73902&page=3
+
+TPS is short for the Throttle Position Sensor. This is the variable potentiometer that is attached to the throttle plate/butterfly and changes its voltage when the throttle plate is opened or closed. As I remember it should show an output voltage when the bike's throttle is at rest or closed of 0.480 to 0.495 volts dc. It has slots so it can be adjusted to the specs in the FM.
+
+The reseting of the codes follows a sequence that has been posted on this form before and I provided to a thread " EFI code 0118" the other day. It is as below for you to check out what your diagnostic troble codes may be.
+
+Speedometer Self Diagnostics:
+
+The speedometer is capable of displaying and clearing speedometer, tachometer, TSM/TSSM and ICM/ECM Diagnostic Trouble Codes (DTC).
+
+1- Turn Ignition switch to OFF & Run/Stop switch is to RUN.
+
+2- Push odometer reset button in & hold.
+
+3- Turn ignition switch to Ignition and release odometer reset button.
+
+Background lighting should illuminate, speedometer needle should sweep its full range and indicator lamps (battery, security, low fuel, check engine and cruise) should illuminate. The word “diag” should then appear.
+
+4 - Push the odometer reset button once and you will see the selection menu "PSSPT" with the first P flashing.
+
+5 - Each letter represents an area of the diagnostics module. The module that is flashing is the one you are going to check. To move from one letter (module) to the next, you push the odometer reset button one time. (from P to S to SP to T and back to P, etc.)
+
+P = ECM/ICM (Electronic Control Module (EFI) / (Ignition Control Module, 'Carbureted')
+S = TSM/TSSM (Turn Signal/ Turn Signal Security Module)
+SP = speedometer
+T = tachometer
+
+6 - To get the DTC within an area of diagnostics, push and hold the odometer reset button in for 5 seconds and release. If there are any DTC’s the code will be displayed or the word “none” will appear if there are no DTC’s. Push the odometer reset button again to view additional codes if they exist.
+
+7 - Record the codes.
+
+8 - If DTC’s are not to be cleared, Press and release the odometer reset button. Part number of module will be displayed.
+
+NOTE:
+To determine if a code is current or historic, clear the displayed code by pushing in and holding the odometer reset button ( longer than 5 seconds) until 'clear' comes up. Release the odometer reset button. Turn OFF the ignition switch. Run your bike and shut it down then recheck the DTC’s again by repeating steps 1 to 9. If the code is current it will reappear.
+
+9 – Press and release the odometer reset button to continue to the next module.
+
+10 – Turn Ignition switch to OFF to end the session.
+
+Assuming you have the full serial data bus configuration on your bike these are the codes you may be interested in.
+Error codes for the TPS voltage settings are in the P mode
+
+1. P0122 = Low/Open and
+
+2. P0123 = High
+
+Loss of Idle Sped Control sets the code P0505
+
+I hope this gets you back to a code clear situation.
+
+
+Cheers;
+Reply With Quote
