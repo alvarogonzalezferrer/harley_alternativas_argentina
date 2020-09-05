@@ -479,7 +479,17 @@ http://www.nightrider.com/biketech/hdsparkplugs01.htm
 
 Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años…
 
-La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al revés, se puede poner orientando los bornes hacia atrás y alargando los cables)
+## Modelos 2003 y anteriores
+
+Modelo de Yuasa **YTX20HL-BS** y compatibles.
+
+Dimensiones 175mm x 87mm x 155mm
+
+Buscando en Mercado Libre : **20HL BS** salen varios modelos teóricamente compatibles
+
+## Modelos 2004 a 2020
+
+La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes Dl revés, se puede poner orientando los bornes hacia atrás y alargando los cables)
 
 Yuasa hace dos modelos que sirven: GYZ16HL (alta performance) / YTX14L-BS (comun)
 
@@ -616,7 +626,7 @@ Tienen pintura de retoque en los colores de Harley:
 >
 > Teléfono:0237 462-2242
 
-# Carburador (mi 883)
+# Carburador (2006 y anteriores)
 
 No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
 
@@ -628,8 +638,7 @@ Como limpiar el *filtro de nafta*:
 
 https://www.youtube.com/watch?v=8Xs6ZjrAD6o
 
-
-# Inyección EFI (mi 1200)
+# Inyección EFI (2007 en adelante)
 
 *Los inyectores 2007-2017 son Deplhi* <- nota para mi
 
@@ -648,6 +657,8 @@ La central ECM tiene un modo de diagnostico incorporado, para saber los codigos 
 Es bastante facil de usar. *FALTA PONER LA MANERA DE HACERLO*
 
 Por ahora, ver este video: https://www.youtube.com/watch?v=j3JiSOjkuZ0
+
+*NOTA* Otra manera de diagnostico es usar un scanner ODB2, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas facil usar el diagnostico que trae la moto igualmente.
 
 ## Limpiar los inyectores
 
