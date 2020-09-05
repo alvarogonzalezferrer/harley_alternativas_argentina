@@ -1,0 +1,60 @@
+/* @override 
+	http://www.motorstage.co.jp/forsale/wp-content/themes/MS5-products/style.css
+	http://www.motorstage.co.jp/products/wp-content/themes/MS5-products/style.css
+*/
+/*
+Theme Name: MS5 Products
+Theme URI: http://motorstage.co.jp/products/
+Author:Go Imai
+Author URI:http://www.studiobrain.net/
+Template: MS5
+Version: 5.0
+*/
+
+@import url('../MS5/style.css');
+
+.home #container{background:url(../MS5/img/header-second-bg.gif) repeat-x;}
+#main-wide{margin:10px 0 40px;text-align:center;}
+.all-products{padding-left:30px;float:left;}
+.all-products ul{width:891px;border:3px solid #000;float:left;background-color:#000;margin:0;list-style-type:none;padding:0 0 0 1px;border-right-width:2px;}
+.all-products li{float:left;margin:1px 2px 1px 0;width:295px;}
+.all-products li a{float:left;}
+.all-products li a img{float:left;}
+hr{margin:40px auto;}
+img{vertical-align:bottom}
+#main div.navigation{width:750px;margin:auto;}
+
+h2{font-size:20px;line-height:50px;background-color:#eee;border:1px solid #999;border-right-style:none;border-left-style:none;letter-spacing:5px;}
+
+.products-navi {margin:auto auto 30px;border-bottom:2px solid #333;height:30px;padding:0 0 0 10px;}
+.products-navi li{margin:0 10px 0 0;display:inline;float:left;}
+.products-navi li a{margin:0;float:left;width:148px;font-size:13px;line-height:30px;background-color:#666;color:#fff;text-decoration:none;-moz-border-radius-topleft: 5px;-moz-border-radius-topright:5px;border-top-left-radius:5px;border-top-right-radius:5px;}
+.products-navi li.current a{background-color:#c00;color:#fff;}
+
+.hentry.category-bikes{width:700px;margin-left:90px;}
+#main{width:920px;}
+
+#main div.totop{width:740px;margin-right:auto;margin-left:auto;}
+.hentry{width:800px;margin:auto;}
+.hentry p{text-align:left;}
+div#post-479.post-479.page.type-page.status-publish.hentry{width:auto;}
+
+table{margin:0;}
+td,th{border-bottom-style:none;}
+#post-91 table{margin:0 0 40px;border-left:1px solid #eee;}
+#post-91 table tbody tr td{border-bottom:1px solid #ccc;text-align:center;border-right:1px solid #eee;}
+#post-91 h2{margin:0;background-color:#ccc;line-height:30px;}
+td td{width:300px;border:1px solid #ccc;padding:20px;}
+td td td{border-style:none;}
+
+
+.category-bikes th{border-bottom:1px solid #ccc;width:20%;}
+.category-bikes td{border-bottom:1px solid #ccc;padding:5px 0;}
+
+
+
+
+
+
+
+

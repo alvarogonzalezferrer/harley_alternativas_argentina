@@ -1,0 +1,196 @@
+/* -- style.css -- */
+div.karma
+{
+	background-color: transparent;
+	text-align: center;
+	border-top: 1px solid #DDDDFF;
+	border-left: 1px solid #DDDDFF;
+	border-right: 1px solid #AAAAAA;
+	border-bottom: 1px solid #AAAAAA;
+	padding: 10px;
+}
+
+span.digest
+{
+}
+
+span.index_title{
+	float: left;
+	border: 0px;
+}
+
+span.index_extra{
+	float: right;
+	padding: 2px;
+	border: 0px;
+}
+
+div.signature {
+	bottom: 10px;
+}
+
+div#index_welcome{
+	margin: 10px;
+	margin-bottom: 10px;
+}
+html>body div#index_welcome {
+	margin-bottom: 15px;
+}
+
+#index_welcome div.title{
+	font-size: 18px;
+	font-weight: bold;
+	border-bottom: dashed 1px;
+	padding: 5px;
+}
+
+#index_welcome div.desc{
+	padding: 5px;
+	font-size: 12px;
+}
+
+#index_welcome div.visit{
+	text-align: right;
+	font-size: 11px;
+}
+
+#index_forum a{
+	font-weight: bold;
+}
+
+table.index_category{
+	border: 0px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+table.index_category td{
+	padding: 2px;
+}
+
+table.index_category .desc, table.index_category .desc a{
+	font-weight: normal !important;
+	margin-top: 2px;
+	margin-bottom: 0px;
+}
+
+#index_forum span.item{
+	padding: 0px 5px 0px 5px;
+	margin: 0px;
+	border: 0px;
+}
+
+#index_forum span.extra{
+	float: right;
+	text-align: left;
+	margin: 0px;
+}
+
+div#forum_header{
+	margin: 5px;
+}
+#forum_header div{
+	padding-top: 5px;
+}
+
+/* -- dropdown menu -- */
+
+div.dropdown{
+	float: left;
+}
+
+div.dropdown .menu, div.dropdown .userbar{
+	font-weight: bold;
+	float: left;
+	margin: 0px 1px;
+	border: 0px !important;
+	padding: 0px;
+}
+
+div.dropdown .item{
+	font-weight: bold;
+	padding: 2px 5px;
+  	white-space: nowrap;
+  	border: 0px !important;
+}
+
+div.dropdown ul, div.dropdown table {
+	width: 135px;
+}
+/* -- dropdown menu -- */
+
+/* -- user level -- */
+table.userlevel{
+	width: 90%;
+	border: 0px;
+	padding: 0px;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+table.userlevel td{
+	height: 13px;
+	padding: 0px;
+}
+
+table.userlevel td.end{
+	width: 3px;
+}
+
+table.userlevel td.end img{
+	width: 3px;
+	height: 13px;
+}
+
+table.userlevel td.center{
+	width: 100%;
+}
+
+table.userlevel td.center img{
+	height: 12px;
+}
+/* -- user level -- */
+
+span.online_admin{
+    color:#FFA34F;
+}
+
+span.online_moderator{
+    color:#006600;
+}
+
+
+/*
+ * From http://www.positioniseverything.net/easyclearing.html
+ */
+.clear:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+.clear {display: inline-table;}
+/* Hides from IE-mac \*/
+* html .clear {height: 1%;}
+.clear {display: block;}
+/* End hide from IE-mac */
+
+/* color -- dropdown menu for Forum */
+div.dropdown a, div.dropdown .menubar a{
+    color:#FFF;
+}
+
+div.dropdown .menu, div.dropdown .menubar, div.dropdown .item, div.dropdown .separator{
+    background-color: #436792; /* same color set as in your theme/style.ss .th{} is recommended */
+    color:#FFF;
+}
+
+div.dropdown .separator{
+    border: 1px inset #e0e0e0;
+}
+
+div.dropdown .menu a:hover, div.dropdown .userbar a:hover{
+    color: #333;
+}
+/* color - end */

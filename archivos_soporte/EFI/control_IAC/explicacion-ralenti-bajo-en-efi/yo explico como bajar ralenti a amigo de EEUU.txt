@@ -1,0 +1,60 @@
+hi
+
+here I uploaded some photos, I have 2 methods of having a low idle, the 1st one is electronic and complicated, the 2nd one, the quick and dirty works too, and is easy todo, or test
+
+test--1
+
+this would be a sub step of step 3 below:
+
+you can try before doing it that it works just like this:
+3-a start the bike normally, without air cleaner
+
+3-b block with your finger partially the hole that I signaled in point 2 below, be prepared to off switch the engine when you remove your finger... (since you lower the idle, if you have the IAC on, the ECM will try to get it up opening the IAC hole, so when you remove your finger, the RPMs will go up to the sky, thats why you should off the engine when you remove the finger)
+
+3-c done, you see that it works, now decide if you want to do it permanent or not
+
+
+permanent--2
+
+1 - remove air cleaner
+
+2 - see this air passage (check the pic below)? this controls how much air goes inside when idling, and gives the speed of idle
+did you saw that on the throttle body? it has a hole that lets pass air when the bike has the butterfly closed, well, that air passage controls idle, and there is a valve on top, the IAC, that does that, is the sole responsible for our high idle
+
+[IMG]http://i.imgur.com/2qKyl.jpg[/IMG]
+
+[IMG]http://i.imgur.com/nPqLd.jpg[/IMG]
+
+[IMG]http://i.imgur.com/oihot.jpg[/IMG]
+
+3 - close somehow that air passage: on my first test, I just removed the IAC and I blocked the passage with a champagne cork pluggin the hole that the IAC left , and plugged the electrical plug to avoid shorts, using rubber elastic tape
+
+[IMG]http://i.imgur.com/WeckW.jpg[/IMG]
+
+[IMG]http://i.imgur.com/AvdQ5.jpg[/IMG]
+
+4 - adjust the butterfly to a desired idle speed. Note that you will have lower idle when you put the air filter on, so go very slow closing the butterfly, like 1-2 turns at most, also you may need a "tamper proof security torx" bits to be able to touch the screw, I got mine on amazon.com at 9 usd
+
+dont go lower than 850 or 900 rpm, to keep oil pressure high
+I have a friend that idles at 750 rpm, for like 1 year no problems, but I stay on 900 rpm to be safe
+
+5 - test with air filter on, and adjust
+
+you will need to accelerate a little the bike to start it, specially when cold
+
+the only problem with the quick/dirty way is that you must warm up your bike by hand;
+when cold, give it a 1/4 turn to the throttle, start and then warm it up for about 1 minute, it may stall if it is very cold, so repeat until the engine idles ok
+
+also, the manual way of doing the low idle trick may set a error code, P0505 that is basically "loss of idle speed control", that means nothing more than the ECM telling that she cant get the idle to 1000 rpm like MoCo & EPA wants, and can be ignored or cleared with the clear codes procedure
+
+the gizmo I use is a combination of electromechanics, I send a signal to the IAC to keep the idle low closing the air passage that bypass the butterfly 
+
+with my gizmo that replaces the IAC, the bike will idle fast until warm, but is hard to make if you arent electronically inclined
+
+this week Im going to purchase a automotive EFI scanner, and make a cable to connect to the harley, and see what is going on with the ECM protocol
+
+I estimate this is going to be a 1 year project at least
+
+well, if you want I send you a email with the quick way to do a slow idle, just tell me your email
+
+cheers
