@@ -25,12 +25,19 @@ hardware : scanner ELM327 + cable casero ODB2 a J1850 (harley)
 
 	ELM327 -> https://listado.mercadolibre.com.ar/elm327
 
-	como hacer el cable - TO-DO : por explicar
+	como hacer el cable 
+	
+	https://github.com/stelian42/HarleyDroid/wiki/HarleyDroid-cable
 	
 	https://github.com/stelian42/HarleyDroid
-
-	J1850 Harley bus -- lo venden armado en amazon, pero se puede hacer facilmente
 	
+	se puede comprar listo: 
+		
+		https://ecmcables.com/
+		
+		https://www.obd2cables.com/products/
+	
+
 
 --- info de como armar el cable ---
 
