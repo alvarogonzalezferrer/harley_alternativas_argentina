@@ -2,15 +2,19 @@ Como fabricar un scanner de diagnostico para la moto casero con poca plata
 
 TO-DO - terminar este documento
 
+informacion : 
 
-app: Harley Droid 
+https://california-motorcycles.com/blogs/mecanicaharley/el-sistema-de-comunicaciones-can-bus-de-harley-davidson-hdlan
 
-https://play.google.com/store/apps/details?id=org.harleydroid
+software app: Harley Droid 
 
-software
+	https://play.google.com/store/apps/details?id=org.harleydroid
 
-hardware : ELM327 + cable casero 
 
-como hacer el cable - TO-DO : por explicar
+hardware : scanner ELM327 + cable casero ODB2 a J1850 (harley)
+
+	ELM327 -> https://listado.mercadolibre.com.ar/elm327
+
+	como hacer el cable - TO-DO : por explicar
 
 	J1850 Harley bus -- lo venden armado en amazon, pero se puede hacer facilmente
