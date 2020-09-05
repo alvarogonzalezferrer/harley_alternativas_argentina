@@ -51,10 +51,13 @@ Lista de partes
 		Cable de 3 hilos de 18 AWG (0,75 mm2)
      
 	Al lector ELM327:
-		1 x conector hembra J1979 (tiendas de automóviles)
+		1 x conector HEMBRA J1979 (tiendas de automóviles)
 
 Comprar partes:
-	Ficha moto: https://www.ebay.com/sch/&_nkw=72114-94BK
+	Ficha a la moto: https://www.ebay.com/sch/i.html?&_nkw=72114-94BK
+	
+	Ficha al lector ELM327 : https://www.amazon.com/OBD-II-Female-Connector-Extension-Diagnostic/dp/B06XYP9P91
+	https://www.ebay.com/itm/OBD2-16pin-Female-Connector-to-Open-OBD-Cable-OBDII-ODB2-Adaptor-30cm/223878151299?hash=item34202d7c83:g:k5wAAOSwfJJeLeAn
 
 --- info de como armar el cable ---
 
