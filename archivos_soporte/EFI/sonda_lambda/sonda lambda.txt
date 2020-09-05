@@ -7,3 +7,10 @@ Yo prefiero el Power Commander de Dynojet, pero hay muchos...
 
 
 TO-DO : hacer una lista, y explicar como engañar la sonda como hacen los Xieds que vende Night rider
+
+
+-- info a ordenar 
+
+Los IED y sus variantes son básicamente resistencias que alteran el voltaje del sensor de O2 y engañan al ECM haciéndole creer que el AFR es más fino de lo que realmente es, lo que lo impulsa a agregar más combustible a la mezcla. Solo funcionan en modo de bucle cerrado, es decir, de inactivo a aproximadamente 80KPA (~ 50% de aceleración), y no son funcionales por encima de ese punto en bucle abierto. Por lo tanto, WOT (acelerador abierto, wide open throttle) no se ve afectado por su presencia. Algunos de estos afirman permitir cambios hasta 13.8:1 AFR en circuito cerrado, pero esto está fuera de la funcionalidad de los sensores NB estándar y puede generar un código de falla que refleje esa condición.
+
+Si desea un poco más de enfriamiento y respuesta del acelerador en el rango de crucero y planea mantener la moto cerca del stock, estos pueden proporcionar algunas mejoras, pero eso es todo lo que harán. Por otro lado, si planea hacer cambios incluso moderados en la moto, necesita cambios de avance de chispa o AFR fuera de la funcionalidad de los sensores de O2, etc., necesitará un programador real de la ECM.
