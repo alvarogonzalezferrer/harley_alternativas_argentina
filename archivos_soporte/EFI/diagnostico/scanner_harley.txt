@@ -1,6 +1,12 @@
 Como fabricar un scanner de diagnostico para la moto casero con poca plata
 
-TO-DO - terminar este documento
+NOTA: Desde 2011, varios modelos HD están equipados con un CAN-BUS, también conocido como “HD-LAN”. Tiene 6 pines el enchufe en la moto.
+
+ATENCION: Esta información es solo para los modelos con conector de 4 pines, y ECU de Delphi.
+
+Sporster 2007 a 2013 tienen el conector de 4 pines, 2014 a 2020 el de 6 pines (y esta informacion NO sirve para esos modelos). Modelos 2006 y anteriores tienen CARBURADOR y no precisas renegar con la EFI (lo mejor!)
+
+TO-DO - terminar este documento ; ver info en https://svd.tools/
 
 informacion : 
 
