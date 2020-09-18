@@ -547,18 +547,20 @@ http://www.wstandardusa.com/index.php/battery/wex6l21-mf-1.html
 
 # Luces
 
-Se consiguen todas, son comunes, H4 la delantera, las otras llevar la muestra.
+Se consiguen todas en Argentina, son comunes, H4 la delantera, las otras llevar la muestra. **MODELOS MAS NUEVOS LLEVAN LUCES LED, verificar ANTES de comprar.**
 
-**MODELOS MAS NUEVOS LLEVAN LUCES LED**
+Delantera: **H4** - Puede ser reemplazada por una unidad LED más eficiente. Hay modelos Harley oficiales y también copias. Se puede reemplazar todo el conjunto, o solo el bulbo H4 por uno led.
 
-Delantera **H4** - Puede ser reemplazada por una unidad LED más eficiente. Hay modelos Harley oficiales y también copias.
+Reemplazo para luz delantera en LED : **Harley DayMaker** y modelos similares.
 
-Reemplazo para luz delantera en LED : Harley DayMaker : https://www.harley-davidson.com/store/daymaker-led-headlamp-pa-11-67700145--1
-El modelo es de 5-3/4" (5.75", 14,6 cm) de diametro, existen otras versiones en Amazon y Ebay mucho mas baratas y que cumplen la misma función.
+El modelo es de 5-3/4" (5.75", 14,6 cm) de diametro, existen otras versiones en Amazon, Mercado Libre, y Ebay mucho mas baratas y que cumplen la misma función.
 
-Trasera Osram P27-7W 12V **3157**
+Trasera: Osram P27-7W 12V **3157** ; en modelos modernos es de LED.
 
-Giros ? Delanteras son doble filamento en mis motos, en las versiones latinas filamento simple.
+Giros : 2013 y anteriores son luces de filamento. En modelos 2014 y superiores son de LED. *falta confirmarlo*
+En modelos para mercado USA, las luces de giro delanteras sirven de luz de posicion tambien, tienen doble filamento. En modelo latino son de filamento simple.
+Bulbo 1157 (US) frente, 1156 trasero (y delantero latino).
+Se puede modernizar con luces LED los modelos mas antiguos, viene un kit. Tambien se puede cambiar solo el bulbo por uno LED, para no cambiar todo.
 
 # Embrague
 
