@@ -88,9 +88,11 @@ https://www.youtube.com/watch?v=FAyTabHw-Gk
 
 Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al consecionario oficial Harley Davidson.
 
-Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos.
+Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos. No voy a recomendar ninguno, pero fui a varios y todos me atendieron excelentemente.
 
-https://www.harley-davidson.com.ar/
+Simplemente me quedan demasiado lejos de mi casa, y es mas divertido hacer las cosas uno mismo.
+
+Pero repito, si el problema supera nuestra habilidad, lo mejor es consultar a los profesionales.
 
 # Manuales
 
