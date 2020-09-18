@@ -16,7 +16,17 @@ Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
 Hacer este documento lleva mucho tiempo, esfuerzo e investigación.
 
-Si quieres ayudarme a continuar con mi trabajo, podes donar mediante Bitcoin a mi dirección, todo ayuda, pueden ser centavos, no importa!
+Si quieres ayudarme a continuar con mi trabajo, podes ayudarme de diferentes maneras.
+
+Registrarte con mis links referidos en:
+
+* Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** ; http://ubr.to/EatsGiveGet
+
+* Didi taxi: https://d.didiglobal.com/qMmgDGQszHDw6
+
+* Bitso: https://bitso.com/?ref=vyzyc
+
+**Donar** mediante Bitcoin a mi dirección, todo ayuda, pueden ser centavos, no importa!
 
 **33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q**
 
