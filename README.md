@@ -84,7 +84,7 @@ Estos apuntes surgen dado que toda pasión lleva a conocer mas el objeto de ador
 
 # Mecánicos
 
-Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al consecionario oficial [Harley Davidson](https://www.harley-davidson.com.ar/
+Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al concesionario oficial [Harley Davidson](https://www.harley-davidson.com.ar/
 ).
 
 Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos. No voy a recomendar ninguno, pero fui a varios y todos me atendieron excelentemente.
