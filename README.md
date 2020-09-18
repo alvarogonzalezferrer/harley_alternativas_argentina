@@ -813,6 +813,9 @@ Los modelos mas nuevos tienen un FOB de seguridad dificil de duplicar.
 
 Con el numero de VIN + prueba de propietario el dealer puede darnos una llave en caso de extravio.
 
+El manual del propietario dice: "Llaves de repuesto:
+Encuentre el número de cuatro dígitos de la llave impreso en el dorso de la llave frente al logotipo H-D. Con ese número, el concesionario Harley-Davidson puede pedir un repuesto."
+
 https://www.hdforums.com/forum/general-harley-davidson-chat/199881-how-to-get-a-replacement-key.html
 
 ## Programar el llavero con mando a distancia de seguridad
