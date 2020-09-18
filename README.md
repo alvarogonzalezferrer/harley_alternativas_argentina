@@ -72,7 +72,9 @@ La información de este documento sirve principalmente para modelos 2004 y mas n
 
 # Manuales
 
-El manual del *propietario* se puede bajar de:
+**La primer referencia que debemos consultar siempre es el manual del propietario, y sobre todo el manual de taller.**
+
+El manual del *propietario* se puede leer en la pagina oficial de Harley con nuestro VIN (numero de identificacion del vehiculo, esta en el cuadro y/o en la documentacion de la moto):
 
 https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm
 
@@ -88,6 +90,8 @@ Aca tengo un manual de taller interesante:
 *Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
 
 * Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
+
+* Otra pagina con un manual: https://www.casitodosportster.com/descargables
 
 * Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
@@ -805,7 +809,7 @@ Necesitamos una llave en blanco (sitios de venta online) y un buen cerrajero.
 
 Los modelos mas nuevos tienen un FOB de seguridad dificil de duplicar.
 
-Con el numero de VIN + prueba de propietario el dealer puede darnos una llave en caso de extravio. 
+Con el numero de VIN + prueba de propietario el dealer puede darnos una llave en caso de extravio.
 
 https://www.hdforums.com/forum/general-harley-davidson-chat/199881-how-to-get-a-replacement-key.html
 
