@@ -129,6 +129,8 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Economico
 
+*No recomendado, solo para desesperados*
+
 * Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
 * Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
 * Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
@@ -137,7 +139,7 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 ### Sintetico
 
 * Filtro: Mahle o HiFlo
-* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 10w60 (verano)
+* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 20w60 (verano)
 * Primaria : Castrol Power 1 4T 20w50
 
 ### Mineral
