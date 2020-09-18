@@ -4,6 +4,10 @@
 
 https://haynes.com/en-us/tips-tutorials/harley-davidson-sportster-history-1970-2013
 
+Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Company.
+
+Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
+
 ## Introducción
 
 Estas notas nacieron para el mantenimiento de mis motos. Me encanta la Sportster, tengo hace mas de 15 años, y la disfruto muchisimo.
