@@ -101,6 +101,28 @@ Podemos buscar online tambien:
 * https://www.duckduckgo.com/?q=sportster+workshop+manual
 * https://www.google.com/search?q=sportster+workshop+manual
 
+# Mantenimiento
+
+El buen mantenimiento es sinónimo de una motocicleta segura. Debe efectuarse una revisión cuidadosa de algunos equipos después de los períodos de almacenamiento.
+
+También debe inspeccionar frecuentemente la motocicleta entre los intervalos regulares de servicio para establecer si es necesario un mantenimiento adicional.
+
+Revise los siguientes elementos:
+
+1. Neumáticos, para comprobar la presión correcta y que no tengan abrasiones ni cortes.
+
+2. Correa y cadena primaria, para comprobar que tienen la tensión correcta y detectar desgaste o daño.
+
+3. Frenos, dirección y acelerador para establecer su respuesta y libres de atascamiento.
+
+4. Nivel y estado del líquido de frenos Líneas hidráulicas y dispositivos de conexión para detectar fugas. También compruebe el desgaste de las pastillas y discos de freno.
+
+5. Cables, para detectar desgaste o deshilache y que operen libremente.
+
+6. Niveles de aceite de motor y del guardacadena primario/transmisión.
+
+7. Funcionamiento correcto del faro delantero, la luz trasera, la luz de parada y de las señales de giro.
+
 # Cubiertas
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
