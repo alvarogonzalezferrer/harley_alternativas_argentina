@@ -103,9 +103,7 @@ Podemos buscar online tambien:
 
 # Mantenimiento
 
-El buen mantenimiento es sinónimo de una motocicleta segura. Debe efectuarse una revisión cuidadosa de algunos equipos después de los períodos de almacenamiento.
-
-También debe inspeccionar frecuentemente la motocicleta entre los intervalos regulares de servicio para establecer si es necesario un mantenimiento adicional.
+El buen mantenimiento es sinónimo de una motocicleta segura. Se debe inspeccionar frecuentemente la motocicleta entre los intervalos regulares de servicio para establecer si es necesario un mantenimiento adicional.
 
 Revise los siguientes elementos:
 
@@ -115,7 +113,7 @@ Revise los siguientes elementos:
 
 3. Frenos, dirección y acelerador para establecer su respuesta y libres de atascamiento.
 
-4. Nivel y estado del líquido de frenos Líneas hidráulicas y dispositivos de conexión para detectar fugas. También compruebe el desgaste de las pastillas y discos de freno.
+4. Nivel y estado del líquido de frenos. Líneas hidráulicas y dispositivos de conexión para detectar fugas. También compruebe el desgaste de las pastillas y discos de freno.
 
 5. Cables, para detectar desgaste o deshilache y que operen libremente.
 
