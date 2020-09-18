@@ -457,7 +457,11 @@ Los discos se pueden rectificar si estan rayados.
 
 ## Liquido de frenos
 
-Algunos años llevan DOT 5 (pre 2007 creo) y otros DOT 4.
+Los modelos 2006 y anteriores llevan DOT 5.
+
+Los modelos 2007 y posteriores llevan DOT 4.
+
+Por las dudas, **verificar** en la tapa del deposito de liquido de frenos, y el manual del año de la moto, antes de ponerle liquido!!
 
 **DOT 5 y DOT 4 NO SE PUEDEN MEZCLAR**
 
@@ -467,7 +471,7 @@ Para DOT 4, Wagner Lockheed se fabrica en Argentina.
 
 Para DOT 5, esta complicado, Bel Ray tiene liquido DOT 5; **todavia no consegui un lugar en Argentina donde tengan siempre. Espero sugerencias.**
 
-Notas sobre DOT 5: El DOT 5 es un fluido no higroscópico compuesto de silicona (polidemil siloxanos). No se puede utilizar en vehículos cuyo líquido de frenos tenga una base sintética. Absorbe gran cantidad de aire (tres veces más que los de tipo DOT 3 y DOT 4), sobre todo en alturas elevadas. Esto dificulta el proceso de purga, ya que el aire atrapado se expande al aumentar la temperatura. No se debe mezclar con ningún otro tipo de líquido de frenos. Su punto de ebullición es de 260ºC.
+Notas sobre **DOT 5**: es un fluido no higroscópico compuesto de silicona (polidemil siloxanos). No se puede utilizar en vehículos cuyo líquido de frenos tenga una base sintética. Absorbe gran cantidad de aire (tres veces más que los de tipo DOT 3 y DOT 4), sobre todo en alturas elevadas. Esto dificulta el proceso de purga, ya que el aire atrapado se expande al aumentar la temperatura. **No se debe mezclar con ningún otro tipo de líquido de frenos**. Su punto de ebullición es de 260ºC.
 
 # Bujias
 
@@ -710,7 +714,7 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 La velocidad de ralenti / idle en las motos de inyeccion electronica *no se puede alterar*. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
 
-La verdad es que **SI** se puede alterar la velocidad de ralenti, la moto de fábrica regula demasiado rapido, para cumplir con los hippies de la Unión Europea.
+La verdad es que **SI** se puede alterar la velocidad de ralenti, la moto de fábrica regula demasiado rapido para cumplir con los hippies de la Unión Europea, y sus normas de contaminación y ruido.
 
 La **IAC**, el motor paso a paso es el que controla el aire del ralenti. Se puede poner uno manual.
 
@@ -744,7 +748,7 @@ http://hammerperf.com/883conversions.shtml
 
 # Otros
 
-Puños, pedales, respaldos, etc, se fabrican personalizados... o se compran por eBay, Amazon, etc.
+Puños, pedales, respaldos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
 
 # Manuales
 
@@ -779,7 +783,7 @@ Para asegurar que la moto funcione bien al momento de volver a usarla, seguir es
 
 1. **Lavarla** bien, secarla y encerarla con cera protectora. Aplicar WD40 en las partes bajas de la moto para desplazar la humedad.
 
-2. Inflarle +5 psi cada **neumatico**, para evitar que se deformen (35 psi adelante, 40 psi atras)
+2. Inflarle +5 psi cada **neumatico**, para evitar que se deformen (35 psi adelante, 40 psi atras). Dejarla sobre un caballete seria lo ideal para quitar peso de los neumaticos.
 
 3. Rociar RAID anti **insectos** en las partes baja de la moto, un poquito, no esta de mas.
 
@@ -794,7 +798,6 @@ En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible,
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
 Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
-
 
 # Proximamente mas información
 
