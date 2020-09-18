@@ -80,13 +80,12 @@ Mi profesión es Licenciado en Informática.
 
 Estos apuntes surgen dado que toda pasión lleva a conocer mas el objeto de adoración.
 
-*"No detenga su motor, e investigue su interior"*
-
-https://www.youtube.com/watch?v=FAyTabHw-Gk
+[*"No detenga su motor, e investigue su interior"*](https://www.youtube.com/watch?v=FAyTabHw-Gk)
 
 # Mecánicos
 
-Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al consecionario oficial Harley Davidson.
+Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al consecionario oficial [Harley Davidson](https://www.harley-davidson.com.ar/
+).
 
 Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos. No voy a recomendar ninguno, pero fui a varios y todos me atendieron excelentemente.
 
