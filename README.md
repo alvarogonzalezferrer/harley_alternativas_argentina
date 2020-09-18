@@ -70,6 +70,28 @@ La información de este documento sirve principalmente para modelos 2004 y mas n
 
 **SOLO SE PERMITE EL USO NO COMERCIAL DE ESTA INFORMACIÓN.**
 
+# No soy mecánico!
+
+Solo soy un enamorado de las motos, y principalmente de mi Sportster.
+
+Mi primera moto la tuve a los 13 años, una Daelim Liberty 50cc, hace mas de 25 años atrás...
+
+Mi profesión es Licenciado en Informática.
+
+Estos apuntes surgen dado que toda pasión lleva a conocer mas el objeto de adoración.
+
+*"No detenga su motor, e investigue su interior"*
+
+https://www.youtube.com/watch?v=FAyTabHw-Gk
+
+# Mecánicos
+
+Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al consecionario oficial Harley Davidson.
+
+Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos.
+
+https://www.harley-davidson.com.ar/
+
 # Manuales
 
 **La primer referencia que debemos consultar siempre es el manual del propietario, y sobre todo el manual de taller.**
