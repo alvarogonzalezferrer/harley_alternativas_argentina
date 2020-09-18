@@ -797,7 +797,21 @@ http://hammerperf.com/883conversions.shtml
 
 Puños, pedales, respaldos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
 
+# Llaves
 
+## Duplicar la llave
+
+Necesitamos una llave en blanco (sitios de venta online) y un buen cerrajero.
+
+Los modelos mas nuevos tienen un FOB de seguridad dificil de duplicar.
+
+https://www.hdforums.com/forum/general-harley-davidson-chat/199881-how-to-get-a-replacement-key.html
+
+## Programar el llavero con mando a distancia de seguridad
+
+Esta función solo esta en modelos mas nuevos. Ver rl manual del propietario o este tutorial:
+
+https://www.hdforums.com/how-tos/a/harley-davidson-sportster-how-to-reprogram-key-fob-412757
 
 # Almacenar la moto
 
