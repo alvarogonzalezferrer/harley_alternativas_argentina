@@ -1,10 +1,16 @@
 # Harley Davidson Sportster
 
+*nota: historia de la evolucion de la Sportster*
+
+https://haynes.com/en-us/tips-tutorials/harley-davidson-sportster-history-1970-2013
+
 ## Introducción
 
-Este apunte surgió como un block de notas personal para el mantenimiento de mis motos. Me encanta la Sportster, tengo hace mas de 15 años, y la disfruto muchisimo.
+Estas notas nacieron para el mantenimiento de mis motos. Me encanta la Sportster, tengo hace mas de 15 años, y la disfruto muchisimo.
 
-Estas notas estan en constante evolucion, cada vez que encuentro nueva información o soluciones, las agrego. No se olviden de mirarlas a menudo, van creciendo dia a dia.
+El contenido esta en constante evolucion: cada vez que encuentro nueva información o soluciones, las agrego.
+
+**No se olviden de mirarlas a menudo, van creciendo dia a dia.**
 
 Ademas en la carpeta de archivos de soporte, hay informacion recopilada que puede ser muy util en el mantenimiento de la moto.
 
