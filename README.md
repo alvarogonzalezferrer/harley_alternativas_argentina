@@ -1,5 +1,17 @@
 # Harley Davidson Sportster
 
+## Introducción
+
+Este apunte surgió como un block de notas personal para el mantenimiento de mis motos. Me encanta la Sportster, tengo hace mas de 15 años, y la disfruto muchisimo.
+
+Estas notas estan en constante evolucion, cada vez que encuentro nueva información o soluciones, las agrego. No se olviden de mirarlas a menudo, van creciendo dia a dia.
+
+Ademas en la carpeta de archivos de soporte, hay informacion recopilada que puede ser muy util en el mantenimiento de la moto.
+
+Espero que la información les sea de mucha utilidad.
+
+Gracias por leer!
+
 ## Alternativas de repuestos en Argentina
 
 Lista de repuestos alternativos para Harley Davidson Sportster que se consiguen en Argentina
@@ -47,6 +59,31 @@ La HARLEY DAVIDSON SPORTSTER se fabrica desde 1957, las variantes de diseño y m
 La información de este documento sirve principalmente para modelos 2004 y mas nuevos. Algunas cosas pueden servir para modelos mas viejos.
 
 **SOLO SE PERMITE EL USO NO COMERCIAL DE ESTA INFORMACIÓN.**
+
+# Manuales
+
+El manual del *propietario* se puede bajar de:
+
+https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm
+
+Las hojas de *servicio* de piezas de:
+
+https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
+
+El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online.
+
+Aca tengo un manual de taller interesante:
+* [Manual de taller!](archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
+
+*Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
+
+* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
+
+* Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
+
+Podemos buscar online tambien:
+* https://www.duckduckgo.com/?q=sportster+workshop+manual
+* https://www.google.com/search?q=sportster+workshop+manual
 
 # Cubiertas
 
@@ -750,30 +787,7 @@ http://hammerperf.com/883conversions.shtml
 
 Puños, pedales, respaldos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
 
-# Manuales
 
-El manual del *propietario* se puede bajar de:
-
-https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm
-
-Las hojas de *servicio* de piezas de:
-
-https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
-
-El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online.
-
-Aca tengo un manual de taller interesante:
-* [Manual de taller!](archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
-
-*Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
-
-* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
-
-* Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
-
-Podemos buscar online tambien:
-* https://www.duckduckgo.com/?q=sportster+workshop+manual
-* https://www.google.com/search?q=sportster+workshop+manual
 
 # Almacenar la moto
 
