@@ -805,6 +805,8 @@ Necesitamos una llave en blanco (sitios de venta online) y un buen cerrajero.
 
 Los modelos mas nuevos tienen un FOB de seguridad dificil de duplicar.
 
+Con el numero de VIN + prueba de propietario el dealer puede darnos una llave en caso de extravio. 
+
 https://www.hdforums.com/forum/general-harley-davidson-chat/199881-how-to-get-a-replacement-key.html
 
 ## Programar el llavero con mando a distancia de seguridad
