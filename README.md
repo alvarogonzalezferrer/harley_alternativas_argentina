@@ -42,7 +42,9 @@ Si quieres ayudarme a continuar con mi trabajo, podes ayudarme de diferentes man
 
 Registrarte con mis links referidos en:
 
-* Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** ; http://ubr.to/EatsGiveGet
+* Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** : http://ubr.to/EatsGiveGet
+
+* Airbnb, obtenes un descuento si te registras con mi código (y yo también) :https://www.airbnb.co.cr/c/alvarog663
 
 * Didi taxi: https://d.didiglobal.com/qMmgDGQszHDw6
 
