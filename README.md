@@ -683,7 +683,7 @@ https://bs-battery.com/btx14hl-sla-max/
 
 https://www.motobatt.com/quadflex-batteries.html
 
-*Nota Octubre 2020: Motobatt esta vendiendo una version de litio para la Sportster a un precio delirante, superior a la bateria original de Harley, realmente no vale la pena comprar esa bateria. ¿por que dejaron de vender el modelo accesible? supongo que por el famoso y estupido "tenes harley jodete y paga de mas!"... no pienso comprar mas Motobatt, ademas de malos resultados, muy caras...*
+*Nota Octubre 2020: Motobatt esta vendiendo una version de litio para la Sportster a un precio delirante, superior a la bateria original de Harley, veremos que pasa luego de la pandemia...*
 
 **Poweroad YG14L-BS** - Re chinas, baratas, nunca las probé pero me comentaron que sirven incluso en motos con EFI... en caso de estar desesperado la usaré. Se consiguen facil.
 
