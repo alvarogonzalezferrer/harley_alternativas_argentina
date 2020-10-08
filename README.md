@@ -166,7 +166,9 @@ Metzeler tiene mejor grip, es mas blando el caucho, pero duran menos. Las prefie
 
 Las presion de inflado en frío debe ser de 36 psi delante, y 40 psi detrás con la moto cargada (2 pasajeros, equipaje), o 30 psi / 36 psi con solo el conductor. Podemos ajustar estos valores de acuerdo a la carga de la moto, ver el manual del propietario para mas información. Yo uso 30 psi adelante, 36 psi atras normalmente.
 
-Además, verifique el desgaste desigual de la banda de rodamiento, y cualquier deterioro en las paredes laterales y en la propia banda de rodamiento. Esto generalmente se mostrará como pequeñas grietas. Si sus gomas se ven afectadas, debe considerar reemplazarlas lo antes posible.
+## Desgaste
+
+Verifique el desgaste desigual de la banda de rodamiento, y cualquier deterioro en las paredes laterales y en la propia banda de rodamiento. Esto generalmente se mostrará como pequeñas grietas. Si sus gomas se ven afectadas, debe considerar reemplazarlas lo antes posible. Además los fabricantes colocan un "testigo" de desgaste en los neumaticos, donde podemos verificar si necesita ser reemplazado.
 
 ## Medidas
 
