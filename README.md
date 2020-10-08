@@ -331,9 +331,9 @@ https://serviceinfo.harley-davidson.com/sip/service/procedure/133204184750635643
 
 ### Otras marcas:
 
-**Valvoline Moto 20w50** -- especificacion API media vieja, SG, ver si se consigue la version SL y JASO MA2
+**Valvoline Moto 20w50** -- especificacion API media vieja, SG...
 
-**Valvoline Durablend 4t 20w50 X1lt - Semisintetico**  -- motor
+**Valvoline Durablend 4T 20w50 - Semisintetico**  -- motor y primaria, es API SL, JASO MA2, preferido al comun Valvoline
 
 Bel-Ray recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
 
