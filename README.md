@@ -517,6 +517,8 @@ Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
 ## Pastillas
 
+Se pueden reconstruir / reempastar las pastillas con **ferodo** nuevo. Hay casas que lo hacen. Si conocen alguna cerca de Capital Federal me avisan. Lo mejor es cambiarlas por NUEVAS de primera marca, pero dada la pauperrima situacion del pais, esto es lo que queda...
+
 **EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes; en mi experiencia frenan mejor que las originales de Harley, sobre todo con lluvia.
 
 Website: https://ebcbrakes.com/
@@ -649,6 +651,10 @@ Buscando en Mercado Libre : **YTX14L** salen varios modelos teóricamente compat
 Estos modelos traen bornes que sirven, la puse en 883 y 1200 con buen resultado:
 
 **SLA Max BTX14HL** - va perfecto, testeada agosto 2019, mejor que la Motobatt, tiene mas CCA y por lo tanto arranca mas facil el motor. Esta es la que yo prefiero, por calidad y precio es la mejor. *Lamentablemente en 2020 esta dificil conseguirla en Argentina*
+
+https://www.facebook.com/bsbatteryargentina/
+
+https://bs-battery.com/btx14hl-sla-max/
 
 **Motobatt Gel MBTX12U** - Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt). A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas. *Nota: En Octubre 2020 no habia ni una en venta en Argentina, ¿que paso, alguien sabe?*
 
