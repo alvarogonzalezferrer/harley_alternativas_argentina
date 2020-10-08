@@ -146,6 +146,10 @@ Revise los siguientes elementos:
 
 7. Funcionamiento correcto del faro delantero, la luz trasera, la luz de parada y de las señales de giro.
 
+# Archivos extra
+
+En la carpeta ["archivos_soporte"](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/tree/master/archivos_soporte) voy colocando archivos, diagramas, documentos, manuales, etc que pueden ser útiles. Revisarla también, ya que mucho de ese material todavía no fue incorporado a este documento, y contiene información valiosa e inédita.
+
 # Cubiertas
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
