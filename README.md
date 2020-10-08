@@ -591,7 +591,15 @@ http://www.nightrider.com/biketech/hdsparkplugs01.htm
 
 # Bateria
 
-Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años…
+Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años.
+
+Algo importante es verificar los **CCA** de la bateria *ANTES* de comprarla; al menos revisar sus dimensiones, la posicion del polo positivo, y sus CCA.
+
+Este dato es fundamental conocerlo cuando vamos a utilizar nuestra baterías en aplicaciones donde exista una demanda de corriente alta o también conocido cómo pico de arranque. Cuanto más altos sean los CCA, mejor encenderá con el motor frío.
+
+En las motos con inyección electronica (2007 y años superiores) tener una bateria que tenga CCA alto es fundamental, o nos va a costar arrancar (dado que tiene mas componentes electronicos que necesitan energia al momento del arranque).
+
+Mas informacion de los CCA de la bateria : https://es.wikipedia.org/wiki/Corriente_de_arranque_en_fr%C3%ADo
 
 ## Modelos 1979-1985
 
@@ -619,9 +627,16 @@ Buscando en Mercado Libre : **20HL BS** salen varios modelos teóricamente compa
 
 ## Modelos 2004 a 2020
 
-La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al revés, *se puede poner orientando los bornes hacia atrás y alargando los cables*)
+La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al **revés**, *se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables - TO-DO explicar mejor este procedimiento de emergencia / los cables que precisamos se hacen en talleres de auto-stereo*)
 
-Yuasa hace dos modelos que sirven: GYZ16HL (alta performance) / YTX14L-BS (comun)
+Características para buscar compatibles:
+
+---|---
+Dimensiones | 150mm x 87mm x 145mm
+CCA minimo | 200 (si tiene mas, mejor!)
+Voltaje | 12 v
+
+Yuasa hace dos modelos que sirven: **GYZ16HL** (alta performance) / **YTX14L-BS** (comun)
 
 https://www.yuasabatteries.com/battery/gyz16hl/
 
@@ -631,19 +646,20 @@ Lamentablemente Yuasa Argentina **no** importa (2020) ninguna de las dos... son 
 
 Buscando en Mercado Libre : **YTX14L** salen varios modelos teóricamente compatibles
 
-Esta trae bornes que sirven, la puse en 883 y 1200 con buen resultado:
+Estos modelos traen bornes que sirven, la puse en 883 y 1200 con buen resultado:
 
-**SLA Max BTX14HL** - va perfecto, testeada agosto 2019, mejor que la Motobatt
+**SLA Max BTX14HL** - va perfecto, testeada agosto 2019, mejor que la Motobatt, tiene mas CCA y por lo tanto arranca mas facil el motor. Esta es la que yo prefiero, por calidad y precio es la mejor. *Lamentablemente en 2020 esta dificil conseguirla en Argentina*
 
-**Motobatt Gel MBTX12U** - Gaona Motos, RPM1240 también la tiene
+**Motobatt Gel MBTX12U** - Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt). A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas. *Nota: En Octubre 2020 no habia ni una en venta en Argentina, ¿que paso, alguien sabe?*
 
-Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt)
+**Motobatt MBYZ16HD** - Motobatt tiene un modelo especifico para Harley (color negro con letras naranjas), que sirve y entrega los CCA correctos. La de color amarillo se queda un poco corta en CCA con las motos EFI, mientras que la especifica para Harley es correcta en su potencia.
 
-A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas
+https://www.motobatt.com/quadflex-batteries.html
 
-VER TAMBIEN BATERIAS DE LITIO COMPATIBLES, son carisimas
-Sirve la **WEX6L21-MF**
-http://www.wstandardusa.com/index.php/battery/wex6l21-mf-1.html
+**Poweroad YG14L-BS** - Re chinas, baratas, nunca las probé pero me comentaron que sirven incluso en motos con EFI... en caso de estar desesperado la usaré. Se consiguen facil.
+
+TAMBIEN HAY BATERIAS DE **LITIO** COMPATIBLES, son carisimas, pero entregan muchisimos CCA y son livianas:
+Sirve la **WEX6L21-MF** -> http://www.wstandard-energy.com/en/statistics/w-products-en/07-w-standard-wex6l21-mf-21ah
 
 *Ideas a explorar: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD*
 
