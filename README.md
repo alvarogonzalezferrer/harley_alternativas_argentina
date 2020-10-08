@@ -85,11 +85,11 @@ Estos apuntes surgen dado que toda pasión lleva a conocer mas el objeto de ador
 Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al concesionario oficial [Harley Davidson](https://www.harley-davidson.com.ar/
 ).
 
-Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos. No voy a recomendar ninguno, pero fui a varios y todos me atendieron excelentemente.
+Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos. No voy a recomendar ninguno en particular ya que todos los que estan establecidos son buenos. Comento que fui a varios y todos me atendieron excelentemente.
 
 Simplemente me quedan demasiado lejos de mi casa, y es mas divertido hacer las cosas uno mismo.
 
-Pero repito, si el problema supera nuestra habilidad, lo mejor es consultar a los profesionales.
+Pero repito, si el problema supera nuestra habilidad, **lo mejor es consultar a los profesionales**.
 
 # Manuales
 
@@ -164,7 +164,9 @@ Metzeler tiene mejor grip, es mas blando el caucho, pero duran menos. Las prefie
 
 ## Presión de inflado
 
-Las presion de inflado en frío debe ser de 36 psi delante, y 40 psi detrás. Además, verifique el desgaste desigual de la banda de rodamiento, y cualquier deterioro en las paredes laterales y en la propia banda de rodamiento. Esto generalmente se mostrará como pequeñas grietas. Si sus gomas se ven afectadas, debe considerar reemplazarlas lo antes posible.
+Las presion de inflado en frío debe ser de 36 psi delante, y 40 psi detrás con la moto cargada (2 pasajeros, equipaje), o 30 psi / 36 psi con solo el conductor. Podemos ajustar estos valores de acuerdo a la carga de la moto, ver el manual del propietario para mas información. Yo uso 30 psi adelante, 36 psi atras normalmente.
+
+Además, verifique el desgaste desigual de la banda de rodamiento, y cualquier deterioro en las paredes laterales y en la propia banda de rodamiento. Esto generalmente se mostrará como pequeñas grietas. Si sus gomas se ven afectadas, debe considerar reemplazarlas lo antes posible.
 
 ## Medidas
 
