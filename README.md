@@ -250,20 +250,26 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Sintetico
 
+*nota: esta dificil conseguir este Castrol en Argentina en 2020*
+
 * Filtro: Mahle o HiFlo
 * Motor : Castrol Power 1 4T 20w50 ó Motul 7100 20w60 (verano)
 * Primaria : Castrol Power 1 4T 20w50
 
 ### Mineral
 
+*nota: es facil conseguir reemplazos para esta opción*
+
 * Filtro: Mahle o HiFlo
-* Motor : Valvoline Moto 20w50
-* Primaria : Valvoline Moto 20w50
+* Motor : Castrol Actevo 20W50
+* Primaria : Castrol Actevo 20W50
 
-### Favorito mio
+### Favorito mio - semi sintetico
 
-* Motor : Castrol Power 1 4T 15w50 (semi syn)
-* Primaria: Castrol Power 1 4T 15w50 (semi syn)
+*nota: se puede reemplazar por Castrol Actevo X-Tra 20W50 que tambien es semi syn*
+
+* Motor : Castrol Power 1 4T 15w50
+* Primaria: Castrol Power 1 4T 15w50
 * Filtro : HiFlo cromado HF170C
 
 # Aceite de motor
@@ -325,7 +331,7 @@ https://serviceinfo.harley-davidson.com/sip/service/procedure/133204184750635643
 
 ### Otras marcas:
 
-**Valvoline Moto 20w50**
+**Valvoline Moto 20w50** -- especificacion API media vieja, SG, ver si se consigue la version SL y JASO MA2
 
 **Valvoline Durablend 4t 20w50 X1lt - Semisintetico**  -- motor
 
@@ -354,11 +360,11 @@ El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético.
 **Castrol** recomienda para Sportster, motor Y primaria:
 * Castrol Power 1 Racing 4T 10W-50
 * Castrol Power 1 4T 20W-50
-* Castrol Actevo 20W50
-* Castrol Actevo X-Tra 20w50 - semi synthetic
-* Castrol Power 1 V-Twin 4T 20W-50
+* **Castrol Actevo 20W50** - este se consigue facil, sirve para motor y primaria, y muchos lo usan con éxito
+* **Castrol Actevo X-Tra 20w50** - semi synthetic -- preferido y facil de conseguir en Argentina
+* **Castrol Power 1 V-Twin 4T 20W-50** - preferido, no lo vi nunca en Argentina
 
-**Silkolene** recomienda (motor y caja) Silkolene V-Twin 20w50, existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
+**Silkolene** recomienda (motor y caja) **Silkolene V-Twin 20w50**, existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
 
 https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 
@@ -370,7 +376,7 @@ Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone
 
 http://www.ipone.com.ar/
 
-**Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50
+**Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50 *lo vi en venta en 2019, 2020 no*
 
 **AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
 http://superoil.com/original/html/harley-davidson.htm
