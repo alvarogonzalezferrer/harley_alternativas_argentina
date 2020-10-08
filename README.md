@@ -536,16 +536,16 @@ Resumen EBC de pastillas de freno:
 
 **NOTA** : la XR1200R lleva pastillas especiales, ver la tabla!
 
-Modelo | Frente | Trasera
---------|---------|---------
-1979 a 1981 | FA071 | FA072
-1982 a 1983 | FA071 | FA078
-1984 a inicio 1987 | FA094 | FA078
-1987 a 1999 | FA094 | FA200
-2000-2003| FA400 | FA400
-2004 a 2013 |  FA381HH | FA387HH
-2014 a 2020 | FA640HH | FA254HH
-XR1200 / XR1200X | FA296HH (2u)| EPFA387HH
+Modelo             | Frente      | Trasera
+-------------------|-------------|---------
+1979 a 1981        | FA071       | FA072
+1982 a 1983        | FA071       | FA078
+1984 a inicio 1987 | FA094       | FA078
+1987 a 1999        | FA094       | FA200
+2000-2003          | FA400       | FA400
+2004 a 2013        |  FA381HH    | FA387HH
+2014 a 2020        | FA640HH     | FA254HH
+XR1200 / XR1200X   | FA296HH (2u)| EPFA387HH
 
 ## Discos
 
@@ -633,10 +633,11 @@ La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al **revés
 
 Características para buscar compatibles:
 
----|---
+Dato        | Detalle
+------------|-------------------------------
 Dimensiones | 150mm x 87mm x 145mm
-CCA minimo | 200 (si tiene mas, mejor!)
-Voltaje | 12 v
+CCA minimo  | 200 (si tiene mas, mejor!)
+Voltaje     | 12 v
 
 Yuasa hace dos modelos que sirven: **GYZ16HL** (alta performance) / **YTX14L-BS** (comun)
 
