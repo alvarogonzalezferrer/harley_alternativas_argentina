@@ -160,6 +160,10 @@ Harley vendió motos con cubiertas Dunlop, ó Michelin, en diferentes medidas se
 
 Metzeler tiene mejor grip, es mas blando el caucho, pero duran menos. Las prefiero sobre las Dunlop, que son mas duras y en lluvia no se agarran bien. Michelin no probé todavía...
 
+## Presión de inflado
+
+Las presion de inflado en frío debe ser de 36 psi delante, y 40 psi detrás. Además, verifique el desgaste desigual de la banda de rodamiento, y cualquier deterioro en las paredes laterales y en la propia banda de rodamiento. Esto generalmente se mostrará como pequeñas grietas. Si sus gomas se ven afectadas, debe considerar reemplazarlas lo antes posible.
+
 ## Medidas
 
 Harley proporciona una guia de tamaños de ruedas aqui : https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf
