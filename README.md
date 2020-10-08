@@ -1,9 +1,5 @@
 # Harley Davidson Sportster
 
-*nota: historia de la evolucion de la Sportster*
-
-https://haynes.com/en-us/tips-tutorials/harley-davidson-sportster-history-1970-2013
-
 Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Company.
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
@@ -149,6 +145,12 @@ Revise los siguientes elementos:
 # Archivos extra
 
 En la carpeta ["archivos_soporte"](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/tree/master/archivos_soporte) voy colocando archivos, diagramas, documentos, manuales, etc que pueden ser útiles. Revisarla también, ya que mucho de ese material todavía no fue incorporado a este documento, y contiene información valiosa e inédita.
+
+# Evolucion de la Sportster
+
+*TO-DO: ampliar esta sección*
+
+https://haynes.com/en-us/tips-tutorials/harley-davidson-sportster-history-1970-2013
 
 # Cubiertas
 
