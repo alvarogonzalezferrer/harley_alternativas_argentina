@@ -786,6 +786,8 @@ Ver este video: https://www.youtube.com/watch?v=zQnlt8twX3k
 
 Se pueden reconstruir los viejos en **Tosso frenos**, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace. (*info Octubre 2020*)
 
+Otro posible para reconstruir frenos y discos de embrague: FRAS-LE https://www.fras-le.com/
+
 **Info vieja**, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa
 
 *Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)*
