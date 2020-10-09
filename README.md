@@ -623,11 +623,27 @@ En las motos con inyección electronica (2007 y años superiores) tener una bate
 
 Mas informacion de los CCA de la bateria : https://es.wikipedia.org/wiki/Corriente_de_arranque_en_fr%C3%ADo
 
-## Modelos 1979-1985
+## Equivalencias Yuasa
+
+Lo mejor es buscar una batería según su equivalente en Yuasa, ya que son tomadas como referencia mundial por los demás fabricantes.
+
+Aqui un resumen, más abajo doy detalles. En negrita los años de moto más comunes en Argentina.
+
+Año(s)        |    Equivalencia Yuasa
+--------------|-------------------------
+pre 1979      |  no tengo información todavía          
+1979 a 1985   |  YB16-B-CX, GYZ20H, YTX20H-BS
+1986 a 1996   |  YTX20H-BS
+**1997 a 2003**   |  YTX20HL-BS
+**2004 a 2020**   |  YTX14L-BS
+
+*TO-DO : poner links a Mercado Libre etc para poder comprar*
+
+## Modelos 1979 a 1985
 
 Varios compatibles: YUASA YB16-B-CX, GYZ20H, YTX20H-BS.
 
-## Modelos 1986-1996
+## Modelos 1986 a 1996
 
 Modelo de Yuasa **YTX20H-BS** y compatibles.
 
