@@ -571,7 +571,7 @@ Modelo             | Frente      | Trasera
 2014 a 2020        | FA640HH     | FA254HH
 XR1200 / XR1200X   | FA296HH (2u)| EPFA387HH
 
-## Discos
+## Discos de freno
 
 Necesito investigar mas... hay reemplazos pero importados.
 
