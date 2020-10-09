@@ -539,6 +539,10 @@ Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
 Se pueden reconstruir / reempastar las pastillas con **ferodo** nuevo. Hay casas que lo hacen. Si conocen alguna cerca de Capital Federal me avisan. Lo mejor es cambiarlas por NUEVAS de primera marca, pero dada la pauperrima situacion del pais, esto es lo que queda...
 
+Testimonio de alguien que reempasto pastillas: *"les hice pegar los ferodos en Tosso frenos, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace"*
+
+Nota: los ferodos deben ser de 8.5 mm de espesor (*TO DO dato a confirmar con calibre en pastillas nuevas*)
+
 **EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes; en mi experiencia frenan mejor que las originales de Harley, sobre todo con lluvia.
 
 Website: https://ebcbrakes.com/
