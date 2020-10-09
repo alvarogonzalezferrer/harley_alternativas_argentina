@@ -816,7 +816,7 @@ http://www.alestel.com.ar/
 
 http://www.correasrincon.com.ar/
 
-# PINTURA
+# Pintura
 
 Tienen pintura de retoque en los colores de Harley:
 
@@ -827,6 +827,12 @@ Tienen pintura de retoque en los colores de Harley:
 > Dirección: Av. Victorica 951, B1744BWJ Gran Buenos Aires, Buenos Aires
 >
 > Teléfono:0237 462-2242
+
+# Cromados
+
+Hay buenas casas de cromado en Argentina, donde pueden cromar y restaurar nuestras piezas metalicas.
+
+*TO-DO poner links a las que uso yo, existen todavía?*
 
 # Carburador (2006 y anteriores)
 
