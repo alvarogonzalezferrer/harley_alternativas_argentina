@@ -783,6 +783,9 @@ Ver este video: https://www.youtube.com/watch?v=zQnlt8twX3k
 ![Sacar embrague](archivos_soporte/embrague/herramienta_comprimir_embrague.jpg)
 
 ## Discos de embrague
+
+Se pueden reconstruir los viejos en **Tosso frenos**, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace. (*info Octubre 2020*)
+
 **Info vieja**, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa
 
 *Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)*
