@@ -601,7 +601,9 @@ Notas sobre **DOT 5**: es un fluido no higroscópico compuesto de silicona (poli
 
 # Bujias
 
-**Champion RA8HC** -- las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso...
+**Champion RA8HC** -- las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso.
+
+**NGK DR7EA** -- son el equivalente de las Champion RA8HC, pero de marca NGK
 
 **NGK DCPR7E** -- van bien y se consiguen en Argentina, son las mismas que usa el Fiat 500 Sport motor 16v multiair y algunos Alfa Romeo
 
