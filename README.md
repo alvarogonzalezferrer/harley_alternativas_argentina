@@ -601,7 +601,7 @@ Notas sobre **DOT 5**: es un fluido no higroscópico compuesto de silicona (poli
 
 # Bujias
 
-Para sacarlas es muy fácil, estan en el lateral izquierdo de la moto. Se necesita una llave sacabujia de 16mm. Se pueden limpiar con un cepillito de bronce o un cepillo viejo dental. Ojo al colocarlas, ajustar NO es reventar! Ajustarlas sin reventar la rosca!
+Para sacarlas es muy fácil, estan en el lateral izquierdo de la moto. Se necesita una **llave sacabujia de 16mm** Se pueden limpiar con un cepillito de bronce o un cepillo viejo dental. Ojo al colocarlas, ajustar NO es reventar! Ajustarlas sin reventar la rosca!
 
 Si bien Harley solo recomienda el uso de bujías de marca Harley original, las otras marcas a menudo exceden las especificaciones originales, y a menudo es más conveniente usar bujías que podemos conseguir cerca de nuestro hogar.
 
