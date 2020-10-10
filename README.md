@@ -614,7 +614,7 @@ Las características son:
 * Largo de rosca: 19mm
 * Llave: 16mm
 
-**Champion RA8HC** : las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso.
+**Champion RA8HC** : las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso, se consiguen facil y barato en Argentina, las usan los motores Mercury 40/50/60 fuera de borda, buscar en casas de nautica.
 
 **NGK DCPR7E** : excelentes y se consiguen en Argentina, son las mismas que usa el Fiat 500 Sport motor 16v multiair y algunos Alfa Romeo.
 
