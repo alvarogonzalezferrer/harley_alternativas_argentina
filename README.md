@@ -619,7 +619,13 @@ http://www.harley-performance.com/harley-spark-plug.html
 
 http://www.nightrider.com/biketech/hdsparkplugs01.htm
 
-Referencia cruzada de bujias y equivalencias: https://www.sparkplug-crossreference.com/convert/CHAMP_PN/RA8HC
+Referencia cruzada de bujias y equivalencias:
+
+https://www.sparkplug-crossreference.com/convert/hd/6R12
+
+https://www.sparkplug-crossreference.com/convert/CHAMP_PN/RA8HC
+
+
 
 # Bateria
 
