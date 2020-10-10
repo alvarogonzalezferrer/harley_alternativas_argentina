@@ -908,7 +908,7 @@ Cuando se apaga el encendido, el ECM 'reinicia' el IAC enviando suficientes puls
 
 El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acelerador está abierto), la batería cae por debajo de 9v o el VSS se vuelve mayor que 0 (la moto se está moviendo).
 
-**Pronto mas información.**
+*TO-DO* **Pronto mas información.**
 
 # Convertir 883 a 1200
 
@@ -920,7 +920,7 @@ Este es el kit que yo tengo, Hammer Performance, super buena atención.
 
 http://hammerperf.com/883conversions.shtml
 
-*Pronto mas informacion...*
+*TO-DO* *Pronto mas informacion...*
 
 # Otros
 
@@ -971,6 +971,8 @@ Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la mot
 
 Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
 
-# Proximamente mas información
+# Próximamente más información
+
+No te olvides de **revisar frecuentemente** esta página, se actualiza con información nueva a menudo!
 
 Saludos y buenas rutas!
