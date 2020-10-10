@@ -603,21 +603,23 @@ Notas sobre **DOT 5**: es un fluido no higroscópico compuesto de silicona (poli
 
 **Champion RA8HC** -- las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso.
 
-**NGK DR7EA** -- son el equivalente de las Champion RA8HC, pero de marca NGK
-
 **NGK DCPR7E** -- van bien y se consiguen en Argentina, son las mismas que usa el Fiat 500 Sport motor 16v multiair y algunos Alfa Romeo
 
 **NGK DCPR8E-N** -- son brasileras y un poco mas frias que las 7E, se consiguen barato en Argentina, tambien las usan los Fiat
 
 NGK DCPR7EIX -- se consiguen en Argentina? Son japonesas. Intenté comprarlas en Mercado Garca, me cobraron una fortuna y me mandaron las comunes brasileras...
 
+NGK DR7EA -- son el equivalente de las Champion RA8HC, pero de marca NGK } **NO las recomiendo**
+
 luz 0,8 mm - verificar con manual
 
-Averiguar bien, aca hay lista de alternativas
+Averiguar bien, aca hay lista de alternativas:
 
 http://www.harley-performance.com/harley-spark-plug.html
 
 http://www.nightrider.com/biketech/hdsparkplugs01.htm
+
+Referencia cruzada de bujias y equivalencias: https://www.sparkplug-crossreference.com/convert/CHAMP_PN/RA8HC
 
 # Bateria
 
