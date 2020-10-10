@@ -1,4 +1,6 @@
 # Harley Davidson Sportster
+## Alternativas de mantenimiento
+### Apuntes del propietario
 
 Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Company.
 
@@ -6,7 +8,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 
 ## Introducción
 
-Estas notas nacieron para el mantenimiento de mis motos. Me encanta la Sportster, tengo hace mas de 15 años, y la disfruto muchisimo.
+Estas notas nacieron para el mantenimiento de mis motos. Me encanta la Sportster, tengo varias hace mas de 16 años, y la disfruto muchisimo.
 
 El contenido esta en constante evolucion: cada vez que encuentro nueva información o soluciones, las agrego.
 
