@@ -910,9 +910,33 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 *TO-DO* **Pronto mas información.**
 
-# Convertir 883 a 1200
+# Mejorar performance
 
-Es posible convertir una 883 a 1200, incluso a más, 1275cc por ejemplo, de manera relativamente sencilla. Se cambian cilindros, pistones, refuerzo el embrague, ajustar el encendido y el combustible y listo.
+Es posible obtener mucha mas performance que la que viene de fábrica en la moto.
+
+¿Que tanta potencia podemos obtener? Depende de cuanto queremos gastar... hay una relación directamente proporcional entre $ invertido y hp conseguido.
+
+Lo más barato, y común es hacer un Stage 1, y/o convertir una 883 a 1200 (*1250cc, 1275cc*)
+
+## Stage 1
+
+Agregar escape de alto flujo, filtro de aire de alto flujo, y remapear la EFI o recarburar.
+
+*TO-DO : agregar informacion*
+
+## Stage 2
+
+*TO-DO : agregar informacion*
+
+## Stage 3
+
+*TO-DO : agregar informacion*
+
+## Convertir 883 a 1200
+
+Es posible convertir una 883 a 1200, incluso a más, 1275cc por ejemplo, de manera relativamente sencilla.
+
+Se cambian cilindros, pistones, refuerzo el embrague, ajustar el encendido, y el combustible y listo.
 
 Hay muchos kits diferentes que se pueden elegir, yo opte por Hammer Performance, el cual considero el mejor.
 
@@ -924,7 +948,11 @@ http://hammerperf.com/883conversions.shtml
 
 # Otros
 
-Puños, pedales, respaldos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
+Puños, pedales, respaldos, manillares, asientos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
+
+Ahora se venden también nacionales, los vi en Mercado Libre. (2020)
+
+*TO-DO : agregar link a LCM covers y Tapiceria GALCE para los asientos; y demas links a covers, puños, etc, Barlitop para las alforjas de cuero, y hay otros mas*
 
 # Llaves
 
