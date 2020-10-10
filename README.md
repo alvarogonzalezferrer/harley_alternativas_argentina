@@ -950,6 +950,12 @@ Lo más barato, y común es hacer un Stage 1, y/o convertir una 883 a 1200 (*125
 
 Agregar escape de alto flujo, filtro de aire de alto flujo, y remapear la EFI o recarburar.
 
+En mi moto EFI tengo filtro Screamin' Eagle, escapes con un silenciador custom, y un Power Commander para el encendido.
+
+En la carburada tengo un filtro redondo generico de alto flujo, un escape SE II (no se fabrica mas pero hay clones en venta), y un kit Dynojet para el carburador.
+
+http://www.harley-performance.com/stage-1.html } info
+
 *TO-DO : agregar informacion*
 
 ## Stage 2
