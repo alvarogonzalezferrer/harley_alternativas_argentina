@@ -601,19 +601,35 @@ Notas sobre **DOT 5**: es un fluido no higroscópico compuesto de silicona (poli
 
 # Bujias
 
-**Champion RA8HC** -- las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso.
+Para sacarlas es muy fácil, estan en el lateral izquierdo de la moto. Se necesita una llave sacabujia de 16mm. Se pueden limpiar con un cepillito de bronce o un cepillo viejo dental. Ojo al colocarlas, ajustar NO es reventar! Ajustarlas sin reventar la rosca!
 
-**NGK DCPR7E** -- van bien y se consiguen en Argentina, son las mismas que usa el Fiat 500 Sport motor 16v multiair y algunos Alfa Romeo
+Si bien Harley solo recomienda el uso de bujías de marca Harley original, las otras marcas a menudo exceden las especificaciones originales, y a menudo es más conveniente usar bujías que podemos conseguir cerca de nuestro hogar.
 
-**NGK DCPR8E-N** -- son brasileras y un poco mas frias que las 7E, se consiguen barato en Argentina, tambien las usan los Fiat
+Las bujias marca Harley Davidson **6R12** tienen derivados en platinum, gold, etc y "Screaming Eagle".
 
-NGK DCPR7EIX -- se consiguen en Argentina? Son japonesas. Intenté comprarlas en Mercado Garca, me cobraron una fortuna y me mandaron las comunes brasileras...
+**NOTA**: esto solo aplica a **Sportster 883/1200**! - Otros modelos (XR1000, XL1100, y otras antiguas NO llevan esta bujia!)
 
-NGK DR7EA -- son el equivalente de las Champion RA8HC, pero de marca NGK } **NO las recomiendo**
+Las características son:
+* Diametro de rosca: 12mm
+* Largo de rosca: 19mm
+* Llave: 16mm
 
-luz 0,8 mm - verificar con manual
+**Champion RA8HC** : las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso.
 
-Averiguar bien, aca hay lista de alternativas:
+**NGK DCPR7E** : excelentes y se consiguen en Argentina, son las mismas que usa el Fiat 500 Sport motor 16v multiair y algunos Alfa Romeo.
+
+**NGK DCPR8E** : son brasileras y un poco mas frias que las 7E, se consiguen barato en Argentina, tambien las usan los Fiat y otros autos.
+
+**NGK DCPR7EIX**
+NGK DCPR8EIX
+
+Son las "iridium (IX), ¿se consiguen en Argentina? Son japonesas. Intenté comprarlas en Mercado Garca, me cobraron una fortuna y me mandaron las comunes brasileras...
+
+NGK DR7EA -- son el equivalente de las Champion RA8HC, pero de marca NGK } **NO las recomiendo, llevan una llave de 18mm aunque su rosca y largo son identicas**
+
+Luz 0,8 mm - *TO-DO verificar con manual*
+
+Aca hay lista de alternativas:
 
 http://www.harley-performance.com/harley-spark-plug.html
 
