@@ -554,7 +554,8 @@ Hay filtros de "alto flujo" o "personalizados" de todo tipo, es cuestion de mira
 
 ## Limpieza del filtro de aire
 
-*PROCEDIMIENTO SOLO APLICA PARA MODELOS 2004 Y MAS MODERNOS CON EL FILTRO ORIGINAL! (puede servir para otros filtros)*
+*NOTA: PROCEDIMIENTO SOLO APLICA PARA MODELOS 2004 Y MAS MODERNOS CON EL FILTRO ORIGINAL!*
+*NOTA: Puede servir para otros filtros, aparentemente los modelos noventosos también tienen filtro lavable, confirmar con el manual del año correspondiente!*
 
 *ATENCION*: Instale el filtro de aire **antes** de encender el motor. De lo contrario, puede entrar suciedad al motor y causar daño al motor.
 
