@@ -97,7 +97,11 @@ Pero repito, si el problema supera nuestra habilidad, **lo mejor es consultar a 
 
 **La primer referencia que debemos consultar siempre es el manual del propietario, y sobre todo el manual de taller.**
 
-El manual del *propietario* se puede leer en la pagina oficial de Harley con nuestro VIN (numero de identificacion del vehiculo, esta en el cuadro y/o en la documentacion de la moto):
+NOTA: Si no tenemos VIN, les dejo dos genericos que pueden usar:
+* Para carburadas 2004 a 2006: *5HD1CGP1X6K468728* (2006)
+* Para EFI, 2007 en adelante: *1HD1CT311CC442353* (2012)
+
+El manual del *propietario* se puede leer en la pagina oficial de Harley con nuestro **VIN** (numero de identificacion del vehiculo, esta en el cuadro y/o en la documentacion de la moto)
 
 https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm
 
