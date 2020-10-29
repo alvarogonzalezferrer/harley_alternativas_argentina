@@ -552,6 +552,27 @@ En caso de tener que cambiarlo, K&N tiene todos los reemplazos: https://www.knfi
 
 Hay filtros de "alto flujo" o "personalizados" de todo tipo, es cuestion de mirar los catalogos y elegir uno que nos guste.
 
+## Limpieza del filtro de aire
+
+*PROCEDIMIENTO SOLO APLICA PARA MODELOS 2004 Y MAS MODERNOS CON EL FILTRO ORIGINAL! (puede servir para otros filtros)*
+
+*ATENCION*: Instale el filtro de aire **antes** de encender el motor. De lo contrario, puede entrar suciedad al motor y causar daño al motor.
+
+A intervalos regulares, inspeccione el elemento del filtro de aire. Inspeccione más a menudo cuando las condiciones sean polvorientas.
+
+1. Extraiga el (los) tornillo(s) de la cubierta, la decoración (excepto el XL 1200V) y la cubierta del depurador de aire.
+2. Inspeccione el elemento del filtro.
+3. Si es necesario, quite y limpie el elemento del filtro de aire.
+
+*ATENCION*: **No utilice gasolina ni solventes para limpiar el elemento del filtro. Los agentes limpiadores inflamables pueden provocar un incendio en el sistema de admisión de aire.**
+
+*NOTA*: No golpee el filtro contra una superficie dura para aflojar la suciedad. Reemplace el elemento del filtro si está dañado o si el elemento no se puede limpiar.
+
+1. Lave el filtro en agua jabonosa tibia.
+2. Sostenga el filtro delante de una luz. El filtro está limpio si se puede ver la luz a través del mismo.
+3. Seque al sol, o soplando el filtro desde adentro con aire a presión baja.
+4. Reinstale el filtro de la misma manera que lo sacó, pero al revés. Recuerde colocar trabaroscas (Loctite) en las roscas.
+
 # Aceite Horquilla
 
 Se consigue el **Motul Fork Oil 20W** que es el que recomienda Motul para Harley
