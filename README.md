@@ -517,6 +517,26 @@ https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
 >
 >There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings.
 
+# Temperatura del aceite
+
+Condiciones normales: aceite dentro del tanque entre **220 F a 250 F**, con picos de **300 F** en ralenti, verano, o velocidad de crucero.
+
+
+Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas venden diferentes.
+
+Ver este enlace: https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
+
+Este tapón también se puede fabricar usando un termómetro de horno y modificando el original, o torneando uno.
+
+*Temperatura óptima del aceite según lo citado por Harley-Davidson en la edición de febrero de 2010 de la revista American Rider, página 49.*
+
+> Pregunta: "¿Cuáles son las temperaturas óptimas de funcionamiento del aceite para los motores XL y Twin Cam? Además, ¿cuál es la temperatura máxima segura para cada uno?"
+>
+> Respuesta: "La temperatura de funcionamiento óptima del aceite para ambos motores es en realidad un rango de temperatura que depende de la temperatura ambiente y el tipo de conducción. Idealmente, el aceite a granel (el aceite en el tanque de aceite) debe estar entre 220 y 250 grados F. Esto asegura que cualquier vapor de agua que ingrese al aceite del proceso de combustión sea vaporizado y pueda ser purgado del sistema por los respiraderos. Para temperaturas ambientales elevadas, el aceite a granel puede operar de manera segura a temperaturas de hasta 300 grados F durante en ralentí o en crucero interestatal de alta velocidad. El aceite de motor de Harley-Davidson ha sido especialmente formulado con un paquete antioxidante mejorado para minimizar los problemas de oxidación del aceite por encima de los 250 grados F.La alcalinidad de reserva de nuestras formulaciones también se ha aumentado para minimizar cualquier formación de ácido que podría ocurrir con temperaturas elevadas del aceite ".
+>
+> H-D no hizo una distinción entre sus aceites sintéticos y a base de petróleo, mientras que parece que solo están hablando de sus propios aceites que han sido formulados para estas temperaturas. El editor de la revista continúa recomendando el aceite sintético como la lubricación de elección en nuestros motores, en parte debido a su intervalo de cambio extendido, entre otras diferencias.
+> Tengo que preguntarme por un momento si las recomendaciones de temperaturas más altas (hasta 300 grados en aceite mineral HD) son toleradas por HD como legítimas por necesidad, simplemente debido al hecho de que las motos EFI tienden a funcionar más finas de nafta, y en consecuencia, más calientes que las motos carburadas. En cualquier caso, esto debería hacer que la mayoría de nosotros nos sintamos cómodos cuando la temperatura del aceite llega hasta los 200 sin usar un enfriador de aceite, y quizás otros cuestionen su necesidad del enfriador de aceite que han estado usando.
+
 # Filtro de aire
 
 El filtro de aire original es **lavable**.
