@@ -502,25 +502,28 @@ También sirve un **75w90** o similar, pero certificado para usar en primarias c
   Tiene **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
   **IPone ROAD TWIN 4T 15W50** - semi sintetico
 
-*Mas informacion:*
+*Mas informacion sobre aceite GL5 75w90:*
 
 GL5 Gear Oil - Is It Safe To Use In the Sporty? - ANSWERED - Harley Davidson Forums
 
 https://www.hdforums.com/forum/sportster-models/804458-gl5-gear-oil-is-it-safe-to-use-in-the-sporty-answered.html
 
-Red Line - no se consigue en Argentina pero dio informacion valiosa
+**Red Line** - no se consigue en Argentina, pero dio información valiosa:
 
 https://www.redlineoil.com/find-products-for-my-vehicle
 https://www.redlineoil.com/20w50-motorcycle-oil - motor
 https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
 
 > Thank you for contacting Red Line Oil, in the shared Sportster primary/transmission the 75W90 is recommended, a product that has been used extensively and performs well.
->
 > The 75W90 is the product we have have used for a number of years with very good results in Sportster/Buell transmissions, matching the viscosity and type fluid called for.
-> The 80W Motorcycle Gear Oil is a lower viscosity than called for, the ShockProof gear oils can due to their unique characteristics could cause sticking of the Harley clutches.
-> The 75W90 would be preferred and recommended over 80W Motorcycle Gear Oil in these applications.
->
+> The 80W Motorcycle Gear Oil is a lower viscosity than called for, the ShockProof gear oils can due to their unique characteristics could cause sticking of the Harley clutches. The 75W90 would be preferred and recommended over 80W Motorcycle Gear Oil in these applications.
 >There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings.
+
+*Traducción*
+
+>Gracias por ponerse en contacto con Red Line Oil, en la transmisión + primaria Sportster se recomienda el 75W90, un producto que se ha utilizado mucho y que funciona bien.
+>El 75W90 es el producto que hemos utilizado durante varios años con muy buenos resultados en transmisiones Sportster / Buell, igualando la viscosidad y el tipo de fluido requerido. El aceite para engranajes de motocicleta de 80W tiene una viscosidad más baja que la requerida, los aceites para engranajes a prueba de golpes pueden, debido a sus características únicas, causar atascos de los embragues de Harley. El 75W90 sería el preferido y recomendado sobre el aceite para engranajes de motocicleta de 80W en estas aplicaciones.
+>Puede haber problemas con algunos aceites para engranajes GL-5 en determinadas aplicaciones. Algunos pueden ser corrosivos para el latón, bronce o cobre, no es un problema con nuestros aceites para engranajes GL-5, no causan corrosión, picaduras o remoción de metal. En una transmisión equipada con sincronización, los modificadores de fricción contenidos en muchos aceites para engranajes pueden hacerlos demasiado resbaladizos, aunque no es el caso de una transmisión de motocicleta con anillos de perro.
 
 # Temperatura del aceite
 
