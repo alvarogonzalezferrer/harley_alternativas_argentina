@@ -97,7 +97,7 @@ Pero repito, si el problema supera nuestra habilidad, **lo mejor es consultar a 
 
 **La primer referencia que debemos consultar siempre es el manual del propietario, y sobre todo el manual de taller.**
 
-NOTA: Si no tenemos VIN, les dejo dos genericos que pueden usar:
+NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar:
 * Para noventosas 199x: *1HD1CAP14SY219269*  (1995)
 * Para carburadas 2004 a 2006: *5HD1CGP1X6K468728* (2006)
 * Para EFI, 2007 en adelante: *1HD1CT311CC442353* (2012) *1HD4LE218LB434556* (2020)
