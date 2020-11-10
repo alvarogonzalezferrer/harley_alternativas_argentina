@@ -257,10 +257,10 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Sintetico
 
-*nota: esta dificil conseguir este Castrol en Argentina en 2020*
+*nota: esta dificil conseguir este Castrol en Argentina en 2020, el Motul 300V si se consigue fácil*
 
 * Filtro: Mahle o HiFlo
-* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 20w60 (verano)
+* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 20w60 ó Motul 300V 15w60 / 20w60
 * Primaria : Castrol Power 1 4T 20w50
 
 ### Mineral
@@ -273,10 +273,10 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Favorito mio - semi sintetico
 
-*nota: se puede reemplazar por Castrol Actevo X-Tra 20W50 que tambien es semi syn*
+*nota: se puede reemplazar todo por Castrol Actevo X-Tra 20W50 que tambien es semi syn*
 
-* Motor : Castrol Power 1 4T 15w50
-* Primaria: Castrol Power 1 4T 15w50
+* Motor : Castrol Power 1 4T 15w50 ó Castrol Actevo X-Tra 20W50
+* Primaria: Castrol Power 1 4T 15w50 ó Castrol Actevo X-Tra 20W50
 * Filtro : HiFlo cromado HF170C
 
 # Aceite de motor
@@ -312,7 +312,7 @@ Mas info de la Viscosidad SAE :
 
 Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas).
 
-Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - SAE 20w50.
+Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - **SAE 20w50**.
 
 El **Formula+** mineral esta siendo discontinuado en USA, era el aceite que se usaba en primaria.
 
@@ -358,11 +358,11 @@ Da varias opciones mas, Motul 7100 10w40, 7100 20w50, y Motul 5100 10w40 segun e
 
 Uno bueno semi sintetico que se consigue en Argentina: Aceite **Motul 5100 4t 15w50**
 
-En sintetico se consigue **Motul 7100 10w60**, ideal para el verano (nota: investigarlo mas)
+En sintetico se consigue: **Motul 300V 15w50**, o **Motul 300V 20w60**, o **Motul 7100 10w60** (no lo probe, no lo puedo recomendar)
 
 https://www.motul.com/es/es/lubricants
 
-El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético.  
+El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético, y el 300V es sintetico con esteres (seria el de mejor calidad).  
 
 **Castrol** recomienda para Sportster, motor Y primaria:
 * Castrol Power 1 Racing 4T 10W-50
