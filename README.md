@@ -123,6 +123,10 @@ Aca tengo un manual de taller interesante:
 
 * Un foro con manuales: https://foroharley.com/forums/manuales-y-documentos.33/
 
+* Enciclopedia de la Sportster online : http://sportsterpedia.com/doku.php/start
+
+* Foro Sportster : http://xlforum.net
+
 * Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
 Podemos buscar online tambien:
