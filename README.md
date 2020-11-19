@@ -1040,7 +1040,7 @@ Este es el kit que yo tengo, Hammer Performance, super buena atención.
 
 http://hammerperf.com/883conversions.shtml
 
-!(1275cc kit)[/archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg]
+![1275cc kit](archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg)
 
 *TO-DO* *Pronto mas informacion...*
 
