@@ -934,7 +934,9 @@ https://www.youtube.com/watch?v=8Xs6ZjrAD6o
 
 Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podria taparse el carburador o ponerse fea las gomas internas.
 
-Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc. 
+Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
+
+![CV40 rebuild kit](archivos_soporte/carburador/cv40_rebuild_kit.jpg)
 
 # Inyección EFI (2007 en adelante)
 
