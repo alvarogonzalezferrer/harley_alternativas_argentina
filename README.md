@@ -930,6 +930,12 @@ Como limpiar el *filtro de nafta*:
 
 https://www.youtube.com/watch?v=8Xs6ZjrAD6o
 
+## Carburador tapado / reconstrucción
+
+Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podria taparse el carburador o ponerse fea las gomas internas.
+
+Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc. 
+
 # Inyección EFI (2007 en adelante)
 
 *Los inyectores 2007-2017 son Deplhi* <- nota para mi
