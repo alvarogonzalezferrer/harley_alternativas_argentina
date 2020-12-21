@@ -972,7 +972,7 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 ## Cambiar el filtro de nafta
 
-El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba.
+El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba. Según el manual se reemplaza a las 100 mil millas, o sea 160 000 km, un poco optimista me parece... 
 
 El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Drag Specialties unos 40 dolares.
 
