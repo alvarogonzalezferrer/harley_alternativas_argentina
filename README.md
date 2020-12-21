@@ -942,8 +942,6 @@ Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (
 
 *Los inyectores 2007-2017 son Deplhi* <- nota para mi
 
-*Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* <- nota para mi
-
 Mucha información sobre la EFI:
 
 http://sportsterpedia.com/doku.php/techtalk:evo:engctl03
@@ -974,7 +972,24 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 ## Cambiar el filtro de nafta
 
+El filtro de nafta en las motos EFI esta dentro del tanque de nafta, junto con su bomba.
+
+El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Drag Specialties unos 40 dolares.
+
+* Drag Specialties U$S 40 - P/N 0707-0014 -- https://www.dragspecialties.com/search;q=07070014
+
+* Harley ORIGINAL  US$ 110 - P/N 75304-07a  
+
+*Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* <- nota para mi // dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva
+*Si alguien conoce algun filtro similar automotriz de menor precio, que me informe por favor*
+
+Tutoriales para cambiarlo :
+
+* http://xlforum.net/forums/showthread.php?t=2014282
+
 * https://www.youtube.com/watch?v=EWng7GX_R44
+
+* https://youtu.be/rGvAhi8XAGo
 
 ## Velocidad de ralenti / idle
 
