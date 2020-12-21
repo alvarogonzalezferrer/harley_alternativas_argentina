@@ -920,6 +920,10 @@ Hay buenas casas de cromado en Argentina, donde pueden cromar y restaurar nuestr
 
 # Carburador CV40 (2006 y anteriores)
 
+La moto viene con un Keihin CV 40mm Carb (**1988-2006**).
+
+Para otros modelos, o mas informacion, consultar : http://sportsterpedia.com/doku.php/techtalk:evo:carb01
+
 No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
 
 En caso de quedar muchisimo tiempo parado, es conveniente limpiar los gicleur/chicler cuidadosamente. Ver el manual de desarme.
