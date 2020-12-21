@@ -972,13 +972,17 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 ## Cambiar el filtro de nafta
 
-El filtro de nafta en las motos EFI esta dentro del tanque de nafta, junto con su bomba.
+El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba.
 
 El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Drag Specialties unos 40 dolares.
 
 * Drag Specialties U$S 40 - P/N 0707-0014 -- https://www.dragspecialties.com/search;q=07070014
 
 * Harley ORIGINAL  US$ 110 - P/N 75304-07a  
+
+![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/filtro_nafta_reemplazables.jpg)
+
+![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/despiece_filtro_nafta.jpg)
 
 *Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* <- nota para mi // dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva
 *Si alguien conoce algun filtro similar automotriz de menor precio, que me informe por favor*
