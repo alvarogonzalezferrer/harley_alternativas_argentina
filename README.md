@@ -882,6 +882,8 @@ Su website : https://www.cometic.com/
 
 Mirar el catalogo de Cometic que hay para todo el motor, primaria, etc kits completos
 
+Otra buena alternativa, mas economica es James Gasket, https://www.jamesgaskets.com/
+
 # Rayos de la rueda
 
 Rayos 33
