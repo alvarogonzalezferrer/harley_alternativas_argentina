@@ -874,7 +874,7 @@ Otro posible para reconstruir frenos y discos de embrague: FRAS-LE https://www.f
 
 *Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)*
 
-# Juntas de motor
+# Juntas para el motor y otras partes 
 
 La marca **Cometic** son MUY superiores a las originales de Harley
 
