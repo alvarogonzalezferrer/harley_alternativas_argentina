@@ -940,6 +940,16 @@ Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podria tap
 
 Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "CV40 rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
 
+Tutorial para reconstruir el carburador CV40:
+
+* parte 1 http://sportsterpedia.com/doku.php/techtalk:evo:carb01a
+
+* parte 2 http://sportsterpedia.com/doku.php/techtalk:evo:carb02
+
+Identificar el carburador: http://sportsterpedia.com/doku.php/techtalk:evo:carb01b
+
+Reparar el "choke" / cebador : http://sportsterpedia.com/doku.php/techtalk:evo:carb01f
+
 Kit de reconstruccion:
 
 ![CV40 rebuild kit](archivos_soporte/carburador/cv40_rebuild_kit.jpg)
