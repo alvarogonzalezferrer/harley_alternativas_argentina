@@ -874,7 +874,7 @@ Otro posible para reconstruir frenos y discos de embrague: FRAS-LE https://www.f
 
 *Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)*
 
-# Juntas para el motor y otras partes 
+# Juntas para el motor y otras partes
 
 La marca **Cometic** son MUY superiores a las originales de Harley
 
@@ -1140,6 +1140,64 @@ En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible,
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
 Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
+
+# Catalogos online / comprar repuestos
+
+## Como comprar
+
+Traer cosas del exterior a Argentina es siempre un dolor de cabeza, gracias a las estupidas politicas proteccionistas. Pero hay maneras...
+
+* valija de un amigo (el metodo preferido)
+
+* graber (simil a valija de un amigo)
+
+* servicios de courier, tipo Tienda Mia
+
+* correo argentino y rezar mucho que llegue
+
+* etc, debo investigar mas...
+
+{a desarrollar}
+
+## Donde comprar
+
+Sitios donde podemos comprar cosas para nuestra moto(s):
+
+*lista muy preliminar, mas info pronto*
+
+https://www.dragspecialties.com/
+
+amazon
+
+ebay
+
+mercadolibre
+
+jpcycles
+
+biltwell
+
+custom chrome
+
+arlen ness
+
+revzilla
+
+sportsterspecialty
+
+hammer performance
+
+luckyspeedshop
+
+lowbrow customs
+
+dennis kirk
+
+bike bandit
+
+y muchos mas
+
+
 
 # Próximamente más información
 
