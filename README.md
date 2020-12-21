@@ -30,7 +30,7 @@ Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos a
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
 
-**Documento Actualizado 17/09/2020** , 83500 km recorridos sin problemas.
+**Documento Actualizado 21/12/2020** , 83500 km recorridos sin problemas.
 
 ## Donaciones
 
