@@ -918,7 +918,7 @@ Hay buenas casas de cromado en Argentina, donde pueden cromar y restaurar nuestr
 
 *TO-DO poner links a las que uso yo, existen todavía?*
 
-# Carburador (2006 y anteriores)
+# Carburador CV40 (2006 y anteriores)
 
 No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
 
@@ -934,9 +934,16 @@ https://www.youtube.com/watch?v=8Xs6ZjrAD6o
 
 Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podria taparse el carburador o ponerse fea las gomas internas.
 
-Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
+Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "CV40 rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
+
+Kit de reconstruccion:
 
 ![CV40 rebuild kit](archivos_soporte/carburador/cv40_rebuild_kit.jpg)
+
+Diagrama del carburador CV40:
+
+![CV40](archivos_soporte/carburador/HD04XL_CV40-CARBURETOR-SCHEMATIC.gif)
+
 
 # Inyección EFI (2007 en adelante)
 
