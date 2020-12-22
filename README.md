@@ -48,14 +48,6 @@ Si quieres ayudarme a continuar con mi trabajo, podes ayudarme de diferentes man
 
 * Bitso: https://bitso.com/?ref=vyzyc
 
-**Para pedir tus repuestos a EEUU**
-
-Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
-
-* Tienda Mia: https://tiendamia.com/ar/invite/70506fb664fc94d
-
-* Grabr: https://grabr.io/invitation/alvaro-gonzalezd2
-
 **Donar** mediante Bitcoin a mi dirección, todo ayuda, pueden ser centavos, no importa!
 
 **33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q**
@@ -1155,11 +1147,11 @@ Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de 
 
 Traer cosas del exterior a Argentina es siempre un dolor de cabeza, gracias a las estupidas politicas proteccionistas. Pero hay maneras...
 
-* valija de un amigo (el metodo preferido)
+* Valija de un amigo (el metodo preferido)
 
-* graber (simil a valija de un amigo)
+* Grabr (simil a valija de un amigo): https://grabr.io/invitation/alvaro-gonzalezd2
 
-* servicios de courier, tipo Tienda Mia
+* Tienda Mia, courier: https://tiendamia.com/ar/invite/70506fb664fc94d
 
 * correo argentino y rezar mucho que llegue
 
