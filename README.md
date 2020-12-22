@@ -38,7 +38,7 @@ Hacer este documento lleva mucho tiempo, esfuerzo e investigación.
 
 Si quieres ayudarme a continuar con mi trabajo, podes ayudarme de diferentes maneras.
 
-Registrarte con mis links referidos en:
+**Registrarte** con mis links referidos en:
 
 * Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** : http://ubr.to/EatsGiveGet
 
@@ -47,6 +47,14 @@ Registrarte con mis links referidos en:
 * Didi taxi: https://d.didiglobal.com/qMmgDGQszHDw6
 
 * Bitso: https://bitso.com/?ref=vyzyc
+
+**Para pedir tus repuestos a EEUU**
+
+Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
+
+* Tienda Mia: https://tiendamia.com/ar/invite/70506fb664fc94d
+
+* Grabr: https://grabr.io/invitation/alvaro-gonzalezd2
 
 **Donar** mediante Bitcoin a mi dirección, todo ayuda, pueden ser centavos, no importa!
 
