@@ -38,11 +38,19 @@ Hacer este documento lleva mucho tiempo, esfuerzo e investigación.
 
 Si quieres ayudarme a continuar con mi trabajo, podes ayudarme de diferentes maneras.
 
-**Registrarte** con mis links referidos en:
+Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
+
+Sirve tambien para pedir computadoras, celulares, ropa, etc, vos obtenes un descuento y yo también en mi próximo pedido, los dos ganamos!
+
+* Tienda Mia: https://tiendamia.com/ar/invite/70506fb664fc94d
+
+* Grabr: https://grabr.io/invitation/alvaro-gonzalezd2
+
+**Registrarte** con mis links referidos en (te dan descuento a vos y a mi!):
 
 * Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** : http://ubr.to/EatsGiveGet
 
-* Airbnb, obtenes un descuento si te registras con mi código (y yo también) :https://www.airbnb.co.cr/c/alvarog663
+* Airbnb: https://www.airbnb.co.cr/c/alvarog663
 
 * Didi taxi: https://d.didiglobal.com/qMmgDGQszHDw6
 
@@ -1147,11 +1155,13 @@ Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de 
 
 Traer cosas del exterior a Argentina es siempre un dolor de cabeza, gracias a las estupidas politicas proteccionistas. Pero hay maneras...
 
-* Valija de un amigo (el metodo preferido)
+Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
 
-* Grabr (simil a valija de un amigo): https://grabr.io/invitation/alvaro-gonzalezd2
+* Tienda Mia: https://tiendamia.com/ar/invite/70506fb664fc94d
 
-* Tienda Mia, courier: https://tiendamia.com/ar/invite/70506fb664fc94d
+* Grabr: https://grabr.io/invitation/alvaro-gonzalezd2
+
+* Valija de un amigo que viaje al exterior... ojo que la aduana esta picante...
 
 * correo argentino y rezar mucho que llegue
 
