@@ -167,9 +167,45 @@ En la carpeta ["archivos_soporte"](https://github.com/alvarogonzalezferrer/harle
 
 # Evolucion de la Sportster
 
-*TO-DO: ampliar esta sección*
+La Sportster es una línea de motocicletas producidas continuamente desde 1957 por la compañía Harley-Davidson. Los modelos Sportster se designan con el código de producto comenzando con "XL" haciendo referencia al que en su día fue un modelo eXperimental Ligero (eXperimental Light).
+
+En 1952 se introdujo al mercado los predecesores del Sportster, el Modelo K Sport, y Sport Solo.
+
+Estos modelos K, KH, y KHK de 1952-1956 no son siempre considerados Sportsters, pero son definitivamente inspiración y precursores de la línea. Básicamente para competir con las marcas europeas de motocicletas, principalmente las británicas.
+
+Las Sportster son potenciadas por verdaderos motores V-twin de 45 grados, donde ambos cilindros comparten un mismo eje.
+
+Las Sportsters tienen la transmisión enlazada al motor con una cadena de transmisión primaria, y un embrague húmedo hidráulico de discos múltiples.
+
+Este modelo en 1958 incorpora el "peanut tank" característico hasta la fecha del mismo, aunque su capacidad ha variado ligeramente a través de los años.
+
+Los modelos de los 60´s incorporan los escapes "shorty dual" que se continuaron con muy ligeras modificaciones. En 1967 se incluyó el arranque eléctrico y en 1969 se ponen silenciadores en los escapes por la contaminación acústica (ruido).
+
+Para los años 70´s los modelos HD sportster inician su batalla con las motos japonesas, para ello en 1972 se sube a 1,000 cc la cilindrada del motor.
+
+En 1983 se relanza al mercado el modelo "XL" que había desaparecido en 1959. En 1986 se equipan con motores "evolution" conocido comúnmente como EVO.
+
+Los modelos de 1991 en adelante tienen cinco velocidades, 1990 y anteriores tienen cuatro.
+
+Desde 2004, se rediseña completamente el modelo, iniciando con un cambio radical en el cuadro que permitió montar el motor sobre tacos de goma, reduciendo la vibración transmitida al motociclista. Se oculta el comunicador de los escapes bajo los mismos, y se modifica el ancho de la rueda trasera de 130 a 150 mm.
+
+A partir del 2007, y en plena celebración del 50th aniversario de la línea iniciada en 1957, los modelos Sportster reemplazan su carburador por un sistema de inyección de combustible electrónico EFI.
+
+Y a partir de 2014 se incorporaron nuevos frenos con rotores agrandados de 292mm a 300mm, ABS opcional, Sistema eléctrico integrado, con velocímetro análogo y tacometro digital con indicador de RPM, y marchas. Rediseño de nuevos controles manuales. Sistema de seguridad inteligente y manos libres. Nuevo sistema de escape, sensor de O2 calefaccionado, todo para reducir las emisiones contaminantes. Programa de personalización de fábrica H-D1 que permite solicitar pinturas, llantas, y demás detalles especiales desde la fábrica. Nuevos colores y emblemas de tanque.
+
+Septiembre 2020 trajo noticias tristes de la mano de los culo roto de la Unión Europea: Harley-Davidson dejará de ofrecer sus modelos Sportster y Street en Europa, gracias a las normas de emisiones Euro 5 que entrarán en vigor a finales de año 2020. Los modelos Sportsters y Street seguirán vendiéndose en Norteamérica y otros mercados que no están sujetos a Euro 5 o estándares equivalentes, pero para Europa, Harley-Davidson descontinuará sus modelos más pequeños y asequibles. La noticia llega días después de que Harley-Davidson anunciara el fin de sus operaciones en India.
+
+No es ningún secreto que la línea Sportster, tal como la conocemos, está en su etapa final. Harley-Davidson ya confirmó que los Sportsters no se actualizarán para cumplir con Euro 5 y se descontinuarán efectivamente en Europa.
+
+*Mas info* :
 
 https://haynes.com/en-us/tips-tutorials/harley-davidson-sportster-history-1970-2013
+
+https://www.hdforums.com/forum/sportster-models/1304092-six-decades-of-the-sportster-is-coming-to-a-close.html
+
+https://ultimatemotorcycling.com/2014/09/16/harley-davidson-sportster-history-reaching-every-niche/
+
+https://www.lowbrowcustoms.com/blogs/events-features/history-harley-davidson-sportster-blowing-away-big-twins-since-1957
 
 # Cubiertas
 
