@@ -48,7 +48,7 @@ Sirve tambien para pedir computadoras, celulares, ropa, etc, vos obtenes un desc
 
 **Registrarte** con mis links referidos en (te dan descuento a vos y a mi!):
 
-* Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** : http://ubr.to/EatsGiveGet
+* Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** o registrate en este link para un gran descuento: https://ubereats.app.link/v9il8Gn07cb
 
 * Airbnb: https://www.airbnb.co.cr/c/alvarog663
 
