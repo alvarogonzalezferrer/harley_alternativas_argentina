@@ -1213,13 +1213,17 @@ Sitios donde podemos comprar cosas para nuestra moto(s):
 
 https://www.dragspecialties.com/
 
+https://www.denniskirk.com/
+
+https://www.jpcycles.com
+
+https://houseofharley.com/
+
 amazon
 
 ebay
 
 mercadolibre
-
-jpcycles
 
 biltwell
 
@@ -1236,8 +1240,6 @@ hammer performance
 luckyspeedshop
 
 lowbrow customs
-
-dennis kirk
 
 bike bandit
 
