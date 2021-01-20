@@ -14,7 +14,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
   * [Introducción](#introducción)
   * [Alternativas de repuestos en Argentina](#alternativas-de-repuestos-en-argentina)
   * [Donaciones](#donaciones)
-  * [ATENCIÓN](#atención)
+  * [ATENCIÓN - NO HAY GARANTÍAS!](#atención)
 - [No soy mecánico!](#no-soy-mecánico-)
 - [Mecánicos en Argentina](#mecánicos)
 - [Manuales](#manuales)
