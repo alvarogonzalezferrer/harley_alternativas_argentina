@@ -698,11 +698,11 @@ Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras 
 
 Kit que vende Harley oficial:
 
-![oil cooler kit](archivos_soporte\radiador_aceite/hd_sin_adaptador/radiador_aceite_kit_HD_PN_62700082.jpg)
+![oil cooler kit](archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_aceite_kit_HD_PN_62700082.jpg)
 
 Asi queda instalado:
 
-![oil cooler kit](archivos_soporte\radiador_aceite/hd_sin_adaptador/radiador_instalado_HD.jpg)
+![oil cooler kit](archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_instalado_HD.jpg)
 
 Por ahora podes empezar leyendo la información siguiente:
 
