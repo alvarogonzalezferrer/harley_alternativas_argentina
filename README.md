@@ -669,7 +669,7 @@ Condiciones normales: aceite dentro del tanque entre **220 F a 250 F**, con pico
 
 Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas venden diferentes.
 
-![Oil temp dipstick](archivos_soporte\radiador_aceite\oil_temp_plug.jpg)
+![Oil temp dipstick](archivos_soporte/radiador_aceite/oil_temp_plug.jpg)
 
 Ver este enlace: https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
 
@@ -696,7 +696,13 @@ Donde comprarlo depende de donde vivas, no se en que pais estas.
 
 Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones.
 
-![oil cooler kit](archivos_soporte/)
+Kit que vende Harley oficial:
+
+![oil cooler kit](archivos_soporte\radiador_aceite/hd_sin_adaptador/radiador_aceite_kit_HD_PN_62700082.jpg)
+
+Asi queda instalado:
+
+![oil cooler kit](archivos_soporte\radiador_aceite/hd_sin_adaptador/radiador_instalado_HD.jpg)
 
 Por ahora podes empezar leyendo la información siguiente:
 
