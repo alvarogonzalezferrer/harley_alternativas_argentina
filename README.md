@@ -593,6 +593,30 @@ Este tapón también se puede fabricar usando un termómetro de horno y modifica
 > H-D no hizo una distinción entre sus aceites sintéticos y a base de petróleo, mientras que parece que solo están hablando de sus propios aceites que han sido formulados para estas temperaturas. El editor de la revista continúa recomendando el aceite sintético como la lubricación de elección en nuestros motores, en parte debido a su intervalo de cambio extendido, entre otras diferencias.
 > Tengo que preguntarme por un momento si las recomendaciones de temperaturas más altas (hasta 300 grados en aceite mineral HD) son toleradas por HD como legítimas por necesidad, simplemente debido al hecho de que las motos EFI tienden a funcionar más finas de nafta, y en consecuencia, más calientes que las motos carburadas. En cualquier caso, esto debería hacer que la mayoría de nosotros nos sintamos cómodos cuando la temperatura del aceite llega hasta los 200 sin usar un enfriador de aceite, y quizás otros cuestionen su necesidad del enfriador de aceite que han estado usando.
 
+## Radiador de aceite
+
+*seccion en desarrollo*
+
+La parte de como elegir y comprar un radiador de aceite todavia no la escribi. Primero fijate si calienta, si no es necesario no lo compres. Donde comprarlo depende de donde vivas, no se en que pais estas.
+
+Tambien se puede fabricar o adaptar un radiador de aceite de otra moto u otras aplicaciones. Hay muchas opciones. Por ahora podes empezar por aca:
+
+http://sportsterpedia.com/doku.php/techtalk:ref:oil14
+
+https://www.google.com/search?q=sportster+oil+cooler
+
+https://jagg.com/collections/harley-davidson-sportster
+
+https://www.jpcycles.com/harley-sportster-oil-cooler-kits
+
+-- adaptar
+
+https://motos.mercadolibre.com.ar/repuestos-cuatriciclos/radiador-aceite
+
+Zanella RZ 25
+
+Gilera VC 200R
+
 # Filtro de aire
 
 El filtro de aire original es **lavable**.
