@@ -731,6 +731,17 @@ Radiadores de las siguientes motos tienen dimensiones adecuadas
 
 En el pasado se adaptaba el del Citroen 3CV pero es grande y feo.
 
+La mayor complicacion es conseguir las lineas de aceite, podemos ir a una casa de hidraulica para que las fabriquen. Y conseguir los terminales o "racord" (los bulones perforados que permiten el paso de aceite en cada punta de manguera).
+
+Algunas casas de hidraulica en Argentina
+* http://www.todoflex.com.ar/ <- esta tiene todo, las magueras y los acoples necesarios
+* http://mangueraflexarg.com.ar/ <- catalogo muy completo
+* https://conman.com.ar/ <- tienen racords adecuados en catalogo
+* http://manguerashidraulicas.com/
+* https://www.hidraulicagomar.com.ar/
+* http://www.hidraulicasanfco.com.ar/
+
+
 # Filtro de aire
 
 El filtro de aire original es **lavable**.
