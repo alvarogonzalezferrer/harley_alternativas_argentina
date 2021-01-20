@@ -667,12 +667,13 @@ https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
 
 Condiciones normales: aceite dentro del tanque entre **220 F a 250 F**, con picos de **300 F** en ralenti, verano, o velocidad de crucero.
 
-
 Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas venden diferentes.
+
+![Oil temp dipstick](archivos_soporte\radiador_aceite\oil_temp_plug.jpg)
 
 Ver este enlace: https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
 
-Este tapón también se puede fabricar usando un termómetro de horno y modificando el original, o torneando uno.
+Este tapón también se puede *fabricar* usando un termómetro de horno y modificando el original, o torneando uno.
 
 *Temperatura óptima del aceite según lo citado por Harley-Davidson en la edición de febrero de 2010 de la revista American Rider, página 49.*
 
@@ -693,7 +694,11 @@ Primero fijate si calienta, si no es necesario no lo compres.
 
 Donde comprarlo depende de donde vivas, no se en que pais estas.
 
-Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones. Por ahora podes empezar por aca:
+Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones.
+
+![oil cooler kit](archivos_soporte/)
+
+Por ahora podes empezar leyendo la información siguiente:
 
 http://sportsterpedia.com/doku.php/techtalk:ref:oil14
 
