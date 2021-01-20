@@ -687,9 +687,13 @@ Este tapón también se puede fabricar usando un termómetro de horno y modifica
 
 *seccion en desarrollo*
 
-La parte de como elegir y comprar un radiador de aceite todavia no la escribi. Primero fijate si calienta, si no es necesario no lo compres. Donde comprarlo depende de donde vivas, no se en que pais estas.
+La parte de como elegir y comprar un radiador de aceite todavia no la terminé.
 
-Tambien se puede fabricar o adaptar un radiador de aceite de otra moto u otras aplicaciones. Hay muchas opciones. Por ahora podes empezar por aca:
+Primero fijate si calienta, si no es necesario no lo compres.
+
+Donde comprarlo depende de donde vivas, no se en que pais estas.
+
+Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones. Por ahora podes empezar por aca:
 
 http://sportsterpedia.com/doku.php/techtalk:ref:oil14
 
@@ -701,13 +705,20 @@ https://www.jpcycles.com/harley-sportster-oil-cooler-kits
 
 https://www.dragspecialties.com/search;q=oil%20cooler
 
--- adaptar
+https://serviceinfo.harley-davidson.com/sip/service/document/239678
+
+### Adaptar
+
+Info super cruda, basicamente precisas un radiador de otra moto, dos lineas de aceite, y enchufarlo eligiendo dos maneras posibles: a la linea de aceite del lado derecho inferior del motor, ó usando un adaptador al filtro de aceite (Jagg vende uno, pero estoy buscando uno nacional mas economico.)
 
 https://motos.mercadolibre.com.ar/repuestos-cuatriciclos/radiador-aceite
 
-Zanella RZ 25
+Radiadores de las siguientes motos tienen dimensiones adecuadas
 
-Gilera VC 200R
+* Zanella RZ 25
+* Gilera VC 200R
+
+En el pasado se adaptaba el del Citroen 3CV pero es grande y feo.
 
 # Filtro de aire
 
