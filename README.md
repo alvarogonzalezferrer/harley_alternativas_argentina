@@ -1250,7 +1250,17 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 # Amortiguadores
 
-seccion en desarrollo - FAR
+seccion en desarrollo -
+
+FAR - http://amortiguadoresfar.com/index.php/es/productos-far/itemlist/category/35-amortiguadores-para-harley-davidson
+
+## Informacion sobre la suspension
+
+En la siguiente pagina hay informacion detallada sobre los tipos de amortiguadores, sus detalles, y como cambiarlos:
+
+https://www.hdforums.com/how-tos/a/harley-davidson-sportster-the-ultimate-shocks-guide-413022
+
+http://sportsterpedia.com/doku.php/techtalk:evo:susp02
 
 # Regulador de voltaje
 
