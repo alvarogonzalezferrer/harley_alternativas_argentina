@@ -6,33 +6,38 @@ Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
+**Documento Actualizado 21/01/2021** , ±84000 km recorridos sin problemas.
+
 ## Tabla de contenidos
 
 **EXPERIMENTAL AUTO GENERADA!!**
 
 - [Harley Davidson Sportster](#harley-davidson-sportster)
-  * [Introducción](#introducción)
+  * [Alternativas de mantenimiento](#alternativas-de-mantenimiento)
+    + [Apuntes del propietario](#apuntes-del-propietario)
+  * [Tabla de contenidos](#tabla-de-contenidos)
+  * [Introducción](#introduccion)
   * [Alternativas de repuestos en Argentina](#alternativas-de-repuestos-en-argentina)
   * [Donaciones](#donaciones)
-  * [ATENCIÓN - NO HAY GARANTÍAS!](#atención)
-- [No soy mecánico!](#no-soy-mecánico)
-- [Mecánicos en Argentina](#mecánicos)
+  * [ATENCIÓN](#atencion)
+- [No soy mecánico!](#no-soy-mecanico)
+- [Mecánicos](#mecanicos)
 - [Manuales](#manuales)
 - [Mantenimiento](#mantenimiento)
 - [Archivos extra](#archivos-extra)
 - [Evolucion de la Sportster](#evolucion-de-la-sportster)
 - [Cubiertas](#cubiertas)
-  * [Presión de inflado](#presión-de-inflado)
+  * [Presión de inflado](#presion-de-inflado)
   * [Desgaste](#desgaste)
   * [Medidas](#medidas)
     + [Delantera](#delantera)
     + [Trasera](#trasera)
-    + [Tamaños máximos](#tamaños-máximos)
+    + [Tamaños máximos](#tamaños-maximos)
 - [Cambios de aceite](#cambios-de-aceite)
     + [Kits oficiales](#kits-oficiales)
     + [Oficial mineral](#oficial-mineral)
-    + [Oficial sintético](#oficial-sint-tico)
-    + [Económico](#economico)
+    + [Oficial sintético](#oficial-sintetico)
+    + [Economico](#economico)
     + [Sintetico](#sintetico)
     + [Mineral](#mineral)
     + [Favorito mio - semi sintetico](#favorito-mio---semi-sintetico)
@@ -46,6 +51,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
   * [Analisis largo](#analisis-largo-1)
 - [Temperatura del aceite](#temperatura-del-aceite)
   * [Radiador de aceite](#radiador-de-aceite)
+    + [Adaptar](#adaptar)
 - [Filtro de aire](#filtro-de-aire)
   * [Limpieza del filtro de aire](#limpieza-del-filtro-de-aire)
 - [Aceite Horquilla](#aceite-horquilla)
@@ -64,7 +70,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 - [Embrague](#embrague)
   * [Problema común del embrague](#problema-com-n-del-embrague)
       - [Sintomas](#sintomas)
-      - [Solución](#solucion)
+      - [Solucion](#solucion)
   * [Sacar embrague](#sacar-embrague)
   * [Discos de embrague](#discos-de-embrague)
 - [Juntas para el motor y otras partes](#juntas-para-el-motor-y-otras-partes)
@@ -80,6 +86,10 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
   * [Diagnosticar inyectores](#diagnosticar-inyectores)
   * [Cambiar el filtro de nafta](#cambiar-el-filtro-de-nafta)
   * [Velocidad de ralenti / idle](#velocidad-de-ralenti---idle)
+- [Amortiguadores traseros](#amortiguadores-traseros)
+  * [Informacion sobre la suspension](#informacion-sobre-la-suspension)
+- [Regulador de voltaje](#regulador-de-voltaje)
+- [Escapes](#escapes)
 - [Mejorar performance](#mejorar-performance)
   * [Stage 1](#stage-1)
   * [Stage 2](#stage-2)
@@ -94,11 +104,9 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
   * [Como comprar](#como-comprar)
   * [Donde comprar](#donde-comprar)
 
-
-
 ## Introducción
 
-Estas notas nacieron para el mantenimiento de mis motos. Me encanta la Sportster, tengo varias hace mas de 16 años, y la disfruto muchisimo.
+Estas notas nacieron para el mantenimiento de mis motos. Me encanta la Sportster, tengo varias hace mas de 17 años, y la disfruto muchisimo.
 
 El contenido esta en constante evolucion: cada vez que encuentro nueva información o soluciones, las agrego.
 
@@ -119,8 +127,6 @@ Dado la situacion del pais, con constantes cepos a la importacion y a la moneda 
 Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos alternativos para mantener la Harley Davidson Sportster en funcionamiento en optimas condiciones.
 
 Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
-
-**Documento Actualizado 21/12/2020** , 83500 km recorridos sin problemas.
 
 ## Donaciones
 
