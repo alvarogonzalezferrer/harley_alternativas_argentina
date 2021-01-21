@@ -1266,6 +1266,9 @@ http://sportsterpedia.com/doku.php/techtalk:evo:susp02
 
 CUIDADO , SEGUN EL AÑO DE LA MOTO ES EL REGULADOR!!
 
+2004 a 2006 es un regulador monofasico de 35 A
+Es mejor ponerle uno de mayor A
+
 *seccion en desarrollo - DZE 10181?*
 
 DZE
@@ -1282,6 +1285,8 @@ tienen dos modelos , cual aplica? el 10181? o el 2348 ? creo que el 10181
 http://dzecatalogo.com.ar/es/producto/2348/Harley%20Davison
 
 Pietcard tiene alguno?
+
+http://www.pietcard.com.ar/ -- no lo encontre
 
 # Escapes
 
