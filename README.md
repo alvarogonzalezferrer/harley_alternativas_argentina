@@ -888,8 +888,6 @@ https://www.sparkplug-crossreference.com/convert/hd/6R12
 
 https://www.sparkplug-crossreference.com/convert/CHAMP_PN/RA8HC
 
-
-
 # Bateria
 
 Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años.
@@ -1236,6 +1234,14 @@ Cuando se apaga el encendido, el ECM 'reinicia' el IAC enviando suficientes puls
 El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acelerador está abierto), la batería cae por debajo de 9v o el VSS se vuelve mayor que 0 (la moto se está moviendo).
 
 *TO-DO* **Pronto mas información.**
+
+# Amortiguadores
+
+seccion en desarrollo - FAR
+
+# Regulador de voltaje
+
+seccion en desarrollo - 
 
 # Mejorar performance
 
