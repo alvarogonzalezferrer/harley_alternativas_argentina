@@ -1109,7 +1109,20 @@ Tienen pintura de retoque en los colores de Harley:
 
 Hay buenas casas de cromado en Argentina, donde pueden cromar y restaurar nuestras piezas metalicas.
 
-*TO-DO poner links a las que uso yo, existen todavía?*
+* Saavedra Cromados - http://cromadossaavedra.com.ar/ - EXCELENTE, aca hice cromar unas cosas con gran calidad. Aceptan(siguen?) cromar escapes.
+
+Av. García del Río 4522, Buenos Aires, Argentina
+
+https://www.facebook.com/Est-Galvanotecnico-Saavedra-Cromados-875530772483854/
+
+Hacen reparaciones, cromados, niquelados, platil, cobreados, pulidos, bi niquel, niquel block, plateados, baño de oro, florentino, zincados, cobre viejo etc etc.
+
+* Cromados Albacrom - https://cromadosalbacrom.com/
+
+* Cromados Peduto - excelente calidad, precio acorde, no acepta cromar escapes, al menos cuando yo los llame, preguntar igual por las dudas...
+
+y muchos mas...
+
 
 # Carburador CV40 (2006 y anteriores)
 
@@ -1241,7 +1254,7 @@ seccion en desarrollo - FAR
 
 # Regulador de voltaje
 
-seccion en desarrollo - 
+seccion en desarrollo -
 
 # Mejorar performance
 
