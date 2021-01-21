@@ -1264,27 +1264,50 @@ http://sportsterpedia.com/doku.php/techtalk:evo:susp02
 
 # Regulador de voltaje
 
-CUIDADO , SEGUN EL AÑO DE LA MOTO ES EL REGULADOR!!
-
-2004 a 2006 es un regulador monofasico de 35 A
-Es mejor ponerle uno de mayor A
+Mucha info: http://sportsterpedia.com/doku.php/techtalk:evo:elec02?s[]=regulator
 
 *seccion en desarrollo - DZE 10181?*
 
-DZE
+Es una pieza que se quema a menudo! - *TO-DO explicar por que* http://xlforum.net/forums/archive/index.php/t-1648679.html
 
-Este modelo CREO, que es el correcto para 2004 a 2006
+Revisar todo el circuito de carga! - *TO-DO explicar como* http://xlforum.net/forums/showpost.php?p=2239332
+
+**CUIDADO , SEGUN EL AÑO DE LA MOTO ES EL REGULADOR!!**
+
+Los numeros de parte P/N son los que corresponden al catalogo Harley, para buscar sus equivalentes en otras marcas.
+
+**1996 a 2003** lleva P/N 74523-94 o similares.
+
+**2004 a 2006** es un regulador monofasico de 22 A, 12 v
+Es mejor ponerle uno de mayor A si es posible, pero mismo voltaje y fase obviamente. P/N 74523-04
+
+Del **2007 al 2008** llevan P/N # 74546-07A, no encontre reemplazo argentino. Quiza por que es de 32 A, aunque las fichas lucen igual.
+
+Del **2009 al 2013** llevan P/N # 74711-08, no encontre reemplazo argentino, 32 A.
+
+Las mas nuevas (EFI), **2014 en adelante**, llevan un regulador de estado solido, solo encontre reemplazos en EEUU. P/N # 74700012
+
+**Reemplazo de fabrica argentina DZE**
+
+Este modelo CREO, que es el correcto para reemplazar los anteriores.
+
+Es posible que el regulador de DZE se pueda adaptar, pero NO lo probe, en los modelos EFI (2007 en adelante).
+
+**Cuidado! Una mala adaptacion podria FREIR la bateria, o peor, la electronica!**
 
 http://dzecatalogo.com.ar/es/producto/10181/Harley%20Davison
 
+* Tension (voltage) 	12 [V]
+* Corriente (current) 	35 [A]
+* Tipo de entrada (input type) 	MONOFASICO
+
 Hay que reutilizar las fichas del regulador de voltaje original!!
 
-tienen dos modelos , cual aplica? el 10181? o el 2348 ? creo que el 10181
+Tienen dos modelos , cual aplica? el 10181? o el 2348 ? creo que el 10181
 
+Este otro modelo figura para Harley tambien pero no se a que año o modelo pertenece: http://dzecatalogo.com.ar/es/producto/2348/Harley%20Davison
 
-http://dzecatalogo.com.ar/es/producto/2348/Harley%20Davison
-
-Pietcard tiene alguno?
+**Pietcard tiene alguno?**
 
 http://www.pietcard.com.ar/ -- no lo encontre
 
