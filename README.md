@@ -1248,7 +1248,7 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 *TO-DO* **Pronto mas información.**
 
-# Amortiguadores
+# Amortiguadores traseros
 
 seccion en desarrollo -
 
@@ -1264,13 +1264,24 @@ http://sportsterpedia.com/doku.php/techtalk:evo:susp02
 
 # Regulador de voltaje
 
-seccion en desarrollo -
+seccion en desarrollo - DZE 10181
+
+http://dzecatalogo.com.ar/es/producto/10181/Harley%20Davison
 
 # Escapes
 
 seccion en desarrollo
 
+http://giacconeescapes.com/ } estos fabrican para Harley Davidson a medida
+
 http://www.escapesfabian.com.ar/
+
+http://www.tubosilescapes.com.ar/
+
+http://dmescapes.com.ar/
+
+https://www.mpmotosport.com/ } tambien hacen quillas y asientos
+
 
 # Mejorar performance
 
