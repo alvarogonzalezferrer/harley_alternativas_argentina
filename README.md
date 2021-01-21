@@ -1256,6 +1256,10 @@ seccion en desarrollo - FAR
 
 seccion en desarrollo -
 
+# Escapes
+
+seccion en desarrollo
+
 # Mejorar performance
 
 Es posible obtener mucha mas performance que la que viene de fábrica en la moto.
