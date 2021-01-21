@@ -1250,7 +1250,7 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 # Amortiguadores traseros
 
-seccion en desarrollo -
+*seccion en desarrollo*
 
 FAR - http://amortiguadoresfar.com/index.php/es/productos-far/itemlist/category/35-amortiguadores-para-harley-davidson
 
@@ -1264,13 +1264,28 @@ http://sportsterpedia.com/doku.php/techtalk:evo:susp02
 
 # Regulador de voltaje
 
-seccion en desarrollo - DZE 10181
+CUIDADO , SEGUN EL AÑO DE LA MOTO ES EL REGULADOR!!
+
+*seccion en desarrollo - DZE 10181?*
+
+DZE
+
+Este modelo CREO, que es el correcto para 2004 a 2006
 
 http://dzecatalogo.com.ar/es/producto/10181/Harley%20Davison
 
+Hay que reutilizar las fichas del regulador de voltaje original!!
+
+tienen dos modelos , cual aplica? el 10181? o el 2348 ? creo que el 10181
+
+
+http://dzecatalogo.com.ar/es/producto/2348/Harley%20Davison
+
+Pietcard tiene alguno?
+
 # Escapes
 
-seccion en desarrollo
+*seccion en desarrollo*
 
 http://giacconeescapes.com/ } estos fabrican para Harley Davidson a medida
 
