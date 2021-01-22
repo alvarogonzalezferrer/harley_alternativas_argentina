@@ -259,7 +259,7 @@ Revise los siguientes elementos:
 
 # Archivos extra
 
-En la carpeta ["archivos_soporte"](harley_alternativas_argentina/tree/master/archivos_soporte) voy colocando archivos, diagramas, documentos, manuales, etc que pueden ser útiles. Revisarla también, ya que mucho de ese material todavía no fue incorporado a este documento, y contiene información valiosa e inédita.
+En la carpeta ["archivos_soporte"](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/tree/master/archivos_soporte) voy colocando archivos, diagramas, documentos, manuales, etc que pueden ser útiles. Revisarla también, ya que mucho de ese material todavía no fue incorporado a este documento, y contiene información valiosa e inédita.
 
 # Evolucion de la Sportster
 
@@ -1258,7 +1258,7 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 # Amortiguadores traseros
 
-FAR es una fabrica nacional de amortiguadores, que tiene una linea completa para Harley Davidson de excelente calidad,y a un precio muy conveniente. 
+FAR es una fabrica nacional de amortiguadores, que tiene una linea completa para Harley Davidson de excelente calidad,y a un precio muy conveniente.
 
 FAR - http://amortiguadoresfar.com/index.php/es/productos-far/itemlist/category/35-amortiguadores-para-harley-davidson
 
