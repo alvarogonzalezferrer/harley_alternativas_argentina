@@ -1097,6 +1097,12 @@ http://www.chiuchich.com.ar
 
 # Correa de transmision
 
+## Tension
+
+La correa lleva una tension que se mide con un aparato especial que se puede comprar en eBay. El procedimiento de medicion esta explicado en el manual del usuario. Para que la correa dure muchos km es vital la correcta tension y limpieza de la misma.
+
+## Reemplazos de correa de transmision
+
 Fábricas de correas en Argentina : no reemplace ninguna todavia, no se si hacen al por menor.
 
 http://www.ges.com.ar/
