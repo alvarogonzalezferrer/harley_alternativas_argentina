@@ -1295,7 +1295,7 @@ Las mas nuevas (EFI), **2014 en adelante**, llevan un regulador de estado solido
 
 **Reemplazo de fabrica argentina DZE**
 
-Este modelo CREO, que es el correcto para reemplazar los anteriores.
+Este modelo (DZE 10181) CREO, que es el correcto para reemplazar los anteriores.
 
 Es posible que el regulador de DZE se pueda adaptar, pero NO lo probe, en los modelos EFI (2007 en adelante).
 
@@ -1303,13 +1303,11 @@ Es posible que el regulador de DZE se pueda adaptar, pero NO lo probe, en los mo
 
 http://dzecatalogo.com.ar/es/producto/10181/Harley%20Davison
 
-* Tension (voltage) 	12 [V]
-* Corriente (current) 	35 [A]
-* Tipo de entrada (input type) 	MONOFASICO
+* Tension 12 V
+* Corriente 35 A
+* Tipo de entrada MONOFASICO
 
-Hay que reutilizar las fichas del regulador de voltaje original!!
-
-Tienen dos modelos , cual aplica? el 10181? o el 2348 ? creo que el 10181
+Hay que reutilizar las fichas del regulador de voltaje original, ya que el DZE trae las fichas peladas!! Prestar MUCHA atencion al cableado correcto.
 
 Este otro modelo figura para Harley tambien pero no se a que año o modelo pertenece: http://dzecatalogo.com.ar/es/producto/2348/Harley%20Davison
 
