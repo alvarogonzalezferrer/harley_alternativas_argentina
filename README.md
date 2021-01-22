@@ -217,7 +217,7 @@ https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
 El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online.
 
 Aca tengo un manual de taller interesante:
-* [Manual de taller!](archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
+* [Manual de taller!](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
 
 *Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
 
