@@ -1352,6 +1352,8 @@ Es posible obtener mucha mas performance que la que viene de fábrica en la moto
 
 Lo más barato, y común es hacer un Stage 1, y/o convertir una 883 a 1200 (*1250cc, 1275cc*)
 
+En cuanto a las etapas, notar que hay que hacerlas escalonadas, es decir para hacer un Stage 3, primero hay que hacer el 2 y el 1.
+
 ## Stage 1
 
 Agregar escape de alto flujo, filtro de aire de alto flujo, y remapear la EFI o recarburar.
@@ -1362,15 +1364,35 @@ En la carburada tengo un filtro redondo generico de alto flujo, un escape SE II 
 
 http://www.harley-performance.com/stage-1.html } info
 
+Ideal para conductores que desean mejorar el rendimiento, el aspecto y el sonido de su motocicleta: esto proporciona la base perfecta para futuras actualizaciones.
+
+La etapa 1 ofrece el paso más rentable para mejorar el rendimiento. Combine cualquier filtro de aire y escape de alto flujo, junto con la calibración de ECM adecuada para aumentar el flujo de aire dentro y fuera del motor y sentirá un aumento de hasta un 10% en el rendimiento en todo el rango de RPM.
+
 *TO-DO : agregar informacion*
 
 ## Stage 2
 
-*TO-DO : agregar informacion*
+Levas modificadas; pistones de alta compresión; y kits de alta cilindrada.
+
+Elija una leva TORQUE CAM o POWER CAM según su estilo de conducción.
+
+OPCIÓN 1: KIT DE TORQUE
+
+Esta opción es perfecta si desea experimentar una respuesta del acelerador nítida y una aceleración que se pueda sentir a velocidades más lentas, ideal para adelantar vehículos lentos sin cambiar de marcha.
+
+OPCIÓN 2: KIT DE POTENCIA
+
+Ideal para llegar hasta la línea roja. Hasta un 25% de aumento en el rendimiento en el rango de RPM medio a alto.
+
+https://suburbanharley.com/Performance-Kits-Sportster
+
+https://www.laguna.co.uk/harley-davidson/performance-upgrades
 
 ## Stage 3
 
-*TO-DO : agregar informacion*
+Aca todo vale, es cuanta plata queres gastar basicamente.
+
+Las culatas de cilindros mejoradas con CNC de mayor flujo y el cuerpo del acelerador de mayor diámetro aumentan la velocidad y alimentan grandes volúmenes de aire y combustible al motor, lo que maximiza la potencia en un motor de mayor cilindrada. Además de combinar culatas de cilindros con puertos y un cuerpo de acelerador más grande en combinación con cilindros, pistones coincidentes y leva adecuada.
 
 ## Convertir 883 a 1200
 
@@ -1385,8 +1407,6 @@ Este es el kit que yo tengo, Hammer Performance, super buena atención.
 http://hammerperf.com/883conversions.shtml
 
 ![1275cc kit](archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg)
-
-*TO-DO* *Pronto mas informacion...*
 
 # Otros accesorios
 
