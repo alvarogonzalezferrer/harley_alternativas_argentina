@@ -1085,7 +1085,9 @@ Su website : https://www.cometic.com/
 
 Mirar el catalogo de Cometic que hay para todo el motor, primaria, etc kits completos
 
-Otra buena alternativa, mas economica es James Gasket, https://www.jamesgaskets.com/
+Otra buena alternativa, mas economica es **James Gasket**, https://www.jamesgaskets.com/
+
+![Kit James de juntas](archivos_soporte/juntas/james_gasket_kit.jpg)
 
 # Rayos de la rueda
 
