@@ -1398,6 +1398,12 @@ https://suburbanharley.com/Performance-Kits-Sportster
 
 https://www.laguna.co.uk/harley-davidson/performance-upgrades
 
+http://www.hammerperf.com/techtips.shtml
+
+http://nrhsperformance.com/tech.shtml
+
+http://www.floheadworks.com/Departments/articles.htm
+
 ## Convertir 883 a 1200
 
 Es posible convertir una 883 a 1200, incluso a más, 1275cc por ejemplo, de manera relativamente sencilla.
