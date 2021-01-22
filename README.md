@@ -1384,15 +1384,19 @@ OPCIÓN 2: KIT DE POTENCIA
 
 Ideal para llegar hasta la línea roja. Hasta un 25% de aumento en el rendimiento en el rango de RPM medio a alto.
 
-https://suburbanharley.com/Performance-Kits-Sportster
-
-https://www.laguna.co.uk/harley-davidson/performance-upgrades
-
 ## Stage 3
 
 Aca todo vale, es cuanta plata queres gastar basicamente.
 
 Las culatas de cilindros mejoradas con CNC de mayor flujo y el cuerpo del acelerador de mayor diámetro aumentan la velocidad y alimentan grandes volúmenes de aire y combustible al motor, lo que maximiza la potencia en un motor de mayor cilindrada. Además de combinar culatas de cilindros con puertos y un cuerpo de acelerador más grande en combinación con cilindros, pistones coincidentes y leva adecuada.
+
+## Ver mas sobre las etapas 1,2,3
+
+http://sportsterpedia.com/doku.php/techtalk:ref:perf01
+
+https://suburbanharley.com/Performance-Kits-Sportster
+
+https://www.laguna.co.uk/harley-davidson/performance-upgrades
 
 ## Convertir 883 a 1200
 
