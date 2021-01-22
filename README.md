@@ -1258,7 +1258,7 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 # Amortiguadores traseros
 
-*seccion en desarrollo*
+FAR es una fabrica nacional de amortiguadores, que tiene una linea completa para Harley Davidson de excelente calidad,y a un precio muy conveniente. 
 
 FAR - http://amortiguadoresfar.com/index.php/es/productos-far/itemlist/category/35-amortiguadores-para-harley-davidson
 
