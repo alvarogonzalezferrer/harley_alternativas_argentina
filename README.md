@@ -259,7 +259,7 @@ Revise los siguientes elementos:
 
 # Archivos extra
 
-En la carpeta ["archivos_soporte"](/../../archivos_soporte) voy colocando archivos, diagramas, documentos, manuales, etc que pueden ser útiles. Revisarla también, ya que mucho de ese material todavía no fue incorporado a este documento, y contiene información valiosa e inédita.
+En la carpeta ["archivos_soporte"](/../../tree/master/archivos_soporte) voy colocando archivos, diagramas, documentos, manuales, etc que pueden ser útiles. Revisarla también, ya que mucho de ese material todavía no fue incorporado a este documento, y contiene información valiosa e inédita.
 
 # Evolucion de la Sportster
 
