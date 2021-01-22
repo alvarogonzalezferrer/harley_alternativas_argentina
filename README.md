@@ -223,7 +223,11 @@ Aca tengo un manual de taller interesante:
 
 * Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
 
-* Otra pagina con un manual: https://www.casitodosportster.com/descargables
+* ~~Otra pagina con un manual: https://www.casitodosportster.com/descargables~~ *enero 2021 parece que esta pagina ya no funciona, que lastima*
+
+* Despieces y microfichas:
+  * http://www.shopronniesharleydavidson.com/
+  * http://partsfinder.onlinemicrofiche.com/ronnies/partsfinder.htm
 
 * Un foro con manuales: https://foroharley.com/forums/manuales-y-documentos.33/
 
