@@ -995,7 +995,9 @@ Sirve la **WEX6L21-MF** -> http://www.wstandard-energy.com/en/statistics/w-produ
 
 Se consiguen todas en Argentina, son comunes, H4 la delantera, las otras llevar la muestra. **MODELOS MAS NUEVOS LLEVAN LUCES LED, verificar ANTES de comprar.**
 
-Delantera: **H4** - Puede ser reemplazada por una unidad LED más eficiente. Hay modelos Harley oficiales y también copias. Se puede reemplazar todo el conjunto, o solo el bulbo H4 por uno led.
+Luz delantera: de filamento **H4**
+
+Luz delantera LED: hay H4 de led, pero los comentarios son que no ilumina bien ya que no coincide con el lente original. Es mejor reemplazar todo el conjunto por uno de led; para eso hay modelos Harley oficiales y también copias.
 
 Reemplazo para luz delantera en LED : **Harley DayMaker** y modelos similares.
 
