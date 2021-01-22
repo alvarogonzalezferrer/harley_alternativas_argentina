@@ -800,7 +800,7 @@ Se pueden reconstruir / reempastar las pastillas con **ferodo** nuevo. Hay casas
 
 Testimonio de alguien que reempasto pastillas: *"les hice pegar los ferodos en Tosso frenos, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace"*
 
-Nota: los ferodos deben ser de 8.5 mm de espesor (*TO DO dato a confirmar con calibre en pastillas nuevas*)
+Nota: los ferodos deben ser de 8.5 mm de espesor (*TO-DO dato a confirmar con calibre en pastillas nuevas*)
 
 **EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes; en mi experiencia frenan mejor que las originales de Harley, sobre todo con lluvia.
 
@@ -1386,11 +1386,61 @@ http://hammerperf.com/883conversions.shtml
 
 *TO-DO* *Pronto mas informacion...*
 
-# Otros
+# Otros accesorios
+
+*Seccion en desarrollo, boceto*
 
 Puños, pedales, respaldos, manillares, asientos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
 
 Ahora se venden también nacionales, los vi en Mercado Libre. (2020)
+
+## Pedalines
+
+TO-DO
+
+## Manillares
+
+Original de 1" (una pulgada, 2,54 cm aprox)
+
+Se puede modificar para pasar los cables electricos por dentro y darle un acabado mas prolijo. Asi lo tengo en mi moto, es un trabajo arduo hay que desarmar todas las fichas electricas para poder pasar los cables.
+
+Hay manillares nacionales, e importados.
+
+Tener en cuenta que si ponemos un manillar mas alto, por ejempo un cuelga monos, vamos a tener que reemplazar linea de freno delantero, embrague y cables electricos, y acelerador por su equivalente mas largo, lo cual añade costo y mano de obra.
+
+### Puños
+
+Hay de goma como los originales, que Lamentablemente luego de unos años se pudren y se ponen pegajosos, y tambien de metal "billet" cromado o negro. Yo prefiero los "billet" ya que no se pudren con el tiempo. Es una cuestión estetica mas que nada elegir el correcto.
+
+### Calienta puños
+
+TO-DO
+
+## Respaldos
+
+TO-DO
+
+## Asientos
+
+TO-DO
+
+## Alforjas
+
+TO-DO
+
+## Toma 12V
+
+TO-DO
+
+### Cargador celular
+
+TO-DO
+
+### GPS
+
+TO-DO
+
+## Espejos
 
 *TO-DO : agregar link a LCM covers y Tapiceria GALCE para los asientos; y demas links a covers, puños, etc, Barlitop para las alforjas de cuero, y hay otros mas*
 
@@ -1498,7 +1548,6 @@ lowbrow customs
 bike bandit
 
 y muchos mas
-
 
 
 # Próximamente más información
