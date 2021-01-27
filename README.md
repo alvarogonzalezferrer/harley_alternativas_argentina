@@ -1581,6 +1581,21 @@ Bike Bandit
 
 Y Muchos Mas
 
+# Personalizacion
+
+## Choppers
+
+*seccion en desarrollo*
+
+https://chopperbuildershandbook.com/
+
+https://www.custom-choppers-guide.com/
+
+http://www.hondachopper.com/gallery_misc/chopper_bible/index.html
+
+http://www.chopcult.com/default.php
+
+
 
 # Próximamente más información
 
