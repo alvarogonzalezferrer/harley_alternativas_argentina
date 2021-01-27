@@ -1254,7 +1254,7 @@ La **IAC**, el motor paso a paso es el que controla el aire del ralenti. Se pued
 
 Otra opcion es reprogramar la computadora de la EFI con diferentes metodos, o reemplazarla, o una combinacion de las anteriores.
 
-No conviene bajar de **900 rpm** el ralenti, para mantener una correcta lubricación.
+No conviene bajar de **950 rpm** el ralenti, para mantener una correcta lubricación.
 
 Los EFI Sportsters (2007 y posteriores) incluyen un control de aire en ralentí (IAC) para establecer la velocidad de ralentí del motor. El IAC está montado en el cuerpo del acelerador.
 
