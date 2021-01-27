@@ -6,7 +6,7 @@ Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 21/01/2021** , ±84000 km recorridos sin problemas.
+**Documento Actualizado 27/01/2021** , ±84000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
@@ -33,6 +33,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
     + [Delantera](#delantera)
     + [Trasera](#trasera)
     + [Tamaños máximos](#tamaños-maximos)
+    + [Ensanchar rueda trasera](#ensanchar-rueda-trasera)
 - [Cambios de aceite](#cambios-de-aceite)
     + [Kits oficiales](#kits-oficiales)
     + [Oficial mineral](#oficial-mineral)
@@ -103,6 +104,8 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 - [Catalogos online / comprar repuestos](#catalogos-online---comprar-repuestos)
   * [Como comprar](#como-comprar)
   * [Donde comprar](#donde-comprar)
+- [Personalizacion](#personalizacion)
+  * [Choppers](#choppers)
 
 ## Introducción
 
