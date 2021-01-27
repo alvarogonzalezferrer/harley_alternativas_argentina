@@ -307,7 +307,7 @@ https://ultimatemotorcycling.com/2014/09/16/harley-davidson-sportster-history-re
 
 https://www.lowbrowcustoms.com/blogs/events-features/history-harley-davidson-sportster-blowing-away-big-twins-since-1957
 
-# Cubiertas
+# Cubiertas / Gomas / Cauchos / Llantas
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
 
@@ -353,11 +353,33 @@ XL 2004+ y variantes | 150 80 16 / 3.00 x 16"
 
 ### Tamaños máximos
 
+Se puede poner una 130 en las 2003 y anteriores. Medir bien antes de comprar la goma!
+
+Se puede poner una goma 160 en las +2004 sin modificar mucho.
+
+http://xlforum.net/forums/showthread.php?t=10170
+
+Para poner ruedas mas anchas, hay que modificar de poco a mucho, segun el ancho, desde poner transmision a cadena hasta cambiar toda la parte trasera.
+
 Estos son los tamaños máximos de cubiertas SIN modificar guardabarros stock, polea, etc.
 
 (Ver archivo adjunto para la tabla) - *TO-DO: sin hacer*
 
 Nota: Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la Fate Gaucha, o la Pirelli, son baratas y tienen diente de perro (son agrícolas).
+
+### Ensanchar rueda trasera
+
+Se puede poner rueda trasera mas ancha, fabricando algo, o comprando el kit.
+
+Kit : http://www.chopper-kit-usa.com/fat_tire_kit_harley_sportster.htm
+
+Hay otros: https://www.google.com/search?q=sportster+wide+tire+kit
+
+Para hacerlo fabricado, se usa la rueda del V-Rod, y se corta y ensancha el horquillon trasero. Tambien hay que ponerle un espaciador a la polea delantera, y al eje de rueda. No es sencillo pero se puede hacer, te queda con una goma 240/40R-18 trasera si usas una rueda de V-Rod, que es 18" x 5.5"
+
+Tambien algunos le ponen una 180, por ejemplo con el aro de la Deuce. http://xlforum.net/forums/showthread.php?t=66830
+
+Como es algo personalizado, las opciones son infinitas, es cuestion de ver que podemos hacer y pagar, es bastante costoso en terminos monetarios.
 
 # Cambios de aceite
 
