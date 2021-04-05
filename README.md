@@ -1271,6 +1271,22 @@ Tutoriales para cambiarlo :
 
 * https://youtu.be/rGvAhi8XAGo
 
+## Bomba de nafta EFI
+
+Si la moto quedo parada muchisimo tiempo (por ejemplo en pandemia), la bomba podria estar arruinada o tapada.
+
+Podemos como primer medida intentar limpiarla en batea de ultrasonido.
+
+Sino, deberemos reemplazarla.
+
+La bomba original vale en Harley Argentina unos 300 USD.
+
+La bomba alternativa vale en USA unos 70 USD:
+
+La bomba que la reemplaza automotriz es la **Bomba Nafta Tipo Bosch** de 3 Bar, que vale unos 15 USD.
+
+Ver imagen para referencia: 
+
 ## Velocidad de ralenti / idle
 
 La velocidad de ralenti / idle en las motos de inyeccion electronica *no se puede alterar*. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
