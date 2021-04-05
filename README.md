@@ -1212,6 +1212,12 @@ Diagrama del carburador CV40:
 
 # Inyección EFI (2007 en adelante)
 
+## Componentes alternativos
+
+Hay muchos componentes automotrices que valen mucho menos que los originales Harley y van perfecto. Tambien hay "aftermarket"
+
+Ver: https://www.jpcycles.com/motorcycle-fuel-injection-components
+
 *Los inyectores 2007-2017 son Deplhi* <- nota para mi, buscar un reemplazo automotriz
 
 Mucha información sobre la EFI:
@@ -1281,11 +1287,11 @@ Sino, deberemos reemplazarla.
 
 La bomba original vale en Harley Argentina unos 300 USD.
 
-La bomba alternativa vale en USA unos 70 USD:
+La bomba alternativa vale en USA unos 70 USD: https://www.jpcycles.com/harley-sportster-1200-fuel-pump-components
 
 La bomba que la reemplaza automotriz es la **Bomba Nafta Tipo Bosch** de 3 Bar, que vale unos 15 USD.
 
-Ver imagen para referencia: 
+Ver imagen para referencia:
 
 ## Velocidad de ralenti / idle
 
