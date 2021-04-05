@@ -1252,21 +1252,24 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba. Según el manual se reemplaza a las 100 mil millas, o sea 160 000 km, un poco optimista me parece...
 
-El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Drag Specialties unos 40 dolares.
+El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Dennis Kirk unos 20 dolares.
 
-El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!
+* Dennis Kirk U$S 19 - P/N  1801082 : https://www.denniskirk.com/v-factor/oe-style-fuel-filter-kit-for-efi-models-75304-07a.p1801082.prd/1801082.sku
 
-* Drag Specialties U$S 40 - P/N 0707-0014 -- https://www.dragspecialties.com/search;q=07070014
+* Drag Specialties U$S 40 - P/N 0707-0014 : https://www.dragspecialties.com/search;q=07070014
 
-* Harley ORIGINAL kit completo filtros US$ 110 - P/N 75304-07a  
-
-* Solo el filtro redondo : P/N 75304-07A
+* Harley ORIGINAL kit completo filtros US$ 110 - P/N 75304-07A
 
 ![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/filtro_nafta_reemplazables.jpg)
 
 ![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/despiece_filtro_nafta.jpg)
 
-*Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* <- nota para mi // dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva
+Notas:
+
+*Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* *// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva*
+
+*El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!*
+
 *Si alguien conoce algun filtro similar automotriz de menor precio, que me informe por favor*
 
 Tutoriales para cambiarlo :
