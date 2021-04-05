@@ -1600,6 +1600,8 @@ Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
 
 Sitios donde podemos comprar cosas para nuestra moto(s):
 
+Algunos son de USA, otros de Argentina *TO-DO falta ordenarlos*
+
 *lista muy preliminar, mas info pronto*
 
 https://www.dragspecialties.com/
@@ -1634,11 +1636,21 @@ Lowbrow Customs
 
 Bike Bandit
 
+Max Speed Shop
+
+Mazza Performance
+
+En La Sangre
+
+https://www.facebook.com/ridefreess/
+
 Y Muchos Mas
 
 # Personalizacion
 
 ## Choppers
+
+Como armar una chopper
 
 *seccion en desarrollo*
 
@@ -1649,7 +1661,6 @@ https://www.custom-choppers-guide.com/
 http://www.hondachopper.com/gallery_misc/chopper_bible/index.html
 
 http://www.chopcult.com/default.php
-
 
 
 # Próximamente más información
