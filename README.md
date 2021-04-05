@@ -81,7 +81,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 - [Cromados](#cromados)
 - [Carburador CV40 (2006 y anteriores)](#carburador-cv40--2006-y-anteriores-)
   * [Carburador tapado / reconstrucción](#carburador-tapado---reconstrucci-n)
-- [Inyección EFI (2007 en adelante)](#inyecci-n-efi--2007-en-adelante-)
+- [Inyección EFI (2007 en adelante)](#inyección-efi--2007-en-adelante-)
   * [Modo diagnostico](#modo-diagnostico)
   * [Limpiar los inyectores](#limpiar-los-inyectores)
   * [Diagnosticar inyectores](#diagnosticar-inyectores)
