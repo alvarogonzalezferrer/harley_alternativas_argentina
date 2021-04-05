@@ -1166,7 +1166,7 @@ Hacen reparaciones, cromados, niquelados, platil, cobreados, pulidos, bi niquel,
 
 * Cromados Peduto - excelente calidad, precio acorde, no acepta cromar escapes, al menos cuando yo los llame, preguntar igual por las dudas...
 
-y muchos mas...
+y muchos más...
 
 
 # Carburador CV40 (2006 y anteriores)
@@ -1212,7 +1212,7 @@ Diagrama del carburador CV40:
 
 # Inyección EFI (2007 en adelante)
 
-*Los inyectores 2007-2017 son Deplhi* <- nota para mi
+*Los inyectores 2007-2017 son Deplhi* <- nota para mi, buscar un reemplazo automotriz
 
 Mucha información sobre la EFI:
 
@@ -1247,6 +1247,8 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba. Según el manual se reemplaza a las 100 mil millas, o sea 160 000 km, un poco optimista me parece...
 
 El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Drag Specialties unos 40 dolares.
+
+El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!
 
 * Drag Specialties U$S 40 - P/N 0707-0014 -- https://www.dragspecialties.com/search;q=07070014
 
