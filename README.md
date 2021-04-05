@@ -1291,7 +1291,13 @@ La bomba alternativa vale en USA unos 70 USD: https://www.jpcycles.com/harley-sp
 
 La bomba que la reemplaza automotriz es la **Bomba Nafta Tipo Bosch** de 3 Bar, que vale unos 15 USD.
 
-Ver imagen para referencia:
+Ver imagenes para referencia:
+
+![alternativa USA fuel pump](archivos_soporte/EFI/bomba_nafta/bomba_alternativa_jpcycles.jpg)
+
+![alternativa USA fuel pump](archivos_soporte/EFI/bomba_nafta/alternativa_bosch_3bar.jpg)
+
+![alternativa USA fuel pump](archivos_soporte/EFI/bomba_nafta/alternativa_generica_3bar.jpg)
 
 ## Velocidad de ralenti / idle
 
