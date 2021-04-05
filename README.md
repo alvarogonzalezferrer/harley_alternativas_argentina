@@ -1289,7 +1289,7 @@ La bomba original vale en Harley Argentina unos 300 USD.
 
 La bomba alternativa vale en USA unos 70 USD: https://www.jpcycles.com/harley-sportster-1200-fuel-pump-components
 
-La bomba que la reemplaza automotriz es la **Bomba Nafta Tipo Bosch** de 3 Bar, que vale unos 15 USD.
+La bomba que la reemplaza automotriz es la **Bomba Nafta Tipo Bosch** de 3 Bar, que vale unos 15 USD, hay muchos automoviles en Argentina que la utilizan y se consigue facilmente en Mercado Libre o casas de repuestos.
 
 Ver imagenes para referencia:
 
