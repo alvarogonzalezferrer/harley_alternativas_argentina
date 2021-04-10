@@ -1209,8 +1209,15 @@ Diagrama del carburador CV40:
 
 ![CV40](archivos_soporte/carburador/HD04XL_CV40-CARBURETOR-SCHEMATIC.gif)
 
-
 # Inyección EFI (2007 en adelante)
+
+Del 2007 inclusive en adelante, Harley dejó de poner carburador en sus Sporster, y empezó a poner inyección electrónica de combustible en sus motos.
+
+Una decisión lamentable, pero que responde mas que nada a las normas de contaminación y ruido de la Union Europea y la EPA americana... Incluso a partir de 2021 se deja de vender la Sportster en Europa, por las nuevas normas de contaminación y ruido. El mundo va en una dirección horrible, y todos de cabeza metidos en el hippie progresismo liberal :(
+
+Después de décadas de ventas, a fines de 2020 Harley-Davidson ha confirmado que la venerable gama Sportster hará una salida silenciosa de Europa debido a la próxima normativa de emisiones Euro5.
+
+Dejando a un lado las pequeñas actualizaciones, la arquitectura fundamental del motor de dos válvulas refrigerado por aire se ha mantenido igual desde mediados de la década de 1980, y actualizarlo para Euro5 habría sido una tarea hercúlea.
 
 ## Componentes alternativos
 
