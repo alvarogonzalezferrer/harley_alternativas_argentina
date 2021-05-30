@@ -1300,9 +1300,11 @@ Notas:
 
 *Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* *// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva*
 
+*Candidato a filtro de reemplazo barato, el de la KTM : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS*
+
 *El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!*
 
-*Si alguien conoce algun filtro similar automotriz de menor precio, que me informe por favor*
+**Si alguien conoce algun filtro similar de menor precio, que me informe por favor**
 
 Tutoriales para cambiarlo :
 
