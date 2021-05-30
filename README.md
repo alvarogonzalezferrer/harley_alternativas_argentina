@@ -1183,17 +1183,13 @@ No esta de mas ponerle un estabilizador de combustible si se deja parada. Tambi�
 
 En caso de quedar muchisimo tiempo parado, es conveniente limpiar los gicleur/chicler cuidadosamente. Ver el manual de desarme.
 
-Video de como *LIMPIAR* el carburador : https://www.youtube.com/watch?v=Pp4l-zbQcy0
-
-Como limpiar el *filtro de nafta*:
-
-https://www.youtube.com/watch?v=8Xs6ZjrAD6o
-
 ## Carburador tapado / reconstrucción
 
 Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podria taparse el carburador o ponerse fea las gomas internas.
 
-Podemos limpiarlo según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "CV40 rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
+Podemos **limpiarlo** según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "CV40 rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
+
+Video de como **LIMPIAR** el carburador : https://www.youtube.com/watch?v=Pp4l-zbQcy0
 
 Tutorial para reconstruir el carburador CV40:
 
@@ -1215,11 +1211,13 @@ Diagrama del carburador CV40:
 
 ![CV40](archivos_soporte/carburador/HD04XL_CV40-CARBURETOR-SCHEMATIC.gif)
 
-## Cambiar el filtro de nafta
+## Limpiar el filtro de nafta
 
 En los modelos carburados 2004 y adelante, el filtro de nafta esta en la valvula de paso de combustible.
 
 El filtro se LIMPIA, solo se reemplaza si esta perforado o roto.
+
+Como limpiar el **filtro de nafta**: https://www.youtube.com/watch?v=8Xs6ZjrAD6o
 
 Ver figuras:
 
