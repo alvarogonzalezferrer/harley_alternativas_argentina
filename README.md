@@ -224,9 +224,9 @@ Aca tengo un manual de taller interesante:
 
 *Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
 
-* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
+* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.
 
-* ~~Otra pagina con un manual~~: https://www.casitodosportster.com/descargables  *enero 2021 parece que esta pagina ya no funciona, que lastima*
+* Foro con manuales: https://harleyexpert.com/resources/
 
 * Despieces y microfichas:
   * http://www.shopronniesharleydavidson.com/
