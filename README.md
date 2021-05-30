@@ -1281,6 +1281,8 @@ El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto c
 
 El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Dennis Kirk unos 20 dolares.
 
+* Ebay (mas barato) : https://www.ebay.com/sch/i.html?_nkw=sportster+fuel+filter+efi
+
 * Dennis Kirk U$S 19 - P/N  1801082 : https://www.denniskirk.com/v-factor/oe-style-fuel-filter-kit-for-efi-models-75304-07a.p1801082.prd/1801082.sku
 
 * Drag Specialties U$S 40 - P/N 0707-0014 : https://www.dragspecialties.com/search;q=07070014
