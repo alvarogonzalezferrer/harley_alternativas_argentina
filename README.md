@@ -557,7 +557,7 @@ Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone
 
 http://www.ipone.com.ar/
 
-**Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50 *lo vi en venta en 2019, 2020 no*
+**Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50
 
 **AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
 http://superoil.com/original/html/harley-davidson.htm
@@ -589,6 +589,8 @@ Características
 
 **HIFlo HF170C** es cromado (o negro HF170B) y específico para Harley, se consigue en Mercado Libre barato. **Es mejor en calidad que el original de Harley**. http://www.hiflofiltro.com/catalogue/filter/hf170
 Tambien hay un modelo "high performance" con un elemento filtrante mejorado, el HF170RC, pero no lo vi en venta en Argentina. Ver http://www.hiflofiltro.com/catalogue/filter/HF170RC
+
+**CHAMPION** CHAMPION COF071C, lo vi en venta en ML en Mayo 2021
 
 **PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; *investigar que modelo le sirve..*
 
@@ -1296,11 +1298,17 @@ El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Denni
 
 ![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/despiece_filtro_nafta.jpg)
 
-Notas:
+Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el prefiltro):
 
-*Ver si hay filtro de nafta alternativo que le sirva a la bomba.-* *// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva*
+**Me falta medir el filtro de la Harley, diametro externo, interno y altura, para poder saber que filtro lo puede reemplazar.**
 
-*Candidato a filtro de reemplazo barato, el de la KTM : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS*
+Ver si hay filtro de nafta alternativo que le sirva a la bomba.- *// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva*
+
+Candidato a filtro de reemplazo barato -- NO VERIFIQUE MEDIDAS TODAVIA:
+
+* KTM - HF652, 5 USD en ML  : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
+
+* Otro filtro posible es el HU719/6X del VW Vento 2.5, VER MEDIDAS A VER SI COINCIDEN, este tiene 125 alto, 31 interior, 64 exterior mm.
 
 *El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!*
 
