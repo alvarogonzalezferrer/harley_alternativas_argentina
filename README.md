@@ -1212,6 +1212,14 @@ Diagrama del carburador CV40:
 
 ![CV40](archivos_soporte/carburador/HD04XL_CV40-CARBURETOR-SCHEMATIC.gif)
 
+## Cambiar el filtro de nafta
+
+En los modelos carburados 2004 y adelante, el filtro de nafta esta en la valvula de paso de combustible.
+
+Ver figura: ![Filtro nafta carburador](archivos_soporte/carburador/filtro_y_valvula_nafta_carburador.jpg)
+
+Para extraer la valvula, consultar el manual de taller.
+
 # Inyección EFI (2007 en adelante)
 
 Del 2007 inclusive en adelante, Harley dejó de poner carburador en sus Sporster, y empezó a poner inyección electrónica de combustible en sus motos.
