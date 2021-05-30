@@ -1282,7 +1282,11 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 ## Cambiar el filtro de nafta
 
-El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba. Según el manual se reemplaza a las 100 mil millas, o sea 160 000 km, un poco optimista me parece...
+Lleva DOS filtros, un prefiltro que es tipo una bolsita porosa, y el filtro que es un cilindro.
+
+El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba.
+
+Según el manual se reemplaza a las 100 mil millas, o sea 160 000 km, un poco optimista me parece...
 
 El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Dennis Kirk unos 20 dolares.
 
@@ -1298,29 +1302,33 @@ El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Denni
 
 ![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/despiece_filtro_nafta.jpg)
 
-Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el prefiltro):
-
-**Me falta medir el filtro de la Harley, diametro externo, interno y altura, para poder saber que filtro lo puede reemplazar.**
-
-Ver si hay filtro de nafta alternativo que le sirva a la bomba.- *// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva*
-
-Candidato a filtro de reemplazo barato -- NO VERIFIQUE MEDIDAS TODAVIA:
-
-* KTM - HF652, 5 USD en ML  : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
-
-* Otro filtro posible es el HU719/6X del VW Vento 2.5, VER MEDIDAS A VER SI COINCIDEN, este tiene 125 alto, 31 interior, 64 exterior mm.
-
-*El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!*
-
-**Si alguien conoce algun filtro similar de menor precio, que me informe por favor**
-
-Tutoriales para cambiarlo :
+### Tutoriales para cambiarlo:
 
 * http://xlforum.net/forums/showthread.php?t=2014282
 
 * https://www.youtube.com/watch?v=EWng7GX_R44
 
 * https://youtu.be/rGvAhi8XAGo
+
+### Alternativas mas economicas
+
+Reemplazo para el **pre-filtro** alternativo y barato: el pre filtro de la Honda Xre 300 tiene medidas similares y va bien, hay muchos.
+
+*El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!*
+
+Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el prefiltro): -- TRABAJO EN PROGRESO
+
+**Me falta medir el filtro de la Harley, diametro externo, interno y altura, para poder saber que filtro lo puede reemplazar.**
+
+Ver si hay filtro de nafta alternativo que le sirva a la bomba.- *// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva*
+
+CandidatoS a filtro de reemplazo barato -- NO VERIFIQUE MEDIDAS TODAVIA:
+
+* KTM - HF652, 5 USD en ML  : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
+
+* Otro filtro posible es el HU719/6X del VW Vento 2.5, VER MEDIDAS A VER SI COINCIDEN, este tiene 125 alto, 31 interior, 64 exterior mm.
+
+**Si alguien conoce algun filtro similar de menor precio, que me informe por favor**
 
 ## Bomba de nafta EFI
 
@@ -1344,7 +1352,7 @@ Ver imagenes para referencia:
 
 ![alternativa USA fuel pump](archivos_soporte/EFI/bomba_nafta/alternativa_generica_3bar.jpg)
 
-## Velocidad de ralenti / idle
+## Velocidad de ralenti / idle / regular
 
 La velocidad de ralenti / idle en las motos de inyeccion electronica *no se puede alterar*. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
 
