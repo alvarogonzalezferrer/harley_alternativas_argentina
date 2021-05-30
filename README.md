@@ -1216,9 +1216,17 @@ Diagrama del carburador CV40:
 
 En los modelos carburados 2004 y adelante, el filtro de nafta esta en la valvula de paso de combustible.
 
-Ver figura: ![Filtro nafta carburador](archivos_soporte/carburador/filtro_y_valvula_nafta_carburador.jpg)
+El filtro se LIMPIA, solo se reemplaza si esta perforado o roto.
+
+Ver figuras:
+
+![Filtro nafta carburador](archivos_soporte/carburador/filtro_y_valvula_nafta_carburador.jpg)
+
+![Filtro nafta carburador](archivos_soporte/carburador/filtro_y_valvula_nafta_carburador_2.jpg)
 
 Para extraer la valvula, consultar el manual de taller.
+
+*NOTA* El filtro de fábrica parece insuficiente, quizás conviene poner un filtro externo de combustible generico.
 
 # Inyección EFI (2007 en adelante)
 
