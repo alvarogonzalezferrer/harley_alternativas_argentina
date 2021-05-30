@@ -6,7 +6,7 @@ Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 09/04/2021** , ±85000 km recorridos sin problemas.
+**Documento Actualizado 04/05/2021** , ±85000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
@@ -226,7 +226,7 @@ Aca tengo un manual de taller interesante:
 
 * Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
 
-* ~~Otra pagina con un manual: https://www.casitodosportster.com/descargables~~ *enero 2021 parece que esta pagina ya no funciona, que lastima*
+* ~~Otra pagina con un manual~~: https://www.casitodosportster.com/descargables  *enero 2021 parece que esta pagina ya no funciona, que lastima*
 
 * Despieces y microfichas:
   * http://www.shopronniesharleydavidson.com/
@@ -241,6 +241,7 @@ Aca tengo un manual de taller interesante:
 * Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
 Podemos buscar online tambien:
+
 * https://www.duckduckgo.com/?q=sportster+workshop+manual
 * https://www.google.com/search?q=sportster+workshop+manual
 
@@ -1204,6 +1205,8 @@ Reparar el "choke" / cebador : http://sportsterpedia.com/doku.php/techtalk:evo:c
 Kit de reconstruccion:
 
 ![CV40 rebuild kit](archivos_soporte/carburador/cv40_rebuild_kit.jpg)
+
+Se puede comprar el kit de reconstruccion aca: https://www.ebay.com/sch/i.html?_nkw=sportster+cv+rebuild+kit
 
 Diagrama del carburador CV40:
 
