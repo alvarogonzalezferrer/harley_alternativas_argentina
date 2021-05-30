@@ -707,7 +707,10 @@ Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas ven
 
 ![Oil temp dipstick](archivos_soporte/radiador_aceite/oil_temp_plug.jpg)
 
-Ver este enlace: https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
+Ver este enlace:
+
+* https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
+* https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick
 
 Este tapón también se puede *fabricar* usando un termómetro de horno y modificando el original, o torneando uno.
 
