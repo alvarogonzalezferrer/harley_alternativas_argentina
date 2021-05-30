@@ -1229,6 +1229,9 @@ Para extraer la valvula, consultar el manual de taller.
 
 *NOTA* El filtro de fábrica parece insuficiente, quizás conviene poner un filtro externo de combustible generico.
 
+*NOTA* Si el filtro estuviera perforado, debe ser cambiado, se busca como "petcock screen" ó "Late Style Petcock Replacement Screen"
+*
+
 # Inyección EFI (2007 en adelante)
 
 Del 2007 inclusive en adelante, Harley dejó de poner carburador en sus Sporster, y empezó a poner inyección electrónica de combustible en sus motos.
