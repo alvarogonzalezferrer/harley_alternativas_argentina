@@ -1439,6 +1439,21 @@ http://www.pietcard.com.ar/ -- no lo encontre
 
 # Escapes
 
+## Escapes importados
+
+Supertrapp
+
+Screaming Eagle
+
+Bassani
+
+Arlen Ness
+
+Vance & Hines
+
+etc
+
+## Escapes nacionales
 *seccion en desarrollo*
 
 http://giacconeescapes.com/ } estos fabrican para Harley Davidson a medida
@@ -1450,6 +1465,10 @@ http://www.tubosilescapes.com.ar/
 http://dmescapes.com.ar/
 
 https://www.mpmotosport.com/ } tambien hacen quillas y asientos
+
+## Modificar silenciadores originales
+
+Se puede remover el nucleo del escape original para que haga mas ruido.
 
 
 # Mejorar performance
