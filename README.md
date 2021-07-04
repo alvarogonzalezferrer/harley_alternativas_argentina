@@ -1423,6 +1423,12 @@ http://www.pietcard.com.ar/ -- no lo encontre
 
 # Escapes
 
+La elección del escape puede alterar el sonido, el look y la **performance** de nuestra moto
+
+## Performance de escapes
+
+Aca tenemos un analisis en dinamometro de diferentes escapes: https://www.1250kits.com/ttxlexhaust.shtml
+
 ## Escapes importados
 
 Supertrapp
@@ -1518,15 +1524,67 @@ http://www.floheadworks.com/Departments/articles.htm
 
 Es posible convertir una 883 a 1200, incluso a más, 1275cc por ejemplo, de manera relativamente sencilla.
 
-Se cambian cilindros, pistones, refuerzo el embrague, ajustar el encendido, y el combustible y listo.
+Depende de cuanto se desee gastar, podemos ir desde 70 HP hasta +120 HP de preparación.
 
-Hay muchos kits diferentes que se pueden elegir, yo opte por Hammer Performance, el cual considero el mejor.
+Se cambian pistones, cilindros, refuerzo el embrague, **ajustar el encendido**, y el combustible y listo, para una preparación basica.
+
+Si se hace trabajo de levas, valvulas, etc, podemos ganar todavía más potencia.
+
+Hay muchos kits diferentes que se pueden elegir, yo opte por **Hammer Performance**, el cual considero el mejor.
+
+Tambien hay kits de V Twin Manufacturing, S&S y más.
 
 Este es el kit que yo tengo, Hammer Performance, super buena atención.
 
 http://hammerperf.com/883conversions.shtml
 
 ![1275cc kit](archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg)
+
+### Procedimiento 883 a 1200
+
+Se puede cambiar solo los pistones, rectificando los cilindros, en modelos hasta el año
+
+Lo mejor es cambiar pistones y cilindros, y de paso ver el estado de las valvulas.
+
+Depende de cuanto se desee gastar, podemos ir desde 70 HP hasta +120 HP de preparación.
+
+**INSTRUCCIONES DE INSTALACION** https://www.1250kits.com/ttinstallkit.shtml
+
+Es **IMPORTANTE ajustar el encendido**: La sincronización de encendido estándar en todos los modelos HD es demasiado agresiva para la mayor compresión que normalmente viene con un kit de motor de alto rendimiento. Lacompresión más alta, el avance de combustión y sincronización deben reducirse al instalar un kit 1275. El ajuste incorrecto de la sincronización del encendido es la causa número uno de los pistones raspados.
+
+Para el encendido, ver https://www.1250kits.com/ttinstallkit.shtml#Tuning
+
+En este documento, esta bien explicado, varia mucho segun el año : https://www.1250kits.com/883conversions.shtml
+
+### Encendido programable para carburadas 2004 a 2006
+
+**SOLO PARA MODELOS CARBURADOS 2004 A 2006**
+
+El encendido original HD solo lo puede programar el dealer. Lo mejor es cambiar a un Daytona Twin Tec TC88, o a un Dynatek Dyna Performance
+
+Daytona TC88A: http://www.daytona-twintec.com/tc88atwincamignition.aspx
+
+*Ojo con la version TC88A EX !! Es para que sea legal en California, por las pavadas de contaminacion, NO comprar esa version!*
+
+Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dyna-performance-digitial-ignition-module-cdi-for-2004-2006-harley-davidson-sportsters-dspt-1/
+
+*este modelo es mas barato pero tiene menos funcionalidad que el Daytona*
+
+### Modelos EFI 2007 en adelante
+
+*TO-DO me falta info* , hay que reflashear o reprogramar el encendido, por ejemplo con un Dynojet Power Vision (no los que se adosan a la ECM como Fuel Pak, sino una repro real!!)
+
+https://www.dynojet.com/power-vision/
+
+El de Vance&Hines FP3 NO anda bien para un kit 1250, es mejor el Power Vision!
+
+SIEMPRE PROGRAMAR LA ECM ANTES DEL PRIMER ARRANQUE con el kit 1250, O PODES DAÑAR EL MOTOR EN EL PRIMER ENCENDIDO!!
+
+### Modelos 2003 y anteriores
+
+Encendidos programables: http://www.daytona-twintec.com/carburetedignition.aspx
+
+TO-DO falta info
 
 # Otros accesorios
 
