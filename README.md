@@ -1544,7 +1544,7 @@ http://hammerperf.com/883conversions.shtml
 
 ### Procedimiento 883 a 1200
 
-Se puede cambiar solo los pistones, rectificando los cilindros, en modelos hasta el año
+Se puede cambiar solo los pistones, rectificando los cilindros, en modelos hasta el año 2007 (2008 en adelante NO) se puede rectificar los cilindros 883 para usar pistones 1200, a partir de ese año Harley puso camisas mas finas y ya no se puede rectificar un 883 a 1200, es necesario poner cilindros nuevos mas grandes. Ver boletin de servicio HD 1267 -> http://sportsterpedia.com/lib/exe/fetch.php/pdf-bulletin:tsb1267.pdf
 
 Lo mejor es cambiar pistones y cilindros, y de paso ver el estado de las valvulas.
 
