@@ -1423,7 +1423,9 @@ http://www.pietcard.com.ar/ -- no lo encontre
 
 # Escapes
 
-La elección del escape puede alterar el sonido, el look y la **performance** de nuestra moto
+La elección del escape puede alterar el sonido, el look y la **performance** de nuestra moto.
+
+Si bien los escapes para Harley se eligen principalmente por el look y el sonido, afectan dramaticamente la performance de la moto.
 
 ## Performance de escapes
 
