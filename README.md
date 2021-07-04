@@ -1564,11 +1564,11 @@ En este documento, esta bien explicado, varia mucho segun el año : https://www.
 
 El encendido original HD solo lo puede programar el dealer. Lo mejor es cambiar a un Daytona Twin Tec TC88, o a un Dynatek Dyna Performance
 
-Daytona TC88A: http://www.daytona-twintec.com/tc88atwincamignition.aspx
+* Daytona TC88A: http://www.daytona-twintec.com/tc88atwincamignition.aspx
 
 *Ojo con la version TC88A EX !! Es para que sea legal en California, por las pavadas de contaminacion, NO comprar esa version!*
 
-Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dyna-performance-digitial-ignition-module-cdi-for-2004-2006-harley-davidson-sportsters-dspt-1/
+* Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dyna-performance-digitial-ignition-module-cdi-for-2004-2006-harley-davidson-sportsters-dspt-1/
 
 *este modelo es mas barato pero tiene menos funcionalidad que el Daytona*
 
@@ -1576,11 +1576,11 @@ Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dyna-perf
 
 *TO-DO me falta info* , hay que reflashear o reprogramar el encendido, por ejemplo con un Dynojet Power Vision (no los que se adosan a la ECM como Fuel Pak, sino una repro real!!)
 
-https://www.dynojet.com/power-vision/
+* Dynojet Power Vision : https://www.dynojet.com/power-vision/
 
-El de Vance&Hines FP3 NO anda bien para un kit 1250, es mejor el Power Vision!
+* Vance&Hines FP3 :  **NO anda bien para un kit 1250**, es mejor el Power Vision!
 
-SIEMPRE PROGRAMAR LA ECM ANTES DEL PRIMER ARRANQUE con el kit 1250, O PODES DAÑAR EL MOTOR EN EL PRIMER ENCENDIDO!!
+**SIEMPRE PROGRAMAR LA ECM ANTES DEL PRIMER ARRANQUE** con el kit 1250, O PODES DAÑAR EL MOTOR EN EL PRIMER ENCENDIDO!!
 
 ### Modelos 2003 y anteriores
 
