@@ -725,7 +725,7 @@ Este tapón también se puede *fabricar* usando un termómetro de horno y modifi
 > H-D no hizo una distinción entre sus aceites sintéticos y a base de petróleo, mientras que parece que solo están hablando de sus propios aceites que han sido formulados para estas temperaturas. El editor de la revista continúa recomendando el aceite sintético como la lubricación de elección en nuestros motores, en parte debido a su intervalo de cambio extendido, entre otras diferencias.
 > Tengo que preguntarme por un momento si las recomendaciones de temperaturas más altas (hasta 300 grados en aceite mineral HD) son toleradas por HD como legítimas por necesidad, simplemente debido al hecho de que las motos EFI tienden a funcionar más finas de nafta, y en consecuencia, más calientes que las motos carburadas. En cualquier caso, esto debería hacer que la mayoría de nosotros nos sintamos cómodos cuando la temperatura del aceite llega hasta los 200 sin usar un enfriador de aceite, y quizás otros cuestionen su necesidad del enfriador de aceite que han estado usando.
 
-## Radiador de aceite
+# Radiador de aceite
 
 *seccion en desarrollo*
 
@@ -759,7 +759,7 @@ https://www.dragspecialties.com/search;q=oil%20cooler
 
 https://serviceinfo.harley-davidson.com/sip/service/document/239678
 
-### Adaptar
+## Adaptar
 
 Info super cruda, basicamente precisas un radiador de otra moto, dos lineas de aceite, y enchufarlo eligiendo dos maneras posibles: a la linea de aceite del lado derecho inferior del motor, ó usando un adaptador al filtro de aceite (Jagg vende uno, pero estoy buscando uno nacional mas economico.)
 
@@ -782,6 +782,73 @@ Algunas casas de hidraulica en Argentina
 * https://www.hidraulicagomar.com.ar/
 * http://www.hidraulicasanfco.com.ar/
 
+# Acabados de motor
+
+El motor puede venir en tres terminaciones diferentes, segun el modelo: negro, pulido o cromado.
+
+## Aluminio pulido
+
+Algunos modelos vinieron con el motor en aluminio pulido brillante.
+
+Esta terminación es bastante fácil que se arruine si no se mantiene **siempre bien pulido y limpio**.
+
+Para volver a pulir nuestro aluminio, podemos usar discos de pulido y pastas de pulir, ver los siguientes videos
+
+https://www.youtube.com/watch?v=c1mbRoaGs3s
+
+https://www.youtube.com/watch?v=p6W-snSeCtg
+
+https://www.youtube.com/watch?v=Qj2aFJeFdA0
+
+Las pastas de pulir son bastante económicas, y los discos los podemos comprar o hacer caseros.
+
+
+
+Si no conseguimos pasta de pulir, se puede hacer casera:
+
+Para la pasta de pulir.
+
+Aceite vegetal, girasol, colza, soja, etc.
+Harina de maíz, o Maizena
+y Bicarbonato Sódico,
+
+Recuerda que lo que realmente pule es el bicarbonato sódico, si tiene poco será poco efectiva.
+
+## Negro
+
+Algunos modelos vienen con el motor negro de fabrica.
+
+Si queremos pintar nuestro motor negro, podemos seguir este tutorial : https://www.hdforums.com/how-tos/a/harley-davidson-sportster-how-to-black-out-engine-casing-412785
+
+TO-DO explicar como limpiarlo.
+
+## Cromado
+
+Los modelos custom vienen con el motor cromado de fabrica.
+
+Para cromar un motor no cromado podemos de dos maneras diferentes, una es desarmar y mandar todo a cromar. Quitar las tapas laterales NO es facil, sobre todo lateral derecho,
+
+La opción mas fácil es comprar un kit de embellecimiento, que son unas tapas cromadas que se colocan sobre las tapas originales.
+
+Ver : https://www.google.com/search?q=chrome+dress+up+kit+sportster
+
+### Cromados en general
+
+Hay buenas casas de cromado en Argentina, donde pueden cromar y restaurar nuestras piezas metalicas.
+
+* Saavedra Cromados - http://cromadossaavedra.com.ar/ - EXCELENTE, aca hice cromar unas cosas con gran calidad. Aceptan(siguen?) cromar escapes.
+
+Av. García del Río 4522, Buenos Aires, Argentina
+
+https://www.facebook.com/Est-Galvanotecnico-Saavedra-Cromados-875530772483854/
+
+Hacen reparaciones, cromados, niquelados, platil, cobreados, pulidos, bi niquel, niquel block, plateados, baño de oro, florentino, zincados, cobre viejo etc etc.
+
+* Cromados Albacrom - https://cromadosalbacrom.com/
+
+* Cromados Peduto - excelente calidad, precio acorde, no acepta cromar escapes, al menos cuando yo los llame, preguntar igual por las dudas...
+
+y muchos más...
 
 # Filtro de aire
 
@@ -1057,11 +1124,11 @@ Si bien el objetivo funcional es una buena idea, esta placa de resorte ha causad
 
 ![Disco explotado](archivos_soporte/embrague/grenade_plate.jpg)
 
-#### Sintomas
+### Sintomas
 
 Es mejor abordar este problema antes de que suceda. Da varios sintomas de que esta por explotar: el embrague puede estar "raro", endurecido, puede costar poner neutro. Se puede ver pedacitos de viruta de bronce en el aceite de primaria (los remaches), o incluso pedazos grandes de remache.
 
-#### Solucion
+### Solucion
 
 La opción preferida es eliminar la placa de resorte por completo instalando **dos placas de acero adicionales y una placa de fricción adicional**. Esto funciona para embragues de **1991** en adelante.
 
@@ -1155,24 +1222,6 @@ Tienen pintura de retoque en los colores de Harley:
 > Dirección: Av. Victorica 951, B1744BWJ Gran Buenos Aires, Buenos Aires
 >
 > Teléfono:0237 462-2242
-
-# Cromados
-
-Hay buenas casas de cromado en Argentina, donde pueden cromar y restaurar nuestras piezas metalicas.
-
-* Saavedra Cromados - http://cromadossaavedra.com.ar/ - EXCELENTE, aca hice cromar unas cosas con gran calidad. Aceptan(siguen?) cromar escapes.
-
-Av. García del Río 4522, Buenos Aires, Argentina
-
-https://www.facebook.com/Est-Galvanotecnico-Saavedra-Cromados-875530772483854/
-
-Hacen reparaciones, cromados, niquelados, platil, cobreados, pulidos, bi niquel, niquel block, plateados, baño de oro, florentino, zincados, cobre viejo etc etc.
-
-* Cromados Albacrom - https://cromadosalbacrom.com/
-
-* Cromados Peduto - excelente calidad, precio acorde, no acepta cromar escapes, al menos cuando yo los llame, preguntar igual por las dudas...
-
-y muchos más...
 
 
 # Carburador CV40 (2006 y anteriores)
