@@ -1763,13 +1763,40 @@ https://www.ridefree.com.ar/productos
 
 Y Muchos Mas
 
-# Personalizacion
 
-## Choppers
+# Choppers
 
-Como armar una chopper
+["Its a chopper, baby"](https://www.youtube.com/watch?v=2ue996GQMC8)
 
 *seccion en desarrollo*
+
+## Cuadro rigido
+
+Varias opciones, podemos cambiar el cuadro (papeles?), armar un "hard tail", o ponerle struts.
+
+Eso si, olvidate de pasar la verificación tecnica anual...
+
+https://www.google.com/search?hard+tail+sportster
+
+https://www.google.com/search?struts+sportster
+
+https://www.google.com/search?hardtail+frame+sportster
+
+## Springers
+
+Horquillas springer
+
+https://www.google.com/search?springer+fork+sportster
+
+## Asientos de resortes
+
+https://www.google.com/search?spring+seat+sportster
+
+## Rueda trasera ancha
+
+https://www.google.com/search?wide+tire+kit+sportster
+
+## Como armar una chopper
 
 https://chopperbuildershandbook.com/
 
