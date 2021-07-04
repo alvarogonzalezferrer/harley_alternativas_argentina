@@ -1429,6 +1429,8 @@ La elección del escape puede alterar el sonido, el look y la **performance** de
 
 Si bien los escapes para Harley se eligen principalmente por el look y el sonido, afectan dramaticamente la performance de la moto.
 
+Tenemos que tener cuidado al elegir el escape que vaya para nuestro año de moto: 1986 a 2003 usan similar escape, 2004 a 2013 otro tipo (cuidado que 2007 en adelante tiene que tener para colocar las sondas lambda! si no lo tiene solo sirve para las carburadas 2004 a 2006), y 2014 en adelante otro tipo. Para anteriores 1986 tambien hay, pero es mas dificil de conseguir.
+
 ## Performance de escapes
 
 Aca tenemos un analisis en dinamometro de diferentes escapes: https://www.1250kits.com/ttxlexhaust.shtml
