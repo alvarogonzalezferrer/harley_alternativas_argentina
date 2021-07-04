@@ -6,106 +6,11 @@ Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 29/05/2021** , ±85000 km recorridos sin problemas.
+**Documento Actualizado 04/07/2021** , ±91000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
-**EXPERIMENTAL AUTO GENERADA!!**
-
-- [Harley Davidson Sportster](#harley-davidson-sportster)
-  * [Alternativas de mantenimiento](#alternativas-de-mantenimiento)
-    + [Apuntes del propietario](#apuntes-del-propietario)
-  * [Tabla de contenidos](#tabla-de-contenidos)
-  * [Introducción](#introduccion)
-  * [Alternativas de repuestos en Argentina](#alternativas-de-repuestos-en-argentina)
-  * [Donaciones](#donaciones)
-  * [ATENCIÓN](#atencion)
-- [No soy mecánico!](#no-soy-mecanico)
-- [Mecánicos](#mecanicos)
-- [Manuales](#manuales)
-- [Mantenimiento](#mantenimiento)
-- [Archivos extra](#archivos-extra)
-- [Evolucion de la Sportster](#evolucion-de-la-sportster)
-- [Cubiertas](#cubiertas)
-  * [Presión de inflado](#presion-de-inflado)
-  * [Desgaste](#desgaste)
-  * [Medidas](#medidas)
-    + [Delantera](#delantera)
-    + [Trasera](#trasera)
-    + [Tamaños máximos](#tamaños-maximos)
-    + [Ensanchar rueda trasera](#ensanchar-rueda-trasera)
-- [Cambios de aceite](#cambios-de-aceite)
-    + [Kits oficiales](#kits-oficiales)
-    + [Oficial mineral](#oficial-mineral)
-    + [Oficial sintético](#oficial-sintetico)
-    + [Economico](#economico)
-    + [Sintetico](#sintetico)
-    + [Mineral](#mineral)
-    + [Favorito mio - semi sintetico](#favorito-mio---semi-sintetico)
-- [Aceite de motor](#aceite-de-motor)
-  * [Analisis largo](#analisis-largo)
-  * [Recomendaciones de fabricantes](#recomendaciones-de-fabricantes)
-    + [Harley Davidson](#harley-davidson)
-    + [Otras marcas:](#otras-marcas-)
-  * [Filtros de aceite](#filtros-de-aceite)
-- [Aceite de primaria](#aceite-de-primaria)
-  * [Analisis largo](#analisis-largo-1)
-- [Temperatura del aceite](#temperatura-del-aceite)
-  * [Radiador de aceite](#radiador-de-aceite)
-    + [Adaptar](#adaptar)
-- [Filtro de aire](#filtro-de-aire)
-  * [Limpieza del filtro de aire](#limpieza-del-filtro-de-aire)
-- [Aceite Horquilla](#aceite-horquilla)
-- [Frenos](#frenos)
-  * [Pastillas](#pastillas)
-  * [Discos de freno](#discos-de-freno)
-  * [Liquido de frenos](#liquido-de-frenos)
-- [Bujias](#bujias)
-- [Bateria](#bateria)
-  * [Equivalencias Yuasa](#equivalencias-yuasa)
-  * [Modelos 1979 a 1985](#modelos-1979-a-1985)
-  * [Modelos 1986 a 1996](#modelos-1986-a-1996)
-  * [Modelos 1997-2003](#modelos-1997-2003)
-  * [Modelos 2004 a 2020](#modelos-2004-a-2020)
-- [Luces](#luces)
-- [Embrague](#embrague)
-  * [Problema común del embrague](#problema-com-n-del-embrague)
-      - [Sintomas](#sintomas)
-      - [Solucion](#solucion)
-  * [Sacar embrague](#sacar-embrague)
-  * [Discos de embrague](#discos-de-embrague)
-- [Juntas para el motor y otras partes](#juntas-para-el-motor-y-otras-partes)
-- [Rayos de la rueda](#rayos-de-la-rueda)
-- [Correa de transmision](#correa-de-transmision)
-- [Pintura](#pintura)
-- [Cromados](#cromados)
-- [Carburador CV40 (2006 y anteriores)](#carburador-cv40--2006-y-anteriores-)
-  * [Carburador tapado / reconstrucción](#carburador-tapado---reconstrucci-n)
-- [Inyección EFI (2007 en adelante)](#inyección-efi--2007-en-adelante-)
-  * [Modo diagnostico](#modo-diagnostico)
-  * [Limpiar los inyectores](#limpiar-los-inyectores)
-  * [Diagnosticar inyectores](#diagnosticar-inyectores)
-  * [Cambiar el filtro de nafta](#cambiar-el-filtro-de-nafta)
-  * [Velocidad de ralenti / idle](#velocidad-de-ralenti---idle)
-- [Amortiguadores traseros](#amortiguadores-traseros)
-  * [Informacion sobre la suspension](#informacion-sobre-la-suspension)
-- [Regulador de voltaje](#regulador-de-voltaje)
-- [Escapes](#escapes)
-- [Mejorar performance](#mejorar-performance)
-  * [Stage 1](#stage-1)
-  * [Stage 2](#stage-2)
-  * [Stage 3](#stage-3)
-  * [Convertir 883 a 1200](#convertir-883-a-1200)
-- [Otros](#otros)
-- [Llaves](#llaves)
-  * [Duplicar la llave](#duplicar-la-llave)
-  * [Programar el llavero con mando a distancia de seguridad](#programar-el-llavero-con-mando-a-distancia-de-seguridad)
-- [Almacenar la moto](#almacenar-la-moto)
-- [Catalogos online / comprar repuestos](#catalogos-online---comprar-repuestos)
-  * [Como comprar](#como-comprar)
-  * [Donde comprar](#donde-comprar)
-- [Personalizacion](#personalizacion)
-  * [Choppers](#choppers)
+La tabla de contenidos se actualiza automaticamente, dar click en el icono sobre el margen izquierdo.
 
 ## Introducción
 
@@ -1311,11 +1216,15 @@ http://www.nightrider.com/biketech/motorcycle_efi_basics.htm
 
 La central ECM tiene un modo de diagnostico incorporado, para saber los codigos de error.
 
-Es bastante facil de usar. *FALTA PONER LA MANERA DE HACERLO*
+Es bastante facil de usar.
 
-Por ahora, ver este video: https://www.youtube.com/watch?v=j3JiSOjkuZ0
+Basta con mantener presionado el botón de reset del cuentakilómetros mientras se pone la llave de encendido en “on”. La aguja del instrumento se moverá en todo su recorrido y todos los testigos se iluminarán, tras lo cual aparecerá en el display digital el menú de códigos de fallo:
 
-*NOTA* Otra manera de diagnostico es usar un scanner ODB2, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas facil usar el diagnostico que trae la moto igualmente.
+Ver este video: https://www.youtube.com/watch?v=j3JiSOjkuZ0
+
+Y mas informacion: https://california-motorcycles.com/blogs/mecanicaharley/como-ver-y-borrar-los-codigos-de-error-efi-de-harley-davidson
+
+*NOTA* Otra manera de diagnostico es usar un scanner ODB2, como el economico **ELM327**, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas facil usar el diagnostico que trae la moto igualmente.
 
 ## Limpiar los inyectores
 
@@ -1351,7 +1260,7 @@ El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Denni
 
 ![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/despiece_filtro_nafta.jpg)
 
-### Tutoriales para cambiarlo:
+### Tutoriales para cambiar filto de nafta EFI
 
 * http://xlforum.net/forums/showthread.php?t=2014282
 
@@ -1359,7 +1268,7 @@ El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Denni
 
 * https://youtu.be/rGvAhi8XAGo
 
-### Alternativas mas economicas
+### Alternativas mas economicas filtro EFI
 
 Reemplazo para el **pre-filtro** alternativo y barato: el pre filtro de la Honda Xre 300 tiene medidas similares y va bien, hay muchos.
 
@@ -1422,6 +1331,18 @@ El IAC tiene un pivote impulsado por motor (o pasador / eje / tapón) que permit
 Cuando se apaga el encendido, el ECM 'reinicia' el IAC enviando suficientes pulsos (definidos en la programación del ECM) para extender completamente el pivote y cerrar efectivamente el bypass de aire. Luego, antes de que se apague la energía, el IAC recibe una cantidad de pulsos calculados (pasos) para retraerlo a una posición de "estacionamiento". Esta posición de estacionamiento permite un mayor flujo de aire y velocidad de ralentí en preparación para la siguiente operación de arranque. A menudo será audible en el período de 10 segundos después de apagar la llave.
 
 El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acelerador está abierto), la batería cae por debajo de 9v o el VSS se vuelve mayor que 0 (la moto se está moviendo).
+
+## CANBUS EFI HDLAN
+
+CANBUS es el sistema de comunicaciones de Harley-Davidson, el HDLAN. Esta nueva tecnología va a permitir que toda la gama H-D disponga de frenos ABS, menor cableado y la eliminación de la llave de contacto entre otras mejoras.
+
+Internet dentro de tu moto: Una de las primeras preguntas que te puedes hacer al oír hablar del sistema de comunicaciones es ¿para qué necesita ésto una moto? La respuesta hay que buscarla en la evolución tecnológica a la que se han visto forzadas las marcas de automoción en los últimos años para poder reducir las emisiones y cumplir las cada vez más exigentes normativas y al mismo tiempo mejorar los estándares de seguridad y calidad de conducción.
+
+Con la adopción de la inyección electrónica es necesario que los diferentes sensores y actuadores se comuniquen con la ECM o centralita del vehículo.
+
+Esta comunicación se produce en lenguaje digital, es decir con “ceros y unos”, al igual que lo hacen nuestro ordenador personal o una tablet.
+
+Ver mas info en: https://california-motorcycles.com/blogs/mecanicaharley/el-sistema-de-comunicaciones-can-bus-de-harley-davidson-hdlan
 
 *TO-DO* **Pronto mas información.**
 
