@@ -1552,7 +1552,7 @@ Depende de cuanto se desee gastar, podemos ir desde 70 HP hasta +120 HP de prepa
 
 **INSTRUCCIONES DE INSTALACION** https://www.1250kits.com/ttinstallkit.shtml
 
-Es **IMPORTANTE ajustar el encendido**: La sincronización de encendido estándar en todos los modelos HD es demasiado agresiva para la mayor compresión que normalmente viene con un kit de motor de alto rendimiento. Lacompresión más alta, el avance de combustión y sincronización deben reducirse al instalar un kit 1275. El ajuste incorrecto de la sincronización del encendido es la causa número uno de los pistones raspados.
+Es **IMPORTANTE ajustar el encendido**: La sincronización de encendido estándar en todos los modelos HD es demasiado agresiva para la mayor compresión que normalmente viene con un kit de motor de alto rendimiento. La compresión más alta, el avance de combustión y sincronización deben reducirse al instalar un kit 1275. El ajuste incorrecto de la sincronización del encendido es la causa número uno de los pistones raspados.
 
 Para el encendido, ver https://www.1250kits.com/ttinstallkit.shtml#Tuning
 
