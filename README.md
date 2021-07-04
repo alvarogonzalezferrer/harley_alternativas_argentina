@@ -159,6 +159,7 @@ Aca tengo un manual de taller interesante:
 Podemos buscar online tambien:
 
 * https://www.duckduckgo.com/?q=sportster+workshop+manual
+
 * https://www.google.com/search?q=sportster+workshop+manual
 
 # Mantenimiento
@@ -628,6 +629,7 @@ Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas ven
 Ver este enlace:
 
 * https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
+
 * https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick
 
 Este tapón también se puede *fabricar* usando un termómetro de horno y modificando el original, o torneando uno.
