@@ -1788,27 +1788,25 @@ Varias opciones, podemos cambiar el cuadro (papeles?), armar un "hard tail", o p
 
 Eso si, olvidate de pasar la verificación tecnica anual...
 
-https://www.google.com/search?hard+tail+sportster
+https://www.google.com/search?q=hard+tail+sportster
 
-https://www.google.com/search?struts+sportster
+https://www.google.com/search?q=struts+sportster
 
-https://www.google.com/search?hardtail+frame+sportster
+https://www.google.com/search?q=hardtail+frame+sportster
 
 ## Springers
 
 Horquillas springer
 
-https://www.google.com/search?springer+fork+sportster
+https://www.google.com/search?q=springer+fork+sportster
 
 ## Asientos de resortes
 
-https://www.google.com/search?spring+seat+sportster
+https://www.google.com/search?q=spring+seat+sportster
 
 ## Rueda trasera ancha
 
-https://www.google.com/search?wide+tire+kit+sportster
-
-
+https://www.google.com/search?q=wide+tire+kit+sportster
 
 
 # Próximamente más información
