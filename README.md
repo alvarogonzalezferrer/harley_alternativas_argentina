@@ -1770,6 +1770,18 @@ Y Muchos Mas
 
 *seccion en desarrollo*
 
+## Como armar una chopper
+
+Montón de información útil sobre como armar un chopper.
+
+https://chopperbuildershandbook.com/
+
+https://www.custom-choppers-guide.com/
+
+http://www.hondachopper.com/gallery_misc/chopper_bible/index.html
+
+http://www.chopcult.com/default.php
+
 ## Cuadro rigido
 
 Varias opciones, podemos cambiar el cuadro (papeles?), armar un "hard tail", o ponerle struts.
@@ -1796,15 +1808,7 @@ https://www.google.com/search?spring+seat+sportster
 
 https://www.google.com/search?wide+tire+kit+sportster
 
-## Como armar una chopper
 
-https://chopperbuildershandbook.com/
-
-https://www.custom-choppers-guide.com/
-
-http://www.hondachopper.com/gallery_misc/chopper_bible/index.html
-
-http://www.chopcult.com/default.php
 
 
 # Próximamente más información
