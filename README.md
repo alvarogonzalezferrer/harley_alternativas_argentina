@@ -14,7 +14,9 @@ La tabla de contenidos se actualiza automaticamente, dar click en el icono sobre
 
 ## Introducción
 
-Estas notas nacieron para el mantenimiento de mis motos. Me encanta la Sportster, tengo varias hace mas de 17 años, y la disfruto muchisimo.
+Estas notas nacieron para el mantenimiento de mis motos.
+
+Me encanta la Sportster, tengo varias hace mas de 17 años, y la disfruto muchisimo.
 
 El contenido esta en constante evolucion: cada vez que encuentro nueva información o soluciones, las agrego.
 
@@ -26,15 +28,24 @@ Espero que la información les sea de mucha utilidad.
 
 Gracias por leer!
 
+### Mis motos
+
+Amo las Sportster!
+
+Julio 2021, mis motos son:
+* 2004 XL 883
+* 2005 XL 883 L
+* 2008 XL 1200 C
+
 ## Alternativas de repuestos en Argentina
 
-Lista de repuestos alternativos para Harley Davidson Sportster que se consiguen en Argentina
+Lista de repuestos alternativos para Harley Davidson Sportster que se consiguen en Argentina. Puede servir también para otros paises, en un mundo globalizado todo es posible.
 
-Dado la situacion del pais, con constantes cepos a la importacion y a la moneda extranjera, se hace dificil mantener funcionando una moto importada.
+Dado la situacion de Argentina, en permanente crisis, con constantes cepos a la importacion y a la moneda extranjera, se hace dificil mantener funcionando una moto importada.
 
-Es por eso que recopile, a lo largo de mas de 16 años, una lista de repuestos alternativos para mantener la Harley Davidson Sportster en funcionamiento en optimas condiciones.
+Es por eso que recopile, a lo largo de mas de 17 años, una lista de repuestos alternativos para mantener la Harley Davidson Sportster en funcionamiento en optimas condiciones.
 
-Este proyecto inicia en 2004, cuando compre mi primer HD XL883.
+Este proyecto inicia en 2004, cuando compre mi primer HD XL 883.
 
 ## Donaciones
 
@@ -1342,6 +1353,9 @@ Con la adopción de la inyección electrónica es necesario que los diferentes s
 
 Esta comunicación se produce en lenguaje digital, es decir con “ceros y unos”, al igual que lo hacen nuestro ordenador personal o una tablet.
 
+### HDLAN
+Hasta el 2011 el protocolo de comunicaciones utilizaba 1 cable y se basaba en es estándar J1850. A partir de este año se empezó a utilizar en los modelos Softail y posteriormente en la familia Dyna un protocolo más rápido, con 2 cables de comunicaciones, el HDLAN, basado en el estándar de automoción CAN BUS.
+
 Ver mas info en: https://california-motorcycles.com/blogs/mecanicaharley/el-sistema-de-comunicaciones-can-bus-de-harley-davidson-hdlan
 
 *TO-DO* **Pronto mas información.**
@@ -1439,7 +1453,6 @@ https://www.mpmotosport.com/ } tambien hacen quillas y asientos
 ## Modificar silenciadores originales
 
 Se puede remover el nucleo del escape original para que haga mas ruido.
-
 
 # Mejorar performance
 
