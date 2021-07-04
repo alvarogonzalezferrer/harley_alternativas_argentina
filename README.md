@@ -1427,6 +1427,8 @@ http://www.pietcard.com.ar/ -- no lo encontre
 
 La elección del escape puede alterar el sonido, el look y la **performance** de nuestra moto.
 
+Se puede cambiar todo el escape, o solo las colas, por ejemplo Cycle Shack slip-ons y similares.
+
 Si bien los escapes para Harley se eligen principalmente por el look y el sonido, afectan dramaticamente la performance de la moto.
 
 Tenemos que tener cuidado al elegir el escape que vaya para nuestro año de moto: 1986 a 2003 usan similar escape, 2004 a 2013 otro tipo (cuidado que 2007 en adelante tiene que tener para colocar las sondas lambda! si no lo tiene solo sirve para las carburadas 2004 a 2006), y 2014 en adelante otro tipo. Para anteriores 1986 tambien hay, pero es mas dificil de conseguir.
