@@ -802,7 +802,7 @@ https://www.youtube.com/watch?v=Qj2aFJeFdA0
 
 Las pastas de pulir son bastante económicas, y los discos los podemos comprar o hacer caseros.
 
-
+![Pastas de pulir](archivos_soporte/pulir_aluminio/pastas_de_pulir.jpg)
 
 Si no conseguimos pasta de pulir, se puede hacer casera:
 
