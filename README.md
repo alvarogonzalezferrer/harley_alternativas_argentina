@@ -1822,6 +1822,20 @@ https://www.google.com/search?q=spring+seat+sportster
 
 https://www.google.com/search?q=wide+tire+kit+sportster
 
+# Anexo: Costa Rica
+
+Pronto información de como mantener una Sportster en Costa Rica!
+
+Por ahora, lugares útiles :
+
+* Motochopper
+* Harley Point
+* Harleywood Motorcycles
+* Planet Speed Costa Rica
+* H-D Motors S.A
+* Garaje 33
+* Moto Bike CR
+* etc
 
 # Próximamente más información
 
