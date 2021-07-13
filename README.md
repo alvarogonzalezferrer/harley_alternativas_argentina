@@ -1826,13 +1826,15 @@ https://www.google.com/search?q=wide+tire+kit+sportster
 
 Pronto información de como mantener una Sportster en Costa Rica!
 
+La agencia Harley oficial se fue de Costa Rica, sin embargo es mas facil conseguir repuestos que en Argentina!
+
 Por ahora, lugares útiles :
 
 * Motochopper
 * Harley Point
 * Harleywood Motorcycles
 * Planet Speed Costa Rica
-* H-D Motors S.A -- https://www.facebook.com/hdmotorscr/
+* H-D Motors S.A -- https://www.facebook.com/hdmotorscr/ - Cel 7109-0690 - Tel 2101-0095 - Tienen grua y son servicio tecnico ex-oficial Harley Davidson
 * Garaje 33
 * Moto Bike CR
 * etc
