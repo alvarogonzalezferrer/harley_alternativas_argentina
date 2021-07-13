@@ -1832,10 +1832,29 @@ Por ahora, lugares útiles :
 * Harley Point
 * Harleywood Motorcycles
 * Planet Speed Costa Rica
-* H-D Motors S.A
+* H-D Motors S.A -- https://www.facebook.com/hdmotorscr/
 * Garaje 33
 * Moto Bike CR
 * etc
+
+Insumos
+
+* AMSoil
+* Castrol
+* Amazon
+* eBay
+* Aeropost
+
+Herramientas
+
+* Capris
+* EPA
+* Walmart
+* Universal de Tornillos y Herramientas
+
+Tornilleria
+
+* Universal de Tornillos y Herramientas
 
 # Próximamente más información
 
