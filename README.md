@@ -874,7 +874,11 @@ Notas sobre **DOT 5**: es un fluido no higroscópico compuesto de silicona (poli
 
 # Bujias
 
-Para sacarlas es muy fácil, estan en el lateral izquierdo de la moto. Se necesita una **llave sacabujia de 16mm** Se pueden limpiar con un cepillito de bronce o un cepillo viejo dental. Ojo al colocarlas, ajustar NO es reventar! Ajustarlas sin reventar la rosca!
+Para sacarlas es muy fácil, estan en el lateral izquierdo de la moto. Se necesita una **llave sacabujia de 5/8" o 16mm**
+
+Se pueden limpiar con un cepillito de bronce o un cepillo viejo dental.
+
+Ojo al colocarlas, **ajustar NO es reventar**! Ajustarlas sin reventar la rosca!
 
 Si bien Harley solo recomienda el uso de bujías de marca Harley original, las otras marcas a menudo exceden las especificaciones originales, y a menudo es más conveniente usar bujías que podemos conseguir cerca de nuestro hogar.
 
@@ -885,7 +889,7 @@ Las bujias marca Harley Davidson **6R12** tienen derivados en platinum, gold, et
 Las características son:
 * Diametro de rosca: 12mm
 * Largo de rosca: 19mm
-* Llave: 16mm
+* Llave: 5/8" ó 16mm
 
 **Champion RA8HC** : las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso, se consiguen facil y barato en Argentina, las usan los motores Mercury 40/50/60 fuera de borda, buscar en casas de nautica.
 
