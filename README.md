@@ -33,9 +33,9 @@ Gracias por leer!
 Amo las Sportster!
 
 Julio 2021, mis motos son:
-* 2004 XL 883
-* 2005 XL 883 L
-* 2008 XL 1200 C
+* 2004 XL 883 - Mi primer amor!
+* 2005 XL 883 L - La que compre rota!
+* 2008 XL 1200 C - La que mas viaje!
 
 ## Alternativas de repuestos en Argentina
 
