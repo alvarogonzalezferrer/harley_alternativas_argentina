@@ -529,7 +529,7 @@ http://www.fram.com/parts-search/PH6022
 
 Otras opciones de emergencia :
 **Fram PH3614**, el del Neon, Stratus, PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
-El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula NO MAS de 12 PSI. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
+El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula **NO MAS de 12 PSI**. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
 
 Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
 * Fram PH3614 (es practicamente el mismo que el PH6022)
