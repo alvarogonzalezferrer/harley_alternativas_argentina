@@ -403,6 +403,8 @@ Mas info de la Viscosidad SAE :
 
 ## Recomendaciones de fabricantes
 
+*nota* mas info en la Sportsterpedia : http://sportsterpedia.com/doku.php/techtalk:ref:oil01
+
 ### Harley Davidson
 
 Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas).
