@@ -6,11 +6,15 @@ Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 13/07/2021** , ±91000 km recorridos sin problemas.
+**Documento Actualizado 30/07/2021** , ±91000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
 La tabla de contenidos se actualiza automaticamente, dar click en el icono sobre el margen izquierdo.
+
+## Sportster 1957-2021. RIP
+
+Harley discontinuó la Sportster en 2021, y lanzó otro modelo con el mismo nombre. Este blog NO habla del nuevo modelo.
 
 ## Introducción
 
