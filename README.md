@@ -308,8 +308,6 @@ Como es algo personalizado, las opciones son infinitas, es cuestion de ver que p
 
 # Cambios de aceite
 
-Analisis del aceite en este video: https://youtu.be/2EvfLVzZABs
-
 Variantes sugeridas para el cambio de aceite. Hay combinaciones posibles, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
 
 El motor lleva **3 US quarts**, que son **2.83 litros**.
