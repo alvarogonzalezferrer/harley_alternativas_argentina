@@ -1843,6 +1843,7 @@ Por ahora, lugares útiles :
 * H-D Motors S.A -- https://www.facebook.com/hdmotorscr/ - Cel 7109-0690 - Tel 2101-0095 - Tienen grua y son servicio tecnico ex-oficial Harley Davidson
 * Garaje 33
 * Moto Bike CR
+* Ragnarok -- https://www.facebook.com/ragnarokmotorcycles/
 * etc
 
 Insumos
