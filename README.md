@@ -316,7 +316,7 @@ Como es algo personalizado, las opciones son infinitas, es cuestion de ver que p
 
 # Cambios de aceite
 
-Variantes sugeridas para el cambio de aceite. Hay combinaciones posibles, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
+Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posibles**, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
 
 El motor lleva **3 US quarts**, que son **2.83 litros**.
 La primaria lleva **1 US quart**, que es **0,946 litros**.
@@ -354,16 +354,16 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 *No recomendado, solo para desesperados*
 
 * Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
-* Motor : Castrol Viscus 25w60 DIESEL 3 quart (casi 3 litros, cada quart es 0,94 L), 20 USD
-* Primaria : Motul 3000 20w50, 1 litro, 7 USD / Motorex 15 USD
+* Motor : Castrol Actevo 20w50 de moto ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
+* Primaria : Castro Actevo 3000 20w50, 1 litro, 7 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
 
-### Sintetico
+### Semi Sintetico
 
-*nota: esta dificil conseguir este Castrol en Argentina en 2020, el Motul 300V si se consigue fácil*
+*Antes era sintetico esta lista, pero lo saque porque no se consigue en Argentina en 2021 el 20w50 sintetico :(*
 
 * Filtro: Mahle o HiFlo
-* Motor : Castrol Power 1 4T 20w50 ó Motul 7100 20w60 ó Motul 300V 15w60 / 20w60
+* Motor : Castrol Power 1 4T 15w50, ó Motul 7100 15w50
 * Primaria : Castrol Power 1 4T 20w50
 
 ### Mineral
@@ -376,11 +376,11 @@ https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Favorito mio - semi sintetico
 
-*nota: se puede reemplazar todo por Castrol Actevo X-Tra 20W50 que tambien es semi syn*
+*nota: se puede reemplazar todo por Castrol Actevo X-Tra 20W50 que tambien es semi syn, o IPone ROAD TWIN 4T 15W50*
 
-* Motor : Castrol Power 1 4T 15w50 ó Castrol Actevo X-Tra 20W50
-* Primaria: Castrol Power 1 4T 15w50 ó Castrol Actevo X-Tra 20W50
 * Filtro : HiFlo cromado HF170C
+* Motor : Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50
+* Primaria: Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50
 
 # Aceite de motor
 
@@ -390,7 +390,7 @@ Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es 
 
 Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL (ver boletin informativo oficial mas abajo).
 
-Se puede usar aceite mineral, o sintetico (lo importante es NO MEZCLAR, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
+Se puede usar aceite mineral, o sintetico (lo importante es **NO MEZCLAR**, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
 
 Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir epocas *"nacionales y populares"* donde se prohibe la importación.
 
@@ -447,7 +447,7 @@ https://serviceinfo.harley-davidson.com/sip/service/procedure/133204184750635643
 
 **Valvoline Durablend 4T 20w50 - Semisintetico**  -- motor y primaria, es API SL, JASO MA2, preferido al comun Valvoline
 
-Bel-Ray recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
+**Bel-Ray** recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
 
 **Bel-Ray V-twin 20W50 (preferido)** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo: http://www.lubelray.com.ar/
 
@@ -480,7 +480,7 @@ El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético, y 
 
 https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 
-**Ipone** tambien vende uno formulado para Vtwin, para motor y primaria
+**Ipone** tambien vende uno formulado para Vtwin, para motor y primaria, se llama Road Twin
 
 **IPone ROAD TWIN 4T 15W50** - semi sintetico
 
