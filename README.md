@@ -149,6 +149,7 @@ Aca tengo un manual de taller interesante:
 * Foro con manuales: https://harleyexpert.com/resources/
 
 * Despieces y microfichas:
+  * https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
   * http://www.shopronniesharleydavidson.com/
   * http://partsfinder.onlinemicrofiche.com/ronnies/partsfinder.htm
 
