@@ -1838,9 +1838,9 @@ https://www.google.com/search?q=wide+tire+kit+sportster
 
 # Anexo: Costa Rica
 
-Pronto información de como mantener una Sportster en Costa Rica!
+Información de como mantener una Sportster en Costa Rica
 
-La agencia Harley oficial se fue de Costa Rica, sin embargo es mas facil conseguir repuestos que en Argentina!
+La agencia Harley oficial se fue de Costa Rica, sin embargo es más facil conseguir repuestos que en Argentina!
 
 Por ahora, lugares útiles :
 
@@ -1852,6 +1852,7 @@ Por ahora, lugares útiles :
 * Garaje 33
 * Moto Bike CR
 * Ragnarok -- https://www.facebook.com/ragnarokmotorcycles/
+* Motohouse
 * etc
 
 Insumos
@@ -1872,6 +1873,15 @@ Herramientas
 Tornilleria
 
 * Universal de Tornillos y Herramientas
+
+Traer repuestos
+
+* Aeropost
+* Jetbox
+* Correos de Costa Rica 
+* eBay
+* Amazon
+
 
 # Próximamente más información
 
