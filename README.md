@@ -1698,7 +1698,11 @@ La defensa es bastante util para proteger el motor en caidas a baja velocidad (p
 
 Harley vende un par de modelos, pero el envio a Argentina los hace extremadamente caro...
 
-En https://houseofhandlebar.mercadoshops.com.ar/  hacen un clon de uno de los modelos. 
+En https://houseofhandlebar.mercadoshops.com.ar/  hacen un clon de uno de los modelos.
+
+## Portaequipajes
+
+Hay parrillas o Portaequipajes para ponerles. Aca hacen un modelo : https://houseofhandlebar.mercadoshops.com.ar/
 
 ## Otros
 
