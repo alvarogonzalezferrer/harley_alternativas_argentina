@@ -1640,17 +1640,31 @@ Hay manillares nacionales, e importados.
 
 Tener en cuenta que si ponemos un manillar mas alto, por ejempo un cuelga monos, vamos a tener que reemplazar linea de freno delantero, embrague y cables electricos, y acelerador por su equivalente mas largo, lo cual añade costo y mano de obra.
 
+Nacionales: https://houseofhandlebar.mercadoshops.com.ar/
+
 ### Puños
 
 Hay de goma como los originales, que Lamentablemente luego de unos años se pudren y se ponen pegajosos, y tambien de metal "billet" cromado o negro. Yo prefiero los "billet" ya que no se pudren con el tiempo. Es una cuestión estetica mas que nada elegir el correcto.
 
 ### Calienta puños
 
+TO-DO completar
+
+Hay muchos modelos, algunos buenos, otros malisimos. Yo tengo los de Kuryakyn Heat Demon, andan bastante bien, son complicados de instalar.
+
+Tambien hay guantes calefactores con baterias.
+
+## Respaldos & sissy bar
+
 TO-DO
 
-## Respaldos
+Hay infinidad de modelos.
 
-TO-DO
+The House Of Handlebar en Argentina hace un sissy bar copiado del que vendia (no lo vi mas en catalogo?) Harley, que esta muy bueno.
+
+https://facebook.com/pages/category/Local-Business/House-of-Handlebar-323402801569381/
+
+https://houseofhandlebar.mercadoshops.com.ar/
 
 ## Asientos
 
@@ -1672,7 +1686,21 @@ TO-DO
 
 TO-DO
 
+Normalmente se usa el celular dentro de una fundita impermeable que viene para eso.
+
 ## Espejos
+
+TO-DO
+
+## Defensa o "mataperros"
+
+La defensa es bastante util para proteger el motor en caidas a baja velocidad (por ejemplo se nos resbala la moto estacionando), y tambien para ponerle accesorios como faros buscahuellas, etc.
+
+Harley vende un par de modelos, pero el envio a Argentina los hace extremadamente caro...
+
+En https://houseofhandlebar.mercadoshops.com.ar/  hacen un clon de uno de los modelos. 
+
+## Otros
 
 *TO-DO : agregar link a LCM covers y Tapiceria GALCE para los asientos; y demas links a covers, puños, etc, Barlitop para las alforjas de cuero, y hay otros mas*
 
