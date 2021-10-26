@@ -172,6 +172,10 @@ Podemos buscar online tambien:
 
 El buen mantenimiento es sinónimo de una motocicleta segura. Se debe inspeccionar frecuentemente la motocicleta entre los intervalos regulares de servicio para establecer si es necesario un mantenimiento adicional.
 
+Aceite de motor se cambia cada 8000 km o un año, lo que ocurra primero.
+
+Aceite de primaria se cambia cada 16000 km.
+
 Revise los siguientes elementos:
 
 1. Neumáticos, para comprobar la presión correcta y que no tengan abrasiones ni cortes.
@@ -223,6 +227,8 @@ Y a partir de 2014 se incorporaron nuevos frenos con rotores agrandados de 292mm
 Septiembre 2020 trajo noticias tristes de la mano de los culo roto de la Unión Europea: Harley-Davidson dejará de ofrecer sus modelos Sportster y Street en Europa, gracias a las normas de emisiones Euro 5 que entrarán en vigor a finales de año 2020. Los modelos Sportsters y Street seguirán vendiéndose en Norteamérica y otros mercados que no están sujetos a Euro 5 o estándares equivalentes, pero para Europa, Harley-Davidson descontinuará sus modelos más pequeños y asequibles. La noticia llega días después de que Harley-Davidson anunciara el fin de sus operaciones en India.
 
 No es ningún secreto que la línea Sportster, tal como la conocemos, está en su etapa final. Harley-Davidson ya confirmó que los Sportsters no se actualizarán para cumplir con Euro 5 y se descontinuarán efectivamente en Europa.
+
+A partir de 2022, la Sportster no se vende mas. Fue reemplazada por una moto totalmente nueva, la Sportster S, que solo comparte el nombre con nuestra moto. Fin de una era.
 
 *Mas info* :
 
