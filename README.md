@@ -309,7 +309,11 @@ Kit : http://www.chopper-kit-usa.com/fat_tire_kit_harley_sportster.htm
 
 Hay otros: https://www.google.com/search?q=sportster+wide+tire+kit
 
-Para hacerlo fabricado, se usa la rueda del V-Rod, y se corta y ensancha el horquillon trasero. Tambien hay que ponerle un espaciador a la polea delantera, y al eje de rueda. No es sencillo pero se puede hacer, te queda con una goma 240/40R-18 trasera si usas una rueda de V-Rod, que es 18" x 5.5"
+Fabrica: https://www.mpmotosport.com/ } fabrican ruedas de moto a medida, tambien rayos, aros, etc
+
+Para hacerlo fabricado, se usa la rueda del V-Rod,  se corta y ensancha el horquillon trasero.
+
+Tambien hay que ponerle un espaciador a la polea delantera, y al eje de rueda. No es sencillo pero se puede hacer, te queda con una goma 240/40R-18 trasera si usas una rueda de V-Rod, que es 18" x 5.5"
 
 Tambien algunos le ponen una 180, por ejemplo con el aro de la Deuce. http://xlforum.net/forums/showthread.php?t=66830
 
@@ -1132,6 +1136,8 @@ https://www.facebook.com/RayosyNiples33/
 
 http://www.chiuchich.com.ar
 
+https://www.mpmotosport.com/ } fabrican ruedas de moto a medida, tambien rayos, aros, etc
+
 # Correa de transmision
 
 ## Tension
@@ -1870,6 +1876,8 @@ https://www.google.com/search?q=spring+seat+sportster
 ## Rueda trasera ancha
 
 https://www.google.com/search?q=wide+tire+kit+sportster
+
+https://www.mpmotosport.com/ } fabrican ruedas de moto a medida
 
 # Anexo: Costa Rica
 
