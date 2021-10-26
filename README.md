@@ -1476,7 +1476,7 @@ etc
 ## Escapes nacionales
 *seccion en desarrollo*
 
-http://giacconeescapes.com/ } estos fabrican para Harley Davidson a medida
+http://giacconeescapes.com/  o https://es-la.facebook.com/Giaccone001/ } estos fabrican para Harley Davidson a medida
 
 http://www.escapesfabian.com.ar/
 
@@ -1485,6 +1485,8 @@ http://www.tubosilescapes.com.ar/
 http://dmescapes.com.ar/
 
 https://www.mpmotosport.com/ } tambien hacen quillas y asientos
+
+Lucky Custom hace escapes y monton de cosas: https://www.facebook.com/pages/category/Local-Business/Lucky-Custom-128082827250041/
 
 ## Modificar silenciadores originales
 
@@ -1618,7 +1620,7 @@ TO-DO falta info
 
 # Otros accesorios
 
-*Seccion en desarrollo, boceto*
+*Seccion en desarrollo*
 
 Puños, pedales, respaldos, manillares, asientos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
 
@@ -1626,7 +1628,7 @@ Ahora se venden también nacionales, los vi en Mercado Libre. (2020)
 
 ## Pedalines
 
-TO-DO
+Los pedalines se pueden comprar, o mandar a tornear, no tienen mucho secreto.
 
 ## Manillares
 
@@ -1878,7 +1880,7 @@ Traer repuestos
 
 * Aeropost
 * Jetbox
-* Correos de Costa Rica 
+* Correos de Costa Rica
 * eBay
 * Amazon
 
