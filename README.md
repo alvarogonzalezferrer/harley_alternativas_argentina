@@ -188,7 +188,7 @@ Aca tengo un **manual de taller** interesante:
 
 *Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
 
-* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.
+* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
 
 * Foro con manuales: https://harleyexpert.com/resources/
 
