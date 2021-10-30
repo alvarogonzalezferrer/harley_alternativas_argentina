@@ -201,7 +201,7 @@ Podemos buscar online tambien:
 
 El buen mantenimiento es sinónimo de una motocicleta segura. Se debe inspeccionar frecuentemente la motocicleta entre los intervalos regulares de servicio para establecer si es necesario un mantenimiento adicional.
 
-Aceite de motor se cambia cada 8000 km o un año, lo que ocurra primero.
+Aceite de motor se cambia cada 8000 km o un año, lo que ocurra primero. *En clima frio, y si la moto se usa en intervalos cortos sin dejar calentar apropiadamente el motor, se debe cambiar mas frecuentemente por la condensacion de agua en el aceite.*
 
 Aceite de primaria se cambia cada 16000 km.
 
@@ -360,9 +360,21 @@ Si no se alcanzan los kilometros en el año, **es recomendable cambiarlo una vez
 
 **Ver manual para mas info.**
 
-### Kits oficiales
+## Clima frio y aceite  
 
-https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
+Lubricación a baja temperatura: Cambie el aceite del motor con frecuencia en climas más fríos. Si la motocicleta se conduce con frecuencia por menos de 24 km (15 mi), en temperaturas ambiente por debajo de 16° C (60,8 °F), reduzca los intervalos de cambio de aceite a 5000 km.
+
+**NOTA**
+
+Las temperaturas ambiente más bajas requieren cambios de aceite **más frecuentes**.
+
+El vapor de agua es un subproducto normal de la combustión. Durante la operación en clima frío, algo de vapor de agua se condensa en forma líquida en las superficies frías dentro del motor. En climas helados, esta agua se convierte en lodo o hielo. Si el motor no se calienta a la temperatura de funcionamiento, la nieve acumulada o el hielo bloquea las líneas de aceite y daña el motor. Con el tiempo, el agua se acumulará, se mezclará con el aceite del motor y formará un lodo que es dañino para el motor.
+
+Si se permite que el motor se caliente a la temperatura normal de funcionamiento, la mayor parte del agua se evapora y sale por el respiradero del cárter.
+
+### Kits oficiales de aceite
+
+Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Oficial mineral
 
