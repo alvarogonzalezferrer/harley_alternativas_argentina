@@ -416,6 +416,20 @@ Tambien algunos le ponen una 180, por ejemplo con el aro de la Deuce. http://xlf
 
 Como es algo personalizado, las opciones son infinitas, es cuestion de ver que podemos hacer y pagar, es bastante costoso en terminos monetarios.
 
+### Off-road / trail / dual purpose
+
+En caso que queramos usar nuestra Sportster en caminos de ripio, lodo, etc, por ejemplo en viajes por la Ruta 40, o la Panamericana, conviene poner ruedas de doble proposito. Tambien se recomienda ponerle una defensa al motor, y suspensiones altas de 13 pulgadas (recordar poner la pata larga tambien).
+
+#### Goma Delantera Off Road
+
+Tanto en 19", como 21" hay monton de opciones de ruedas off road, solo debemos verificar que soporten el peso de la moto segun sus caracteristicas.
+
+#### Goma Trasera Off Road
+
+Si tenemos modelo con la rueda trasera 17" o 18", nuestras opciones son amplias, podemos usar cualquiera de las gomas que usan las BMW, Honda, etc en sus modelos trail.
+
+En el caso de la rueda 16", solo encontre un modelo que viene con dibujo de trail, la Duro HF904 Median Dual-Sport Bias-Ply Rear Tire 130/90-16, que es mas angosta que la 150 80 16 de los nuevos modelos, serviria bien en modelos 2003 y anteriores que usan rueda de 130 de ancho. El mejor caso es cambiar por una trasera 18" para tener mas opciones de viaje.
+
 # Cambios de aceite
 
 Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posibles**, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
