@@ -184,7 +184,9 @@ El manual de **taller**, conocido como "workshop manual" , se COMPRA, es bastant
 
 Aca tengo un **manual de taller** interesante:
 
-* [Manual de taller!](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
+* [Manual de taller 2004 a 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
+
+* [Manual de problemas comunes 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_troubleshooting_manual_CYCLETECH_1986_2003.pdf)
 
 *Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
 
