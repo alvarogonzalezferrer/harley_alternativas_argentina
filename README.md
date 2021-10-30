@@ -336,6 +336,418 @@ https://ultimatemotorcycling.com/2014/09/16/harley-davidson-sportster-history-re
 
 https://www.lowbrowcustoms.com/blogs/events-features/history-harley-davidson-sportster-blowing-away-big-twins-since-1957
 
+# Cambios de aceite
+
+Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posibles**, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
+
+El motor lleva **3 US quarts**, que son **2.83 litros**.
+La primaria lleva **1 US quart**, que es **0,946 litros**.
+
+Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
+
+Si no se alcanzan los kilometros en el año, **es recomendable cambiarlo una vez al año**.
+
+**Ver manual para mas info.**
+
+## Clima frio y aceite  
+
+Lubricación a baja temperatura: Cambie el aceite del motor con frecuencia en climas más fríos. Si la motocicleta se conduce con frecuencia por menos de 24 km (15 mi), en temperaturas ambiente por debajo de 16° C (60,8 °F), reduzca los intervalos de cambio de aceite a 5000 km.
+
+**NOTA**
+
+Las temperaturas ambiente más bajas requieren cambios de aceite **más frecuentes**.
+
+El vapor de agua es un subproducto normal de la combustión. Durante la operación en clima frío, algo de vapor de agua se condensa en forma líquida en las superficies frías dentro del motor. En climas helados, esta agua se convierte en lodo o hielo. Si el motor no se calienta a la temperatura de funcionamiento, la nieve acumulada o el hielo bloquea las líneas de aceite y daña el motor. Con el tiempo, el agua se acumulará, se mezclará con el aceite del motor y formará un lodo que es dañino para el motor.
+
+Si se permite que el motor se caliente a la temperatura normal de funcionamiento, la mayor parte del agua se evapora y sale por el respiradero del cárter.
+
+### Kits oficiales de aceite
+
+Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
+
+### Oficial mineral
+
+![Aceite HD360](archivos_soporte/aceite/hd360_kit.jpg)
+
+* Filtro : Harley original, viene negro y cromado
+* Motor : H-D 360 motorcycle oil
+* Primaria : H-D 360 motorcycle oil (Formula+ lo estan discontinuando en 2020)
+* Total aproximado : 55 USD
+
+### Oficial sintético
+
+![Aceite SYN3](archivos_soporte/aceite/syn3_kit.jpg)
+
+* Filtro : Harley original, viene negro y cromado
+* Motor : H-D SYN3 motorcycle oil
+* Primaria : H-D SYN3 motorcycle oil
+* Total aproximado : 80 USD
+
+### Economico
+
+*No recomendado, solo para desesperados*
+
+* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
+* Motor : Castrol Actevo 20w50 de moto ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
+* Primaria : Castro Actevo 3000 20w50, 1 litro, 7 USD
+* Total aproximado de servicio básico : 37 USD a 50 USD
+
+### Semi Sintetico
+
+*Antes era sintetico esta lista, pero lo saque porque no se consigue en Argentina en 2021 el 20w50 sintetico :(*
+
+  * Filtro: Mahle o HiFlo
+  * Motor : Castrol Power 1 4T 15w50, ó Motul 7100 15w50
+  * Primaria : Castrol Power 1 4T 20w50
+
+  ### Mineral
+
+  *nota: es facil conseguir reemplazos para esta opción*
+
+  * Filtro: Mahle o HiFlo
+  * Motor : Castrol Actevo 20W50
+  * Primaria : Castrol Actevo 20W50
+
+  ### Favorito mio - semi sintetico
+
+  *nota: se puede reemplazar todo por Castrol Actevo X-Tra 20W50 que tambien es semi syn, o IPone ROAD TWIN 4T 15W50*
+
+  * Filtro : HiFlo cromado HF170C
+  * Motor : Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50
+  * Primaria: Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50
+
+  # Aceite de motor
+
+  ## Analisis largo
+
+  Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
+
+  Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL (ver boletin informativo oficial mas abajo).
+
+  Se puede usar aceite mineral, o sintetico (lo importante es **NO MEZCLAR**, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
+
+  Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir epocas *"nacionales y populares"* donde se prohibe la importación.
+
+  Observar lo siguiente de aceite:
+
+  * Viscosidad : lo indica la norma **SAE**, por ejemplo **20w50**.
+  * Certificación del **API** (Instituto Americano de Petróleo), aditivos modernos: SJ (+2001), **SL (+2004), SM (+2010), SN,SP (+2020)** ; SA a SH inclusive son con aditivos **obsoletos** (motores de 1930 a 1996)
+  * Certificado **JASO** : al menos MA, idealmente **MA2**.
+
+  El JASO es una norma diseñada por la asociación japonesa de ingenieros de automoción. Se ideó a causa del problema que presentaban los embragues húmedos (bañados en aceite) presentes en las motocicletas japonesas.
+
+  Mas info del certificado API :
+  * https://www.api.org/~/media/Files/Certification/Engine-Oil-Diesel/Publications/Motor%20Oil%20Guide%202020.pdf
+  * https://www.widman.biz/Seleccion/certificacion.html
+
+  Mas info de la Viscosidad SAE :
+  * https://www.widman.biz/Seleccion/viscosidad.html
+
+  ## Recomendaciones de fabricantes
+
+  *nota* mas info en la Sportsterpedia : http://sportsterpedia.com/doku.php/techtalk:ref:oil01
+
+  ### Harley Davidson
+
+  Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas).
+
+  Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - **SAE 20w50**.
+
+  El **Formula+** mineral esta siendo discontinuado en USA, era el aceite que se usaba en primaria.
+
+  El boletín de servicio de Harley especifica:
+
+  https://serviceinfo.harley-davidson.com/sip/service/procedure/1332041847506356430/BLAISE/1137435/en_US?nid=5728
+
+  > Las motocicletas se envían de fábrica con LUBRICANTE SINTÉTICO COMPLETO SCREAMIN 'EAGLE SYN3 20W50.
+  >
+  >  Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor.
+  >
+  > Aunque H-D 360 es compatible con SYN3, sugerimos cambiar la mezcla de fluidos lo antes posible.
+  >
+  > Para cambiar el lubricante a H-D 360, drene completamente el SYN3 antes de llenarlo con H-D 360. Quedará una cantidad residual de líquido. No es necesario eliminar el fluido residual.
+  >
+  > Si SYN3 o H-D 360 no está disponible, la tercera opción sería agregar un aceite de motor diesel aceptable. Sugerimos nuevamente cambiar la mezcla de fluidos lo antes posible. NO agregue aceite de motor diesel a la cadena primaria o la transmisión.
+  >
+  > Las designaciones de aceite de motor diesel aceptables incluyen: SH, CH-4, CI-4 y CJ-4. Las viscosidades preferidas para los aceites de motor diesel en orden descendente son: 20W50, 15W40 y 10W40.
+  >
+  > En la primera oportunidad, consulte a un distribuidor autorizado para volver a cambiar al 100% de aceite Harley-Davidson.
+  >
+  > No cambie las marcas de lubricantes indiscriminadamente porque algunos lubricantes interactúan químicamente cuando se mezclan. El uso de lubricantes inferiores puede dañar el motor. (00184a)
+
+  ### Otras marcas:
+
+  **Valvoline Moto 20w50** -- especificacion API media vieja, SG...
+
+  **Valvoline Durablend 4T 20w50 - Semisintetico**  -- motor y primaria, es API SL, JASO MA2, preferido al comun Valvoline
+
+  **Bel-Ray** recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
+
+  **Bel-Ray V-twin 20W50 (preferido)** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo: http://www.lubelray.com.ar/
+
+  **Bel-Ray V-Twin Synthetic Motor Oil 10W-50** (ver abajo, es full sintetico, similar al Harley SYN3)
+
+  **Bel-Ray Full Synthetic Ester** es el recomendado, se consigue de marca IPone sintetico con formula similar en Argentina.
+
+  **Motorex** recomienda **Legend 20w50** tanto para motor como primaria. A vece se consigue. https://www.motorex.com/en-us/sales-consulting/oil-finder/
+
+  **Motul** recomienda **Motul 3000 20w50** para primaria y **7100 20w50** en motor.
+
+  Da varias opciones mas, Motul 7100 10w40, 7100 20w50, y Motul 5100 10w40 segun el clima de trabajo.
+
+  Uno bueno semi sintetico que se consigue en Argentina: Aceite **Motul 5100 4t 15w50**
+
+  En sintetico se consigue: **Motul 300V 15w50**, o **Motul 300V 20w60**, o **Motul 7100 10w60** (no lo probe, no lo puedo recomendar)
+
+  https://www.motul.com/es/es/lubricants
+
+  El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético, y el 300V es sintetico con esteres (seria el de mejor calidad).  
+
+  **Castrol** recomienda para Sportster, motor Y primaria:
+  * Castrol Power 1 Racing 4T 10W-50
+  * Castrol Power 1 4T 20W-50
+  * **Castrol Actevo 20W50** - este se consigue facil, sirve para motor y primaria, y muchos lo usan con éxito
+  * **Castrol Actevo X-Tra 20w50** - semi synthetic -- preferido y facil de conseguir en Argentina
+  * **Castrol Power 1 V-Twin 4T 20W-50** - preferido, no lo vi nunca en Argentina
+
+  **Silkolene** recomienda (motor y caja) **Silkolene V-Twin 20w50**, existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
+
+  https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
+
+  **Ipone** tambien vende uno formulado para Vtwin, para motor y primaria, se llama Road Twin
+
+  **IPone ROAD TWIN 4T 15W50** - semi sintetico
+
+  Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone
+
+  http://www.ipone.com.ar/
+
+  **Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50
+
+  **AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
+  http://superoil.com/original/html/harley-davidson.htm
+
+  https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synthetic-motorcycle-oil/?zo=537451
+
+  **Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre. *Solo para golosos*
+
+  Los españoles recomiendan **Gulf 20w50**, mineral (una porqueria).-
+
+  En caso de usar aceite de **automovil**, recomiendan:
+
+  **Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor)
+
+  **Nota importante**
+  # NO USAR NUNCA ACEITE QUE SEAN PARA AUTOS NAFTEROS
+  ## NI LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
+  ### Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA SERVICIO PESADO.
+
+  ## Filtros de aceite
+
+  Características
+
+  * Altura : 86 mm -- esto puede variar algunos filtros son mas largos o mas cortos
+  * Diametro Ø exterior : 75 mm
+  * Rosca : 3/4"-16
+
+  **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. - Codigo **OC 21**
+
+  **HIFlo HF170C** es cromado (o negro HF170B) y específico para Harley, se consigue en Mercado Libre barato. **Es mejor en calidad que el original de Harley**. http://www.hiflofiltro.com/catalogue/filter/hf170
+  Tambien hay un modelo "high performance" con un elemento filtrante mejorado, el HF170RC, pero no lo vi en venta en Argentina. Ver http://www.hiflofiltro.com/catalogue/filter/HF170RC
+
+  **CHAMPION** CHAMPION COF071C, lo vi en venta en ML en Mayo 2021
+
+  **PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; *investigar que modelo le sirve..*
+
+  **FRAM** lista un filtro especifico para Harley Sportster en su sitio web, pero parece que no lo venden en Argentina, es para mercado USA :
+
+  * FRAM PH6065B - cromado, valvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
+
+  http://www.fram.com/parts-search/PH6065B
+
+  * FRAM PH6022 - negro, valvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
+
+  http://www.fram.com/parts-search/PH6022
+
+  **OJO NO USAR CUALQUIER FILTRO DE AUTO (ALGUNOS SIRVEN) POR QUE PUEDEN RESTRINGIR EL FLUJO CON SU VALVULA DE RETORNO Y MATAR EL MOTOR**, prestar atencion a los PSI de la valvula de alivio/bypass, y las dimensiones del filtro!….
+
+  Otras opciones de emergencia :
+  **Fram PH3614**, el del Neon, Stratus, PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
+  El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula **NO MAS de 12 PSI**. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
+
+  Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
+  * Fram PH3614 (es practicamente el mismo que el PH6022)
+  * Purolator PL14476
+  * Mobil1 M1-102
+  * Bosch 3330
+  * Hastings LF410
+  * WIX 51394
+
+  Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
+
+  Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
+
+  # Aceite de primaria
+
+  Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), *dejando de lado el antiguo Formula+ en 2020*.-
+
+  ## Analisis largo
+
+  Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley Formula+, la moto explotará en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
+
+  El **HD Formula+** de primaria era el equivalente a un semi sintético de caja **80w90**, ó equivalente a uno de motor **20w50**.
+
+  *Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360.*
+
+  Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
+
+  El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un sintetico: **75w90** de caja, o de moto **15w50** o **20w50**.
+
+  **Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** <- esto es MUY importante!
+
+  La etiqueta **JASO MA ó MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
+
+  **Bel-Ray Sport Trans** es 85W y es bueno, pero no se consigue facil en Argentina
+
+  Facil de conseguir en Argentina:
+
+  El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster.
+
+  Motorex recomienda **Motorex Legend 20w50**, se conseguia en Mercado Libre en 2019, en 2020 ya no lo veo listado.
+
+  **Silkolene** recomienda su V Twin 20w50 (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
+
+  https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
+
+  Castrol recomienda varias opciones:
+  **Castrol Power 1 Racing 4T 10W-50**
+  **Castrol Power 1 4T 20W-50**
+  **Castrol Power 1 4T 15w50**
+
+  Mobil 1 recomienda  para primaria (nunca los consegui en Argentina)
+
+  * Mobil 1 Racing™ 4T 10W-40, but it is also okay to use Mobil 1™ V-Twin 20W-50.
+  * **Mobil 1 15w50 full syn** (coincide con la recomendacion del libro)
+  * Mobil 1 75w90 gear oil
+
+  De auto -- NO RECOMENDABLE, solo para desesperados:
+  **Valvoline SynPower 75W-90 GL5** sirve y se consigue fácil.
+
+  No daña los metales amarillos. Que diga “slip differential”o similar para el embrague del diferencial
+
+  **Valvoline High Perf 80w90 GL5** también (mineral, más barato)
+
+  También sirve un **75w90** o similar, pero certificado para usar en primarias con embrague húmedo y **GL4**.
+
+  **Ipone**
+  Tiene **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
+  **IPone ROAD TWIN 4T 15W50** - semi sintetico
+
+  *Mas informacion sobre aceite GL5 75w90:*
+
+  GL5 Gear Oil - Is It Safe To Use In the Sporty? - ANSWERED - Harley Davidson Forums
+
+  https://www.hdforums.com/forum/sportster-models/804458-gl5-gear-oil-is-it-safe-to-use-in-the-sporty-answered.html
+
+  **Red Line** - no se consigue en Argentina, pero dio información valiosa:
+
+  https://www.redlineoil.com/find-products-for-my-vehicle
+  https://www.redlineoil.com/20w50-motorcycle-oil - motor
+  https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
+
+  > Thank you for contacting Red Line Oil, in the shared Sportster primary/transmission the 75W90 is recommended, a product that has been used extensively and performs well.
+  > The 75W90 is the product we have have used for a number of years with very good results in Sportster/Buell transmissions, matching the viscosity and type fluid called for.
+  > The 80W Motorcycle Gear Oil is a lower viscosity than called for, the ShockProof gear oils can due to their unique characteristics could cause sticking of the Harley clutches. The 75W90 would be preferred and recommended over 80W Motorcycle Gear Oil in these applications.
+  >There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings.
+
+  *Traducción*
+
+  >Gracias por ponerse en contacto con Red Line Oil, en la transmisión + primaria Sportster se recomienda el 75W90, un producto que se ha utilizado mucho y que funciona bien.
+  >El 75W90 es el producto que hemos utilizado durante varios años con muy buenos resultados en transmisiones Sportster / Buell, igualando la viscosidad y el tipo de fluido requerido. El aceite para engranajes de motocicleta de 80W tiene una viscosidad más baja que la requerida, los aceites para engranajes a prueba de golpes pueden, debido a sus características únicas, causar atascos de los embragues de Harley. El 75W90 sería el preferido y recomendado sobre el aceite para engranajes de motocicleta de 80W en estas aplicaciones.
+  >Puede haber problemas con algunos aceites para engranajes GL-5 en determinadas aplicaciones. Algunos pueden ser corrosivos para el latón, bronce o cobre, no es un problema con nuestros aceites para engranajes GL-5, no causan corrosión, picaduras o remoción de metal. En una transmisión equipada con sincronización, los modificadores de fricción contenidos en muchos aceites para engranajes pueden hacerlos demasiado resbaladizos, aunque no es el caso de una transmisión de motocicleta con anillos de perro.
+
+  # Temperatura del aceite
+
+  Condiciones normales: aceite dentro del tanque entre **220 F a 250 F**, con picos de **300 F** en ralenti, verano, o velocidad de crucero.
+
+  Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas venden diferentes.
+
+  ![Oil temp dipstick](archivos_soporte/radiador_aceite/oil_temp_plug.jpg)
+
+  Ver este enlace:
+
+  * https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
+
+  * https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick
+
+  Este tapón también se puede *fabricar* usando un termómetro de horno y modificando el original, o torneando uno.
+
+  *Temperatura óptima del aceite según lo citado por Harley-Davidson en la edición de febrero de 2010 de la revista American Rider, página 49.*
+
+  > Pregunta: "¿Cuáles son las temperaturas óptimas de funcionamiento del aceite para los motores XL y Twin Cam? Además, ¿cuál es la temperatura máxima segura para cada uno?"
+  >
+  > Respuesta: "La temperatura de funcionamiento óptima del aceite para ambos motores es en realidad un rango de temperatura que depende de la temperatura ambiente y el tipo de conducción. Idealmente, el aceite a granel (el aceite en el tanque de aceite) debe estar entre 220 y 250 grados F. Esto asegura que cualquier vapor de agua que ingrese al aceite del proceso de combustión sea vaporizado y pueda ser purgado del sistema por los respiraderos. Para temperaturas ambientales elevadas, el aceite a granel puede operar de manera segura a temperaturas de hasta 300 grados F durante en ralentí o en crucero interestatal de alta velocidad. El aceite de motor de Harley-Davidson ha sido especialmente formulado con un paquete antioxidante mejorado para minimizar los problemas de oxidación del aceite por encima de los 250 grados F.La alcalinidad de reserva de nuestras formulaciones también se ha aumentado para minimizar cualquier formación de ácido que podría ocurrir con temperaturas elevadas del aceite ".
+  >
+  > H-D no hizo una distinción entre sus aceites sintéticos y a base de petróleo, mientras que parece que solo están hablando de sus propios aceites que han sido formulados para estas temperaturas. El editor de la revista continúa recomendando el aceite sintético como la lubricación de elección en nuestros motores, en parte debido a su intervalo de cambio extendido, entre otras diferencias.
+  > Tengo que preguntarme por un momento si las recomendaciones de temperaturas más altas (hasta 300 grados en aceite mineral HD) son toleradas por HD como legítimas por necesidad, simplemente debido al hecho de que las motos EFI tienden a funcionar más finas de nafta, y en consecuencia, más calientes que las motos carburadas. En cualquier caso, esto debería hacer que la mayoría de nosotros nos sintamos cómodos cuando la temperatura del aceite llega hasta los 200 sin usar un enfriador de aceite, y quizás otros cuestionen su necesidad del enfriador de aceite que han estado usando.
+
+  # Radiador de aceite
+
+  *seccion en desarrollo*
+
+  La parte de como elegir y comprar un radiador de aceite todavia no la terminé.
+
+  Primero fijate si calienta, si no es necesario no lo compres.
+
+  Donde comprarlo depende de donde vivas, no se en que pais estas.
+
+  Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones.
+
+  Kit que vende Harley oficial:
+
+  ![oil cooler kit](archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_aceite_kit_HD_PN_62700082.jpg)
+
+  Asi queda instalado:
+
+  ![oil cooler kit](archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_instalado_HD.jpg)
+
+  Por ahora podes empezar leyendo la información siguiente:
+
+  http://sportsterpedia.com/doku.php/techtalk:ref:oil14
+
+  https://www.google.com/search?q=sportster+oil+cooler
+
+  https://jagg.com/collections/harley-davidson-sportster
+
+  https://www.jpcycles.com/harley-sportster-oil-cooler-kits
+
+  https://www.dragspecialties.com/search;q=oil%20cooler
+
+  https://serviceinfo.harley-davidson.com/sip/service/document/239678
+
+  ## Adaptar
+
+  Info super cruda, basicamente precisas un radiador de otra moto, dos lineas de aceite, y enchufarlo eligiendo dos maneras posibles: a la linea de aceite del lado derecho inferior del motor, ó usando un adaptador al filtro de aceite (Jagg vende uno, pero estoy buscando uno nacional mas economico.)
+
+  https://motos.mercadolibre.com.ar/repuestos-cuatriciclos/radiador-aceite
+
+  Radiadores de las siguientes motos tienen dimensiones adecuadas
+
+  * Zanella RZ 25
+  * Gilera VC 200R
+
+  En el pasado se adaptaba el del Citroen 3CV pero es grande y feo.
+
+  La mayor complicacion es conseguir las lineas de aceite, podemos ir a una casa de hidraulica para que las fabriquen. Y conseguir los terminales o "racord" (los bulones perforados que permiten el paso de aceite en cada punta de manguera).
+
+  Algunas casas de hidraulica en Argentina
+  * http://www.todoflex.com.ar/ <- esta tiene todo, las magueras y los acoples necesarios
+  * http://mangueraflexarg.com.ar/ <- catalogo muy completo
+  * https://conman.com.ar/ <- tienen racords adecuados en catalogo
+  * http://manguerashidraulicas.com/
+  * https://www.hidraulicagomar.com.ar/
+  * http://www.hidraulicasanfco.com.ar/
+  
 # Cubiertas / Gomas / Cauchos / Llantas
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
@@ -436,417 +848,6 @@ Si tenemos modelo con la rueda trasera 17" o 18", nuestras opciones son amplias,
 
 En el caso de la rueda 16", solo encontre un modelo que viene con dibujo de trail, la **Duro HF904 Median Dual-Sport Bias-Ply Rear Tire 130/90-16**, que es mas angosta que la 150 80 16 de los nuevos modelos (pero **igual sirve**), en modelos 2003 y anteriores que usan rueda de 130 de ancho queda perfecta. El mejor caso es cambiar por una trasera 18" para tener mas opciones de viaje.
 
-# Cambios de aceite
-
-Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posibles**, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
-
-El motor lleva **3 US quarts**, que son **2.83 litros**.
-La primaria lleva **1 US quart**, que es **0,946 litros**.
-
-Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
-
-Si no se alcanzan los kilometros en el año, **es recomendable cambiarlo una vez al año**.
-
-**Ver manual para mas info.**
-
-## Clima frio y aceite  
-
-Lubricación a baja temperatura: Cambie el aceite del motor con frecuencia en climas más fríos. Si la motocicleta se conduce con frecuencia por menos de 24 km (15 mi), en temperaturas ambiente por debajo de 16° C (60,8 °F), reduzca los intervalos de cambio de aceite a 5000 km.
-
-**NOTA**
-
-Las temperaturas ambiente más bajas requieren cambios de aceite **más frecuentes**.
-
-El vapor de agua es un subproducto normal de la combustión. Durante la operación en clima frío, algo de vapor de agua se condensa en forma líquida en las superficies frías dentro del motor. En climas helados, esta agua se convierte en lodo o hielo. Si el motor no se calienta a la temperatura de funcionamiento, la nieve acumulada o el hielo bloquea las líneas de aceite y daña el motor. Con el tiempo, el agua se acumulará, se mezclará con el aceite del motor y formará un lodo que es dañino para el motor.
-
-Si se permite que el motor se caliente a la temperatura normal de funcionamiento, la mayor parte del agua se evapora y sale por el respiradero del cárter.
-
-### Kits oficiales de aceite
-
-Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
-
-### Oficial mineral
-
-![Aceite HD360](archivos_soporte/aceite/hd360_kit.jpg)
-
-* Filtro : Harley original, viene negro y cromado
-* Motor : H-D 360 motorcycle oil
-* Primaria : H-D 360 motorcycle oil (Formula+ lo estan discontinuando en 2020)
-* Total aproximado : 55 USD
-
-### Oficial sintético
-
-![Aceite SYN3](archivos_soporte/aceite/syn3_kit.jpg)
-
-* Filtro : Harley original, viene negro y cromado
-* Motor : H-D SYN3 motorcycle oil
-* Primaria : H-D SYN3 motorcycle oil
-* Total aproximado : 80 USD
-
-### Economico
-
-*No recomendado, solo para desesperados*
-
-* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
-* Motor : Castrol Actevo 20w50 de moto ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
-* Primaria : Castro Actevo 3000 20w50, 1 litro, 7 USD
-* Total aproximado de servicio básico : 37 USD a 50 USD
-
-### Semi Sintetico
-
-*Antes era sintetico esta lista, pero lo saque porque no se consigue en Argentina en 2021 el 20w50 sintetico :(*
-
-* Filtro: Mahle o HiFlo
-* Motor : Castrol Power 1 4T 15w50, ó Motul 7100 15w50
-* Primaria : Castrol Power 1 4T 20w50
-
-### Mineral
-
-*nota: es facil conseguir reemplazos para esta opción*
-
-* Filtro: Mahle o HiFlo
-* Motor : Castrol Actevo 20W50
-* Primaria : Castrol Actevo 20W50
-
-### Favorito mio - semi sintetico
-
-*nota: se puede reemplazar todo por Castrol Actevo X-Tra 20W50 que tambien es semi syn, o IPone ROAD TWIN 4T 15W50*
-
-* Filtro : HiFlo cromado HF170C
-* Motor : Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50
-* Primaria: Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50
-
-# Aceite de motor
-
-## Analisis largo
-
-Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
-
-Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL (ver boletin informativo oficial mas abajo).
-
-Se puede usar aceite mineral, o sintetico (lo importante es **NO MEZCLAR**, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
-
-Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir epocas *"nacionales y populares"* donde se prohibe la importación.
-
-Observar lo siguiente de aceite:
-
-* Viscosidad : lo indica la norma **SAE**, por ejemplo **20w50**.
-* Certificación del **API** (Instituto Americano de Petróleo), aditivos modernos: SJ (+2001), **SL (+2004), SM (+2010), SN,SP (+2020)** ; SA a SH inclusive son con aditivos **obsoletos** (motores de 1930 a 1996)
-* Certificado **JASO** : al menos MA, idealmente **MA2**.
-
-El JASO es una norma diseñada por la asociación japonesa de ingenieros de automoción. Se ideó a causa del problema que presentaban los embragues húmedos (bañados en aceite) presentes en las motocicletas japonesas.
-
-Mas info del certificado API :
-* https://www.api.org/~/media/Files/Certification/Engine-Oil-Diesel/Publications/Motor%20Oil%20Guide%202020.pdf
-* https://www.widman.biz/Seleccion/certificacion.html
-
-Mas info de la Viscosidad SAE :
-* https://www.widman.biz/Seleccion/viscosidad.html
-
-## Recomendaciones de fabricantes
-
-*nota* mas info en la Sportsterpedia : http://sportsterpedia.com/doku.php/techtalk:ref:oil01
-
-### Harley Davidson
-
-Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas).
-
-Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - **SAE 20w50**.
-
-El **Formula+** mineral esta siendo discontinuado en USA, era el aceite que se usaba en primaria.
-
-El boletín de servicio de Harley especifica:
-
-https://serviceinfo.harley-davidson.com/sip/service/procedure/1332041847506356430/BLAISE/1137435/en_US?nid=5728
-
-> Las motocicletas se envían de fábrica con LUBRICANTE SINTÉTICO COMPLETO SCREAMIN 'EAGLE SYN3 20W50.
->
->  Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor.
->
-> Aunque H-D 360 es compatible con SYN3, sugerimos cambiar la mezcla de fluidos lo antes posible.
->
-> Para cambiar el lubricante a H-D 360, drene completamente el SYN3 antes de llenarlo con H-D 360. Quedará una cantidad residual de líquido. No es necesario eliminar el fluido residual.
->
-> Si SYN3 o H-D 360 no está disponible, la tercera opción sería agregar un aceite de motor diesel aceptable. Sugerimos nuevamente cambiar la mezcla de fluidos lo antes posible. NO agregue aceite de motor diesel a la cadena primaria o la transmisión.
->
-> Las designaciones de aceite de motor diesel aceptables incluyen: SH, CH-4, CI-4 y CJ-4. Las viscosidades preferidas para los aceites de motor diesel en orden descendente son: 20W50, 15W40 y 10W40.
->
-> En la primera oportunidad, consulte a un distribuidor autorizado para volver a cambiar al 100% de aceite Harley-Davidson.
->
-> No cambie las marcas de lubricantes indiscriminadamente porque algunos lubricantes interactúan químicamente cuando se mezclan. El uso de lubricantes inferiores puede dañar el motor. (00184a)
-
-### Otras marcas:
-
-**Valvoline Moto 20w50** -- especificacion API media vieja, SG...
-
-**Valvoline Durablend 4T 20w50 - Semisintetico**  -- motor y primaria, es API SL, JASO MA2, preferido al comun Valvoline
-
-**Bel-Ray** recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
-
-**Bel-Ray V-twin 20W50 (preferido)** tiene toda la gama para Sportster, pero no la importan parece o cuesta conseguirlo: http://www.lubelray.com.ar/
-
-**Bel-Ray V-Twin Synthetic Motor Oil 10W-50** (ver abajo, es full sintetico, similar al Harley SYN3)
-
-**Bel-Ray Full Synthetic Ester** es el recomendado, se consigue de marca IPone sintetico con formula similar en Argentina.
-
-**Motorex** recomienda **Legend 20w50** tanto para motor como primaria. A vece se consigue. https://www.motorex.com/en-us/sales-consulting/oil-finder/
-
-**Motul** recomienda **Motul 3000 20w50** para primaria y **7100 20w50** en motor.
-
-Da varias opciones mas, Motul 7100 10w40, 7100 20w50, y Motul 5100 10w40 segun el clima de trabajo.
-
-Uno bueno semi sintetico que se consigue en Argentina: Aceite **Motul 5100 4t 15w50**
-
-En sintetico se consigue: **Motul 300V 15w50**, o **Motul 300V 20w60**, o **Motul 7100 10w60** (no lo probe, no lo puedo recomendar)
-
-https://www.motul.com/es/es/lubricants
-
-El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético, y el 300V es sintetico con esteres (seria el de mejor calidad).  
-
-**Castrol** recomienda para Sportster, motor Y primaria:
-* Castrol Power 1 Racing 4T 10W-50
-* Castrol Power 1 4T 20W-50
-* **Castrol Actevo 20W50** - este se consigue facil, sirve para motor y primaria, y muchos lo usan con éxito
-* **Castrol Actevo X-Tra 20w50** - semi synthetic -- preferido y facil de conseguir en Argentina
-* **Castrol Power 1 V-Twin 4T 20W-50** - preferido, no lo vi nunca en Argentina
-
-**Silkolene** recomienda (motor y caja) **Silkolene V-Twin 20w50**, existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
-
-https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
-
-**Ipone** tambien vende uno formulado para Vtwin, para motor y primaria, se llama Road Twin
-
-**IPone ROAD TWIN 4T 15W50** - semi sintetico
-
-Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone
-
-http://www.ipone.com.ar/
-
-**Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50
-
-**AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
-http://superoil.com/original/html/harley-davidson.htm
-
-https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synthetic-motorcycle-oil/?zo=537451
-
-**Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre. *Solo para golosos*
-
-Los españoles recomiendan **Gulf 20w50**, mineral (una porqueria).-
-
-En caso de usar aceite de **automovil**, recomiendan:
-
-**Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor)
-
-**Nota importante**
-# NO USAR NUNCA ACEITE QUE SEAN PARA AUTOS NAFTEROS
-## NI LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
-### Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA SERVICIO PESADO.
-
-## Filtros de aceite
-
-Características
-
-* Altura : 86 mm -- esto puede variar algunos filtros son mas largos o mas cortos
-* Diametro Ø exterior : 75 mm
-* Rosca : 3/4"-16
-
-**Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. - Codigo **OC 21**
-
-**HIFlo HF170C** es cromado (o negro HF170B) y específico para Harley, se consigue en Mercado Libre barato. **Es mejor en calidad que el original de Harley**. http://www.hiflofiltro.com/catalogue/filter/hf170
-Tambien hay un modelo "high performance" con un elemento filtrante mejorado, el HF170RC, pero no lo vi en venta en Argentina. Ver http://www.hiflofiltro.com/catalogue/filter/HF170RC
-
-**CHAMPION** CHAMPION COF071C, lo vi en venta en ML en Mayo 2021
-
-**PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; *investigar que modelo le sirve..*
-
-**FRAM** lista un filtro especifico para Harley Sportster en su sitio web, pero parece que no lo venden en Argentina, es para mercado USA :
-
-* FRAM PH6065B - cromado, valvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
-
-http://www.fram.com/parts-search/PH6065B
-
-* FRAM PH6022 - negro, valvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
-
-http://www.fram.com/parts-search/PH6022
-
-**OJO NO USAR CUALQUIER FILTRO DE AUTO (ALGUNOS SIRVEN) POR QUE PUEDEN RESTRINGIR EL FLUJO CON SU VALVULA DE RETORNO Y MATAR EL MOTOR**, prestar atencion a los PSI de la valvula de alivio/bypass, y las dimensiones del filtro!….
-
-Otras opciones de emergencia :
-**Fram PH3614**, el del Neon, Stratus, PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
-El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula **NO MAS de 12 PSI**. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
-
-Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
-* Fram PH3614 (es practicamente el mismo que el PH6022)
-* Purolator PL14476
-* Mobil1 M1-102
-* Bosch 3330
-* Hastings LF410
-* WIX 51394
-
-Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
-
-Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
-
-# Aceite de primaria
-
-Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), *dejando de lado el antiguo Formula+ en 2020*.-
-
-## Analisis largo
-
-Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley Formula+, la moto explotará en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
-
-El **HD Formula+** de primaria era el equivalente a un semi sintético de caja **80w90**, ó equivalente a uno de motor **20w50**.
-
-*Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360.*
-
-Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
-
-El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un sintetico: **75w90** de caja, o de moto **15w50** o **20w50**.
-
-**Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** <- esto es MUY importante!
-
-La etiqueta **JASO MA ó MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
-
-**Bel-Ray Sport Trans** es 85W y es bueno, pero no se consigue facil en Argentina
-
-Facil de conseguir en Argentina:
-
-El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster.
-
-Motorex recomienda **Motorex Legend 20w50**, se conseguia en Mercado Libre en 2019, en 2020 ya no lo veo listado.
-
-**Silkolene** recomienda su V Twin 20w50 (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
-
-https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
-
-Castrol recomienda varias opciones:
-**Castrol Power 1 Racing 4T 10W-50**
-**Castrol Power 1 4T 20W-50**
-**Castrol Power 1 4T 15w50**
-
-Mobil 1 recomienda  para primaria (nunca los consegui en Argentina)
-
-* Mobil 1 Racing™ 4T 10W-40, but it is also okay to use Mobil 1™ V-Twin 20W-50.
-* **Mobil 1 15w50 full syn** (coincide con la recomendacion del libro)
-* Mobil 1 75w90 gear oil
-
-De auto -- NO RECOMENDABLE, solo para desesperados:
-**Valvoline SynPower 75W-90 GL5** sirve y se consigue fácil.
-
-No daña los metales amarillos. Que diga “slip differential”o similar para el embrague del diferencial
-
-**Valvoline High Perf 80w90 GL5** también (mineral, más barato)
-
-También sirve un **75w90** o similar, pero certificado para usar en primarias con embrague húmedo y **GL4**.
-
-**Ipone**
-  Tiene **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
-  **IPone ROAD TWIN 4T 15W50** - semi sintetico
-
-*Mas informacion sobre aceite GL5 75w90:*
-
-GL5 Gear Oil - Is It Safe To Use In the Sporty? - ANSWERED - Harley Davidson Forums
-
-https://www.hdforums.com/forum/sportster-models/804458-gl5-gear-oil-is-it-safe-to-use-in-the-sporty-answered.html
-
-**Red Line** - no se consigue en Argentina, pero dio información valiosa:
-
-https://www.redlineoil.com/find-products-for-my-vehicle
-https://www.redlineoil.com/20w50-motorcycle-oil - motor
-https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
-
-> Thank you for contacting Red Line Oil, in the shared Sportster primary/transmission the 75W90 is recommended, a product that has been used extensively and performs well.
-> The 75W90 is the product we have have used for a number of years with very good results in Sportster/Buell transmissions, matching the viscosity and type fluid called for.
-> The 80W Motorcycle Gear Oil is a lower viscosity than called for, the ShockProof gear oils can due to their unique characteristics could cause sticking of the Harley clutches. The 75W90 would be preferred and recommended over 80W Motorcycle Gear Oil in these applications.
->There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings.
-
-*Traducción*
-
->Gracias por ponerse en contacto con Red Line Oil, en la transmisión + primaria Sportster se recomienda el 75W90, un producto que se ha utilizado mucho y que funciona bien.
->El 75W90 es el producto que hemos utilizado durante varios años con muy buenos resultados en transmisiones Sportster / Buell, igualando la viscosidad y el tipo de fluido requerido. El aceite para engranajes de motocicleta de 80W tiene una viscosidad más baja que la requerida, los aceites para engranajes a prueba de golpes pueden, debido a sus características únicas, causar atascos de los embragues de Harley. El 75W90 sería el preferido y recomendado sobre el aceite para engranajes de motocicleta de 80W en estas aplicaciones.
->Puede haber problemas con algunos aceites para engranajes GL-5 en determinadas aplicaciones. Algunos pueden ser corrosivos para el latón, bronce o cobre, no es un problema con nuestros aceites para engranajes GL-5, no causan corrosión, picaduras o remoción de metal. En una transmisión equipada con sincronización, los modificadores de fricción contenidos en muchos aceites para engranajes pueden hacerlos demasiado resbaladizos, aunque no es el caso de una transmisión de motocicleta con anillos de perro.
-
-# Temperatura del aceite
-
-Condiciones normales: aceite dentro del tanque entre **220 F a 250 F**, con picos de **300 F** en ralenti, verano, o velocidad de crucero.
-
-Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas venden diferentes.
-
-![Oil temp dipstick](archivos_soporte/radiador_aceite/oil_temp_plug.jpg)
-
-Ver este enlace:
-
-* https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
-
-* https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick
-
-Este tapón también se puede *fabricar* usando un termómetro de horno y modificando el original, o torneando uno.
-
-*Temperatura óptima del aceite según lo citado por Harley-Davidson en la edición de febrero de 2010 de la revista American Rider, página 49.*
-
-> Pregunta: "¿Cuáles son las temperaturas óptimas de funcionamiento del aceite para los motores XL y Twin Cam? Además, ¿cuál es la temperatura máxima segura para cada uno?"
->
-> Respuesta: "La temperatura de funcionamiento óptima del aceite para ambos motores es en realidad un rango de temperatura que depende de la temperatura ambiente y el tipo de conducción. Idealmente, el aceite a granel (el aceite en el tanque de aceite) debe estar entre 220 y 250 grados F. Esto asegura que cualquier vapor de agua que ingrese al aceite del proceso de combustión sea vaporizado y pueda ser purgado del sistema por los respiraderos. Para temperaturas ambientales elevadas, el aceite a granel puede operar de manera segura a temperaturas de hasta 300 grados F durante en ralentí o en crucero interestatal de alta velocidad. El aceite de motor de Harley-Davidson ha sido especialmente formulado con un paquete antioxidante mejorado para minimizar los problemas de oxidación del aceite por encima de los 250 grados F.La alcalinidad de reserva de nuestras formulaciones también se ha aumentado para minimizar cualquier formación de ácido que podría ocurrir con temperaturas elevadas del aceite ".
->
-> H-D no hizo una distinción entre sus aceites sintéticos y a base de petróleo, mientras que parece que solo están hablando de sus propios aceites que han sido formulados para estas temperaturas. El editor de la revista continúa recomendando el aceite sintético como la lubricación de elección en nuestros motores, en parte debido a su intervalo de cambio extendido, entre otras diferencias.
-> Tengo que preguntarme por un momento si las recomendaciones de temperaturas más altas (hasta 300 grados en aceite mineral HD) son toleradas por HD como legítimas por necesidad, simplemente debido al hecho de que las motos EFI tienden a funcionar más finas de nafta, y en consecuencia, más calientes que las motos carburadas. En cualquier caso, esto debería hacer que la mayoría de nosotros nos sintamos cómodos cuando la temperatura del aceite llega hasta los 200 sin usar un enfriador de aceite, y quizás otros cuestionen su necesidad del enfriador de aceite que han estado usando.
-
-# Radiador de aceite
-
-*seccion en desarrollo*
-
-La parte de como elegir y comprar un radiador de aceite todavia no la terminé.
-
-Primero fijate si calienta, si no es necesario no lo compres.
-
-Donde comprarlo depende de donde vivas, no se en que pais estas.
-
-Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones.
-
-Kit que vende Harley oficial:
-
-![oil cooler kit](archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_aceite_kit_HD_PN_62700082.jpg)
-
-Asi queda instalado:
-
-![oil cooler kit](archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_instalado_HD.jpg)
-
-Por ahora podes empezar leyendo la información siguiente:
-
-http://sportsterpedia.com/doku.php/techtalk:ref:oil14
-
-https://www.google.com/search?q=sportster+oil+cooler
-
-https://jagg.com/collections/harley-davidson-sportster
-
-https://www.jpcycles.com/harley-sportster-oil-cooler-kits
-
-https://www.dragspecialties.com/search;q=oil%20cooler
-
-https://serviceinfo.harley-davidson.com/sip/service/document/239678
-
-## Adaptar
-
-Info super cruda, basicamente precisas un radiador de otra moto, dos lineas de aceite, y enchufarlo eligiendo dos maneras posibles: a la linea de aceite del lado derecho inferior del motor, ó usando un adaptador al filtro de aceite (Jagg vende uno, pero estoy buscando uno nacional mas economico.)
-
-https://motos.mercadolibre.com.ar/repuestos-cuatriciclos/radiador-aceite
-
-Radiadores de las siguientes motos tienen dimensiones adecuadas
-
-* Zanella RZ 25
-* Gilera VC 200R
-
-En el pasado se adaptaba el del Citroen 3CV pero es grande y feo.
-
-La mayor complicacion es conseguir las lineas de aceite, podemos ir a una casa de hidraulica para que las fabriquen. Y conseguir los terminales o "racord" (los bulones perforados que permiten el paso de aceite en cada punta de manguera).
-
-Algunas casas de hidraulica en Argentina
-* http://www.todoflex.com.ar/ <- esta tiene todo, las magueras y los acoples necesarios
-* http://mangueraflexarg.com.ar/ <- catalogo muy completo
-* https://conman.com.ar/ <- tienen racords adecuados en catalogo
-* http://manguerashidraulicas.com/
-* https://www.hidraulicagomar.com.ar/
-* http://www.hidraulicasanfco.com.ar/
 
 # Acabados de motor
 
