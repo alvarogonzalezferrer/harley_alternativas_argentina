@@ -152,10 +152,9 @@ Estos manuales NO son para las Sportster modelos con motor refrigerado por aire 
 
 ## Sportster modelos XL 2021 y anteriores
 
-NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar:
-* Para noventosas 199x: *1HD1CAP14SY219269*  (1995)
-* Para carburadas 2004 a 2006: *5HD1CGP1X6K468728* (2006)
-* Para EFI, 2007 en adelante: *1HD1CT311CC442353* (2012) *1HD4LE218LB434556* (2020)
+De estos modelos se trata esta pagina.
+
+Harley tiene un portal de informacion tecnica aca: https://serviceinfo.harley-davidson.com/sip/index
 
 El manual del *propietario* se puede leer en la pagina oficial de Harley con nuestro **VIN** (numero de identificacion del vehiculo, esta en el cuadro y/o en la documentacion de la moto)
 
@@ -165,9 +164,26 @@ Las hojas de *servicio* de piezas de:
 
 https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
 
-El manual de **taller** se COMPRA, es bastante caro. A veces se puede conseguir online.
+NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar y ejemplo de los manuales que se obtienen con esos VIN:
 
-Aca tengo un manual de taller interesante:
+1. Para noventosas 199x: *1HD1CAP14SY219269*  (1995)
+  * Manual del propietario 1995 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=6335&groupId=16
+  * Catalogo de partes 1995 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273239&groupId=14
+
+2. Para carburadas 2004 a 2006: *5HD1CGP1X6K468728* (2006)
+  * catalogo de partes 2006 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273005&groupId=14
+  * manual de propietario 2006 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545139912053563680&groupId=16
+
+3. Para EFI, 2007 en adelante: *1HD1CT311CC442353* (2012) , *1HD4LE218LB434556* (2020)
+  * manual del propietario 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545140320163801375&groupId=16
+  * catalogo de partes 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273148&groupId=14
+
+### Manual de taller
+
+El manual de **taller**, conocido como "workshop manual" , se COMPRA, es bastante caro. A veces se puede conseguir online (eBay o pirata).
+
+Aca tengo un **manual de taller** interesante:
+
 * [Manual de taller!](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
 
 *Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
@@ -189,13 +205,15 @@ Aca tengo un manual de taller interesante:
 
 * Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
-Podemos buscar online tambien:
+Podemos buscar online tambien usando los buscadores (probar todos los enlaces, cuesta encontrar pero estan las cosas):
 
-* https://www.duckduckgo.com/?q=sportster+workshop+manual
+* https://www.duckduckgo.com/?q=sportster+workshop+manual+filetype:pdf
 
-* https://www.google.com/search?q=sportster+workshop+manual
+* * https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
 
-* https://www.google.com/search?q=sportster+manual+taller
+* https://www.google.com/search?q=sportster+workshop+manual+filetype:pdf
+
+* https://www.google.com/search?q=sportster+manual+taller+filetype:pdf
 
 # Mantenimiento
 
