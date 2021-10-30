@@ -180,15 +180,38 @@ NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar y eje
 
 ### Manual de taller
 
-El manual de **taller**, conocido como "workshop manual" , se COMPRA, es bastante caro. A veces se puede conseguir online (eBay o pirata).
+El manual de **taller**, conocido como "workshop manual" , se COMPRA, es bastante caro, y normalmente **son tres**: el manual de taller, el diagnostico electrico, y el catalogo de partes. A veces se puede conseguir online (eBay o pirata).
 
-Aca tengo un **manual de taller** interesante:
+Manuales para descargar:
 
-* [Manual de taller 2004 a 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual.7z)
+Notar que a veces se puede usar el mismo manual para varios modelos, por ejemplo:
 
-* [Manual de problemas comunes 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_troubleshooting_manual_CYCLETECH_1986_2003.pdf)
+* 1986 a 2003 son bastante similares
+* 2004 a 2006 son los modelos similares con motor montado sobre goma y carburados
+* 2007 a 2012 son los modelos inyeccion EFI, con motor montado sobre goma
+* 2013 a 2021 son los modelos inyeccion EFI, con motor montado sobre goma, y cambios en la electronica, ABS, etc
 
-*Necesitas 7-Zip para abrirlo: https://www.7-zip.org/*
+Si la informacion no la encontramos en un pack de manuales, podemos buscar en los de modelos de años proximos. Por ejemplo si tengo una 2005, me puedo fijar en la 2006 o la 2004...
+
+* [Manual de taller 2004 a 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual_JADE_NO_OFICIAL_MUY_BUENO.compressed.pdf)
+
+* [Manual de taller 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Harley-Davidson-Sportster-1986-2003-Service-Manual.compressed.pdf)
+
+* [Manual de problemas comunes 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_troubleshooting_manual_CYCLETECH_1986_2003.compressed.pdf)
+
+* [Manual de problemas comunes hasta 2003, otro](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_troubleshooting_manual.compressed.pdf)
+
+* [Manual de taller 1970-1978](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970-78 XL-XLH-XLCH-XLT-1000 Service Manual.compressed.pdf)
+
+
+*Algunos manuales son en PDF o estan comprimidos, precisas software para abrirlos*
+
+* 7-Zip para archivos comprimidos : https://www.7-zip.org/
+* Sumatra PDF para ver PDFs : https://www.sumatrapdfreader.org/free-pdf-reader
+
+### Buscar mas manuales
+
+* Comprar manuales online: https://motorcycle-manual-download.com/
 
 * Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
 
