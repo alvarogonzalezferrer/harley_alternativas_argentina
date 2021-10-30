@@ -388,8 +388,8 @@ Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-cha
 *No recomendado, solo para desesperados*
 
 * Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
-* Motor : Castrol Actevo 20w50 de moto ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
-* Primaria : Castro Actevo 3000 20w50, 1 litro, 7 USD
+* Motor : Castrol Actevo 20w50 o Motul 3000 de moto; ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
+* Primaria : Castro Actevo o Motul 3000 20w50, 1 litro, 7 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
 
 ### Semi Sintetico
@@ -747,7 +747,7 @@ Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-cha
   * http://manguerashidraulicas.com/
   * https://www.hidraulicagomar.com.ar/
   * http://www.hidraulicasanfco.com.ar/
-  
+
 # Cubiertas / Gomas / Cauchos / Llantas
 
 Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
