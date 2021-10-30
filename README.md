@@ -209,13 +209,14 @@ Aca tengo un **manual de taller** interesante:
 
 Podemos buscar online tambien usando los buscadores (probar todos los enlaces, cuesta encontrar pero estan las cosas):
 
-* https://www.duckduckgo.com/?q=sportster+workshop+manual+filetype:pdf
+* https://www.google.com/search?q=sportster+service+manual+filetype:pdf
+
+* https://www.google.com/search?q=sportster+manual+taller+filetype:pdf
+
+* https://www.duckduckgo.com/?q=sportster+service+manual+filetype:pdf
 
 * https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
 
-* https://www.google.com/search?q=sportster+workshop+manual+filetype:pdf
-
-* https://www.google.com/search?q=sportster+manual+taller+filetype:pdf
 
 # Mantenimiento
 
