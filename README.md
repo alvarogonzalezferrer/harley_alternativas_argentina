@@ -225,7 +225,7 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 
 * [Manual de problemas comunes hasta 2003, otro](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_troubleshooting_manual.compressed.pdf)
 
-* [Manual de taller 1970-1978](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970-78 XL-XLH-XLCH-XLT-1000 Service Manual.compressed.pdf)
+* [Manual de taller 1970 a 1978](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970_78_XL_XLH_XLCH_XLT_1000_Service_Manual.compressed.pdf)
 
 *Algunos manuales son en PDF o estan comprimidos, precisas software para abrirlos*
 
