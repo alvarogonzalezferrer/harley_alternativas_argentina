@@ -12,10 +12,6 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 
 La tabla de contenidos se actualiza automaticamente, dar click en el icono sobre el margen izquierdo.
 
-## Sportster 1957-2021. RIP
-
-Harley discontinuó la Sportster en 2021, y lanzó otro modelo con el mismo nombre. Este blog NO habla del nuevo modelo.
-
 ## Introducción
 
 Estas notas nacieron para el mantenimiento de mis motos.
@@ -83,7 +79,7 @@ Sirve tambien para pedir computadoras, celulares, ropa, etc, vos obtenes un desc
 
 **Muchas gracias por tu donación!**
 
-## ATENCIÓN
+# ATENCIÓN
 
 LA INFORMACIÓN SE PROPORCIONA "COMO ESTÁ", **SIN GARANTÍA DE NINGÚN TIPO**, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO.
 
@@ -123,6 +119,38 @@ Pero repito, si el problema supera nuestra habilidad, **lo mejor es consultar a 
 # Manuales
 
 **La primer referencia que debemos consultar siempre es el manual del propietario, y sobre todo el manual de taller.**
+
+## Sportster 1957-2021. RIP
+
+Harley discontinuó la Sportster en 2021, y lanzó otro modelo, llamado Sportster S, con el mismo nombre, pero codigo *RH1250S Sportster*.
+
+Este blog **NO** habla del nuevo modelo RH1250S Sportster.
+
+Igualmente, para no dejar totalmente sin ayuda a los nuevos propietarios de la Sportster S, +2021 en adelante, les dejo links al manual del usuario y el manual de despiece de la nueva (2021) moto.
+
+## Sportster S RH1250S, 2021 en adelante
+
+Estos manuales NO son para las Sportster modelos con motor refrigerado por aire de la serie "vieja" codigo XL, son para la **nueva** Sportster S, codigo RH
+
+* Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547687173511687457
+
+* Catalogo de partes: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547686249569650976
+
+> Owner's Manual:
+> Shipped with Harley SYN-BLEND 15w-50 motor oil.
+> Spark Plug change interval is 10,000 miles
+> (XL Sportsters had been 30,000 miles or two years)
+> Engine oil and filter every 5,000 miles
+> (same as XL except it also includes the primary/trans fluid since they share same oil sump)
+> Replace coolant every 30,000 miles.
+
+> Parts catalog- (from just a quick compare to the Pan American)
+> The Cams and pistons are different from the Pan American.
+> The Sportster S is 12:1 compression, the Pan American is 13:1.
+> The rings are the same part number.
+> The Cam phasers are the same part numbers as the Pan American.
+
+## Sportster modelos XL 2021 y anteriores
 
 NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar:
 * Para noventosas 199x: *1HD1CAP14SY219269*  (1995)
