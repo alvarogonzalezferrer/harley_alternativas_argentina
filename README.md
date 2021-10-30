@@ -356,7 +356,9 @@ Verifique el desgaste desigual de la banda de rodamiento, y cualquier deterioro 
 
 ## Medidas
 
-Harley proporciona una guia de tamaños de ruedas aqui : https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf
+Harley proporciona una guia de tamaños de ruedas aqui :
+* https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf
+* Copia: https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/gomas/Harley_OE_and_Recommended_Replacement_Tires.pdf
 
 ### Delantera
 
