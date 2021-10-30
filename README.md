@@ -193,7 +193,31 @@ Notar que a veces se puede usar el mismo manual para varios modelos, por ejemplo
 
 Si la informacion no la encontramos en un pack de manuales, podemos buscar en los de modelos de años proximos. Por ejemplo si tengo una 2005, me puedo fijar en la 2006 o la 2004...
 
+* [Manual de taller 2018](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2018.7z)
+
+* [Manual de taller 2015](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2015.7z)
+
+* [Manual de taller 2013](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2013.7z)
+
+* [Manual de taller 2011](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2011.7z)
+
+* [Manual de taller 2010](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010.7z)
+
+* [Manual de taller 2009](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009.7z)
+
+* [Manual de taller 2008](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2008.7z)
+
+* [Manual de taller 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2006.7z)
+
 * [Manual de taller 2004 a 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual_JADE_NO_OFICIAL_MUY_BUENO.compressed.pdf)
+
+* [Manual de taller 2005](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005.7z)
+
+* [Manual de taller 2004](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2004.7z)
+
+* [Manual de taller 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2003.7z)
+
+* [Manual de taller 2002](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2002.7z)
 
 * [Manual de taller 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Harley-Davidson-Sportster-1986-2003-Service-Manual.compressed.pdf)
 
@@ -202,7 +226,6 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 * [Manual de problemas comunes hasta 2003, otro](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_troubleshooting_manual.compressed.pdf)
 
 * [Manual de taller 1970-1978](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970-78 XL-XLH-XLCH-XLT-1000 Service Manual.compressed.pdf)
-
 
 *Algunos manuales son en PDF o estan comprimidos, precisas software para abrirlos*
 
