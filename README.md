@@ -418,7 +418,13 @@ Como es algo personalizado, las opciones son infinitas, es cuestion de ver que p
 
 ### Off-road / trail / dual purpose
 
-En caso que queramos usar nuestra Sportster en caminos de ripio, lodo, etc, por ejemplo en viajes por la Ruta 40, o la Panamericana, conviene poner ruedas de doble proposito. Tambien se recomienda ponerle una defensa al motor, y suspensiones altas de 13 pulgadas (recordar poner la pata larga tambien).
+En caso que queramos usar nuestra Sportster en caminos de ripio, lodo, etc, por ejemplo en viajes por la Ruta 40, o la Panamericana, conviene poner ruedas de doble proposito. Se recomienda un neumático diseñado como un neumático de uso deportivo doble 60/40 trail - aventura (60% en carretera y 40% fuera de ella).
+
+Tambien se recomienda ponerle una defensa al motor, y suspensiones altas de 13 pulgadas (recordar poner la pata larga tambien).
+
+Ver
+* https://www.youtube.com/watch?v=LKuYt_5O_6k
+* https://www.youtube.com/watch?v=tm7g6PjSVQg
 
 #### Goma Delantera Off Road
 
