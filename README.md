@@ -417,10 +417,10 @@ Tambien vi Putoline Genuine V-twin 20w50, y algunos Valvoline SynPower en 15w50
 
 ### Mineral
 
-*Nota: es facil conseguir reemplazos para esta opción, hay Motul tambien, IPone, etc*
+*Nota: es facil conseguir reemplazos para esta opción, hay Motul tambien, IPone, Silkolene, etc*
 
 * Filtro: Mahle o HiFlo
-* Motor : Castrol Actevo 20W50
+* Motor : Castrol Actevo 20W50 / Silkolene V-twin 20w50
 * Primaria : Castrol Actevo 20W50
 
 # Aceite de motor
