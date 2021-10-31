@@ -1523,7 +1523,7 @@ Ver mas info en: https://california-motorcycles.com/blogs/mecanicaharley/el-sist
 
 FAR es una fabrica nacional de amortiguadores, que tiene una linea completa para Harley Davidson de excelente calidad,y a un precio muy conveniente.
 
-FAR - http://amortiguadoresfar.com/index.php/es/productos-far/itemlist/category/35-amortiguadores-para-harley-davidson
+FAR - https://www.farmotopartes.com.ar/product-category/amortiguadores-far/amortiguadores-far-venta-amortig-linea-custom/
 
 ## Informacion sobre la suspension
 
