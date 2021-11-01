@@ -6,7 +6,7 @@ Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 26/10/2021** , ±92000 km recorridos sin problemas.
+**Documento Actualizado 01/11/2021** , ±92000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
