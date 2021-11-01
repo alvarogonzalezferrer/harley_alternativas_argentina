@@ -1765,6 +1765,30 @@ Puños, pedales, respaldos, manillares, asientos, etc, se fabrican personalizado
 
 Ahora se venden también nacionales, los vi en Mercado Libre. (2020)
 
+## Navegacion GPS, celular, toma 12V, y USB
+
+### Toma 12V
+
+Podemos tomarla directamente de la bateria, o poniendo un relay, recordar no exceder el consumo, y sobre todo, ponerle un fusible y alguna manera de cortar la corriente con un switch o similar. Aqui podriamos enchufar cosas como ropa calefaccionada, inflador, cargadores, elementos de camping, **pero siempre recordando no exceder el consumo maximo del circuito!**.-
+
+### Cargador celular
+
+Vienen cargadores USB para el manillar, que se adosan a los +12v y GND (tierra) de la moto. De donde tomar esos +12v es el asunto. Queremos que se apague cuando apagamos la moto, para que no nos descargue la bateria y tengamos problemas de arranque.
+
+Estuve examinando el circuito y para consumos **bajos** como los del cargador de un celular, podemos tomar la electricidad de las luces del frente de la moto: en todos los modelos podemos usar la luz baja, en los modelos para mercado internacional podriamos tomarlo de la luz de posicion (que no es la baja sino el foquito pequeño que tienen los modelos cuyo VIN indica modelo HDI, normalmente velocimetro en km/h); y por ultimo para los modelos comerciados en el mercado de EEUU, que tienen luces de posicion en los giros frontales, podemos tomarla de ahi (velocimetro en millas normalmente, para rapida identificacion)
+
+A continuacion un diagrama de donde podemos tomar el voltage, **recordar tomar consumo minimo, NO poner accesorios con gran consumo en este circuito, y poner FUSIBLE**.
+
+![tomar +12V y GND](archivos_soporte/GPS/toma_USB_12V_GND_2004p.jpg)
+
+### GPS
+
+Normalmente se usa el celular dentro de una fundita impermeable que viene para eso.
+
+Para viajes largos, o en ciudades que no conocemos, es util tener GPS para la navegacion.
+
+Venden soportes impermeables para el celular, que se agarran del manillar, recordar bajarlos al estacionar la moto para que no nos roben.
+
 ## Pedalines
 
 Los pedalines se pueden comprar, o mandar a tornear, no tienen mucho secreto.
@@ -1813,19 +1837,7 @@ TO-DO
 
 TO-DO
 
-## Toma 12V
-
-TO-DO
-
-### Cargador celular
-
-TO-DO
-
-### GPS
-
-TO-DO
-
-Normalmente se usa el celular dentro de una fundita impermeable que viene para eso.
+Barlitop hacia alforjas de cuero en Buenos Aires, buscarlo en Facebook, me hizo las mias hace años, quedaron muy bien, no se si sigue en el negocio, fue año 2010...
 
 ## Espejos
 
