@@ -1789,6 +1789,14 @@ Para viajes largos, o en ciudades que no conocemos, es util tener GPS para la na
 
 Venden soportes impermeables para el celular, que se agarran del manillar, recordar bajarlos al estacionar la moto para que no nos roben.
 
+#### Aplicaciones GPS para el celular
+
+Solo uso Android:
+
+* Waze -- el mejor, aunque a veces busca rutas muy rebuscadas o te manda por el medio de una villa, te marca camaras de velocidad, policia, retenes, etc
+* Maps.ME -- permite descargar los mapas al celular y funciona sin conexion a internet! hay que tenerlo siempre, recordar bajar los mapas ANTES de salir de viaje
+* Google Maps  -- viene con el celular, marca las rutas mas tradicionales, no marca policia, camaras, ni nada, medio boton...
+
 ## Pedalines
 
 Los pedalines se pueden comprar, o mandar a tornear, no tienen mucho secreto.
