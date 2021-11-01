@@ -1791,11 +1791,19 @@ Venden soportes impermeables para el celular, que se agarran del manillar, recor
 
 #### Aplicaciones GPS para el celular
 
-Solo uso Android:
+Celus Android:
 
-* Waze -- el mejor, aunque a veces busca rutas muy rebuscadas o te manda por el medio de una villa, te marca camaras de velocidad, policia, retenes, etc
-* Maps.ME -- permite descargar los mapas al celular y funciona sin conexion a internet! hay que tenerlo siempre, recordar bajar los mapas ANTES de salir de viaje
-* Google Maps  -- viene con el celular, marca las rutas mas tradicionales, no marca policia, camaras, ni nada, medio boton...
+* [Waze](https://play.google.com/store/apps/details?id=com.waze) -- el mejor, aunque a veces busca rutas muy rebuscadas o te manda por el medio de una villa, te marca camaras de velocidad, policia, retenes, etc
+* [Maps.ME](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) -- permite descargar los mapas al celular y funciona sin conexion a internet! hay que tenerlo siempre, recordar bajar los mapas ANTES de salir de viaje
+* [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)  -- viene con el celular, marca las rutas mas tradicionales, no marca policia, camaras, ni nada, medio boton...
+
+Sitios utiles para planear viajes :
+
+* Open Street Map: https://www.google.es/maps/?hl=es
+* Google Maps y Street View: https://www.google.com/maps
+* Wikimapia : https://wikimapia.org/
+* Ruta 0 : https://www.ruta0.com/ (solo argentina)
+* Waze Live Map : https://www.waze.com/es/live-map (ver trafico, policia, camaras, etc)
 
 ## Pedalines
 
