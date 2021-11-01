@@ -1799,7 +1799,7 @@ Celus Android:
 
 Sitios utiles para planear viajes :
 
-* Open Street Map: https://www.google.es/maps/?hl=es
+* Open Street Map: https://www.openstreetmap.org/
 * Google Maps y Street View: https://www.google.com/maps
 * Wikimapia : https://wikimapia.org/
 * Ruta 0 : https://www.ruta0.com/ (solo argentina)
