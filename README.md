@@ -961,6 +961,18 @@ Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
 # Frenos
 
+## Bomba de freno
+
+*informacion preliminar*
+
+Los modelos mas nuevos traen ABS.
+
+La bomba se puede **reconstruir** (preferido), o cambiar. Para reconstruir buscar *"Master Cylinder Rebuild Kit"* , REAR o FRONT, depende si es trasero o frontal. 
+
+Para cambiar podemos poner original, marcas alternativas, o incluso chinas. Sobre todo la bomba de freno trasera de los modelos pre-ABS que es bastente generica.
+
+Una muy parecida es la de la moto **AKT CR5 LONCIN** , que depende del mercado tiene diferentes nombres: Argentina se vende como Guerrero Gr5 230, Mexico como Italika 250Z, etc... una bomba muy economica y que sirve (teoricamente) para reemplazar la bomba de freno trasero.
+
 ## Pastillas
 
 Se pueden reconstruir / reempastar las pastillas con **ferodo** nuevo. Hay casas que lo hacen. Si conocen alguna cerca de Capital Federal me avisan. Lo mejor es cambiarlas por NUEVAS de primera marca, pero dada la pauperrima situacion del pais, esto es lo que queda...
