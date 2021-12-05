@@ -851,11 +851,11 @@ Shinko tiene el modelo E804 que tiene todas las medidas delanteras adecuadas par
 
 #### Goma Trasera Off Road
 
-Si tenemos modelo con la rueda trasera 17" o 18", nuestras opciones son amplias, podemos usar cualquiera de las gomas que usan las BMW, Honda, etc en sus modelos trail.
+Si tenemos modelo con la rueda trasera **17" o 18"**, nuestras opciones son amplias, podemos usar cualquiera de las gomas que usan las BMW, Honda, etc en sus modelos trail.
 
-En el caso de la rueda 16", encontre pocos modelos que vienen con dibujo de trail:
+En el caso de la **rueda 16"**, encontre pocos modelos que vienen con dibujo de trail. Otra idea es cambiar por un aro trasero 18" para tener mas opciones:
 
-* **Duro HF904 Median Dual-Sport Bias-Ply Rear Tire 130/90-16**, que es mas angosta que la 150 80 16 de los nuevos modelos (+2004 pero **igual sirve**. En modelos 2003 y anteriores que usan rueda de 130 de ancho queda perfecta. El mejor caso es cambiar por una trasera 18" para tener mas opciones de viaje.
+* **Duro HF904 Median Dual-Sport Bias-Ply Rear Tire 130/90-16**, que es mas angosta que la 150 80 16 de los nuevos modelos (+2004 pero **igual sirve**. En modelos 2003 y anteriores que usan rueda de 130 de ancho queda perfecta.
 
 * **Shinko E805 Rear 150/80/16** esta perfecta para modelos +2004. Nunca la vi en Argentina, deberia ser una importacion especial.  
 
