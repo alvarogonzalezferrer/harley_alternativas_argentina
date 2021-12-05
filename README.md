@@ -244,6 +244,8 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
   * https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
   * http://www.shopronniesharleydavidson.com/
   * http://partsfinder.onlinemicrofiche.com/ronnies/partsfinder.htm
+  * https://shop.suburbanharley.com/oem-parts
+  * https://www.jerseyh-d.com/original-harley-davidson-parts/
 
 * Un foro con manuales: https://foroharley.com/forums/manuales-y-documentos.33/
 
@@ -252,6 +254,12 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 * Foro Sportster : http://xlforum.net
 
 * Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
+
+Para saber el largo de los cables de embrague, acelerador, etc
+
+* https://www.motionpro.com/
+
+* https://magnumshielding.com
 
 Podemos buscar online tambien usando los buscadores (probar todos los enlaces, cuesta encontrar pero estan las cosas):
 
@@ -262,6 +270,8 @@ Podemos buscar online tambien usando los buscadores (probar todos los enlaces, c
 * https://www.duckduckgo.com/?q=sportster+service+manual+filetype:pdf
 
 * https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
+
+
 
 
 # Mantenimiento
@@ -2077,6 +2087,7 @@ Por ahora, lugares útiles :
 * Moto Bike CR
 * Ragnarok -- https://www.facebook.com/ragnarokmotorcycles/
 * Motohouse
+* Locos Por Las Motos 
 * etc
 
 Insumos
