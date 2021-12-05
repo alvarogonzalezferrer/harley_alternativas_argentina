@@ -774,15 +774,17 @@ Harley proporciona una guia de tamaños de ruedas aqui :
 * https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf
 * Copia: https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/gomas/Harley_OE_and_Recommended_Replacement_Tires.pdf
 
+Esta guia puede estar incompleta, **VERIFICAR** antes de comprar que correspondan a tu modelo!!
+
 ### Delantera
 
 Modelos | Medida
 --------|---------
-1983 a 2003 XL883/1200/XR1000 | 100 90 19 / 2.15 x 19"
+1983 a 2003 XL883 / 1200 / XR1000 | 100 90 19 / 2.15 x 19"
 2004+ XL | 100 90 19 / 2.15 x 19"
 XL883C / XL1200C / XL1200V | 90 90 21 - 2.15 x 21"
 +2010 XL1200X, +2018 XL1200XS | MT90B16 - 3.00 x 16"
-2008-2013 XR1200/X | 120 70 18 - 3.5 x 18"
+2008-2013 XR1200/X / 2017-2020 XL1200T Superlow | 120 70 18 - 3.5 x 18"
 +2016 XL1200CX | 120 70 19 / 3.00 x 19"
 
 ### Trasera
@@ -793,8 +795,9 @@ Modelos | Medida
 XL 2004+ y variantes | 150 80 16 / 3.00 x 16"
 2016+ XL1200CX | 150 70 18 /4.25 x 18"
 2008-2013 XR1200/X | 180 55 17 / 5.50 x 17"
-2011+ XL883L | 150 60 17 / 4.50 x 17"
+2011+ XL883L / XL1200T Superlow | 150 60 17 / 4.50 x 17"
 2014 a 2017 XL1200T | 150 70 17 / 4.50 x 17"
+
 
 ### Tamaños máximos
 
@@ -967,7 +970,7 @@ Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
 Los modelos mas nuevos traen ABS.
 
-La bomba se puede **reconstruir** (preferido), o cambiar. Para reconstruir buscar *"Master Cylinder Rebuild Kit"* , REAR o FRONT, depende si es trasero o frontal. 
+La bomba se puede **reconstruir** (preferido), o cambiar. Para reconstruir buscar *"Master Cylinder Rebuild Kit"* , REAR o FRONT, depende si es trasero o frontal.
 
 Para cambiar podemos poner original, marcas alternativas, o incluso chinas. Sobre todo la bomba de freno trasera de los modelos pre-ABS que es bastente generica.
 
