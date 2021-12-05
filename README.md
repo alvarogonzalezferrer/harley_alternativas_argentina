@@ -2156,7 +2156,14 @@ Insumos
 * Castrol
 * Amazon
 * eBay
-* Aeropost
+* Aeropost } traer de USA
+
+* Moto Llantas Virtual - tiene gomas, neumaticos, cubiertas - https://www.facebook.com/Motollantasvirtual/
+
+Aceites
+
+* Walmart tiene el Castrol Actevo 20w50 mas barato.
+* Todas las demas tambien venden aceites buenos. Se consigue el Motul 7100 20w50 por ejemplo.
 
 Herramientas
 
