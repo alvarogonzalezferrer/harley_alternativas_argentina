@@ -1238,6 +1238,28 @@ Sirve la **WEX6L21-MF** -> http://www.wstandard-energy.com/en/statistics/w-produ
 
 *Ideas a explorar: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD*
 
+## Cables de batería
+
+Se pueden hacer en cualquier casa de audio para autos. 
+
+2004 - 2009
+* 70295-04A Battery To Starter Cable (with #70578-89 Rubber Boot)
+* 70296-04A Battery To Ground Cable
+
+2010 - 2013
+* 70295-10_ Battery To Starter Cable (with #70578-89 Rubber Boot)
+* 70296-04A Battery To Ground Cable
+
+2014 - present
+* 66000035 Battery Negative To Ground Cable
+* 66000036 Battery Positive To Starter Cable (with # 66000037 Rubber Boot)
+
+As per the J&P catalog.....
+
+1997-2003 XL
+* Positive OEM 70076-97 (9 3/4" length)
+* Negative OEM 70097-97 (12 1/2" length)
+
 # Luces
 
 Se consiguen todas en Argentina, son comunes, H4 la delantera, las otras llevar la muestra. **MODELOS MAS NUEVOS LLEVAN LUCES LED, verificar ANTES de comprar.**
