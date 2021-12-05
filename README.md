@@ -808,7 +808,6 @@ XL 2004+ y variantes | 150 80 16 / 3.00 x 16"
 2011+ XL883L / XL1200T Superlow | 150 60 17 / 4.50 x 17"
 2014 a 2017 XL1200T | 150 70 17 / 4.50 x 17"
 
-
 ### Tamaños máximos
 
 Se puede poner una 130 en las 2003 y anteriores. Medir bien antes de comprar la goma!
@@ -937,6 +936,48 @@ Hacen reparaciones, cromados, niquelados, platil, cobreados, pulidos, bi niquel,
 * Cromados Peduto - excelente calidad, precio acorde, no acepta cromar escapes, al menos cuando yo los llame, preguntar igual por las dudas...
 
 y muchos más...
+
+# Tornillería original
+
+A veces los tornillos se redondean, podemos comprar en una bulonera o ferreteria los reemplazos. Yo compre varios tornillos para una moto que compre usada y tenia todos todos los tornillos "masticados" por el dueño anterior. Siempre tenemos que usar la herramienta correcta para cada tornillo, y si no la tenemos, NO tocar!
+
+## Como medir e identificar tornillos
+
+Un tornillo tiene varias medias dependiendo el tipo. Principalmente necesitamos tres medidas: **diámetro, largo y tipo de rosca**.
+
+La primera medida será el diámetro y la segunda será el largo, entendiendo que un tornillo de 1/2" x 2" se refiere a que el diámetro del tornillo es de 1/2" (media pulgada) y el largo es de 2" (dos pulgadas). Luego roscas pueden ser rosca gruesa, rosca fina, o rosca metrica, hay varios tipos de rosca y hay que prestar MUCHA atencion para no barrer una rosca incorrecta.
+
+El diámetro se refiere al diámetro de la rosca y/o vástago, que puede ser milimétrico o fraccional (pulgadas). Para medirlo podemos usar desde un calibrador vernier hasta una regla. En la siguiente imagen podemos ver la manera correcta de medir el diámetro del tornillo.
+
+https://www.torec.mx/pages/como-medir
+
+https://www.fastenersuperstore.com/fastener-guides/measuring-screws-bolts
+
+https://www.fastenersuperstore.com/fastener-guides
+
+https://www.demaquinasyherramientas.com/herramientas-manuales/medicion-identificacion-roscas-pernos-tornillos
+
+## Donde ver tamaño de tornillos de la moto
+
+Encontré un catalogo online acá, ojo que algunas medidas están mal, **comparar con el tornillo original fisico siempre** antes de pedir!
+
+* https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
+
+* http://sportsterpedia.com/doku.php/techtalk:ref:tools804
+
+## Tornillos de HD mas comunes
+
+Aca hay una lista enorme, ver esto primero: http://sportsterpedia.com/doku.php/techtalk:ref:tools804
+
+Algunos tornillos comunes que siempre veo redondeados:
+
+* Filtro de aire tipo "lata de jamon" +2004: los dos tornillos externos son ALLEN PLANO 5/16 X 1/2 UNC
+
+* Tornillo soporte batería +2004:  HEXAGONAL  1/4 - 3/4 UNC -- SCREW 1/4-20 X 3/4 FLANGE
+
+* Tornillo soporte tambor de la llave +2004: ALLEN BOTON INOXIDABLE 3/16 - 1/2 - UNC } EL MAS PROXIMO AL #10 -- SCREW NO. 10-24 X 1/2 SOCKET BUTTON HD
+
+* Tornillos tapa de inspección cadena primaria: 41191-74A : SCREW 1-4/2"-20 X 5/8" HEX SOCKET FLAT HD., W/LOCKPATCH } a veces se consigue uno un poquito mas largo, mmedirlo bien y cortar a la medida...
 
 # Filtro de aire
 
@@ -2087,7 +2128,7 @@ Por ahora, lugares útiles :
 * Moto Bike CR
 * Ragnarok -- https://www.facebook.com/ragnarokmotorcycles/
 * Motohouse
-* Locos Por Las Motos 
+* Locos Por Las Motos
 * etc
 
 Insumos
