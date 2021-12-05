@@ -271,9 +271,6 @@ Podemos buscar online tambien usando los buscadores (probar todos los enlaces, c
 
 * https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
 
-
-
-
 # Mantenimiento
 
 El buen mantenimiento es sinónimo de una motocicleta segura. Se debe inspeccionar frecuentemente la motocicleta entre los intervalos regulares de servicio para establecer si es necesario un mantenimiento adicional.
@@ -977,7 +974,7 @@ Algunos tornillos comunes que siempre veo redondeados:
 
 * Tornillo soporte tambor de la llave +2004: ALLEN BOTON INOXIDABLE 3/16 - 1/2 - UNC } EL MAS PROXIMO AL #10 -- SCREW NO. 10-24 X 1/2 SOCKET BUTTON HD
 
-* Tornillos tapa de inspección cadena primaria: 41191-74A : SCREW 1-4/2"-20 X 5/8" HEX SOCKET FLAT HD., W/LOCKPATCH } a veces se consigue uno un poquito mas largo, mmedirlo bien y cortar a la medida...
+* Tornillos tapa de inspección cadena primaria: 41191-74A } **ESTE NO ESTOY SEGURO, LLEVAR LA MUESTRA, EL MANUAL TIENE MAL EL TAMAÑO! segun el manual son 1/4" de diametro, si pedis ese diametro te llegan unos tornillos gigantes, obviamente** **DEBUG, MEDIR Y CORREGIR**
 
 # Filtro de aire
 
@@ -1240,7 +1237,7 @@ Sirve la **WEX6L21-MF** -> http://www.wstandard-energy.com/en/statistics/w-produ
 
 ## Cables de batería
 
-Se pueden hacer en cualquier casa de audio para autos. 
+Se pueden hacer en cualquier casa de audio para autos.
 
 2004 - 2009
 * 70295-04A Battery To Starter Cable (with #70578-89 Rubber Boot)
