@@ -358,6 +358,14 @@ Si no se alcanzan los kilometros en el año, **es recomendable cambiarlo una vez
 
 **Ver manual para mas info.**
 
+## Resumen cambio de aceite
+
+Item  | Reemplazo | Periodo
+--------|---------|---------
+Motor aceite | Aceite de moto 20w50 mineral o sintetico, spec JASO MA2 | 8000 km ó un año
+Filtro aceite | Mahle, Hi Flo, Harley, etc, diamtro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm | 8000 km ó un año
+Primaria aceite | Aceite de moto 20w50 mineral o sintetico, spec JASO MA2 | 16000 km ó dos años
+
 ## Clima frio y aceite  
 
 Lubricación a baja temperatura: Cambie el aceite del motor con frecuencia en climas más fríos. Si la motocicleta se conduce con frecuencia por menos de 24 km (15 mi), en temperaturas ambiente por debajo de 16° C (60,8 °F), reduzca los intervalos de cambio de aceite a 5000 km.
@@ -759,11 +767,13 @@ Algunas casas de hidraulica en Argentina
 * https://www.hidraulicagomar.com.ar/
 * http://www.hidraulicasanfco.com.ar/
 
-# Cubiertas / Gomas / Cauchos / Llantas
+# Cubiertas / Gomas / Cauchos / Llantas / Neumaticos
 
-Metzeler ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
+Hay muchas opciones, segun el pais.
 
-Dunlop, Michelin y Pirelli también se consiguen en las medidas necesarias. También hay algunas marcas chinas de dudosa efectividad, tienen un caucho muy duro con poco grip, NO SON RECOMENDABLES.
+**Metzeler** ME880 se vende en 16", 19" y 21": todas las medidas correctas, con o sin banda blanca.
+
+**Dunlop**, **Michelin** y **Pirelli** también se consiguen en las medidas necesarias. También hay algunas marcas chinas de dudosa efectividad, tienen un caucho muy duro con poco grip, NO SON RECOMENDABLES.
 
 Harley vendió motos con cubiertas Dunlop, ó Michelin, en diferentes medidas según modelo y año.
 
