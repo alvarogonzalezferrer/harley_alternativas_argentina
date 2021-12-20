@@ -349,8 +349,8 @@ Lo mas importante es que **NO LE FALTE ACEITE**. Siempre verificar el nivel ante
 
 Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posibles**, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
 
-El motor lleva **3 US quarts**, que son **2.83 litros**.
-La primaria lleva **1 US quart**, que es **0,946 litros**.
+El motor lleva **3 US quarts**, que son **2.83 litros** de aceite de moto, mineral o sintetico, 20w50, especificacion JASO MA2.
+La primaria lleva **1 US quart**, que es **0,946 litros** de aceite de moto, mineral o sintetico, 20w50, especificacion JASO MA2.
 
 Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
 
@@ -599,6 +599,8 @@ Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene un
 # Aceite de primaria
 
 Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), *dejando de lado el antiguo Formula+ en 2020*.-
+
+Embragues Barnett recomiendan un aceite especifcio para moto, con especificaciones JASO MA, o MA2 y viscosidad 20w50. Nunca usar aceite para automoviles.
 
 ## Analisis largo
 
