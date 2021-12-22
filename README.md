@@ -1292,6 +1292,12 @@ Se puede modernizar con luces LED los modelos mas antiguos, viene un kit. Tambie
 
 Barnett tiene reemplazos listos para colocar para todas las generaciones de Sportster: https://www.barnettclutches.com/
 
+## Embrague centrifugo automatico
+
+Se puede reemplazar el embrague manual por uno centrifugo automatico, ideal para condiciones de trafico pesado, o personas que por alguna razon no pueden usar la mano izquierda (por ejemplo alguna lesion o amputacion). Es bastante caro, unos 900 dolares en EEUU, pero se instala sin modificar nada extra.
+
+Ver Rekluse Core EXP 3.0 : https://rekluse.com/product/core-exp-3-0-clutch/?pd=1
+
 ## Problema común del embrague
 
 El embrague tiene un problema crónico de diseño, a veces fallan unos remaches y "explota" el disco resorte del embrague. Se puede solucionar cambiando ese disco por uno mejor (en lugar de volver a poner lo mismo).
