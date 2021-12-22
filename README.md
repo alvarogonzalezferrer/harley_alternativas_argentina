@@ -1306,7 +1306,7 @@ Es mejor abordar este problema antes de que suceda. Da varios sintomas de que es
 
 ### Solucion
 
-La opción preferida es eliminar la placa de resorte por completo instalando **dos placas de acero adicionales y una placa de fricción adicional**. Esto funciona para embragues de **1991** en adelante.
+La opción preferida es eliminar la placa de resorte por completo instalando **dos placas de acero adicionales y una placa de fricción adicional**. Esto funciona para embragues de **1991** en adelante. **Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
 
 Si bien es posible hacerlo en los modelos 1991 y anteriores con placas stock, una implementación más típica para los modelos 1986 y superiores es utilizar un kit completo de recambio con nuevas placas de acero y de fricción. Hay varios proveedores de estos kits, como Energy One, Barnett & Alto, en varios materiales diferentes.
 
