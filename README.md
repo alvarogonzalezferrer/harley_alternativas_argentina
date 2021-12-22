@@ -1292,6 +1292,8 @@ Se puede modernizar con luces LED los modelos mas antiguos, viene un kit. Tambie
 
 Barnett tiene reemplazos listos para colocar para todas las generaciones de Sportster: https://www.barnettclutches.com/
 
+Energy One Clutches tambien tiene reemplazos para colocar en Sportster : https://www.energyoneclutches.com
+
 ## Embrague centrifugo automatico
 
 Se puede reemplazar el embrague manual por uno centrifugo automatico, ideal para condiciones de trafico pesado, o personas que por alguna razon no pueden usar la mano izquierda (por ejemplo alguna lesion o amputacion). Es bastante caro, unos 900 dolares en EEUU, pero se instala sin modificar nada extra.
@@ -1300,7 +1302,7 @@ Ver Rekluse Core EXP 3.0 : https://rekluse.com/product/core-exp-3-0-clutch/?pd=1
 
 ## Problema común del embrague
 
-El embrague tiene un problema crónico de diseño, a veces fallan unos remaches y "explota" el disco resorte del embrague. Se puede solucionar cambiando ese disco por uno mejor (en lugar de volver a poner lo mismo).
+El embrague tiene un problema crónico de diseño, a veces fallan unos remaches en un disco, y "explota" el disco resorte del embrague. Se puede solucionar cambiando ese disco por uno mejor (en lugar de volver a poner lo mismo).
 
 Como se mencionó anteriormente, la placa de resorte se encuentra en el medio del paquete de embrague. Consiste en dos placas de acero separadas, unidas con resortes planos remachados, móviles, intercalados entre las dos placas de acero. Hay una placa de fricción a cada lado de la placa de resorte. La idea es absorber parte de la fuerza instantánea del acoplamiento del embrague y liberarla durante unos pocos microsegundos de transferencia de energía del resorte.
 
@@ -1318,7 +1320,9 @@ La opción preferida es eliminar la placa de resorte por completo instalando **d
 
 **Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
 
-Si bien es posible hacerlo en los modelos 1991 y anteriores con placas stock, una implementación más típica para los modelos 1986 y superiores es utilizar un kit completo de recambio con nuevas placas de acero y de fricción. Hay varios proveedores de estos kits, como Energy One, Barnett & Alto, en varios materiales diferentes.
+**Energy One tiene un reemplazo tambien:** https://www.energyoneclutches.com
+
+Si bien es posible hacerlo en los modelos 1991 y anteriores con placas stock, una implementación más típica para los modelos 1986 y superiores es utilizar un kit completo de recambio con nuevas placas de acero y de fricción. Hay varios proveedores de estos kits, como Energy One, Barnett, Alto, etc, en varios materiales diferentes.
 
 Esta solución hace que el acoplamiento del embrague sea un poco más "agarre" y, a veces, hay un "chirrido" asociado. Pero la mayoría de los usuarios prefieren la tranquilidad de eliminar el Spring Plate a pesar de estos "inconvenientes".
 
