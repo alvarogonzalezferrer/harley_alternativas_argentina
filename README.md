@@ -363,7 +363,7 @@ Si no se alcanzan los kilometros en el año, **es recomendable cambiarlo una vez
 Item  | Reemplazo | Periodo
 --------|---------|---------
 Motor aceite | Aceite de moto 20w50 mineral o sintetico, spec JASO MA2 | 8000 km ó un año
-Filtro aceite | Mahle, Hi Flo, Harley, etc, diamtro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm | 8000 km ó un año
+Filtro aceite | Mahle, Hi Flo, Harley, etc, diamtro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm, valvula alivio max 12 PSI | 8000 km ó un año
 Primaria aceite | Aceite de moto 20w50 mineral o sintetico, spec JASO MA2 | 16000 km ó dos años
 
 ## Clima frio y aceite  
