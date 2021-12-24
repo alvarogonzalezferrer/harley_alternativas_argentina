@@ -1294,12 +1294,6 @@ Barnett tiene reemplazos listos para colocar para todas las generaciones de Spor
 
 Energy One Clutches tambien tiene reemplazos para colocar en Sportster : https://www.energyoneclutches.com
 
-## Embrague centrifugo automatico
-
-Se puede reemplazar el embrague manual por uno centrifugo automatico, ideal para condiciones de trafico pesado, o personas que por alguna razon no pueden usar la mano izquierda (por ejemplo alguna lesion o amputacion). Es bastante caro, unos 900 dolares en EEUU, pero se instala sin modificar nada extra.
-
-Ver Rekluse Core EXP 3.0 : https://rekluse.com/product/core-exp-3-0-clutch/?pd=1
-
 ## Problema común del embrague
 
 El embrague tiene un problema crónico de diseño, a veces fallan unos remaches en un disco, y "explota" el disco resorte del embrague. Se puede solucionar cambiando ese disco por uno mejor (en lugar de volver a poner lo mismo).
@@ -1345,11 +1339,13 @@ Puesto a cambiar, es mejor poner **partes mejores** que las originales, por ejem
 * https://duckduckgo.com/?q=sportster+grenade+plate
 * https://www.cyclepedia.com/sportster-spring-plate/
 
-## Sacar embrague
+## Sacar y poner embrague
 
 Para sacar el embrague precisamos comprimirlo con una herramienta especial.
 
 Podemos comprar la herramienta (USD +70), o fabricarla muy barato con un tubo de PVC de 3" y una planchuela perforada.
+
+![Sacar embrague](archivos_soporte/embrague/herramienta_comprimir_embrague.jpg)
 
 Herramienta casera para comprimir: https://www.youtube.com/watch?v=zQnlt8twX3k
 
@@ -1357,7 +1353,12 @@ En 20 minutos saca el embrague: https://www.youtube.com/watch?v=m26np1MntQA
 
 En español: https://www.youtube.com/watch?v=OK02f5lHrPo
 
-![Sacar embrague](archivos_soporte/embrague/herramienta_comprimir_embrague.jpg)
+### Instrucciones en PDF
+
+* [Instalar embrague, instrucciones de Harley](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_screaming_eagle_instalacion.pdf)
+
+* [Instrucciones en español con fotos](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_instalar_con_fotos.pdf)
+
 
 ## Discos de embrague
 
@@ -1372,6 +1373,12 @@ Otro posible para reconstruir frenos y discos de embrague: FRAS-LE https://www.f
 **Info vieja**, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa
 
 *Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)*
+
+### Embrague centrifugo automatico
+
+Se puede reemplazar el embrague manual por uno centrifugo **automatico**, ideal para condiciones de trafico pesado, o personas que por alguna razon no pueden usar la mano izquierda (por ejemplo alguna lesion o amputacion). Es bastante caro, unos 900 dolares en EEUU, pero se instala sin modificar nada extra.
+
+Ver **Rekluse Core EXP 3.0** : https://rekluse.com/product/core-exp-3-0-clutch/?pd=1
 
 # Juntas para el motor y otras partes
 
