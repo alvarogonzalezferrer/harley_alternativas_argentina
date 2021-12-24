@@ -1312,7 +1312,7 @@ Si bien el objetivo funcional es una buena idea, esta placa de resorte ha causad
 
 ### Sintomas
 
-Es mejor abordar este problema antes de que suceda. Da varios sintomas de que esta por explotar: el embrague puede estar "raro", endurecido, puede costar poner neutro. Se puede ver pedacitos de viruta de bronce en el aceite de primaria (los remaches), o incluso pedazos grandes de remache.
+Es mejor abordar este problema antes de que suceda. Da varios sintomas de que esta por explotar: el embrague puede estar "raro", endurecido, puede costar poner neutro. Se puede ver pedacitos de viruta de bronce en el aceite de primaria (los remaches), o incluso pedazos grandes de remache. El embrague patina, o parece aflojarse, cuesta pasar los cambios.
 
 ### Solucion
 
@@ -1351,11 +1351,19 @@ Para sacar el embrague precisamos comprimirlo con una herramienta especial.
 
 Podemos comprar la herramienta (USD +70), o fabricarla muy barato con un tubo de PVC de 3" y una planchuela perforada.
 
-Ver este video: https://www.youtube.com/watch?v=zQnlt8twX3k
+Herramienta casera para comprimir: https://www.youtube.com/watch?v=zQnlt8twX3k
+
+En 20 minutos saca el embrague: https://www.youtube.com/watch?v=m26np1MntQA
+
+En español: https://www.youtube.com/watch?v=OK02f5lHrPo
 
 ![Sacar embrague](archivos_soporte/embrague/herramienta_comprimir_embrague.jpg)
 
 ## Discos de embrague
+
+**Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
+
+**Energy One tiene un reemplazo tambien:** https://www.energyoneclutches.com
 
 Se pueden reconstruir los viejos en **Tosso frenos**, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace. (*info Octubre 2020*)
 
