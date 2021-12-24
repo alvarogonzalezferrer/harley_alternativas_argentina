@@ -1357,7 +1357,7 @@ En español: https://www.youtube.com/watch?v=OK02f5lHrPo
 
 * [Instalar embrague, instrucciones de Harley](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_screaming_eagle_instalacion.pdf)
 
-* [Instrucciones en español con fotos](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_instalar_con_fotos.pdf)
+* [Instrucciones con fotos](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_instalar_con_fotos.pdf)
 
 
 ## Discos de embrague
