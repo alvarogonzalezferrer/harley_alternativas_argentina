@@ -51,26 +51,6 @@ Este proyecto inicia en 2004, cuando compre mi primer HD XL 883.
 
 Hacer este documento lleva mucho tiempo, esfuerzo e investigación.
 
-Si quieres ayudarme a continuar con mi trabajo, podes ayudarme de diferentes maneras.
-
-Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
-
-Sirve tambien para pedir computadoras, celulares, ropa, etc, vos obtenes un descuento y yo también en mi próximo pedido, los dos ganamos!
-
-* Tienda Mia: https://tiendamia.com/ar/invite/70506fb664fc94d
-
-* Grabr: https://grabr.io/invitation/alvaro-gonzalezd2
-
-**Registrarte** con mis links referidos en (te dan descuento a vos y a mi!):
-
-* Uber Eats: Usa mi código al momento de pagar: **eats-eb0gd1** o registrate en este link para un gran descuento: https://ubereats.app.link/v9il8Gn07cb
-
-* Airbnb: https://www.airbnb.co.cr/c/alvarog663
-
-* Didi taxi: https://d.didiglobal.com/qMmgDGQszHDw6
-
-* Bitso: https://bitso.com/?ref=vyzyc
-
 **Donar** mediante Bitcoin a mi dirección, todo ayuda, pueden ser centavos, no importa!
 
 **33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q**
