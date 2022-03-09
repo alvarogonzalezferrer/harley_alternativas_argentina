@@ -857,6 +857,43 @@ En el caso de la **rueda 16"**, encontre pocos modelos que vienen con dibujo de 
 
 * **Shinko E805 Rear 150/80/16** esta perfecta para modelos +2004. Nunca la vi en Argentina, deberia ser una importacion especial.  
 
+# Levantar la moto
+
+Para hacer diferentes reparaciones, o cambiar un neumático pinchado, vamos a necesitar levantar la moto.
+
+Ver aca varios metodos en este enlace : http://sportsterpedia.com/doku.php/techtalk:ref:tools110
+
+La moto siempre tiene que estar apoyada en tres puntos para que no se caiga, pueden ser las dos ruedas y la pata (la manera normal de siempre), y cuando sacamos una rueda sera la otra rueda, la pata y el gato / elevador / criquet / soporte que usemos...
+
+La mayoría de la gente que tiene auto lo usó alguna vez. El criquet, también conocido como “gato”, es un elemento indispensable a la hora de cambiar alguna rueda pinchada.
+
+Hay diferentes maneras de levantar la moto, la mas profesional es usar un elevador de motos, son bastante caros.
+
+![Elevador de Moto](archivos_soporte/levantar_moto/projack.jpg)
+
+![Elevador de Moto](archivos_soporte/levantar_moto/projack2.jpg)
+
+La mas **barata** es hacer un elevador con una **viga de madera** de 4x8" x 1 metro (10 x 20 cm), con esta guia : http://www.nightrider.com/biketech/bikelift.htm
+
+![Elevador de Madera](archivos_soporte/levantar_moto/woodjack.jpg)
+
+![Elevador de Madera](archivos_soporte/levantar_moto/woodjack2.jpg)
+
+Como fabricar este elevador en video : https://www.youtube.com/watch?v=U10ZQbfK6bI
+
+Otra idea de elevador de madera : https://www.youtube.com/watch?v=eRIyCkiNV9k
+
+¿Y que pasa si nos ocurre una **emergencia** en algun viaje (pinchar neumatico, por ejemplo), seguramente no tendremos un elevador de motos o nuestro elevador casero de madera, entonces?
+
+En una emergencia, podemos usar un **gato tijera** o hidraulico, de automovil, de al menos **una tonelada**, hay que ubicarlo con un taco de madera o felpa apoyado cuidadosamente en el cuadro de la moto, y elevar despacio la parte delantera o trasera que nos interese, siempre cuidando que la rueda que no esta en el aire este bien apoyada, en una superficie nivelada, y con la pata tambien bien apoyada.
+
+**ESTA ES LA MANERA MAS PELIGROSA DE LEVANTAR LA MOTO**
+
+Ver este video primero : https://www.youtube.com/watch?v=aKX6fuGW_a8
+
+Y otro video : https://www.youtube.com/watch?v=qDD82jzgvJo
+
+![Criquet de auto](archivos_soporte/levantar_moto/carjack_883_1.jpg)
 
 # Acabados de motor
 
