@@ -104,7 +104,7 @@ Pero repito, si el problema supera nuestra habilidad, **lo mejor es consultar a 
 
 Harley discontinuó la Sportster en 2021, y lanzó otro modelo, llamado Sportster S, con el mismo nombre, pero codigo *RH1250S Sportster*.
 
-Este blog **NO** habla del nuevo modelo RH1250S Sportster.
+Estos apuntes **NO** hablan del nuevo modelo RH1250S Sportster.
 
 Igualmente, para no dejar totalmente sin ayuda a los nuevos propietarios de la Sportster S, +2021 en adelante, les dejo links al manual del usuario y el manual de despiece de la nueva (2021) moto.
 
@@ -1687,7 +1687,7 @@ El de la foto lo hice yo con un torno manual, es el que tengo instalado en mi XL
 
 ![IAC manual](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/prototipo.jpg)
 
-Este es otro, NO lo hice yo, esta mas desprolijo, pero tambien sirve: 
+Este es otro, NO lo hice yo, esta mas desprolijo, pero también sirve: 
 
 ![IAC manual](archivos_soporte/EFI/control_IAC/control_IAC_manual_EFI_otra_version.jpg)
 
