@@ -2068,6 +2068,8 @@ En 2004 y mas nuevas, los tanques custom mas anchos, necesitan un asiento mas co
 
 En general los asientos un tapicero los puede adaptar, o uno mismo con un poco de ingenio... Tambien se pueden fabricar haciendo una base de fibra y tapizandola... 
 
+Aca hablan bastante del asunto, con fotos: https://www.hdforums.com/forum/sportster-models/975513-seat-fitment-guidelines-for-04-06-07-09-and-2010-with-pics-factory-saddles.html
+
 ## Alforjas
 
 TO-DO
