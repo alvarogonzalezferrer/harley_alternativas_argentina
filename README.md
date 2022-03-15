@@ -1681,9 +1681,13 @@ Así es un IAC original eléctrico de Harley Sportster
 
 ![IAC original](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/original.jpg)
 
-El IAC manual es un invento que puede tener muchas formas, depende de quien lo fabrique, pero es mas o menos asi (el de la foto lo hice yo con un torno manual, es el que tengo instalado en mi XL1200C ( pintado de negro alta temperatura antes de instalar ) 
+El IAC manual es un invento que **puede tener muchas formas**, depende de quien lo fabrique, pero es mas o menos así:
+
+El de la foto lo hice yo con un torno manual, es el que tengo instalado en mi XL1200C ( pintado de negro alta temperatura antes de instalar ) 
 
 ![IAC manual](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/prototipo.jpg)
+
+Este es otro, NO lo hice yo, esta mas desprolijo, pero tambien sirve: 
 
 ![IAC manual](archivos_soporte/EFI/control_IAC/control_IAC_manual_EFI_otra_version.jpg)
 
