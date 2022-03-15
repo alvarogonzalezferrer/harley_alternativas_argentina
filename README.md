@@ -1447,11 +1447,11 @@ Conseguir los códigos de color de Harley siempre fue un misterio bastante bien 
 
 Dos recursos que yo recopile: 
 
-[Una lista de códigos de pintura PPG en este archivo de texto.](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/blob/master/archivos_soporte/pintura/codigos_pintura_harley_PPG.txt) 
+[Una lista de códigos de pintura PPG en este archivo de texto.](archivos_soporte/pintura/codigos_pintura_harley_PPG.txt) 
 
 *Para usar la siguiente base de datos, descomprimir el archivo en una carpeta, e ingresar en el archivo index.html*
 
-[Una base de datos de códigos de pintura recopilada en esta base de datos.](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/pintura/harley_color_database.zip)
+[Una base de datos de códigos de pintura recopilada en esta base de datos.](archivos_soporte/pintura/harley_color_database.zip)
 
 Y varios enlaces mas : 
 
