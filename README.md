@@ -12,6 +12,8 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 
 La tabla de contenidos se actualiza automaticamente, dar click en el icono sobre el margen izquierdo.
 
+![Tabla de contenido](archivos_soporte/contenido_help.jpg)
+
 ## Introducción
 
 Estas notas nacieron para el mantenimiento de mis motos.
