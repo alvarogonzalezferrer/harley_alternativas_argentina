@@ -1691,6 +1691,12 @@ Y así fue ensamblado. Los planos de CAD estan en los archivos de soporte, en la
 
 ![IAC manual ensamblaje](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/sin-terminar.jpg)
 
+Aca se ve el pasaje de aire que abre y cierra la IAC, esta es la admision (sin el filtro de aire para ver mejor) 
+
+![Paso de aire ralenti](archivos_soporte/EFI/control_IAC/explicacion-ralenti-bajo-en-efi/sin-filtro2.jpg)
+
+![Ralenti](archivos_soporte/EFI/control_IAC/explicacion-ralenti-bajo-en-efi/sin-filtro.jpg)
+
 ## CANBUS EFI HDLAN
 
 CANBUS es el sistema de comunicaciones de Harley-Davidson, el HDLAN. Esta nueva tecnología va a permitir que toda la gama H-D disponga de frenos ABS, menor cableado y la eliminación de la llave de contacto entre otras mejoras.
