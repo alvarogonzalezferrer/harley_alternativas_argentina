@@ -1441,6 +1441,28 @@ http://www.correasrincon.com.ar/
 
 # Pintura
 
+## Codigos de color 
+
+Conseguir los códigos de color de Harley siempre fue un misterio bastante bien guardado, pero tengo algunos recursos.
+
+Dos recursos que yo recopile: 
+
+[Una lista de códigos de pintura PPG en este archivo de texto.](../blob/master/archivos_soporte/pintura/codigos_pintura_harley_PPG.txt) 
+
+*Para usar la siguiente base de datos, descomprimir el archivo en una carpeta, e ingresar en el archivo index.html*
+
+[Una base de datos de códigos de pintura recopilada en esta base de datos.](../blob/master/archivos_soporte/pintura/harley_color_database.zip)
+
+Y varios enlaces mas : 
+
+* https://paintref.com/cgi-bin/colorcodedisplay.cgi?make=Harley%20Davidson
+
+* https://hdpaintcode.com/complete-harley-color-code-database/
+
+* https://hdpaintcode.com/harley-davidson-paint-code-crossover/
+
+## En Argentina 
+
 Tienen pintura de retoque en los colores de Harley:
 
 > PINTURERIAS VICTORICA  
