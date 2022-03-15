@@ -1474,13 +1474,23 @@ Tienen pintura de retoque en los colores de Harley:
 
 # Carburador CV40 (2006 y anteriores)
 
-La moto viene con un Keihin CV 40mm Carb (**1988-2006**).
+La moto viene con un Keihin CV 40mm Carb (**1988-2006**). El carburador original tiene estampado el logo de Harley Davidson en ambos lados, si no lo tiene es una copia (hay copias chinas que son identicas practicamente).
 
-Para otros modelos, o mas informacion, consultar : http://sportsterpedia.com/doku.php/techtalk:evo:carb01
+Velocidad constante (CV), alimentación por gravedad: tiene una válvula de entrada operada por flotador y un venturi variable operado por vacío (corredera móvil).
 
-No esta de mas ponerle un estabilizador de combustible si se deja parada. También un limpia carburadores STP cada tanto...
+Keihin fabrica los carburadores CV40 y CVK en Japón. Pero solo el CV es específico de una Harley y tiene la barra y el escudo y el nombre HD en el lateral.
 
-En caso de quedar muchisimo tiempo parado, es conveniente limpiar los gicleur/chicler cuidadosamente. Ver el manual de desarme.
+CVK es para Kawasaki y varias otras marcas que contrataron a Keihin para ese carburador.
+
+No hay garantía de que cualquier pieza (original o CVP) se ajuste a esos carburadores de imitación.
+
+Si su carburador CV no tiene el nombre Harley Davidson sobre el recipiente a cada lado, es una imitación.
+
+Para otros modelos, o mas información, consultar : http://sportsterpedia.com/doku.php/techtalk:evo:carb01
+
+Ponerle un estabilizador de combustible si se deja parada mucho tiempo (meses). También un limpia carburadores STP cada tanto...
+
+En caso de quedar muchísimo tiempo parado, es conveniente limpiar los gliceur / chicler / boquilla / jet (diferentes nombres segun pais) cuidadosamente. Ver el manual de desarme.
 
 ## Carburador tapado / reconstrucción
 
