@@ -2050,7 +2050,23 @@ https://houseofhandlebar.mercadoshops.com.ar/
 
 ## Asientos
 
-TO-DO
+**TO-DO - falta información**
+
+Los asientos sirven según el año y modelo, no todos son lo mismo. 
+
+Se dividen en familias. 
+
+Hasta 2003 inclusive es un modelo.
+
+2004 en adelante cambiaron la manera de anclar el asiento.
+
+2007 a 2009 llevan la compu bajo el asiento, necesitan un asiento especial , o se puede re ubicar la compu, o se puede recortar un cuadradito bajo el asiento para que la compu entre bien (con un dremel o similar)
+
+2004 a 2006 y 2010 a 2018? son compatibles 
+
+En 2004 y mas nuevas, los tanques custom mas anchos, necesitan un asiento mas corto, los tanques gota es mas largo el asiento. El asiento corto le va bien a las gota y custom, el problema esta en el frente del asiento, la parte de atras calza mas o menos igual en toda esa generacion, salvo en las que tienen la compu bajo el asiento. 
+
+En general los asientos un tapicero los puede adaptar, o uno mismo con un poco de ingenio... Tambien se pueden fabricar haciendo una base de fibra y tapizandola... 
 
 ## Alforjas
 
