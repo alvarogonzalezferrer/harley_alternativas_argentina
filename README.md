@@ -1681,15 +1681,15 @@ El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acele
 
 Así es un IAC original eléctrico de Harley Sportster 
 
-![IAC original](archivos_soporte/EFI/contol_IAC/iac-fotos-prototipo/original.jpg)
+![IAC original](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/original.jpg)
 
 El IAC manual es un invento que puede tener muchas formas, depende de quien lo fabrique, pero es mas o menos asi (el de la foto lo hice yo con un torno manual, es el que tengo instalado en mi XL1200C ( pintado de negro alta temperatura antes de instalar ) 
 
-![IAC manual](archivos_soporte/EFI/contol_IAC/iac-fotos-prototipo/prototipo.jpg)
+![IAC manual](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/prototipo.jpg)
 
 Y así fue ensamblado. Los planos de CAD estan en los archivos de soporte, en la carpeta EFI 
 
-![IAC manual ensamblaje](archivos_soporte/EFI/contol_IAC/iac-fotos-prototipo/sin-terminar.jpg)
+![IAC manual ensamblaje](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/sin-terminar.jpg)
 
 ## CANBUS EFI HDLAN
 
@@ -1781,7 +1781,7 @@ Tenemos que tener cuidado al elegir el escape que vaya para nuestro año de moto
 
 ## Performance de escapes
 
-Aca tenemos un analisis en dinamometro de diferentes escapes: https://www.1250kits.com/ttxlexhaust.shtml
+Acá tenemos un análisis en dinamómetro de diferentes escapes: https://www.1250kits.com/ttxlexhaust.shtml
 
 ## Escapes importados
 
