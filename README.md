@@ -1657,25 +1657,39 @@ Ver imagenes para referencia:
 
 ## Velocidad de ralenti / idle / regular
 
-La velocidad de ralenti / idle en las motos de inyeccion electronica *no se puede alterar*. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
+La velocidad de ralentí / idle en las motos de inyección electrónica *no se puede alterar*. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
 
-La verdad es que **SI** se puede alterar la velocidad de ralenti, la moto de fábrica regula demasiado rapido para cumplir con los hippies de la Unión Europea, y sus normas de contaminación y ruido.
+La verdad es que **SI** se puede alterar la velocidad de ralentí, la moto de fábrica regula demasiado rapido para cumplir con los hippies de la Unión Europea, y sus normas de contaminación y ruido.
 
-La **IAC**, el motor paso a paso es el que controla el aire del ralenti. Se puede poner uno manual.
+La **IAC**, el motor paso a paso es el que controla el aire del ralenti. **Se puede poner uno manual**.
 
-Otra opcion es reprogramar la computadora de la EFI con diferentes metodos, o reemplazarla, o una combinacion de las anteriores.
+Otra opción es reprogramar la computadora de la EFI con diferentes métodos, o reemplazarla, o una combinación de las anteriores.
 
-No conviene bajar de **950 rpm** el ralenti, para mantener una correcta lubricación.
+No conviene bajar de **950 rpm** el ralentí, para mantener una correcta lubricación.
 
 Los EFI Sportsters (2007 y posteriores) incluyen un control de aire en ralentí (IAC) para establecer la velocidad de ralentí del motor. El IAC está montado en el cuerpo del acelerador.
 
 En funcionamiento normal, la apertura y el cierre de la placa del acelerador en el cuerpo del acelerador (a través de los cables del acelerador) determina la cantidad de flujo de aire hacia el colector de admisión. Pero en el sistema EFI, el ECM controla el IAC que abre y cierra una vía de aire alrededor de la placa del acelerador para suministrar aire al colector durante el ralentí del motor.
 
-El IAC tiene un pivote impulsado por motor (o pasador / eje / tapón) que permite que más (cuando se retrae) o menos (cuando se extiende) aire ingrese. El motor IAC está controlado por pulsos eléctricos para extender o retraer el pivote, cada pulso mueve el pivote una distancia determinada, es un "motor paso a paso". Sin embargo, dado que el IAC no tiene retroalimentación al ECM para indicar su posición actual, los cambios de posición se basan en que el ECM lleve un registro de dónde colocó por última vez el pivote.
+### IAC original vs manual
+
+El IAC original tiene un pivote impulsado por un motor paso a paso (o pasador / eje / tapón) que permite que más (cuando se retrae) o menos (cuando se extiende) aire ingrese. El motor IAC está controlado por pulsos eléctricos para extender o retraer el pivote, cada pulso mueve el pivote una distancia determinada, es un "motor paso a paso". Sin embargo, dado que el IAC no tiene retroalimentación al ECM para indicar su posición actual, los cambios de posición se basan en que el ECM lleve un registro de dónde colocó por última vez el pivote.
 
 Cuando se apaga el encendido, el ECM 'reinicia' el IAC enviando suficientes pulsos (definidos en la programación del ECM) para extender completamente el pivote y cerrar efectivamente el bypass de aire. Luego, antes de que se apague la energía, el IAC recibe una cantidad de pulsos calculados (pasos) para retraerlo a una posición de "estacionamiento". Esta posición de estacionamiento permite un mayor flujo de aire y velocidad de ralentí en preparación para la siguiente operación de arranque. A menudo será audible en el período de 10 segundos después de apagar la llave.
 
 El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acelerador está abierto), la batería cae por debajo de 9v o el VSS se vuelve mayor que 0 (la moto se está moviendo).
+
+Así es un IAC original eléctrico de Harley Sportster 
+
+![IAC original](archivos_soporte/EFI/contol_IAC/iac-fotos-prototipo/original.jpg)
+
+El IAC manual es un invento que puede tener muchas formas, depende de quien lo fabrique, pero es mas o menos asi (el de la foto lo hice yo con un torno manual, es el que tengo instalado en mi XL1200C ( pintado de negro alta temperatura antes de instalar ) 
+
+![IAC manual](archivos_soporte/EFI/contol_IAC/iac-fotos-prototipo/prototipo.jpg)
+
+Y así fue ensamblado. Los planos de CAD estan en los archivos de soporte, en la carpeta EFI 
+
+![IAC manual ensamblaje](archivos_soporte/EFI/contol_IAC/iac-fotos-prototipo/sin-terminar.jpg)
 
 ## CANBUS EFI HDLAN
 
