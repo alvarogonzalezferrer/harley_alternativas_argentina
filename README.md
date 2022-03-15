@@ -1494,7 +1494,7 @@ En caso de quedar muchísimo tiempo parado, es conveniente limpiar los gliceur /
 
 ## Carburador tapado / reconstrucción
 
-Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podria taparse el carburador o ponerse fea las gomas internas.
+Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podría taparse el carburador o ponerse fea las gomas internas o el diagragma.
 
 Podemos **limpiarlo** según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "CV40 rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
 
@@ -1511,6 +1511,8 @@ Identificar el carburador: http://sportsterpedia.com/doku.php/techtalk:evo:carb0
 Reparar el "choke" / cebador : http://sportsterpedia.com/doku.php/techtalk:evo:carb01f
 
 Kit de reconstruccion:
+
+Aparentemente el diafragma de la Kawasaki Vulcan VN 800 es igual, ya que usan casi el mismo carburador (sin bomba de pique en la VN800)
 
 ![CV40 rebuild kit](archivos_soporte/carburador/cv40_rebuild_kit.jpg)
 
