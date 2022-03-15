@@ -1512,7 +1512,7 @@ Reparar el "choke" / cebador : http://sportsterpedia.com/doku.php/techtalk:evo:c
 
 Kit de reconstruccion:
 
-Aparentemente el diafragma de la Kawasaki Vulcan VN 800 es igual, ya que usan casi el mismo carburador (sin bomba de pique en la VN800)
+Aparentemente, el diafragma de la Kawasaki Vulcan VN 800 es igual, ya que usan casi el mismo carburador (sin bomba de pique en la VN800)
 
 ![CV40 rebuild kit](archivos_soporte/carburador/cv40_rebuild_kit.jpg)
 
