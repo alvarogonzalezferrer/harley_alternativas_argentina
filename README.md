@@ -1449,9 +1449,7 @@ Dos recursos que yo recopile:
 
 [Una lista de códigos de pintura PPG en este archivo de texto.](archivos_soporte/pintura/codigos_pintura_harley_PPG.txt) 
 
-*Para usar la siguiente base de datos, descomprimir el archivo en una carpeta, e ingresar en el archivo index.html*
-
-[Una base de datos de códigos de pintura recopilada en esta base de datos.](archivos_soporte/pintura/harley_color_database.zip)
+[Una base de datos de códigos de pintura recopilada en esta base de datos. Tocar "download", descomprimir el archivo en una carpeta, e ingresar en el archivo "index.html" con el navegador para ver los codigos. ](archivos_soporte/pintura/harley_color_database.zip)
 
 Y varios enlaces mas : 
 
@@ -1687,9 +1685,15 @@ El IAC manual es un invento que puede tener muchas formas, depende de quien lo f
 
 ![IAC manual](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/prototipo.jpg)
 
-Y así fue ensamblado. Los planos de CAD estan en los archivos de soporte, en la carpeta EFI 
+![IAC manual](archivos_soporte/EFI/control_IAC/control_IAC_manual_EFI_otra_version.jpg)
+
+### Planos IAC manual
+
+Y así fue ensamblado:
 
 ![IAC manual ensamblaje](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/sin-terminar.jpg)
+
+[Los planos de CAD estan en los archivos de soporte, en la carpeta EFI](archivos_soporte/EFI/control_IAC)
 
 Aca se ve el pasaje de aire que abre y cierra la IAC, esta es la admision (sin el filtro de aire para ver mejor) 
 
