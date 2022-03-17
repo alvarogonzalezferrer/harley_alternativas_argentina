@@ -1239,7 +1239,7 @@ https://www.yuasabatteries.com/battery/gyz16hl/
 
 https://www.yuasabatteries.com/battery/ytx14l-bs/
 
-Lamentablemente Yuasa Argentina **no** importa (2020) ninguna de las dos... son unos cabeza dura que no quieren importarla, contacte al importador y no me dieron bola.
+Lamentablemente Yuasa Argentina **no** queria importar (2020) ninguna de las dos... son unos cabeza dura que no quieren importarla, contacte al importador y no me dieron bola. En 2022 vi una sola publicada en Mercado Libre por FAS motos, a precio delirante.
 
 Buscando en Mercado Libre : **YTX14L** salen varios modelos teóricamente compatibles
 
