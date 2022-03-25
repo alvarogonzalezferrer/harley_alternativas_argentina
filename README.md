@@ -160,7 +160,7 @@ NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar y eje
   * manual del propietario 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545140320163801375&groupId=16
   * catalogo de partes 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273148&groupId=14
 
-### Manual de taller
+## Manual de taller
 
 El manual de **taller**, conocido como "workshop manual" , se COMPRA, es bastante caro, y normalmente **son tres**: el manual de taller, el diagnostico electrico, y el catalogo de partes. A veces se puede conseguir online (eBay o pirata).
 
@@ -214,7 +214,7 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 * 7-Zip para archivos comprimidos : https://www.7-zip.org/
 * Sumatra PDF para ver PDFs : https://www.sumatrapdfreader.org/free-pdf-reader
 
-### Buscar mas manuales
+## Buscar mas manuales
 
 * Comprar manuales online: https://motorcycle-manual-download.com/
 
@@ -222,7 +222,7 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 
 * Foro con manuales **en español**: https://harleyexpert.com/resources/
 
-* Despieces y microfichas:
+## Despieces y microfichas:
   * https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
   * http://www.shopronniesharleydavidson.com/
   * http://partsfinder.onlinemicrofiche.com/ronnies/partsfinder.htm
