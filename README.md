@@ -1080,7 +1080,7 @@ Resumen EBC de pastillas de freno:
 
 **NOTA** : la XR1200R lleva pastillas especiales, ver la tabla!
 
-Modelo             | Frente      | Trasera
+Modelo             | Delantera   | Trasera
 -------------------|-------------|---------
 1979 a 1981        | FA071       | FA072
 1982 a 1983        | FA071       | FA078
