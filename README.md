@@ -222,6 +222,16 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 
 * Foro con manuales **en español**: https://harleyexpert.com/resources/
 
+Podemos buscar online usando los buscadores (probar todos los enlaces, cuesta encontrar pero están las cosas):
+
+* https://www.google.com/search?q=sportster+service+manual+filetype:pdf
+
+* https://www.google.com/search?q=sportster+manual+taller+filetype:pdf
+
+* https://www.duckduckgo.com/?q=sportster+service+manual+filetype:pdf
+
+* https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
+
 ## Despieces y microfichas:
   * https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
   * http://www.shopronniesharleydavidson.com/
@@ -236,24 +246,6 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 * Foro Sportster : http://xlforum.net
 
 * Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
-
-Para saber el largo de los cables de embrague, acelerador, etc
-
-* https://www.motionpro.com/
-
-* https://magnumshielding.com
-
-* https://catalog.zodiac.nl/en/15-control-cables-hydraulic-lines-27863
-
-Podemos buscar online tambien usando los buscadores (probar todos los enlaces, cuesta encontrar pero estan las cosas):
-
-* https://www.google.com/search?q=sportster+service+manual+filetype:pdf
-
-* https://www.google.com/search?q=sportster+manual+taller+filetype:pdf
-
-* https://www.duckduckgo.com/?q=sportster+service+manual+filetype:pdf
-
-* https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
 
 # Mantenimiento
 
@@ -1404,6 +1396,16 @@ Otro posible para reconstruir frenos y discos de embrague: FRAS-LE https://www.f
 Se puede reemplazar el embrague manual por uno centrifugo **automatico**, ideal para condiciones de trafico pesado, o personas que por alguna razon no pueden usar la mano izquierda (por ejemplo alguna lesion o amputacion). Es bastante caro, unos 900 dolares en EEUU, pero se instala sin modificar nada extra.
 
 Ver **Rekluse Core EXP 3.0** : https://rekluse.com/product/core-exp-3-0-clutch/?pd=1
+
+# Cables de embrague, acelerador, etc
+
+Para saber el largo de los cables de embrague, acelerador, etc
+
+* https://www.motionpro.com/
+
+* https://magnumshielding.com
+
+* https://catalog.zodiac.nl/en/15-control-cables-hydraulic-lines-27863
 
 # Juntas para el motor y otras partes
 
