@@ -827,7 +827,7 @@ Tambien algunos le ponen una 180, por ejemplo con el aro de la Deuce. http://xlf
 
 Como es algo personalizado, las opciones son infinitas, es cuestion de ver que podemos hacer y pagar, es bastante costoso en terminos monetarios.
 
-### Off-road / trail / dual purpose
+## Off-road / trail / dual purpose
 
 En caso que queramos usar nuestra Sportster en caminos de ripio, lodo, etc, por ejemplo en viajes por la Ruta 40, o la Panamericana, conviene poner ruedas de doble proposito. Se recomienda un neumático diseñado como un neumático de uso deportivo doble 60/40 trail - aventura (60% en carretera y 40% fuera de ella).
 
@@ -837,13 +837,13 @@ Ver
 * https://www.youtube.com/watch?v=LKuYt_5O_6k
 * https://www.youtube.com/watch?v=tm7g6PjSVQg
 
-#### Goma Delantera Off Road
+### Goma Delantera Off Road
 
 Tanto en 19", como 21" hay muchas opciones de ruedas off road, solo debemos verificar que soporten el peso de la moto segun sus caracteristicas.
 
 Shinko tiene el modelo E804 que tiene todas las medidas delanteras adecuadas para Sportster.
 
-#### Goma Trasera Off Road
+### Goma Trasera Off Road
 
 Si tenemos modelo con la rueda trasera **17" o 18"**, nuestras opciones son amplias, podemos usar cualquiera de las gomas que usan las BMW, Honda, etc en sus modelos trail.
 
@@ -852,6 +852,18 @@ En el caso de la **rueda 16"**, encontre pocos modelos que vienen con dibujo de 
 * **Duro HF904 Median Dual-Sport Bias-Ply Rear Tire 130/90-16**, que es mas angosta que la 150 80 16 de los nuevos modelos (+2004 pero **igual sirve**. En modelos 2003 y anteriores que usan rueda de 130 de ancho queda perfecta.
 
 * **Shinko E805 Rear 150/80/16** esta perfecta para modelos +2004. Nunca la vi en Argentina, deberia ser una importacion especial.  
+
+## Gomerias 
+
+Para comprar o cambiar la goma , en **Buenos Aires, Argentina**
+
+* Moto Vivac
+* 2TBoxes 
+* Cyclegom 
+* Gomeria Floresta 
+* Todo moto 935
+
+Si saben alguna mas, me avisan!!
 
 # Levantar la moto
 
@@ -2300,6 +2312,10 @@ Por ahora, lugares útiles :
 * Locos Por Las Motos
 * etc
 
+Torneria y rectificacion 
+
+* Precision Barquero
+
 Insumos
 
 * AMSoil
@@ -2328,8 +2344,8 @@ Tornilleria
 
 Traer repuestos
 
-* Aeropost
 * Jetbox
+* Aeropost
 * Correos de Costa Rica
 * eBay
 * Amazon
