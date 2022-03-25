@@ -243,6 +243,8 @@ Para saber el largo de los cables de embrague, acelerador, etc
 
 * https://magnumshielding.com
 
+* https://catalog.zodiac.nl/en/15-control-cables-hydraulic-lines-27863
+
 Podemos buscar online tambien usando los buscadores (probar todos los enlaces, cuesta encontrar pero estan las cosas):
 
 * https://www.google.com/search?q=sportster+service+manual+filetype:pdf
