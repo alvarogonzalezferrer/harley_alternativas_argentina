@@ -325,22 +325,24 @@ Lo mas importante es que **NO LE FALTE ACEITE**. Siempre verificar el nivel ante
 
 Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posibles**, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
 
-El motor lleva **3 US quarts**, que son **2.83 litros** de aceite de moto, mineral o sintetico, 20w50, especificacion JASO MA2.
-La primaria lleva **1 US quart**, que es **0,946 litros** de aceite de moto, mineral o sintetico, 20w50, especificacion JASO MA2.
+El motor lleva **3 US quarts**, que son **2.83 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
+La primaria lleva **1 US quart**, que es **0,946 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
+
+Ver la especificación API del aceite también, conviene que sea API SJ, SL, SM o SN (la mas moderna), ademas de JASO MA2. 
 
 Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
 
-Si no se alcanzan los kilometros en el año, **es recomendable cambiarlo una vez al año**.
+Si no se alcanzan los kilómetros en el año, **es recomendable cambiarlo una vez al año**.
 
-**Ver manual para mas info.**
+**Ver manual para mas información.**
 
 ## Resumen cambio de aceite
 
 Item  | Reemplazo | Periodo
 --------|---------|---------
-Motor aceite | Aceite de moto 20w50 mineral o sintetico, spec JASO MA2 | 8000 km ó un año
-Filtro aceite | Mahle, Hi Flo, Harley, etc, diamtro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm, valvula alivio max 12 PSI | 8000 km ó un año
-Primaria aceite | Aceite de moto 20w50 mineral o sintetico, spec JASO MA2 | 16000 km ó dos años
+Filtro aceite | Mahle, Hi Flo, Harley, etc, diámetro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm, válvula alivio max 12 PSI | 8000 km ó un año
+Motor aceite | Aceite de moto 20w50 mineral o sintético, spec JASO MA2, API SJ, SL, SM o SN | 8000 km ó un año
+Primaria aceite | Aceite de moto 20w50 mineral o sintético, spec JASO MA2, API SJ, SL, SM o SN | 16000 km ó dos años
 
 ## Clima frio y aceite  
 
@@ -397,44 +399,49 @@ Hay muchas combinaciones de aceites que podemos usar, lo importante es usar uno 
 
 ### Sintetico
 
-En 2021 se consigue el aceite Mannol V-Twin 20w50 que dice ser sintetico en su envase.
-Tambien vi Putoline Genuine V-twin 20w50, y algunos Valvoline SynPower en 15w50
+En 2021 se consigue el aceite Mannol V-Twin 20w50 que dice ser sintético en su envase.
 
-### Semi sintetico
+Tambien vi Putoline Genuine V-twin 20w50, y algunos Valvoline SynPower en 15w50. 
+
+Ipone recomienda el Full Power Katana 15w50.
+
+### Semi sintético
 
 * Filtro : HiFlo cromado HF170C
-* Motor : Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50, o Ipone Road Twin 15w50
-* Primaria: Castrol Power 1 4T 15w50, ó Castrol Actevo X-Tra 20W50, ó Motul 5100 15w50, o Ipone Road Twin 15w50
+* Motor y Primaria : Castrol Power 1 4T 15w50 / Castrol Actevo X-Tra 20W50 / Motul 5100 15w50 / Ipone Road Twin 15w50 / Ipone R4000 RS 15W50 / Valvoline Durablend Moto 15w50 / Valvoline Durablend 4T moto 20w50 **preferido**
 
 ### Mineral
 
-*Nota: es facil conseguir reemplazos para esta opción, hay Motul tambien, IPone, Silkolene, etc*
+*Nota: es fácil conseguir reemplazos para esta opción, hay Motul tambien, IPone, Silkolene, etc*
 
 * Filtro: Mahle o HiFlo
-* Motor : Castrol Actevo 20W50 / Silkolene V-twin 20w50
-* Primaria : Castrol Actevo 20W50
+* Motor & Primaria: Castrol Actevo 20W50 / Silkolene V-twin 20w50 / Motul 3000 20w50 / Ipone R4000 RS 15W50 (semi syn) / etc
+
 
 # Aceite de motor
 
 ## Analisis largo
 
-Este es un tema polemico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
+Este es un tema polémico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
 
 Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar aceite para motores de auto DIESEL (ver boletin informativo oficial mas abajo).
 
-Se puede usar aceite mineral, o sintetico (lo importante es **NO MEZCLAR**, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendo aceite mineral, pero en los ultimos años se paso a recomendar aceite sintetico, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
+Se puede usar aceite mineral, o sintético (lo importante es **NO MEZCLAR**, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendó aceite mineral, pero en los últimos años se paso a recomendar aceite sintético, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
 
-Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir epocas *"nacionales y populares"* donde se prohibe la importación.
+Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir épocas *"nacionales y populares"* donde se prohíbe la importación.
 
 Observar lo siguiente de aceite:
 
 * Viscosidad : lo indica la norma **SAE**, por ejemplo **20w50**.
-* Certificación del **API** (Instituto Americano de Petróleo), aditivos modernos: SJ (+2001), **SL (+2004), SM (+2010), SN,SP (+2020)** ; SA a SH inclusive son con aditivos **obsoletos** (motores de 1930 a 1996)
+
+* Certificación del **API** (Instituto Americano de Petróleo), aditivos modernos: SJ (+2001), **SL (+2004), SM (+2010), SN,SP (+2020)** ; SA a SH inclusive son con aditivos **obsoletos** (motores de 1930 a 1996, evitarlos!)
+
 * Certificado **JASO** : al menos MA, idealmente **MA2**.
 
 El JASO es una norma diseñada por la asociación japonesa de ingenieros de automoción. Se ideó a causa del problema que presentaban los embragues húmedos (bañados en aceite) presentes en las motocicletas japonesas.
 
 Mas info del certificado API :
+* https://www.api.org/products-and-services/es/eolcs-oil-categories#tab-gasoline
 * https://www.api.org/~/media/Files/Certification/Engine-Oil-Diesel/Publications/Motor%20Oil%20Guide%202020.pdf
 * https://www.widman.biz/Seleccion/certificacion.html
 
@@ -447,11 +454,11 @@ Mas info de la Viscosidad SAE :
 
 ### Harley Davidson
 
-Harley recomienda el **Screaming Eagle SYN3** sintetico tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas).
+Harley recomienda el **Screaming Eagle SYN3** sintético tanto para motor como primaria (el **mismo** aceite en ambos compartimientos) , y dice que dura 16 000 km (10 mil millas).
 
-Harley ofrece en sintetico el **SYN3**, y en mineral el **H-D 360** motorcycle oil - **SAE 20w50**.
+Harley ofrece en sintético el **SYN3**, y en mineral el **H-D 360** motorcycle oil - **SAE 20w50**.
 
-El **Formula+** mineral esta siendo discontinuado en USA, era el aceite que se usaba en primaria.
+El **Formula+** mineral estaba siendo discontinuado en USA, era el aceite que se usaba en primaria, cada vez cuesta mas conseguirlo.
 
 El boletín de servicio de Harley especifica:
 
@@ -475,9 +482,9 @@ https://serviceinfo.harley-davidson.com/sip/service/procedure/133204184750635643
 
 ### Otras marcas:
 
-**Valvoline Moto 20w50** -- especificacion API media vieja, SG...
+**Valvoline Moto 20w50** -- especificación API vieja y obsoleta, SG de 1988, lo evitaria...
 
-**Valvoline Durablend 4T 20w50 - Semisintetico**  -- motor y primaria, es API SL, JASO MA2, preferido al comun Valvoline
+**Valvoline Durablend 4T 20w50 - Semisintetico**  -- motor y primaria, es API SL, JASO MA2, preferido al común Valvoline, 
 
 **Bel-Ray** recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
 
