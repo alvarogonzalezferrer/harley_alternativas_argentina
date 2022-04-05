@@ -328,7 +328,7 @@ Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posible
 El motor lleva **3 US quarts**, que son **2.83 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
 La primaria lleva **1 US quart**, que es **0,946 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
 
-Ver la especificación API del aceite también, conviene que sea API SJ, SL, SM o SN (la mas moderna), ademas de JASO MA2. 
+Ver la especificación API del aceite también, conviene que sea API SJ, SL, SM o SN (la mas moderna), además de JASO MA2. 
 
 Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
 
@@ -366,7 +366,7 @@ Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-cha
 
 * Filtro : Harley original, viene negro y cromado
 * Motor : H-D 360 motorcycle oil
-* Primaria : H-D 360 motorcycle oil (Formula+ lo estan discontinuando en 2020)
+* Primaria : H-D 360 motorcycle oil (Formula+ estaba siendo discontinuado pero parece que sigue existiendo)
 * Total aproximado : 55 USD
 
 ### Oficial sintético
@@ -492,7 +492,7 @@ https://serviceinfo.harley-davidson.com/sip/service/procedure/133204184750635643
 
 **Bel-Ray V-Twin Synthetic Motor Oil 10W-50** (ver abajo, es full sintetico, similar al Harley SYN3)
 
-**Bel-Ray Full Synthetic Ester** es el recomendado, se consigue de marca IPone sintetico con formula similar en Argentina.
+**Bel-Ray Full Synthetic Ester** es el recomendado, se consigue de marca IPone sintético con formula similar en Argentina.
 
 **Motorex** recomienda **Legend 20w50** tanto para motor como primaria. A vece se consigue. https://www.motorex.com/en-us/sales-consulting/oil-finder/
 
@@ -502,7 +502,7 @@ Da varias opciones mas, Motul 7100 10w40, 7100 20w50, y Motul 5100 10w40 segun e
 
 Uno bueno semi sintetico que se consigue en Argentina: Aceite **Motul 5100 4t 15w50**
 
-En sintetico se consigue: **Motul 300V 15w50**, o **Motul 300V 20w60**, o **Motul 7100 10w60** (no lo probe, no lo puedo recomendar)
+En sintético se consigue: **Motul 300V 15w50**, o **Motul 300V 20w60**, o **Motul 7100 10w60** (no lo probe, no lo puedo recomendar)
 
 https://www.motul.com/es/es/lubricants
 
@@ -521,9 +521,11 @@ https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 
 **Ipone** tambien vende uno formulado para Vtwin, para motor y primaria, se llama Road Twin
 
+**Ipone** recomienda Ipone R4000 RS 20W50 o Full Power Katana 15w50
+
 **IPone ROAD TWIN 4T 15W50** - semi sintetico
 
-Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone
+Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone , recomendado por el selector de aceite de IPONE : https://www.ipone.com/es/encuentra-el-mejor-aceite-para-tu-moto
 
 http://www.ipone.com.ar/
 
@@ -534,13 +536,13 @@ http://superoil.com/original/html/harley-davidson.htm
 
 https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synthetic-motorcycle-oil/?zo=537451
 
-**Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre. *Solo para golosos*
+**Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre.
 
-Los españoles recomiendan **Gulf 20w50**, mineral (una porqueria).-
+Los españoles recomiendan **Gulf 20w50**, mineral (una porquería).-
 
-En caso de usar aceite de **automovil**, recomiendan:
+En caso de usar aceite de **automóvil** (yo lo evitaria a toda costa), recomiendan:
 
-**Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima calido no suda el motor)
+**Castrol VISCUS 25W60** de **gasolero / diesel** (sirve para motor, es barato y hace que el motor ande mas frio, muchos lo usan con éxito, en clima cálido no suda el motor, aunque yo use la moto en el Caribe con 42 C y tampoco me "sudo" el motor usando Castrol de moto 20w50, asi que eso de "sudar" me suena mas a juntas de motor jodidas...)
 
 ## Filtros de aceite
 
