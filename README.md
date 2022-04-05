@@ -408,14 +408,14 @@ Ipone recomienda el Full Power Katana 15w50.
 ### Semi sintético
 
 * Filtro : HiFlo cromado HF170C
-* Motor y Primaria : Castrol Power 1 4T 15w50 / Castrol Actevo X-Tra 20W50 / Motul 5100 15w50 / Ipone Road Twin 15w50 / Ipone R4000 RS 15W50 / Valvoline Durablend Moto 15w50 / Valvoline Durablend 4T moto 20w50 **preferido**
+* Motor y Primaria : Castrol Power 1 4T 15w50 / Castrol Actevo X-Tra 20W50 / Motul 5100 15w50 / Ipone Road Twin 15w50 / Ipone R4000 RS 20W50 **recomendado** / Valvoline Durablend Moto 15w50 / Valvoline Durablend 4T moto 20w50 **preferido**
 
 ### Mineral
 
 *Nota: es fácil conseguir reemplazos para esta opción, hay Motul tambien, IPone, Silkolene, etc*
 
 * Filtro: Mahle o HiFlo
-* Motor & Primaria: Castrol Actevo 20W50 / Silkolene V-twin 20w50 / Motul 3000 20w50 / Ipone R4000 RS 15W50 (semi syn) / etc
+* Motor & Primaria: Castrol Actevo 20W50 / Silkolene V-twin 20w50 / Motul 3000 20w50 / Ipone R4000 RS 20W50 (semi syn) / etc
 
 
 # Aceite de motor
@@ -538,7 +538,9 @@ https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synt
 
 **Putoline Genuine V Twin 20w50** -- a veces se consigue en Mercado Libre.
 
-Los españoles recomiendan **Gulf 20w50**, mineral (una porquería).-
+Los españoles recomiendan **Gulf 20w50**, mineral (una porquería).
+
+**Shell** recomienda Shell Advance AX7 Semi Sintetico Moto 15w50 :  API SM y JASO MA2.
 
 En caso de usar aceite de **automóvil** (yo lo evitaria a toda costa), recomiendan:
 
@@ -548,7 +550,7 @@ En caso de usar aceite de **automóvil** (yo lo evitaria a toda costa), recomien
 
 Características
 
-* Altura : 86 mm -- esto puede variar algunos filtros son mas largos o mas cortos
+* Altura : 86 mm -- esto puede variar *un poco*, algunos filtros son mas largos o mas cortos
 * Diametro Ø exterior : 75 mm
 * Rosca : 3/4"-16
 
@@ -587,17 +589,19 @@ Otros alternativos que se publican en internet, y que pueden reemplazar el origi
 
 Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
 
-Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene una versión cromada).
+Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene una versión cromada), otros vienen negros, y otros en colores como naranja o blanco.
 
 # Aceite de primaria
 
 Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), *dejando de lado el antiguo Formula+ en 2020*.-
 
-Embragues Barnett recomiendan un aceite especifcio para moto, con especificaciones JASO MA, o MA2 y viscosidad 20w50. Nunca usar aceite para automoviles.
+Embragues Barnett recomiendan un aceite especifico para moto, con especificaciones JASO MA, o MA2 y viscosidad 20w50. Nunca usar aceite para automóviles.
+
+En resumen:  se puede usar el mismo aceite que en el motor siempre que sea un aceite de **moto** con especificación JASO MA (MA2 mejor) al menos y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). 
 
 ## Analisis largo
 
-Este es un tema casi "mistico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley Formula+, la moto explotará en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada magico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
+Este es un tema casi "místico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley Formula+, la moto explotará en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada mágico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
 
 El **HD Formula+** de primaria era el equivalente a un semi sintético de caja **80w90**, ó equivalente a uno de motor **20w50**.
 
@@ -605,15 +609,15 @@ El **HD Formula+** de primaria era el equivalente a un semi sintético de caja *
 
 Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
 
-El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un sintetico: **75w90** de caja, o de moto **15w50** o **20w50**.
+El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un sintético: **75w90** de caja, o de moto **15w50** o **20w50**.
 
-**Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** <- esto es MUY importante!
+**Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** , y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos).  <- esto es MUY importante!
 
 La etiqueta **JASO MA ó MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
 
-**Bel-Ray Sport Trans** es 85W y es bueno, pero no se consigue facil en Argentina
+**Bel-Ray Sport Trans** es 85W y es bueno, pero no se consigue fácil en Argentina
 
-Facil de conseguir en Argentina:
+Fácil de conseguir en Argentina:
 
 El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster.
 
@@ -627,6 +631,8 @@ Castrol recomienda varias opciones:
 **Castrol Power 1 Racing 4T 10W-50**
 **Castrol Power 1 4T 20W-50**
 **Castrol Power 1 4T 15w50**
+
+Ipone recomienda Ipone RS 4000 20w50 
 
 Mobil 1 recomienda  para primaria (nunca los consegui en Argentina)
 
