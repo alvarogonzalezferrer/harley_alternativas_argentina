@@ -1,5 +1,7 @@
 # Harley Davidson Sportster
+
 ## Alternativas de mantenimiento
+
 ### Apuntes del propietario
 
 Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Company.
@@ -2079,9 +2081,13 @@ Hay de goma como los originales, que Lamentablemente luego de unos años se pudr
 
 TO-DO completar
 
-Hay muchos modelos, algunos buenos, otros malisimos. Yo tengo los de Kuryakyn Heat Demon, andan bastante bien, son complicados de instalar.
+Hay muchos modelos, algunos buenos, otros malisimos. Yo tengo los de **Kuryakyn Heat Demon**, andan bastante bien, son complicados de instalar.
 
-Tambien hay guantes calefactores con baterias.
+También hay guantes calefactores con baterías.
+
+## Controles de manillar 
+
+Los hay negros y cromados, estamos hablando de los botones del manillar como giros, encender, etc. Los de ciertos modelos de Keeway son compatibles, no lo investigue a fondo.
 
 ## Respaldos & sissy bar
 
@@ -2307,13 +2313,69 @@ https://www.google.com/search?q=wide+tire+kit+sportster
 
 https://www.mpmotosport.com/ } fabrican ruedas de moto a medida
 
+# Equipo para andar en moto
+
+*Nueva seccion , en desarrollo! - DEBUG TODO*
+
+Equipamiento para viajar y andar en  moto 
+
+## Cascos 
+
+*SIN HACER*
+
+## Guantes 
+
+*SIN HACER*
+
+## Botas 
+
+*SIN HACER*
+
+## Camperas 
+
+## Chalecos 
+
+## Pantalones 
+
+## Equipo calefaccionado para invierno 
+
+Existe equipo calefaccionado para el invierno 
+
+https://sraggioweb.com.ar/
+
+https://www.wanderwarm.com.ar/
+
+y otros
+
+tambien se le puede poner PUÑOS CALEFACCIONADOS A LA MOTO, hay varias marcas y modelos 
+
+## Alforjas 
+
+*SIN HACER*
+
+## Infladores 
+
+*SIN HACER*
+
+## Herramientas 
+
+*SIN HACER*
+
+## Mochilas 
+
+*SIN HACER*
+
+## Defensa personal 
+
+*SIN HACER*
+
 # Anexo: Costa Rica
 
 Información de como mantener una Sportster en Costa Rica
 
 La agencia Harley oficial se fue de Costa Rica, sin embargo es más facil conseguir repuestos que en Argentina!
 
-Por ahora, lugares útiles :
+## Lugares útiles en CR 
 
 * Motochopper
 * Harley Point
@@ -2327,11 +2389,11 @@ Por ahora, lugares útiles :
 * Locos Por Las Motos
 * etc
 
-Torneria y rectificacion 
+## Torneria y rectificacion 
 
 * Precision Barquero
 
-Insumos
+## Insumos
 
 * AMSoil
 * Castrol
@@ -2341,23 +2403,23 @@ Insumos
 
 * Moto Llantas Virtual - tiene gomas, neumaticos, cubiertas - https://www.facebook.com/Motollantasvirtual/
 
-Aceites
+## Aceites
 
 * Walmart tiene el Castrol Actevo 20w50 mas barato.
 * Todas las demas tambien venden aceites buenos. Se consigue el Motul 7100 20w50 por ejemplo.
 
-Herramientas
+## Herramientas
 
 * Capris
 * EPA
 * Walmart
 * Universal de Tornillos y Herramientas
 
-Tornilleria
+## Tornilleria
 
 * Universal de Tornillos y Herramientas
 
-Traer repuestos
+## Traer repuestos de EEUU
 
 * Jetbox
 * Aeropost
