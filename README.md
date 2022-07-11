@@ -2398,7 +2398,11 @@ Xiaomi hace uno tambien muy popular : https://www.mi.com/global/product/xiaomi-p
 
 ## Defensa personal 
 
-*SIN HACER*
+Baston plegable + spray pimienta. 
+
+En paises que es legal portar, Taurus Judge. 
+
+*SIN TERMINAR*
 
 # Anexo: Costa Rica
 
