@@ -2404,7 +2404,13 @@ Igualmente siempre hay gente de mierda que intentara atacarte o tomar lo que no 
 
 Kit basico: Baston plegable + spray pimienta. 
 
-En paises que es legal portar, Taurus Judge 2 in > https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in
+En paises que es legal portar
+
+* Taurus Judge 2 in > https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in
+
+* Ruger LCP II
+
+* S&W 642 Airweight
 
 *SIN TERMINAR*
 
