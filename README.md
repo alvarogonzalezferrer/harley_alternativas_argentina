@@ -1354,6 +1354,8 @@ Es mejor abordar este problema antes de que suceda. Da varios sintomas de que es
 
 La opción preferida es eliminar la placa de resorte por completo instalando **dos placas de acero adicionales y una placa de fricción adicional**. Esto funciona para embragues de **1991** en adelante.
 
+![Kit embrague extra disco](archivos_soporte/embrague/kit_embrague_extra_disco.jpg)
+
 **Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
 
 **Energy One tiene un reemplazo tambien:** https://www.energyoneclutches.com
