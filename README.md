@@ -2400,7 +2400,7 @@ Xiaomi hace uno tambien muy popular : https://www.mi.com/global/product/xiaomi-p
 
 Baston plegable + spray pimienta. 
 
-En paises que es legal portar, Taurus Judge. 
+En paises que es legal portar, Taurus Judge 2 in > https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in
 
 *SIN TERMINAR*
 
