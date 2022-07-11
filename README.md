@@ -2398,7 +2398,11 @@ Xiaomi hace uno tambien muy popular : https://www.mi.com/global/product/xiaomi-p
 
 ## Defensa personal 
 
-Baston plegable + spray pimienta. 
+La mejor defensa es evitar zonas peligrosas, evitar el conflicto, salir relajado a la calle. 
+
+Igualmente siempre hay gente de mierda que intentara atacarte o tomar lo que no es suyo.
+
+Kit basico: Baston plegable + spray pimienta. 
 
 En paises que es legal portar, Taurus Judge 2 in > https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in
 
