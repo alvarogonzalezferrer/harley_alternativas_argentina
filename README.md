@@ -1864,7 +1864,7 @@ Roland Sands
 
 etc
 
-## Escapes nacionales
+## Escapes nacionales (Argentina)
 *seccion en desarrollo*
 
 http://giacconeescapes.com/  o https://es-la.facebook.com/Giaccone001/ } estos fabrican para Harley Davidson a medida
@@ -1881,7 +1881,7 @@ Lucky Custom hace escapes y monton de cosas: https://www.facebook.com/pages/cate
 
 ## Modificar silenciadores originales
 
-Se puede remover el nucleo del escape original para que haga mas ruido.
+Se puede remover el núcleo del escape original para que haga mas ruido.
 
 # Mejorar performance
 
@@ -2193,6 +2193,31 @@ En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible,
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
 Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
+
+# Arranque a patada - kickstarter
+
+Bueno, los modelos modernos de Sportster NO traen arranque a patada (kickstarter), pero existe un kit para convertirlas. 
+
+Es costoso, y complicado de poner, sobre todo en los modelos 2004 y mas modernas, donde hay que separar los carters del motor para poder hacerlo.
+
+Segun el año, es el kit, los hace V-Twin Manufacturing, hay para 1991 a 2003, 2004 a 2006, y 2007 en adelante. 
+
+![Kickstarter](archivos_soporte/patada/kit_conversion_a_patada.jpg)
+
+Se puede comprar en eBay, o aca 
+
+https://california-motorcycles.com/products/kit-pata-arranque-para-harley-davidson-sportster-kick-starter-conversion-kit
+
+https://www2.vtwinmfg.com/kick-starter-conversion-kit-chrome-3.html
+
+https://www2.vtwinmfg.com/catalogsearch/result/?q=kick+starter+conversion
+
+etc 
+
+En cuanto a esto, yo NO lo compraria. 
+
+¿Cuánto desea REALMENTE desarmar y luego volver a armar su motor? Para poner un accesorio decorativo, casi inútil (los sistemas de arranque Evo Sporty son excelentes y fáciles de trabajar, no hay excusa para que uno no sea confiable) ? Si es absolutamente necesario tenerlo, consideraría mecanizar el extremo del eje principal original para que coincida con la pieza de Taiwán. No es mucho trabajo de torno (taladro central, taladro, rosca) y sabría que el resto del eje engrana correctamente con el resto de su caja de cambios. 
+
 
 # Catalogos online / comprar repuestos
 
