@@ -2378,9 +2378,15 @@ tambien se le puede poner PUÑOS CALEFACCIONADOS A LA MOTO, hay varias marcas y 
 
 *SIN HACER*
 
-## Infladores 
+## Infladores / selladores
 
-*SIN HACER*
+Existen infladores a 12 V portatiles, y tambien auto contenidos con su propia bateria.
+
+En viajes largos yo tengo uno marca SPARCO que anda muy bien, ademas sirve de linterna y bateria USB. 
+
+Xiaomi hace uno tambien muy popular : https://www.mi.com/global/product/xiaomi-portable-electric-air-compressor-1s/
+
+*SIN TERMINAR - TO DO*
 
 ## Herramientas 
 
