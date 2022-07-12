@@ -2416,6 +2416,44 @@ En paises que es legal portar
 
 *SIN TERMINAR*
 
+# Anexo: Reparar roscas 
+
+Fuente : https://noticias.coches.com/consejos/helicoil-como-se-usa/342900
+
+Estás a punto de terminar el trabajo. Tan solo te queda un tornillo por apretar y… ¡Cáspita! No se queda fijado en su sitio. Lo más probable es que los hilos que conforman el orificio donde quieres apretar el tornillo estén pelados, lo que comúnmente llamamos un “pasada de rosca”. Si eres de los que le gusta meterle mano al coche (en el buen sentido), seguramente te haya pasado alguna que otra vez. Y es en este punto cuando utilizar un Helicoil es realmente útil.
+
+## ¿Qué es un Helicoil?
+
+Como su nombre indica, un **Helicoil** es un alambre de acero inoxidable o bronce fosforado helicoidal que tiene una sección transversal en forma de diamante. Dicha sección permite que la parte externa del alambre se fije en un orificio roscado para formar una espiral interna donde se acoplará un tornillo o espárrago. Las bobinas del inserto se comprimen durante la instalación, ya que el inserto se enrosca el orificio.
+
+Como un resorte en espiral, los devanados comprimidos del inserto instalado intentan expandirse contra las paredes de la carcasa roscada. La tensión resultante entre el inserto y las paredes ayuda a retener el tornillo y asegurar su correcta fijación. Un Helicoil proporciona un medio conveniente para reparar roscas estropeadas, aunque también se utiliza para para fortalecer la fijación en materiales blandos como aluminio, fundición de zinc, madera o magnesio.
+
+Las aplicaciones más tendentes del Helicoil en el mundo automotriz incluyen la reparación de la culata del motor después de un exceso de fuerza involuntario o el roscado cruzado de las bujías de encendido. Piensa que un profesional puede hacerte una rectificación, pero te saldrá mucho más caro. La mejor forma para ahorrarse unas pelas y aprender es hacerlo tú mismo, y solo necesitas algo de maña y paciencia.
+
+Ten en cuenta una cosa: si los hilos del propio tornillo están dañados, el Helicoil no nos va a solucionar el problema. Si ponemos el inserto helicoidal en el hueco dañado e intentamos encajar un tornillo en mal estado, tendremos que comprar otro tornillo y otro Helicoil. Fíjate bien antes de hacer la instalación. Y hablando de esto último, el kit incluye los insertos, el macho, la broca para el taladro y una herramienta de compresión.
+
+## ¿Cómo se usa un Helicoil?
+
+La instalación de un inserto Helicoil requiere perforar el orificio original con sumo cuidado para que la espiral se ajuste bien. Usando una broca del tamaño adecuado, hay que taladrar el orificio. Asegúrate de llegar hasta el final del agujero, pero no profundices más de lo necesario. El macho que viene con el kit de montaje no tiene una rosca estándar de 60 grados, son todas iguales pero con un diámetro un poco más grande para proporcionar mayor agarre al inserto.
+
+Has de tener presente que si no taladras con el mismo ángulo del orificio, no habrá Helicoil que te salve del error. Es muy importante hacer estos dos pasos con muchísima cautela, por lo que vale la pena tomarte tu tiempo en hacer las cosas bien. Dado que el grosor del macho es levemente superior al del agujero, se puede engrasar un poco para facilitar su introducción.
+
+Siguiente paso: insertar el Helicoil en el orificio. La pieza de alambre está provista de una lengüeta en uno de sus extremos. Una vez localizada, la herramienta de compresión tiene una muesca que encajará con ese lengüeta. Con el mismo cuidado y delicadeza con la que has perforado previamente el agujero, enrosca el Helicoil. Una vez hecho esto, elimina la espiga que sobresale, bien mediante un golpe seco con un punzón o cortándola con unos alicates.
+
+Los insertos Helicoil no requieren selladores para que queden retenidos. Una vez instalados, son elementos muy confiables y duraderos cuyo rendimiento puede soportar condiciones de alta tensión en la mayoría de situaciones.
+
+## Ventajas de usar un Helicoil
+
+* Resistencia a la corrosión y a la temperatura. Los materiales en los que se fabrican los insertos Helicoil (acero inoxidable, bronce fosforoso, titanio o aleaciones de Inconel) hacen que sean robustos y fiables incuso en condiciones de elevadas temperaturas y humedad.
+
+* Durabilidad. Su calidad de construcción garantiza una elevada resistencia al desgaste. Se pueden enroscar y desenroscar muchos tornillos antes de que se estropee. Además, distribuyen de forma uniforme de cargas y tensiones.
+
+* Gran sujeción. No es necesario ningún tipo de arandela o pasador para fijar un tornillo usando un Helicoil.
+
+* Menos fricción sobre la rosca. La fuerza que se ejerce sobre el tornillo se puede ajustar de forma más precisa, aprovechando más eficientemente su elasticidad.
+
+
+
 # Anexo: Costa Rica
 
 Información de como mantener una Sportster en Costa Rica
