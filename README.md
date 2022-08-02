@@ -1391,7 +1391,11 @@ Podemos comprar la herramienta (USD +70), o fabricarla muy barato con un tubo de
 
 ![Sacar embrague](archivos_soporte/embrague/herramienta_comprimir_embrague.jpg)
 
-Herramienta casera para comprimir: https://www.youtube.com/watch?v=zQnlt8twX3k
+Herramienta casera para comprimir: 
+
+https://www.youtube.com/watch?v=zQnlt8twX3k
+
+https://www.youtube.com/watch?v=0dHhb4fs96A
 
 Video detallado de Hammer Performance: https://www.youtube.com/watch?v=g8BMUy-pTBs <-- **este video es el mas completo**
 
