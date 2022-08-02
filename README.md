@@ -1385,6 +1385,14 @@ Puesto a cambiar, es mejor poner **partes mejores** que las originales, por ejem
 
 ## Sacar y poner embrague
 
+### Resumen embrague 
+
+1. Necesitamos esta herramienta: https://www.youtube.com/watch?v=0dHhb4fs96A
+
+2. Asi se cambia: https://www.youtube.com/watch?v=oQcbgr2arsw
+
+### Explicacion embrague 
+
 Para sacar el embrague precisamos comprimirlo con una herramienta especial.
 
 Podemos comprar la herramienta (USD +70), o fabricarla muy barato con un tubo de PVC de 3" y una planchuela perforada.
@@ -1404,6 +1412,8 @@ En 20 minutos saca el embrague: https://www.youtube.com/watch?v=m26np1MntQA
 En español: https://www.youtube.com/watch?v=OK02f5lHrPo
 
 Poner el kit de embrague sin remaches: https://www.youtube.com/watch?v=6XimJ2aX848
+
+Otro video de como poner el embrague: https://www.youtube.com/watch?v=oQcbgr2arsw
 
 ### Instrucciones en PDF
 
