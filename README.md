@@ -1379,10 +1379,10 @@ Además, las placas de embrague existentes pueden haberse deformado durante la f
 
 Puesto a cambiar, es mejor poner **partes mejores** que las originales, por ejemplo:
 
+* Energy One, kevlar: https://www.energyoneclutches.com/
 * Barnett, kevlar: https://www.barnettclutches.com/ -- **"Extra Plate Clutch Kit- Kevlar"** o fibra de carbono, a eleccion.
 * Embrague Screamig Eagle P/N  38002-04 : https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04
 * Alto Products, tiene uno con remaches de acero inoxidable: https://www.altousa.com/
-* Energy One, kevlar: https://www.energyoneclutches.com/
 
 
 **Leer mas en:**
@@ -1431,9 +1431,9 @@ Otro video de como poner el embrague: https://www.youtube.com/watch?v=oQcbgr2ars
 
 ## Discos de embrague
 
-**Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
-
 **Energy One tiene un reemplazo tambien:** https://www.energyoneclutches.com
+
+**Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
 
 Se pueden reconstruir los viejos en **Tosso frenos**, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace. (*info Octubre 2020*)
 
