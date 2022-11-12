@@ -344,7 +344,7 @@ Item  | Reemplazo | Periodo
 --------|---------|---------
 Filtro aceite | Mahle, Hi Flo, Harley, etc, diámetro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm, válvula alivio max 12 PSI | 8000 km ó un año
 Motor aceite | Aceite de moto 20w50 mineral o sintético, spec JASO MA2, API SJ, SL, SM o SN | 8000 km ó un año
-Primaria aceite | Aceite de moto 20w50 mineral o sintético, spec JASO MA2, API SJ, SL, SM o SN | 16000 km ó dos años
+Primaria aceite | Aceite de moto 20w50 **mineral**, spec JASO MA2, API SJ, SL, SM o SN | 16000 km ó dos años
 
 ## Clima frio y aceite  
 
@@ -390,7 +390,7 @@ Hay muchas combinaciones de aceites que podemos usar, lo importante es usar uno 
   * NUNCA USAR LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
   * Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA **SERVICIO PESADO**.
 
-### Economico
+### Económico
 
 *No recomendado, solo para desesperados*
 
@@ -399,7 +399,7 @@ Hay muchas combinaciones de aceites que podemos usar, lo importante es usar uno 
 * Primaria : Castro Actevo o Motul 3000 20w50, 1 litro, 7 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
 
-### Sintetico
+### Sintético
 
 En 2021 se consigue el aceite Mannol V-Twin 20w50 que dice ser sintético en su envase.
 
@@ -407,10 +407,13 @@ Tambien vi Putoline Genuine V-twin 20w50, y algunos Valvoline SynPower en 15w50.
 
 Ipone recomienda el Full Power Katana 15w50.
 
+**NOTA IMPORTANTE**: si tenemos embrague no original, SOLO USAR ACEITE MINERAL O EL QUE RECOMIENDE EL FABRICANTE (Barnett, Energy One, etc) 
+
 ### Semi sintético
 
 * Filtro : HiFlo cromado HF170C
-* Motor y Primaria : Castrol Power 1 4T 15w50 / Castrol Actevo X-Tra 20W50 / Motul 5100 15w50 / Ipone Road Twin 15w50 / Ipone R4000 RS 20W50 **recomendado** / Valvoline Durablend Moto 15w50 / Valvoline Durablend 4T moto 20w50 **preferido**
+* Motor: Castrol Power 1 4T 15w50 / Castrol Actevo X-Tra 20W50 / Motul 5100 15w50 / Ipone Road Twin 15w50 / Ipone R4000 RS 20W50 **recomendado** / Valvoline Durablend Moto 15w50 / Valvoline Durablend 4T moto 20w50 **preferido**
+* Primaria: alguno mineral 20w50 de primera calidad
 
 ### Mineral
 
@@ -597,9 +600,11 @@ Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene un
 
 Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), *dejando de lado el antiguo Formula+ en 2020*.-
 
-Embragues Barnett recomiendan un aceite especifico para moto, con especificaciones JASO MA, o MA2 y viscosidad 20w50. Nunca usar aceite para automóviles.
+Embragues Barnett recomiendan un aceite **mineral** especifico para moto, con especificaciones JASO MA, o MA2 y viscosidad 20w50. Nunca usar aceite para automóviles.
 
-En resumen:  se puede usar el mismo aceite que en el motor siempre que sea un aceite de **moto** con especificación JASO MA (MA2 mejor) al menos y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). 
+Embragues Energy One recomiendan aceite mineral de moto, o ATF (caja automatica), NO SINTETICO.
+
+En resumen:  se puede usar el mismo aceite que en el motor siempre que sea un aceite de **moto** con especificación JASO MA (MA2 mejor) al menos y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). Y convendria que sea mineral, si no sabemos que discos de embrague tiene la moto (puede no tener HD)
 
 ## Analisis largo
 
@@ -1334,7 +1339,7 @@ Se puede modernizar con luces LED los modelos mas antiguos, viene un kit. Tambie
 
 Barnett tiene reemplazos listos para colocar para todas las generaciones de Sportster: https://www.barnettclutches.com/
 
-Energy One Clutches tambien tiene reemplazos para colocar en Sportster : https://www.energyoneclutches.com
+**Energy One** Clutches tambien tiene reemplazos para colocar en Sportster : https://www.energyoneclutches.com
 
 ## Problema común del embrague
 
@@ -1346,11 +1351,11 @@ Si bien el objetivo funcional es una buena idea, esta placa de resorte ha causad
 
 ![Disco explotado](archivos_soporte/embrague/grenade_plate.jpg)
 
-### Sintomas
+### Síntomas
 
 Es mejor abordar este problema antes de que suceda. Da varios sintomas de que esta por explotar: el embrague puede estar "raro", endurecido, puede costar poner neutro. Se puede ver pedacitos de viruta de bronce en el aceite de primaria (los remaches), o incluso pedazos grandes de remache. El embrague patina, o parece aflojarse, cuesta pasar los cambios.
 
-### Solucion
+### Solución
 
 La opción preferida es eliminar la placa de resorte por completo instalando **dos placas de acero adicionales y una placa de fricción adicional**. Esto funciona para embragues de **1991** en adelante.
 
@@ -1359,6 +1364,8 @@ La opción preferida es eliminar la placa de resorte por completo instalando **d
 **Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
 
 **Energy One tiene un reemplazo tambien:** https://www.energyoneclutches.com
+
+NOTA: yo puse en mi XL883L 2005 el Energy One BTX-11, eliminando la placa remachada, y la verdad es super super bueno. 
 
 Si bien es posible hacerlo en los modelos 1991 y anteriores con placas stock, una implementación más típica para los modelos 1986 y superiores es utilizar un kit completo de recambio con nuevas placas de acero y de fricción. Hay varios proveedores de estos kits, como Energy One, Barnett, Alto, etc, en varios materiales diferentes.
 
