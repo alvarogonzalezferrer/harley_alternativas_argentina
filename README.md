@@ -1986,6 +1986,9 @@ http://hammerperf.com/883conversions.shtml
 
 Conversion de bajo costo: http://rosysumenteinquieta.blogspot.com/2016/01/como-convertimos-una-sportster-de-883cc.html
 
+Estos son los pistones mas baratos que encontre (por ahora): https://vtwin.parts/supplier/v-twin/sportster-1952-up/engine/piston/883-conversion-pistons/harley-davidson-indian-motorcycle-v-twin-883cc-conversion-piston-set-standard-3.498-11-0852?sort=p.price&order=ASC
+Pistones VT No: 11-0852
+
 ![1275cc kit](archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg)
 
 ### Procedimiento 883 a 1200
