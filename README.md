@@ -1461,13 +1461,13 @@ Para saber el largo de los cables de embrague, acelerador, etc
 
 # Juntas para el motor y otras partes
 
-La marca **Cometic** son MUY superiores a las originales de Harley
+Juntas economicas y buenas, **Cyco Gasket** : https://cycogasket.com/
 
-Su website : https://www.cometic.com/
+La marca **Cometic** son MUY superiores a las originales de Harley; website : https://www.cometic.com/
 
 Mirar el catalogo de Cometic que hay para todo el motor, primaria, etc kits completos
 
-Otra buena alternativa, mas economica es **James Gasket**, https://www.jamesgaskets.com/
+Otra buena alternativa, mas económica es **James Gasket**, https://www.jamesgaskets.com/
 
 ![Kit James de juntas](archivos_soporte/juntas/james_gasket_kit.jpg)
 
