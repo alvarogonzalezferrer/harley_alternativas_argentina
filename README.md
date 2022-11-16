@@ -1984,6 +1984,8 @@ Este es el kit que yo tengo, Hammer Performance, super buena atención.
 
 http://hammerperf.com/883conversions.shtml
 
+Conversion de bajo costo: http://rosysumenteinquieta.blogspot.com/2016/01/como-convertimos-una-sportster-de-883cc.html
+
 ![1275cc kit](archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg)
 
 ### Procedimiento 883 a 1200
