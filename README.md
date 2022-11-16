@@ -1966,7 +1966,7 @@ http://nrhsperformance.com/tech.shtml
 
 http://www.floheadworks.com/Departments/articles.htm
 
-## Convertir 883 a 1200
+## Convertir 883 a 1200 / 1250 / 1275
 
 Es posible convertir una 883 a 1200, incluso a más, 1275cc por ejemplo, de manera relativamente sencilla.
 
@@ -1974,11 +1974,11 @@ Depende de cuanto se desee gastar, podemos ir desde 70 HP hasta +120 HP de prepa
 
 Se cambian pistones, cilindros, refuerzo el embrague, **ajustar el encendido**, y el combustible y listo, para una preparación basica.
 
-Si se hace trabajo de levas, valvulas, etc, podemos ganar todavía más potencia.
+Si se hace trabajo de levas, válvulas, etc, podemos ganar todavía más potencia.
 
 Hay muchos kits diferentes que se pueden elegir, yo opte por **Hammer Performance**, el cual considero el mejor.
 
-Tambien hay kits de V Twin Manufacturing, S&S y más.
+También hay kits de V Twin Manufacturing, S&S y más.
 
 Este es el kit que yo tengo, Hammer Performance, super buena atención.
 
@@ -1988,9 +1988,11 @@ http://hammerperf.com/883conversions.shtml
 
 ### Procedimiento 883 a 1200
 
-Se puede cambiar solo los pistones, rectificando los cilindros, **solo en modelos hasta el año 2007** (2008 en adelante NO) se puede rectificar los cilindros 883 para usar pistones 1200, a partir de ese año Harley puso camisas mas finas y ya no se puede rectificar un 883 a 1200, es necesario poner cilindros nuevos mas grandes. Ver boletin de servicio HD 1267 -> http://sportsterpedia.com/lib/exe/fetch.php/pdf-bulletin:tsb1267.pdf
+Se puede cambiar solo los pistones, rectificando los cilindros, **solo en modelos hasta el año 2007** (2008 en adelante NO) se puede rectificar los cilindros 883 para usar pistones 1200, a partir de ese año Harley puso camisas mas finas y ya no se puede rectificar un 883 a 1200, es necesario poner cilindros nuevos mas grandes. Ver boletín de servicio HD 1267 -> http://sportsterpedia.com/lib/exe/fetch.php/pdf-bulletin:tsb1267.pdf
 
-Lo mejor es cambiar pistones y cilindros (asi viene la mayoria de los kits), y de paso ver el estado de las valvulas.
+Procedimiento de rectificado de cilindros: https://serviceinfo.harley-davidson.com/sip/service/document-pdf-print/1458190526785034497/J05101_528322_es_ES.xml 
+
+Lo mejor es cambiar pistones y cilindros (así viene la mayoría de los kits), y de paso ver el estado de las válvulas.
 
 Depende de cuanto se desee gastar, podemos ir desde 70 HP hasta +120 HP de preparación.
 
