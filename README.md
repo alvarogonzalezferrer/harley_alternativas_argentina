@@ -4,11 +4,11 @@
 
 ### Apuntes del propietario
 
-Este sitio web **no** está asociado en manera alguna a Harley-Davidson Motor Company.
+Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Company.
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 25/03/2022** , ±98000 km recorridos sin problemas.
+**Documento Actualizado 17/11/2022** , ±163000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
@@ -1318,22 +1318,35 @@ As per the J&P catalog.....
 
 # Luces
 
-Se consiguen todas en Argentina, son comunes, H4 la delantera, las otras llevar la muestra. **MODELOS MAS NUEVOS LLEVAN LUCES LED, verificar ANTES de comprar.**
+Se consiguen todas en Argentina, son comunes. 
 
-Luz delantera: de filamento **H4**
+**MODELOS MAS NUEVOS LLEVAN LUCES LED, verificar ANTES de comprar**
+
+## Luz delantera
+
+La luz delantera de filamento es **H4**
 
 Luz delantera LED: hay H4 de led, pero los comentarios son que no ilumina bien ya que no coincide con el lente original. Es mejor reemplazar todo el conjunto por uno de led; para eso hay modelos Harley oficiales y también copias.
 
 Reemplazo para luz delantera en LED : **Harley DayMaker** y modelos similares.
 
-El modelo es de 5-3/4" (5.75", 14,6 cm) de diametro, existen otras versiones en Amazon, Mercado Libre, y Ebay mucho mas baratas y que cumplen la misma función.
+El modelo es de 5-3/4" (5.75", 14,6 cm) de diámetro, existen otras versiones en Amazon, Mercado Libre, y Ebay mucho mas baratas y que cumplen la misma función.
 
-Trasera: Osram P27-7W 12V **3157** ; en modelos modernos es de LED.
+## Trasera 
+
+Trasera (freno y posición): OSRAM P27-7W 12V **3157** ; en modelos modernos es de LED.
+
+## Giros
 
 Giros : 2013 y anteriores son luces de filamento. En modelos 2014 y superiores son de LED. *falta confirmarlo*
-En modelos para mercado USA, las luces de giro delanteras sirven de luz de posicion tambien, tienen doble filamento. En modelo latino son de filamento simple.
-Bulbo 1157 (US) frente, 1156 trasero (y delantero latino).
-Se puede modernizar con luces LED los modelos mas antiguos, viene un kit. Tambien se puede cambiar solo el bulbo por uno LED, para no cambiar todo.
+
+En modelos para mercado USA, las luces de giro delanteras sirven de luz de posición también, tienen doble filamento. En modelo latino son de filamento simple.
+
+Bulbo 1157 (US) frente, 1156 o 1141 P21W trasero (y delantero latino).
+
+Se puede modernizar con luces LED los modelos mas antiguos, viene un kit. 
+
+También se puede cambiar solo el bulbo por uno LED, para no cambiar todo.
 
 # Embrague
 
