@@ -1545,9 +1545,9 @@ Tienen pintura de retoque en los colores de Harley:
 
 # Carburador CV40 (2006 y anteriores)
 
-La moto viene con un Keihin CV 40mm Carb (**1988-2006**). El carburador original tiene estampado el logo de Harley Davidson en ambos lados, si no lo tiene es una copia (hay copias chinas que son identicas practicamente).
+La moto viene con un Keihin CV 40mm Carb (**1988-2006**). El carburador original tiene estampado el logo de Harley Davidson en ambos lados, si no lo tiene es una copia (hay copias chinas que son idénticas prácticamente).
 
-Velocidad constante (CV), alimentación por gravedad: tiene una válvula de entrada operada por flotador y un venturi variable operado por vacío (corredera móvil).
+Velocidad constante (CV), alimentación por gravedad: tiene una válvula de entrada operada por flotador y un Venturi variable operado por vacío (corredera móvil).
 
 Keihin fabrica los carburadores CV40 y CVK en Japón. Pero solo el CV es específico de una Harley y tiene la barra y el escudo y el nombre HD en el lateral.
 
@@ -1567,7 +1567,7 @@ En caso de quedar muchísimo tiempo parado, es conveniente limpiar los gliceur /
 
 Si dejamos la moto parada demasiado tiempo, por ejemplo por COVID-19, podría taparse el carburador o ponerse fea las gomas internas o el diafragma.
 
-Podemos **limpiarlo** según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitariamos comprar un "CV40 rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
+Podemos **limpiarlo** según manual de desarme, y en caso de tener las gomas rotas (fuelles, diafragma, etc) necesitaríamos comprar un "CV40 rebuild kit". Es un kit que trae las gomitas y cosas que se gastan para reconstruir nuestro carburador a nuevo, se consigue en Amazon, JP Cycles, eBay etc.
 
 Video de como **LIMPIAR** el carburador : https://www.youtube.com/watch?v=Pp4l-zbQcy0
 
@@ -1642,17 +1642,39 @@ http://www.nightrider.com/biketech/motorcycle_efi_basics.htm
 
 ## Modo diagnostico
 
-La central ECM tiene un modo de diagnostico incorporado, para saber los codigos de error.
+La central ECM tiene un modo de diagnostico incorporado, para saber los códigos de error.
 
-Es bastante facil de usar.
+Es bastante fácil de usar.
 
 Basta con mantener presionado el botón de reset del cuentakilómetros mientras se pone la llave de encendido en “on”. La aguja del instrumento se moverá en todo su recorrido y todos los testigos se iluminarán, tras lo cual aparecerá en el display digital el menú de códigos de fallo:
 
 Ver este video: https://www.youtube.com/watch?v=j3JiSOjkuZ0
 
-Y mas informacion: https://california-motorcycles.com/blogs/mecanicaharley/como-ver-y-borrar-los-codigos-de-error-efi-de-harley-davidson
+Y mas información: https://california-motorcycles.com/blogs/mecanicaharley/como-ver-y-borrar-los-codigos-de-error-efi-de-harley-davidson
 
-*NOTA* Otra manera de diagnostico es usar un scanner ODB2, como el economico **ELM327**, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas facil usar el diagnostico que trae la moto igualmente.
+*NOTA* Otra manera de diagnostico es usar un scanner ODB2, como el económico **ELM327**, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas fácil usar el diagnostico que trae la moto igualmente.
+
+### Diagnostico mediante cable ODB2
+
+Si por alguna razón no podemos usar el diagnostico integrado, (por ejemplo un velocimetro de otra marca), podemos usar un cable, con un lector ODB2 y una app.
+
+La manera mas sencilla es combinar lo siguiente : 
+* Cable J1850 de 4 pines a ODB2 (2001-2014), convierte la conexión OBD2 de 4 pines a 16 pines para su uso con tus escáneres o lectores OBD2 capaces de J1850, conectado a 
+* ELM327 bluetooth, conectado a 
+
+* Aplicaciones tipo [HarleyDroid](https://play.google.com/store/apps/details?id=org.harleydroid) o [RPMitUP](https://play.google.com/store/apps/details?id=com.motorcycle.dashboard)
+
+
+
+![Cable ODB2](archivos_soporte/EFI/diagnostico/cable_diagnostico.jpg)
+
+![ELM327](archivos_soporte/EFI/diagnostico/ELM327.jpg)
+
+Listo. Nota, el cable se puede comprar, o se puede hacer (en la carpeta EFI tengo los diagramas para hacerlo, aunque no vale la pena, mas barato comprarlo y ya). 
+
+Hay escáneres especializados pero son muy caros para uso hogareño.
+
+También hay conectores de 6 y 10 pines, para otros años de Harley. El que yo menciono es el de 4 pines, años 2004 a 2013 inclusive. 
 
 ## Limpiar los inyectores
 
