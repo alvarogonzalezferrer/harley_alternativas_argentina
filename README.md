@@ -585,12 +585,16 @@ Otras opciones de emergencia :
 El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula **NO MAS de 12 PSI**. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
 
 Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
-* Fram PH3614 (es practicamente el mismo que el PH6022)
+* FRAM PH3614 (es practicamente el mismo que el PH6022)
 * Purolator PL14476
 * Mobil1 M1-102
 * Bosch 3330
 * Hastings LF410
 * WIX 51394
+* WEGA JFO-0050
+* FRAM PH 6022
+* MAHLE OC1021
+* TECFIL PSL637
 
 Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
 
