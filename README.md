@@ -790,6 +790,21 @@ Algunas casas de hidraulica en Argentina:
 * https://www.hidraulicagomar.com.ar/
 * http://www.hidraulicasanfco.com.ar/
 
+
+# Motor de arranque / arrancador / burro / starter 
+
+Para encender el motor, necesitamos que gire el "burro", es decir el motor de arranque.
+
+![Arranque](archivos_soporte/burro/burro.jpg)
+
+**seccion en desarrollo* 
+
+Kit para reparar arranque, se suele dañar el solenoide.
+
+![Solenoide](archivos_soporte/burro/kit_solenoide.jpg)
+
+Se puede usar automotriz, parece ser compatible con Hilux, Stratus y otros, llevar muestra al repuestero. 
+
 # Cubiertas / Gomas / Cauchos / Llantas / Neumaticos
 
 Hay muchas opciones, segun el pais.
@@ -952,13 +967,15 @@ Y otro video : https://www.youtube.com/watch?v=qDD82jzgvJo
 
 # Acabados de motor
 
-El motor puede venir en tres terminaciones diferentes, segun el modelo: negro, pulido o cromado.
+El motor puede venir en tres terminaciones diferentes, según el modelo: negro, pulido o cromado.
 
 ## Aluminio pulido
 
 Algunos modelos vinieron con el motor en aluminio pulido brillante.
 
 Esta terminación es bastante fácil que se arruine si no se mantiene **siempre bien pulido y limpio**.
+
+El pulido parece que tiene una capa de laca, si se opaca, hay que quitar esa capa de laca antes de pulir.
 
 Para volver a pulir nuestro aluminio, podemos usar discos de pulido y pastas de pulir, ver los siguientes videos
 
@@ -994,7 +1011,7 @@ TO-DO explicar como limpiarlo.
 
 Los modelos custom vienen con el motor cromado de fabrica.
 
-Para cromar un motor no cromado podemos de dos maneras diferentes, una es desarmar y mandar todo a cromar. Quitar las tapas laterales NO es facil, sobre todo lateral derecho,
+Para cromar un motor no cromado podemos de dos maneras diferentes, una es desarmar y mandar todo a cromar. Quitar las tapas laterales NO es fácil, sobre todo lateral derecho.
 
 La opción mas fácil es comprar un kit de embellecimiento, que son unas tapas cromadas que se colocan sobre las tapas originales.
 
