@@ -385,7 +385,7 @@ Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-cha
 Hay muchas combinaciones de aceites que podemos usar, lo importante es usar uno que nos convenga donde vivimos, y ser consistente, no mezclar aceites diferentes en cada cambio...
 
 **Nota importante**
-  En caso de recurrir a aceite de auto, que esta permitido para emergencias segun el manual:
+  En caso de recurrir a aceite de auto, que esta permitido para emergencias según el manual:
   * **NO USAR NUNCA** ACEITE QUE SEAN PARA AUTOS NAFTEROS
   * NUNCA USAR LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
   * Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA **SERVICIO PESADO**.
@@ -394,7 +394,7 @@ Hay muchas combinaciones de aceites que podemos usar, lo importante es usar uno 
 
 *No recomendado, solo para desesperados*
 
-* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
+* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser, etc), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
 * Motor : Castrol Actevo 20w50 o Motul 3000 de moto; ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
 * Primaria : Castro Actevo o Motul 3000 20w50, 1 litro, 7 USD
 * Total aproximado de servicio básico : 37 USD a 50 USD
@@ -425,7 +425,7 @@ Ipone recomienda el Full Power Katana 15w50.
 
 # Aceite de motor
 
-## Analisis largo
+## Análisis largo
 
 Este es un tema polémico, hay fundamentalistas del aceite. Lo mas importante es que **NO** LE FALTE ACEITE. Siempre verificar el nivel antes de arrancar el motor.
 
@@ -553,11 +553,14 @@ En caso de usar aceite de **automóvil** (yo lo evitaria a toda costa), recomien
 
 ## Filtros de aceite
 
+El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula **NO MAS de 12 PSI**. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
+
 Características
 
 * Altura : 86 mm -- esto puede variar *un poco*, algunos filtros son mas largos o mas cortos
-* Diametro Ø exterior : 75 mm
+* Diámetro Ø exterior : 75 mm
 * Rosca : 3/4"-16
+* Alivio : 12 PSI max 
 
 **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. - Codigo **OC 21**
 
@@ -570,22 +573,22 @@ Tambien hay un modelo "high performance" con un elemento filtrante mejorado, el 
 
 **FRAM** lista un filtro especifico para Harley Sportster en su sitio web, pero parece que no lo venden en Argentina, es para mercado USA :
 
-* FRAM PH6065B - cromado, valvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
+* FRAM PH6065B - cromado, válvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
 
 http://www.fram.com/parts-search/PH6065B
 
-* FRAM PH6022 - negro, valvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
+* FRAM PH6022 - negro, válvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
 
 http://www.fram.com/parts-search/PH6022
 
 **OJO NO USAR CUALQUIER FILTRO DE AUTO (ALGUNOS SIRVEN) POR QUE PUEDEN RESTRINGIR EL FLUJO CON SU VALVULA DE RETORNO Y MATAR EL MOTOR**, prestar atencion a los PSI de la valvula de alivio/bypass, y las dimensiones del filtro!….
 
-Otras opciones de emergencia :
-**Fram PH3614**, el del Neon, Stratus, PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
-El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos PSI de retorno de valvula **NO MAS de 12 PSI**. Esto lo dice cada fabricante de Filtro, hay muchos que le calzan.
+Otras opciones de auto :
+
+**FRAM PH3614** es realmente un filtro casi omnipresente, le va a muchísimos modelos de autos, y esta disponible en casi todos los paises de América. Es el del Neon, Stratus, Hilux, y muchos mas. Tiene PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
 
 Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
-* FRAM PH3614 (es practicamente el mismo que el PH6022)
+* FRAM PH3614 (es prácticamente el mismo que el PH6022)
 * Purolator PL14476
 * Mobil1 M1-102
 * Bosch 3330
@@ -610,7 +613,7 @@ Embragues Energy One recomiendan aceite mineral de moto, o ATF (caja automatica)
 
 En resumen:  se puede usar el mismo aceite que en el motor siempre que sea un aceite de **moto** con especificación JASO MA (MA2 mejor) al menos y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). Y convendria que sea mineral, si no sabemos que discos de embrague tiene la moto (puede no tener HD)
 
-## Analisis largo
+## Análisis largo
 
 Este es un tema casi "místico" en el mundillo Harley, hay quienes juran que si uno no pone el aceite original Harley Formula+, la moto explotará en una bola de fuego matando a todos los que lo rodean... en fin, **no hay nada mágico en el aceite Harley para primaria... pero es bueno investigar mas a fondo el asunto...**
 
