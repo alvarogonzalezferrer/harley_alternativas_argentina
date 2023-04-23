@@ -717,15 +717,11 @@ Este tapón también se puede *fabricar* usando un termómetro de horno y modifi
 
 # Radiador de aceite
 
-*seccion en desarrollo*
+**Primero fíjate si re-calienta (usando el tapón que mide temperatura de aceite, pasa de 300 F?), si no es necesario NO lo compres.
 
-La parte de como elegir y comprar un radiador de aceite todavia no la terminé.
+En climas fríos no es necesario, en climas tropicales o con veranos tórridos puede ser necesario, sobre todo en el 1200cc.
 
-Primero fijate si calienta, si no es necesario no lo compres.
-
-Donde comprarlo depende de donde vivas, no se en que pais estas.
-
-Tambien se puede fabricar o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones.
+También se puede fabricar, o adaptar un radiador de aceite de otra moto, u otras aplicaciones. Hay muchas opciones.
 
 Kit que vende Harley oficial:
 
@@ -751,7 +747,26 @@ https://serviceinfo.harley-davidson.com/sip/service/document/239678
 
 ## Adaptar
 
-Info super cruda, basicamente precisas un radiador de otra moto, dos lineas de aceite, y enchufarlo eligiendo dos maneras posibles: a la linea de aceite del lado derecho inferior del motor, ó usando un adaptador al filtro de aceite (Jagg vende uno, pero estoy buscando uno nacional mas economico.)
+Básicamente precisas un radiador de **aceite** de otra moto o auto, dos líneas de aceite, y enchufarlo eligiendo dos maneras posibles: a la linea de aceite del lado derecho inferior del motor, ó usando un adaptador al filtro de aceite.
+
+### Kit universal
+
+El kit básico casero seria:
+
+1. Adaptador para el filtro , podes buscar adaptador universal en ML, la "torta", que tenga la rosca adecuada (3/4"-16 UNF)
+
+2. Lineas de aceite, AN10 para la torta y el radiador, esto se puede fabricar, venden el kit de lineas y terminales para cortar a medida. 
+
+3. Radiador pequeño de 6 , 8 o 10 lineas 
+
+![Adaptador universal](archivos_soporte/radiador_aceite/torta_universal_radiador_aceite.jpg)
+
+![Adaptador universal](archivos_soporte/radiador_aceite/radiador_universal.jpg)
+
+### De otras motos o autos
+
+La mayor complicación es conseguir las lineas de aceite para los radiadores especificos, podemos ir a una casa de hidráulica para que las fabriquen. Y conseguir los terminales o "racord" (los bulones perforados que permiten el paso de aceite en cada punta de manguera).
+
 
 https://motos.mercadolibre.com.ar/repuestos-cuatriciclos/radiador-aceite
 
@@ -759,13 +774,16 @@ Radiadores de las siguientes motos tienen dimensiones adecuadas
 
 * Zanella RZ 25
 * Gilera VC 200R
+* Mondial HD 254
+* YBR 250
+* etc 
 
-En el pasado se adaptaba el del Citroen 3CV pero es grande y feo.
+Automovil: en el pasado se adaptaba el del Citroën 3CV pero es grande y feo. Hay otros radiadores de direcciones hidraulicas o cajas de cambio que podrian servir, pero no lo investigue.
 
-La mayor complicacion es conseguir las lineas de aceite, podemos ir a una casa de hidraulica para que las fabriquen. Y conseguir los terminales o "racord" (los bulones perforados que permiten el paso de aceite en cada punta de manguera).
 
-Algunas casas de hidraulica en Argentina
-* http://www.todoflex.com.ar/ <- esta tiene todo, las magueras y los acoples necesarios
+Algunas casas de hidraulica en Argentina:
+
+* http://www.todoflex.com.ar/ <- esta tiene todo, las mangueras y los acoples necesarios
 * http://mangueraflexarg.com.ar/ <- catalogo muy completo
 * https://conman.com.ar/ <- tienen racords adecuados en catalogo
 * http://manguerashidraulicas.com/
