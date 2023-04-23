@@ -8,11 +8,11 @@ Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 17/11/2022** , ±163000 km recorridos sin problemas.
+**Documento Actualizado 23/04/2023** , ±183000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
-La tabla de contenidos se actualiza automaticamente, dar click en el icono sobre el margen izquierdo.
+La tabla de contenidos se actualiza automáticamente, dar click en el icono sobre el margen izquierdo.
 
 ![Tabla de contenido](archivos_soporte/contenido_help.jpg)
 
@@ -22,11 +22,11 @@ Estas notas nacieron para el mantenimiento de mis motos.
 
 Me encanta la Sportster, tengo varias hace mas de 17 años, y la disfruto muchisimo.
 
-El contenido esta en constante evolucion: cada vez que encuentro nueva información o soluciones, las agrego.
+El contenido esta en constante evolución: cada vez que encuentro nueva información o soluciones, las agrego.
 
-**No se olviden de mirarlas a menudo, van creciendo dia a dia.**
+**No se olviden de mirarlas a menudo, van creciendo día a día.**
 
-Ademas en la carpeta de archivos de soporte, hay informacion recopilada que puede ser muy util en el mantenimiento de la moto.
+Ademas en la carpeta de archivos de soporte, hay información recopilada que puede ser muy útil en el mantenimiento de la moto.
 
 Espero que la información les sea de mucha utilidad.
 
@@ -36,7 +36,7 @@ Gracias por leer!
 
 Amo las Sportster!
 
-Julio 2021, mis motos son:
+Abril 2023, mis motos son:
 * 2004 XL 883 - Mi primer amor!
 * 2005 XL 883 L - La que compre rota!
 * 2008 XL 1200 C - La que mas viaje!
@@ -45,7 +45,7 @@ Julio 2021, mis motos son:
 
 Lista de repuestos alternativos para Harley Davidson Sportster que se consiguen en Argentina. Puede servir también para otros paises, en un mundo globalizado todo es posible.
 
-Dado la situacion de Argentina, en permanente crisis, con constantes cepos a la importacion y a la moneda extranjera, se hace dificil mantener funcionando una moto importada.
+Dado la situación de Argentina, en permanente crisis, con constantes cepos a la importación y a la moneda extranjera, se hace difícil mantener funcionando una moto importada.
 
 Es por eso que recopile, a lo largo de mas de 17 años, una lista de repuestos alternativos para mantener la Harley Davidson Sportster en funcionamiento en optimas condiciones.
 
