@@ -2581,7 +2581,7 @@ La agencia Harley oficial se fue de Costa Rica, sin embargo es más facil conseg
 
 ## Torneria y rectificacion 
 
-* Precision Barquero : https://www.facebook.com/tallerdeprecisionbarquero
+* Precisión Barquero : https://www.facebook.com/tallerdeprecisionbarquero
 
 ## Insumos
 
@@ -2591,23 +2591,25 @@ La agencia Harley oficial se fue de Costa Rica, sin embargo es más facil conseg
 * eBay
 * Aeropost } traer de USA
 
-* Moto Llantas Virtual - tiene gomas, neumaticos, cubiertas - https://www.facebook.com/Motollantasvirtual/
+* Moto Llantas Virtual - tiene gomas, neumáticos, cubiertas - https://www.facebook.com/Motollantasvirtual/
 
 ## Aceites
 
 * Walmart tiene el Castrol Actevo 20w50 mas barato.
-* Todas las demas tambien venden aceites buenos. Se consigue el Motul 7100 20w50 por ejemplo.
+* Todas las demás también venden aceites buenos. Se consigue el Motul 7100 20w50 por ejemplo.
 
 ## Herramientas
 
 * Capris
 * EPA
+* El Lagar
 * Walmart
 * Universal de Tornillos y Herramientas
 
 ## Tornilleria
 
 * Universal de Tornillos y Herramientas
+* La Casa Del Tornillo
 
 ## Traer repuestos de EEUU
 
