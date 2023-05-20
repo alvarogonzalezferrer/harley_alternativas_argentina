@@ -801,9 +801,39 @@ Para encender el motor, necesitamos que gire el "burro", es decir el motor de ar
 
 Kit para reparar arranque, se suele dañar el solenoide.
 
+Si la batería esta buena, pero al darle arranque hace un solo click (no click click click), es muy probable que sea el solenoide sucio, gastado, o trabado. Se puede reparar sin sacar el burro de la moto, si tenemos mucha paciencia y algunas herramientas como el codo flexible, ya que uno de los tornillos esta en una posición medio incomoda. Es mejor bajar el arranque de la moto, pero eso implica drenar el aceite de la primaria y abrir la primaria para solar el burro. Queda a gusto de uno decidir que hacer, yo logre reparar el solenoide sin sacar el arranque de la moto, pero fue una tarea bastante tediosa.
+
+Nota: en la foto hay mas piezas de las necesarias, por que es un kit universal para big twin tambien. Realmente solo se necesitan las partes de bronce, y solo dos contactos, no cuatro como la foto.
+
 ![Solenoide](archivos_soporte/burro/kit_solenoide.jpg)
 
 Se puede usar automotriz, parece ser compatible con Hilux, Stratus y otros, llevar muestra al repuestero. 
+
+El kit de Reparacion De Solenoide Toyota Hilux Modelo Nippondenso es muy parecido, todavia no tuve oportunidad de compararlo en mano, pero se ve muy compatible en las fotos.
+
+# Arranque a patada - kickstarter
+
+Bueno, los modelos modernos de Sportster **NO** traen arranque a patada (kickstarter), pero existe un kit para convertirlas. 
+
+Es costoso, y complicado de poner, sobre todo en los modelos 2004 y mas modernas, donde hay que separar los carters del motor para poder hacerlo.
+
+Segun el año, es el kit, los hace V-Twin Manufacturing, hay para 1991 a 2003, 2004 a 2006, y 2007 en adelante. 
+
+![Kickstarter](archivos_soporte/patada/kit_conversion_a_patada.jpg)
+
+Se puede comprar en eBay, o aca 
+
+https://california-motorcycles.com/products/kit-pata-arranque-para-harley-davidson-sportster-kick-starter-conversion-kit
+
+https://www2.vtwinmfg.com/kick-starter-conversion-kit-chrome-3.html
+
+https://www2.vtwinmfg.com/catalogsearch/result/?q=kick+starter+conversion
+
+etc 
+
+En cuanto a esto, **yo NO lo compraria.**
+
+¿Cuánto desea REALMENTE desarmar y luego volver a armar su motor? Para poner un accesorio decorativo, casi inútil (los sistemas de arranque Evo Sporty son excelentes y fáciles de trabajar, no hay excusa para que uno no sea confiable) ? Si es absolutamente necesario tenerlo, consideraría mecanizar el extremo del eje principal original para que coincida con la pieza de Taiwán. No es mucho trabajo de torno (taladro central, taladro, rosca) y sabría que el resto del eje engrana correctamente con el resto de su caja de cambios. 
 
 # Cubiertas / Gomas / Cauchos / Llantas / Neumaticos
 
@@ -2300,31 +2330,6 @@ En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible,
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
 Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
-
-# Arranque a patada - kickstarter
-
-Bueno, los modelos modernos de Sportster NO traen arranque a patada (kickstarter), pero existe un kit para convertirlas. 
-
-Es costoso, y complicado de poner, sobre todo en los modelos 2004 y mas modernas, donde hay que separar los carters del motor para poder hacerlo.
-
-Segun el año, es el kit, los hace V-Twin Manufacturing, hay para 1991 a 2003, 2004 a 2006, y 2007 en adelante. 
-
-![Kickstarter](archivos_soporte/patada/kit_conversion_a_patada.jpg)
-
-Se puede comprar en eBay, o aca 
-
-https://california-motorcycles.com/products/kit-pata-arranque-para-harley-davidson-sportster-kick-starter-conversion-kit
-
-https://www2.vtwinmfg.com/kick-starter-conversion-kit-chrome-3.html
-
-https://www2.vtwinmfg.com/catalogsearch/result/?q=kick+starter+conversion
-
-etc 
-
-En cuanto a esto, yo NO lo compraria. 
-
-¿Cuánto desea REALMENTE desarmar y luego volver a armar su motor? Para poner un accesorio decorativo, casi inútil (los sistemas de arranque Evo Sporty son excelentes y fáciles de trabajar, no hay excusa para que uno no sea confiable) ? Si es absolutamente necesario tenerlo, consideraría mecanizar el extremo del eje principal original para que coincida con la pieza de Taiwán. No es mucho trabajo de torno (taladro central, taladro, rosca) y sabría que el resto del eje engrana correctamente con el resto de su caja de cambios. 
-
 
 # Catalogos online / comprar repuestos
 
