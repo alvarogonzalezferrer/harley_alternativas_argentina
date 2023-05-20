@@ -809,7 +809,7 @@ Nota: en la foto hay mas piezas de las necesarias, por que es un kit universal p
 
 Se puede usar automotriz, parece ser compatible con Hilux, Stratus y otros, llevar muestra al repuestero. 
 
-El kit de Reparacion De Solenoide Toyota Hilux Modelo Nippondenso es muy parecido, todavia no tuve oportunidad de compararlo en mano, pero se ve muy compatible en las fotos.
+El kit de Reparacion De Solenoide Toyota Hilux Modelo Nippondenso es muy parecido, todavía no tuve oportunidad de compararlo en mano, pero se ve muy compatible en las fotos. Y tambien el Embolo/ Automatico Impulsor Arranque de Hilux. El embolo de Toyota Corolla/Celica tambien parece ir, pero deberia medirlo bien.
 
 # Arranque a patada - kickstarter
 
