@@ -360,6 +360,8 @@ Si se permite que el motor se caliente a la temperatura normal de funcionamiento
 
 ## Kits oficiales de aceite
 
+*Yo creo que no tiene mucho sentido usar el kit oficial, a menos que la moto sea 0 km, y como se discontinuo, va a ser muy dificil que tengas una moto 0 km en garantía a menos que seas Marty McFly...*
+
 Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
 ### Oficial mineral
@@ -392,7 +394,7 @@ Hay muchas combinaciones de aceites que podemos usar, lo importante es usar uno 
 
 ### Económico
 
-*No recomendado, solo para desesperados*
+Esta combinación es casi omnipresente en toda Latinoamérica, el filtro **3614** y el aceite Castrol 20w50 **de moto** se encuentran fácilmente en cualquier pais, y sirve.
 
 * Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser, etc), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
 * Motor : Castrol Actevo 20w50 o Motul 3000 de moto; ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
