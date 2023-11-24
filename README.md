@@ -37,9 +37,10 @@ Gracias por leer!
 Amo las Sportster!
 
 Abril 2023, mis motos son:
-* 2004 XL 883 - Mi primer amor!
-* 2005 XL 883 L - La que compre rota!
-* 2008 XL 1200 C - La que mas viaje!
+
+- 2004 XL 883 - Mi primer amor!
+- 2005 XL 883 L - La que compre rota!
+- 2008 XL 1200 C - La que mas viaje!
 
 ## Alternativas de repuestos en Argentina
 
@@ -87,12 +88,11 @@ Mi profesión es Licenciado en Informática.
 
 Estos apuntes surgen dado que toda pasión lleva a conocer mas el objeto de adoración.
 
-[*"No detenga su motor, e investigue su interior"*](https://www.youtube.com/watch?v=FAyTabHw-Gk)
+[_"No detenga su motor, e investigue su interior"_](https://www.youtube.com/watch?v=FAyTabHw-Gk)
 
 # Mecánicos
 
-Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al concesionario oficial [Harley Davidson](https://www.harley-davidson.com.ar/
-).
+Cuando nos encontramos con un problema que supera nuestra habilidad, lo mejor es ir a un mecánico calificado, o al concesionario oficial [Harley Davidson](https://www.harley-davidson.com.ar/).
 
 Por suerte en Argentina tenemos excelentes mecanicos, honestos y profesionales, que pueden atender nuestras motos. No voy a recomendar ninguno en particular ya que todos los que estan establecidos son buenos. Comento que fui a varios y todos me atendieron excelentemente.
 
@@ -106,7 +106,7 @@ Pero repito, si el problema supera nuestra habilidad, **lo mejor es consultar a 
 
 ## Sportster 1957-2021. RIP
 
-Harley discontinuó la Sportster en 2021, y lanzó otro modelo, llamado Sportster S, con el mismo nombre, pero codigo *RH1250S Sportster*.
+Harley discontinuó la Sportster en 2021, y lanzó otro modelo, llamado Sportster S, con el mismo nombre, pero codigo _RH1250S Sportster_.
 
 Estos apuntes **NO** hablan del nuevo modelo RH1250S Sportster.
 
@@ -116,9 +116,9 @@ Igualmente, para no dejar totalmente sin ayuda a los nuevos propietarios de la S
 
 Estos manuales NO son para las Sportster modelos con motor refrigerado por aire de la serie "vieja" codigo XL, son para la **nueva** Sportster S, codigo RH
 
-* Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547687173511687457
+- Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547687173511687457
 
-* Catalogo de partes: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547686249569650976
+- Catalogo de partes: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547686249569650976
 
 > Owner's Manual:
 > Shipped with Harley SYN-BLEND 15w-50 motor oil.
@@ -140,27 +140,30 @@ De estos modelos se trata esta pagina.
 
 Harley tiene un portal de informacion tecnica aca: https://serviceinfo.harley-davidson.com/sip/index
 
-El manual del *propietario* se puede leer en la pagina oficial de Harley con nuestro **VIN** (numero de identificacion del vehiculo, esta en el cuadro y/o en la documentacion de la moto)
+El manual del _propietario_ se puede leer en la pagina oficial de Harley con nuestro **VIN** (numero de identificacion del vehiculo, esta en el cuadro y/o en la documentacion de la moto)
 
 https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm
 
-Las hojas de *servicio* de piezas de:
+Las hojas de _servicio_ de piezas de:
 
 https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm
 
 NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar y ejemplo de los manuales que se obtienen con esos VIN:
 
-1. Para noventosas 199x: *1HD1CAP14SY219269*  (1995)
-  * Manual del propietario 1995 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=6335&groupId=16
-  * Catalogo de partes 1995 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273239&groupId=14
+1. Para noventosas 199x: _1HD1CAP14SY219269_ (1995)
 
-2. Para carburadas 2004 a 2006: *5HD1CGP1X6K468728* (2006)
-  * catalogo de partes 2006 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273005&groupId=14
-  * manual de propietario 2006 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545139912053563680&groupId=16
+- Manual del propietario 1995 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=6335&groupId=16
+- Catalogo de partes 1995 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273239&groupId=14
 
-3. Para EFI, 2007 en adelante: *1HD1CT311CC442353* (2012) , *1HD4LE218LB434556* (2020)
-  * manual del propietario 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545140320163801375&groupId=16
-  * catalogo de partes 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273148&groupId=14
+2. Para carburadas 2004 a 2006: _5HD1CGP1X6K468728_ (2006)
+
+- catalogo de partes 2006 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273005&groupId=14
+- manual de propietario 2006 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545139912053563680&groupId=16
+
+3. Para EFI, 2007 en adelante: _1HD1CT311CC442353_ (2012) , _1HD4LE218LB434556_ (2020)
+
+- manual del propietario 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545140320163801375&groupId=16
+- catalogo de partes 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273148&groupId=14
 
 ## Manual de taller
 
@@ -170,90 +173,91 @@ Manuales para descargar:
 
 Notar que a veces se puede usar el mismo manual para varios modelos, por ejemplo:
 
-* 1986 a 2003 son bastante similares
-* 2004 a 2006 son los modelos similares con motor montado sobre goma y carburados
-* 2007 a 2012 son los modelos inyeccion EFI, con motor montado sobre goma
-* 2013 a 2021 son los modelos inyeccion EFI, con motor montado sobre goma, y cambios en la electronica, ABS, etc
+- 1986 a 2003 son bastante similares
+- 2004 a 2006 son los modelos similares con motor montado sobre goma y carburados
+- 2007 a 2012 son los modelos inyeccion EFI, con motor montado sobre goma
+- 2013 a 2021 son los modelos inyeccion EFI, con motor montado sobre goma, y cambios en la electronica, ABS, etc
 
 Si la informacion no la encontramos en un pack de manuales, podemos buscar en los de modelos de años proximos. Por ejemplo si tengo una 2005, me puedo fijar en la 2006 o la 2004...
 
-* [Manual de taller 2018](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2018.7z)
+- [Manual de taller 2018](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2018.7z)
 
-* [Manual de taller 2015](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2015.7z)
+- [Manual de taller 2015](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2015.7z)
 
-* [Manual de taller 2013](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2013.7z)
+- [Manual de taller 2013](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2013.7z)
 
-* [Manual de taller 2011](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2011.7z)
+- [Manual de taller 2011](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2011.7z)
 
-* [Manual de taller 2010](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010.7z)
+- [Manual de taller 2010](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010.7z)
 
-* [Manual de taller 2009](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009.7z)
+- [Manual de taller 2009](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009.7z)
 
-* [Manual de taller 2008](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2008.7z)
+- [Manual de taller 2008](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2008.7z)
 
-* [Manual de taller 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2006.7z)
+- [Manual de taller 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2006.7z)
 
-* [Manual de taller 2004 a 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual_JADE_NO_OFICIAL_MUY_BUENO.compressed.pdf)
+- [Manual de taller 2004 a 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual_JADE_NO_OFICIAL_MUY_BUENO.compressed.pdf)
 
-* [Manual de taller 2005](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005.7z)
+- [Manual de taller 2005](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005.7z)
 
-* [Manual de taller 2004](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2004.7z)
+- [Manual de taller 2004](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2004.7z)
 
-* [Manual de taller 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2003.7z)
+- [Manual de taller 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2003.7z)
 
-* [Manual de taller 2002](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2002.7z)
+- [Manual de taller 2002](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2002.7z)
 
-* [Manual de taller 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Harley-Davidson-Sportster-1986-2003-Service-Manual.compressed.pdf)
+- [Manual de taller 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Harley-Davidson-Sportster-1986-2003-Service-Manual.compressed.pdf)
 
-* [Manual de problemas comunes 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_troubleshooting_manual_CYCLETECH_1986_2003.compressed.pdf)
+- [Manual de problemas comunes 1986 a 2003](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_troubleshooting_manual_CYCLETECH_1986_2003.compressed.pdf)
 
-* [Manual de problemas comunes hasta 2003, otro](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_troubleshooting_manual.compressed.pdf)
+- [Manual de problemas comunes hasta 2003, otro](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_troubleshooting_manual.compressed.pdf)
 
-* [Manual de taller 1970 a 1978](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970_78_XL_XLH_XLCH_XLT_1000_Service_Manual.compressed.pdf)
+- [Manual de taller 1970 a 1978](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970_78_XL_XLH_XLCH_XLT_1000_Service_Manual.compressed.pdf)
 
-*Algunos manuales son en PDF o estan comprimidos, precisas software para abrirlos*
+_Algunos manuales son en PDF o estan comprimidos, precisas software para abrirlos_
 
-* 7-Zip para archivos comprimidos : https://www.7-zip.org/
-* Sumatra PDF para ver PDFs : https://www.sumatrapdfreader.org/free-pdf-reader
+- 7-Zip para archivos comprimidos : https://www.7-zip.org/
+- Sumatra PDF para ver PDFs : https://www.sumatrapdfreader.org/free-pdf-reader
 
 ## Buscar mas manuales
 
-* Comprar manuales online: https://motorcycle-manual-download.com/
+- Comprar manuales online: https://motorcycle-manual-download.com/
 
-* Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
+- Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
 
-* Foro con manuales **en español**: https://harleyexpert.com/resources/
+- Foro con manuales **en español**: https://harleyexpert.com/resources/
 
 Podemos buscar online usando los buscadores (probar todos los enlaces, cuesta encontrar pero están las cosas):
 
-* https://www.google.com/search?q=sportster+service+manual+filetype:pdf
+- https://www.google.com/search?q=sportster+service+manual+filetype:pdf
 
-* https://www.google.com/search?q=sportster+manual+taller+filetype:pdf
+- https://www.google.com/search?q=sportster+manual+taller+filetype:pdf
 
-* https://www.duckduckgo.com/?q=sportster+service+manual+filetype:pdf
+- https://www.duckduckgo.com/?q=sportster+service+manual+filetype:pdf
 
-* https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
+- https://www.duckduckgo.com/?q=sportster+manual+taller+filetype:pdf
 
 ## Despieces y microfichas:
-  * https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
-  * http://www.shopronniesharleydavidson.com/
-  * http://partsfinder.onlinemicrofiche.com/ronnies/partsfinder.htm
-  * https://shop.suburbanharley.com/oem-parts
-  * https://www.jerseyh-d.com/original-harley-davidson-parts/
 
-* Un foro con manuales: https://foroharley.com/forums/manuales-y-documentos.33/
+- https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
+- http://www.shopronniesharleydavidson.com/
+- http://partsfinder.onlinemicrofiche.com/ronnies/partsfinder.htm
+- https://shop.suburbanharley.com/oem-parts
+- https://www.jerseyh-d.com/original-harley-davidson-parts/
 
-* Enciclopedia de la Sportster online : http://sportsterpedia.com/doku.php/start
+- Un foro con manuales: https://foroharley.com/forums/manuales-y-documentos.33/
 
-* Foro Sportster : http://xlforum.net
+- Enciclopedia de la Sportster online : http://sportsterpedia.com/doku.php/start
 
-* Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
+- Foro Sportster : http://xlforum.net
+
+- Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
 # Mantenimiento
 
 El buen mantenimiento es sinónimo de una motocicleta segura. Se debe inspeccionar frecuentemente la motocicleta entre los intervalos regulares de servicio para establecer si es necesario un mantenimiento adicional.
 
-Aceite de motor se cambia cada 8000 km o un año, lo que ocurra primero. *En clima frio, y si la moto se usa en intervalos cortos sin dejar calentar apropiadamente el motor, se debe cambiar mas frecuentemente por la condensacion de agua en el aceite.*
+Aceite de motor se cambia cada 8000 km o un año, lo que ocurra primero. _En clima frio, y si la moto se usa en intervalos cortos sin dejar calentar apropiadamente el motor, se debe cambiar mas frecuentemente por la condensacion de agua en el aceite._
 
 Aceite de primaria se cambia cada 16000 km.
 
@@ -311,7 +315,7 @@ No es ningún secreto que la línea Sportster, tal como la conocemos, está en s
 
 A partir de 2022, la Sportster no se vende mas. Fue reemplazada por una moto totalmente nueva, la Sportster S, que solo comparte el nombre con nuestra moto. Fin de una era.
 
-*Mas info* :
+_Mas info_ :
 
 https://haynes.com/en-us/tips-tutorials/harley-davidson-sportster-history-1970-2013
 
@@ -330,7 +334,7 @@ Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posible
 El motor lleva **3 US quarts**, que son **2.83 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
 La primaria lleva **1 US quart**, que es **0,946 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
 
-Ver la especificación API del aceite también, conviene que sea API SJ, SL, SM o SN (la mas moderna), además de JASO MA2. 
+Ver la especificación API del aceite también, conviene que sea API SJ, SL, SM o SN (la mas moderna), además de JASO MA2.
 
 Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**.
 
@@ -340,13 +344,13 @@ Si no se alcanzan los kilómetros en el año, **es recomendable cambiarlo una ve
 
 ## Resumen cambio de aceite
 
-Item  | Reemplazo | Periodo
---------|---------|---------
-Filtro aceite | Mahle, Hi Flo, Harley, etc, diámetro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm, válvula alivio max 12 PSI | 8000 km ó un año
-Motor aceite | Aceite de moto 20w50 mineral o sintético, spec JASO MA2, API SJ, SL, SM o SN | 8000 km ó un año
-Primaria aceite | Aceite de moto 20w50 **mineral**, spec JASO MA2, API SJ, SL, SM o SN | 16000 km ó dos años
+| Item            | Reemplazo                                                                                                      | Periodo             |
+| --------------- | -------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Filtro aceite   | Mahle, Hi Flo, Harley, etc, diámetro Ø exterior 75 mm, rosca 3/4"-16, altura ±86 mm, válvula alivio max 12 PSI | 8000 km ó un año    |
+| Motor aceite    | Aceite de moto 20w50 mineral o sintético, spec JASO MA2, API SJ, SL, SM o SN                                   | 8000 km ó un año    |
+| Primaria aceite | Aceite de moto 20w50 **mineral**, spec JASO MA2, API SJ, SL, SM o SN                                           | 16000 km ó dos años |
 
-## Clima frio y aceite  
+## Clima frio y aceite
 
 Lubricación a baja temperatura: Cambie el aceite del motor con frecuencia en climas más fríos. Si la motocicleta se conduce con frecuencia por menos de 24 km (15 mi), en temperaturas ambiente por debajo de 16° C (60,8 °F), reduzca los intervalos de cambio de aceite a 5000 km.
 
@@ -360,7 +364,7 @@ Si se permite que el motor se caliente a la temperatura normal de funcionamiento
 
 ## Kits oficiales de aceite
 
-*Yo creo que no tiene mucho sentido usar el kit oficial, a menos que la moto sea 0 km, y como se discontinuo, va a ser muy dificil que tengas una moto 0 km en garantía a menos que seas Marty McFly...*
+_Yo creo que no tiene mucho sentido usar el kit oficial, a menos que la moto sea 0 km, y como se discontinuo, va a ser muy dificil que tengas una moto 0 km en garantía a menos que seas Marty McFly..._
 
 Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits
 
@@ -368,62 +372,62 @@ Ver este enlace: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-cha
 
 ![Aceite HD360](archivos_soporte/aceite/hd360_kit.jpg)
 
-* Filtro : Harley original, viene negro y cromado
-* Motor : H-D 360 motorcycle oil
-* Primaria : H-D 360 motorcycle oil (Formula+ estaba siendo discontinuado pero parece que sigue existiendo)
-* Total aproximado : 55 USD
+- Filtro : Harley original, viene negro y cromado
+- Motor : H-D 360 motorcycle oil
+- Primaria : H-D 360 motorcycle oil (Formula+ estaba siendo discontinuado pero parece que sigue existiendo)
+- Total aproximado : 55 USD
 
 ### Oficial sintético
 
 ![Aceite SYN3](archivos_soporte/aceite/syn3_kit.jpg)
 
-* Filtro : Harley original, viene negro y cromado
-* Motor : H-D SYN3 motorcycle oil
-* Primaria : H-D SYN3 motorcycle oil
-* Total aproximado : 80 USD
+- Filtro : Harley original, viene negro y cromado
+- Motor : H-D SYN3 motorcycle oil
+- Primaria : H-D SYN3 motorcycle oil
+- Total aproximado : 80 USD
 
 ## No oficiales
 
 Hay muchas combinaciones de aceites que podemos usar, lo importante es usar uno que nos convenga donde vivimos, y ser consistente, no mezclar aceites diferentes en cada cambio...
 
 **Nota importante**
-  En caso de recurrir a aceite de auto, que esta permitido para emergencias según el manual:
-  * **NO USAR NUNCA** ACEITE QUE SEAN PARA AUTOS NAFTEROS
-  * NUNCA USAR LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
-  * Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA **SERVICIO PESADO**.
+En caso de recurrir a aceite de auto, que esta permitido para emergencias según el manual:
+
+- **NO USAR NUNCA** ACEITE QUE SEAN PARA AUTOS NAFTEROS
+- NUNCA USAR LOS QUE SEAN PARA NAFTEROS Y DIGAN APTOS DIESEL.
+- Y TENER EN CUENTA QUE EL ACEITE PARA DIESEL TIENE QUE SER PARA **SERVICIO PESADO**.
 
 ### Económico
 
 Esta combinación es casi omnipresente en toda Latinoamérica, el filtro **3614** y el aceite Castrol 20w50 **de moto** se encuentran fácilmente en cualquier pais, y sirve.
 
-* Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser, etc), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
-* Motor : Castrol Actevo 20w50 o Motul 3000 de moto; ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
-* Primaria : Castro Actevo o Motul 3000 20w50, 1 litro, 7 USD
-* Total aproximado de servicio básico : 37 USD a 50 USD
+- Filtro : FRAM PH3614 (Hilux, Neon, PT Cruiser, etc), FRAM PH6022 (8 USD), Mahle OC1021 (10 USD), HiFlo negro HF170B (10 USD) o HiFlo HF170C cromado (15 USD)
+- Motor : Castrol Actevo 20w50 o Motul 3000 de moto; ó si estas **MUY** desesperado, Castrol Viscus 25w60 motores DIESEL, 20 USD
+- Primaria : Castro Actevo o Motul 3000 20w50, 1 litro, 7 USD
+- Total aproximado de servicio básico : 37 USD a 50 USD
 
 ### Sintético
 
 En 2021 se consigue el aceite Mannol V-Twin 20w50 que dice ser sintético en su envase.
 
-Tambien vi Putoline Genuine V-twin 20w50, y algunos Valvoline SynPower en 15w50. 
+Tambien vi Putoline Genuine V-twin 20w50, y algunos Valvoline SynPower en 15w50.
 
 Ipone recomienda el Full Power Katana 15w50.
 
-**NOTA IMPORTANTE**: si tenemos embrague no original, SOLO USAR ACEITE MINERAL O EL QUE RECOMIENDE EL FABRICANTE (Barnett, Energy One, etc) 
+**NOTA IMPORTANTE**: si tenemos embrague no original, SOLO USAR ACEITE MINERAL O EL QUE RECOMIENDE EL FABRICANTE (Barnett, Energy One, etc)
 
 ### Semi sintético
 
-* Filtro : HiFlo cromado HF170C
-* Motor: Castrol Power 1 4T 15w50 / Castrol Actevo X-Tra 20W50 / Motul 5100 15w50 / Ipone Road Twin 15w50 / Ipone R4000 RS 20W50 **recomendado** / Valvoline Durablend Moto 15w50 / Valvoline Durablend 4T moto 20w50 **preferido**
-* Primaria: alguno mineral 20w50 de primera calidad
+- Filtro : HiFlo cromado HF170C
+- Motor: Castrol Power 1 4T 15w50 / Castrol Actevo X-Tra 20W50 / Motul 5100 15w50 / Ipone Road Twin 15w50 / Ipone R4000 RS 20W50 **recomendado** / Valvoline Durablend Moto 15w50 / Valvoline Durablend 4T moto 20w50 **preferido**
+- Primaria: alguno mineral 20w50 de primera calidad
 
 ### Mineral
 
-*Nota: es fácil conseguir reemplazos para esta opción, hay Motul tambien, IPone, Silkolene, etc*
+_Nota: es fácil conseguir reemplazos para esta opción, hay Motul tambien, IPone, Silkolene, etc_
 
-* Filtro: Mahle o HiFlo
-* Motor & Primaria: Castrol Actevo 20W50 / Silkolene V-twin 20w50 / Motul 3000 20w50 / Ipone R4000 RS 20W50 (semi syn) / etc
-
+- Filtro: Mahle o HiFlo
+- Motor & Primaria: Castrol Actevo 20W50 / Silkolene V-twin 20w50 / Motul 3000 20w50 / Ipone R4000 RS 20W50 (semi syn) / etc
 
 # Aceite de motor
 
@@ -435,29 +439,31 @@ Hay varias opciones, idealmente aceite para moto, en emergencia se puede usar ac
 
 Se puede usar aceite mineral, o sintético (lo importante es **NO MEZCLAR**, y no andar alternando a cada rato de aceites y marcas). Por muchos años Harley recomendó aceite mineral, pero en los últimos años se paso a recomendar aceite sintético, y a dejar de recomendar el mineral (e incluso discontinuar el Formula+).
 
-Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir épocas *"nacionales y populares"* donde se prohíbe la importación.
+Vida útil : un aceite almacenado, **SELLADO** en su envase original, puede durar hasta **5 años**. Podemos tener aceites, y filtros, almacenados para sobrevivir épocas _"nacionales y populares"_ donde se prohíbe la importación.
 
 Observar lo siguiente de aceite:
 
-* Viscosidad : lo indica la norma **SAE**, por ejemplo **20w50**.
+- Viscosidad : lo indica la norma **SAE**, por ejemplo **20w50**.
 
-* Certificación del **API** (Instituto Americano de Petróleo), aditivos modernos: SJ (+2001), **SL (+2004), SM (+2010), SN,SP (+2020)** ; SA a SH inclusive son con aditivos **obsoletos** (motores de 1930 a 1996, evitarlos!)
+- Certificación del **API** (Instituto Americano de Petróleo), aditivos modernos: SJ (+2001), **SL (+2004), SM (+2010), SN,SP (+2020)** ; SA a SH inclusive son con aditivos **obsoletos** (motores de 1930 a 1996, evitarlos!)
 
-* Certificado **JASO** : al menos MA, idealmente **MA2**.
+- Certificado **JASO** : al menos MA, idealmente **MA2**.
 
 El JASO es una norma diseñada por la asociación japonesa de ingenieros de automoción. Se ideó a causa del problema que presentaban los embragues húmedos (bañados en aceite) presentes en las motocicletas japonesas.
 
 Mas info del certificado API :
-* https://www.api.org/products-and-services/es/eolcs-oil-categories#tab-gasoline
-* https://www.api.org/~/media/Files/Certification/Engine-Oil-Diesel/Publications/Motor%20Oil%20Guide%202020.pdf
-* https://www.widman.biz/Seleccion/certificacion.html
+
+- https://www.api.org/products-and-services/es/eolcs-oil-categories#tab-gasoline
+- https://www.api.org/~/media/Files/Certification/Engine-Oil-Diesel/Publications/Motor%20Oil%20Guide%202020.pdf
+- https://www.widman.biz/Seleccion/certificacion.html
 
 Mas info de la Viscosidad SAE :
-* https://www.widman.biz/Seleccion/viscosidad.html
+
+- https://www.widman.biz/Seleccion/viscosidad.html
 
 ## Recomendaciones de fabricantes
 
-*nota* mas info en la Sportsterpedia : http://sportsterpedia.com/doku.php/techtalk:ref:oil01
+_nota_ mas info en la Sportsterpedia : http://sportsterpedia.com/doku.php/techtalk:ref:oil01
 
 ### Harley Davidson
 
@@ -473,7 +479,7 @@ https://serviceinfo.harley-davidson.com/sip/service/procedure/133204184750635643
 
 > Las motocicletas se envían de fábrica con LUBRICANTE SINTÉTICO COMPLETO SCREAMIN 'EAGLE SYN3 20W50.
 >
->  Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor.
+> Si SYN3 no está disponible y se requiere agregar aceite de motor, la primera opción sería agregar ACEITE DE MOTOCICLETA GENUINO HARLEY-DAVIDSON H-D 360 20W50 al SYN3 para lubricar el motor.
 >
 > Aunque H-D 360 es compatible con SYN3, sugerimos cambiar la mezcla de fluidos lo antes posible.
 >
@@ -491,7 +497,7 @@ https://serviceinfo.harley-davidson.com/sip/service/procedure/133204184750635643
 
 **Valvoline Moto 20w50** -- especificación API vieja y obsoleta, SG de 1988, lo evitaria...
 
-**Valvoline Durablend 4T 20w50 - Semisintetico**  -- motor y primaria, es API SL, JASO MA2, preferido al común Valvoline, 
+**Valvoline Durablend 4T 20w50 - Semisintetico** -- motor y primaria, es API SL, JASO MA2, preferido al común Valvoline,
 
 **Bel-Ray** recomienda aceite sintetico 10w50 : https://www.belray.com/lubrication-myth-chaps-my-hide/ <- articulo INTERESANTE!
 
@@ -513,14 +519,15 @@ En sintético se consigue: **Motul 300V 15w50**, o **Motul 300V 20w60**, o **Mot
 
 https://www.motul.com/es/es/lubricants
 
-El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético, y el 300V es sintetico con esteres (seria el de mejor calidad).  
+El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético, y el 300V es sintetico con esteres (seria el de mejor calidad).
 
 **Castrol** recomienda para Sportster, motor Y primaria:
-* Castrol Power 1 Racing 4T 10W-50
-* Castrol Power 1 4T 20W-50
-* **Castrol Actevo 20W50** - este se consigue facil, sirve para motor y primaria, y muchos lo usan con éxito
-* **Castrol Actevo X-Tra 20w50** - semi synthetic -- preferido y facil de conseguir en Argentina
-* **Castrol Power 1 V-Twin 4T 20W-50** - preferido, no lo vi nunca en Argentina
+
+- Castrol Power 1 Racing 4T 10W-50
+- Castrol Power 1 4T 20W-50
+- **Castrol Actevo 20W50** - este se consigue facil, sirve para motor y primaria, y muchos lo usan con éxito
+- **Castrol Actevo X-Tra 20w50** - semi synthetic -- preferido y facil de conseguir en Argentina
+- **Castrol Power 1 V-Twin 4T 20W-50** - preferido, no lo vi nunca en Argentina
 
 **Silkolene** recomienda (motor y caja) **Silkolene V-Twin 20w50**, existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
 
@@ -536,9 +543,9 @@ Aceite Semisintético Moto Ipone R4000 Rs 4t 20w50 Ipone , recomendado por el se
 
 http://www.ipone.com.ar/
 
-**Mannol Sintetico 20w50** : http://www.mannol.com.ar/  -- formulado para Harley Davidson, Mannol Harley Davidson 20w50
+**Mannol Sintetico 20w50** : http://www.mannol.com.ar/ -- formulado para Harley Davidson, Mannol Harley Davidson 20w50
 
-**AMSOIL** recomienda **20w50** para motor  y primaria (no lo consegui en Argentina)
+**AMSOIL** recomienda **20w50** para motor y primaria (no lo consegui en Argentina)
 http://superoil.com/original/html/harley-davidson.htm
 
 https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synthetic-motorcycle-oil/?zo=537451
@@ -547,7 +554,7 @@ https://www.amsoil.com/shop/by-product/motor-oil/motorcycle/20w-50-advanced-synt
 
 Los españoles recomiendan **Gulf 20w50**, mineral (una porquería).
 
-**Shell** recomienda Shell Advance AX7 Semi Sintetico Moto 15w50 :  API SM y JASO MA2.
+**Shell** recomienda Shell Advance AX7 Semi Sintetico Moto 15w50 : API SM y JASO MA2.
 
 En caso de usar aceite de **automóvil** (yo lo evitaria a toda costa), recomiendan:
 
@@ -559,10 +566,10 @@ El filtro tiene que tener Rosca central de 3/4" de pulgada por 16 hilos. Y pocos
 
 Características
 
-* Altura : 86 mm -- esto puede variar *un poco*, algunos filtros son mas largos o mas cortos
-* Diámetro Ø exterior : 75 mm
-* Rosca : 3/4"-16
-* Alivio : 12 PSI max 
+- Altura : 86 mm -- esto puede variar _un poco_, algunos filtros son mas largos o mas cortos
+- Diámetro Ø exterior : 75 mm
+- Rosca : 3/4"-16
+- Alivio : 12 PSI max
 
 **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. - Codigo **OC 21**
 
@@ -571,15 +578,15 @@ Tambien hay un modelo "high performance" con un elemento filtrante mejorado, el 
 
 **CHAMPION** CHAMPION COF071C, lo vi en venta en ML en Mayo 2021
 
-**PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; *investigar que modelo le sirve..*
+**PUROLATOR** hace filtros de mejor calidad que FRAM (metal en lugar de carton en las tapas, etc, ver filtros cortados en internet) ; _investigar que modelo le sirve.._
 
 **FRAM** lista un filtro especifico para Harley Sportster en su sitio web, pero parece que no lo venden en Argentina, es para mercado USA :
 
-* FRAM PH6065B - cromado, válvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
+- FRAM PH6065B - cromado, válvula alivio a 7-9 PSI, parece que no se consigue en Argentina...
 
 http://www.fram.com/parts-search/PH6065B
 
-* FRAM PH6022 - negro, válvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
+- FRAM PH6022 - negro, válvula a 12 PSI, mas restrictivo. A veces aparece en Mercado Libre
 
 http://www.fram.com/parts-search/PH6022
 
@@ -590,16 +597,17 @@ Otras opciones de auto :
 **FRAM PH3614** es realmente un filtro casi omnipresente, le va a muchísimos modelos de autos, y esta disponible en casi todos los paises de América. Es el del Neon, Stratus, Hilux, y muchos mas. Tiene PSI 12 : https://catalogo.fram.com.ar/filtros/ficha/PH3614
 
 Otros alternativos que se publican en internet, y que pueden reemplazar el original de Harley:
-* FRAM PH3614 (es prácticamente el mismo que el PH6022)
-* Purolator PL14476
-* Mobil1 M1-102
-* Bosch 3330
-* Hastings LF410
-* WIX 51394
-* WEGA JFO-0050
-* FRAM PH 6022
-* MAHLE OC1021
-* TECFIL PSL637
+
+- FRAM PH3614 (es prácticamente el mismo que el PH6022)
+- Purolator PL14476
+- Mobil1 M1-102
+- Bosch 3330
+- Hastings LF410
+- WIX 51394
+- WEGA JFO-0050
+- FRAM PH 6022
+- MAHLE OC1021
+- TECFIL PSL637
 
 Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
 
@@ -607,13 +615,13 @@ Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene un
 
 # Aceite de primaria
 
-Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), *dejando de lado el antiguo Formula+ en 2020*.-
+Harley-Davidson recomienda un 100% sintético **Screaming Eagle SYN3** para la primaria, o el **H-D 360 motorcycle oil** (mineral), _dejando de lado el antiguo Formula+ en 2020_.-
 
 Embragues Barnett recomiendan un aceite **mineral** especifico para moto, con especificaciones JASO MA, o MA2 y viscosidad 20w50. Nunca usar aceite para automóviles.
 
 Embragues Energy One recomiendan aceite mineral de moto, o ATF (caja automatica), NO SINTETICO.
 
-En resumen:  se puede usar el mismo aceite que en el motor siempre que sea un aceite de **moto** con especificación JASO MA (MA2 mejor) al menos y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). Y convendria que sea mineral, si no sabemos que discos de embrague tiene la moto (puede no tener HD)
+En resumen: se puede usar el mismo aceite que en el motor siempre que sea un aceite de **moto** con especificación JASO MA (MA2 mejor) al menos y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). Y convendria que sea mineral, si no sabemos que discos de embrague tiene la moto (puede no tener HD)
 
 ## Análisis largo
 
@@ -621,13 +629,13 @@ Este es un tema casi "místico" en el mundillo Harley, hay quienes juran que si 
 
 El **HD Formula+** de primaria era el equivalente a un semi sintético de caja **80w90**, ó equivalente a uno de motor **20w50**.
 
-*Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360.*
+_Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360._
 
 Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
 
-El libro *"How to build a Harley Davidson Torque Monster"* recomienda usar un sintético: **75w90** de caja, o de moto **15w50** o **20w50**.
+El libro _"How to build a Harley Davidson Torque Monster"_ recomienda usar un sintético: **75w90** de caja, o de moto **15w50** o **20w50**.
 
-**Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** , y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos).  <- esto es MUY importante!
+**Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** , y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). <- esto es MUY importante!
 
 La etiqueta **JASO MA ó MA2**, garantizan que el lubricante no causará ningún tipo de problema a nuestros embragues bañados en aceite.
 
@@ -648,13 +656,13 @@ Castrol recomienda varias opciones:
 **Castrol Power 1 4T 20W-50**
 **Castrol Power 1 4T 15w50**
 
-Ipone recomienda Ipone RS 4000 20w50 
+Ipone recomienda Ipone RS 4000 20w50
 
-Mobil 1 recomienda  para primaria (nunca los consegui en Argentina)
+Mobil 1 recomienda para primaria (nunca los consegui en Argentina)
 
-* Mobil 1 Racing™ 4T 10W-40, but it is also okay to use Mobil 1™ V-Twin 20W-50.
-* **Mobil 1 15w50 full syn** (coincide con la recomendacion del libro)
-* Mobil 1 75w90 gear oil
+- Mobil 1 Racing™ 4T 10W-40, but it is also okay to use Mobil 1™ V-Twin 20W-50.
+- **Mobil 1 15w50 full syn** (coincide con la recomendacion del libro)
+- Mobil 1 75w90 gear oil
 
 De auto -- NO RECOMENDABLE, solo para desesperados:
 **Valvoline SynPower 75W-90 GL5** sirve y se consigue fácil.
@@ -669,7 +677,7 @@ También sirve un **75w90** o similar, pero certificado para usar en primarias c
 Tiene **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
 **IPone ROAD TWIN 4T 15W50** - semi sintetico
 
-*Mas informacion sobre aceite GL5 75w90:*
+_Mas informacion sobre aceite GL5 75w90:_
 
 GL5 Gear Oil - Is It Safe To Use In the Sporty? - ANSWERED - Harley Davidson Forums
 
@@ -684,13 +692,13 @@ https://www.redlineoil.com/75w90-gl-5-gear-oil - primaria
 > Thank you for contacting Red Line Oil, in the shared Sportster primary/transmission the 75W90 is recommended, a product that has been used extensively and performs well.
 > The 75W90 is the product we have have used for a number of years with very good results in Sportster/Buell transmissions, matching the viscosity and type fluid called for.
 > The 80W Motorcycle Gear Oil is a lower viscosity than called for, the ShockProof gear oils can due to their unique characteristics could cause sticking of the Harley clutches. The 75W90 would be preferred and recommended over 80W Motorcycle Gear Oil in these applications.
->There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings.
+> There can be issues with some GL-5 gear oils in certain applications. Some can be corrosive to brass, bronze or copper, not an issue with our GL-5 gear oils, they don’t cause corrosion, pitting or metal removal. In a synchro equipped transmission the friction modifiers contained in many gear oils can make them too slippery, though not the case in a motorcycle transmission with dog rings.
 
-*Traducción*
+_Traducción_
 
->Gracias por ponerse en contacto con Red Line Oil, en la transmisión + primaria Sportster se recomienda el 75W90, un producto que se ha utilizado mucho y que funciona bien.
->El 75W90 es el producto que hemos utilizado durante varios años con muy buenos resultados en transmisiones Sportster / Buell, igualando la viscosidad y el tipo de fluido requerido. El aceite para engranajes de motocicleta de 80W tiene una viscosidad más baja que la requerida, los aceites para engranajes a prueba de golpes pueden, debido a sus características únicas, causar atascos de los embragues de Harley. El 75W90 sería el preferido y recomendado sobre el aceite para engranajes de motocicleta de 80W en estas aplicaciones.
->Puede haber problemas con algunos aceites para engranajes GL-5 en determinadas aplicaciones. Algunos pueden ser corrosivos para el latón, bronce o cobre, no es un problema con nuestros aceites para engranajes GL-5, no causan corrosión, picaduras o remoción de metal. En una transmisión equipada con sincronización, los modificadores de fricción contenidos en muchos aceites para engranajes pueden hacerlos demasiado resbaladizos, aunque no es el caso de una transmisión de motocicleta con anillos de perro.
+> Gracias por ponerse en contacto con Red Line Oil, en la transmisión + primaria Sportster se recomienda el 75W90, un producto que se ha utilizado mucho y que funciona bien.
+> El 75W90 es el producto que hemos utilizado durante varios años con muy buenos resultados en transmisiones Sportster / Buell, igualando la viscosidad y el tipo de fluido requerido. El aceite para engranajes de motocicleta de 80W tiene una viscosidad más baja que la requerida, los aceites para engranajes a prueba de golpes pueden, debido a sus características únicas, causar atascos de los embragues de Harley. El 75W90 sería el preferido y recomendado sobre el aceite para engranajes de motocicleta de 80W en estas aplicaciones.
+> Puede haber problemas con algunos aceites para engranajes GL-5 en determinadas aplicaciones. Algunos pueden ser corrosivos para el latón, bronce o cobre, no es un problema con nuestros aceites para engranajes GL-5, no causan corrosión, picaduras o remoción de metal. En una transmisión equipada con sincronización, los modificadores de fricción contenidos en muchos aceites para engranajes pueden hacerlos demasiado resbaladizos, aunque no es el caso de una transmisión de motocicleta con anillos de perro.
 
 # Temperatura del aceite
 
@@ -702,13 +710,13 @@ Se puede medir usando un tapón de aceite con termómetro, HD y otras marcas ven
 
 Ver este enlace:
 
-* https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
+- https://www.google.com/search?q=sportster+oil+dipstick+temperature+gauge
 
-* https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick
+- https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick
 
-Este tapón también se puede *fabricar* usando un termómetro de horno y modificando el original, o torneando uno.
+Este tapón también se puede _fabricar_ usando un termómetro de horno y modificando el original, o torneando uno.
 
-*Temperatura óptima del aceite según lo citado por Harley-Davidson en la edición de febrero de 2010 de la revista American Rider, página 49.*
+_Temperatura óptima del aceite según lo citado por Harley-Davidson en la edición de febrero de 2010 de la revista American Rider, página 49._
 
 > Pregunta: "¿Cuáles son las temperaturas óptimas de funcionamiento del aceite para los motores XL y Twin Cam? Además, ¿cuál es la temperatura máxima segura para cada uno?"
 >
@@ -719,7 +727,7 @@ Este tapón también se puede *fabricar* usando un termómetro de horno y modifi
 
 # Radiador de aceite
 
-**Primero fíjate si re-calienta (usando el tapón que mide temperatura de aceite, pasa de 300 F?), si no es necesario NO lo compres.
+\*\*Primero fíjate si re-calienta (usando el tapón que mide temperatura de aceite, pasa de 300 F?), si no es necesario NO lo compres.
 
 En climas fríos no es necesario, en climas tropicales o con veranos tórridos puede ser necesario, sobre todo en el 1200cc.
 
@@ -757,9 +765,9 @@ El kit básico casero seria:
 
 1. Adaptador para el filtro , podes buscar adaptador universal en ML, la "torta", que tenga la rosca adecuada (3/4"-16 UNF)
 
-2. Lineas de aceite, AN10 para la torta y el radiador, esto se puede fabricar, venden el kit de lineas y terminales para cortar a medida. 
+2. Lineas de aceite, AN10 para la torta y el radiador, esto se puede fabricar, venden el kit de lineas y terminales para cortar a medida.
 
-3. Radiador pequeño de 6 , 8 o 10 lineas 
+3. Radiador pequeño de 6 , 8 o 10 lineas
 
 ![Adaptador universal](archivos_soporte/radiador_aceite/torta_universal_radiador_aceite.jpg)
 
@@ -769,37 +777,34 @@ El kit básico casero seria:
 
 La mayor complicación es conseguir las lineas de aceite para los radiadores especificos, podemos ir a una casa de hidráulica para que las fabriquen. Y conseguir los terminales o "racord" (los bulones perforados que permiten el paso de aceite en cada punta de manguera).
 
-
 https://motos.mercadolibre.com.ar/repuestos-cuatriciclos/radiador-aceite
 
 Radiadores de las siguientes motos tienen dimensiones adecuadas
 
-* Zanella RZ 25
-* Gilera VC 200R
-* Mondial HD 254
-* YBR 250
-* etc 
+- Zanella RZ 25
+- Gilera VC 200R
+- Mondial HD 254
+- YBR 250
+- etc
 
 Automovil: en el pasado se adaptaba el del Citroën 3CV pero es grande y feo. Hay otros radiadores de direcciones hidraulicas o cajas de cambio que podrian servir, pero no lo investigue.
 
-
 Algunas casas de hidraulica en Argentina:
 
-* http://www.todoflex.com.ar/ <- esta tiene todo, las mangueras y los acoples necesarios
-* http://mangueraflexarg.com.ar/ <- catalogo muy completo
-* https://conman.com.ar/ <- tienen racords adecuados en catalogo
-* http://manguerashidraulicas.com/
-* https://www.hidraulicagomar.com.ar/
-* http://www.hidraulicasanfco.com.ar/
+- http://www.todoflex.com.ar/ <- esta tiene todo, las mangueras y los acoples necesarios
+- http://mangueraflexarg.com.ar/ <- catalogo muy completo
+- https://conman.com.ar/ <- tienen racords adecuados en catalogo
+- http://manguerashidraulicas.com/
+- https://www.hidraulicagomar.com.ar/
+- http://www.hidraulicasanfco.com.ar/
 
-
-# Motor de arranque / arrancador / burro / starter 
+# Motor de arranque / arrancador / burro / starter
 
 Para encender el motor, necesitamos que gire el "burro", es decir el motor de arranque.
 
 ![Arranque](archivos_soporte/burro/burro.jpg)
 
-**seccion en desarrollo* 
+\*_seccion en desarrollo_
 
 Kit para reparar arranque, se suele dañar el solenoide.
 
@@ -809,21 +814,21 @@ Nota: en la foto hay mas piezas de las necesarias, por que es un kit universal p
 
 ![Solenoide](archivos_soporte/burro/kit_solenoide.jpg)
 
-Se puede usar automotriz, parece ser compatible con Hilux, Stratus y otros, llevar muestra al repuestero. 
+Se puede usar automotriz, parece ser compatible con Hilux, Stratus y otros, llevar muestra al repuestero.
 
 El kit de Reparacion De Solenoide Toyota Hilux Modelo Nippondenso es muy parecido, todavía no tuve oportunidad de compararlo en mano, pero se ve muy compatible en las fotos. Y tambien el Embolo/ Automatico Impulsor Arranque de Hilux. El embolo de Toyota Corolla/Celica tambien parece ir, pero deberia medirlo bien.
 
 # Arranque a patada - kickstarter
 
-Bueno, los modelos modernos de Sportster **NO** traen arranque a patada (kickstarter), pero existe un kit para convertirlas. 
+Bueno, los modelos modernos de Sportster **NO** traen arranque a patada (kickstarter), pero existe un kit para convertirlas.
 
 Es costoso, y complicado de poner, sobre todo en los modelos 2004 y mas modernas, donde hay que separar los carters del motor para poder hacerlo.
 
-Segun el año, es el kit, los hace V-Twin Manufacturing, hay para 1991 a 2003, 2004 a 2006, y 2007 en adelante. 
+Segun el año, es el kit, los hace V-Twin Manufacturing, hay para 1991 a 2003, 2004 a 2006, y 2007 en adelante.
 
 ![Kickstarter](archivos_soporte/patada/kit_conversion_a_patada.jpg)
 
-Se puede comprar en eBay, o aca 
+Se puede comprar en eBay, o aca
 
 https://california-motorcycles.com/products/kit-pata-arranque-para-harley-davidson-sportster-kick-starter-conversion-kit
 
@@ -831,11 +836,11 @@ https://www2.vtwinmfg.com/kick-starter-conversion-kit-chrome-3.html
 
 https://www2.vtwinmfg.com/catalogsearch/result/?q=kick+starter+conversion
 
-etc 
+etc
 
 En cuanto a esto, **yo NO lo compraria.**
 
-¿Cuánto desea REALMENTE desarmar y luego volver a armar su motor? Para poner un accesorio decorativo, casi inútil (los sistemas de arranque Evo Sporty son excelentes y fáciles de trabajar, no hay excusa para que uno no sea confiable) ? Si es absolutamente necesario tenerlo, consideraría mecanizar el extremo del eje principal original para que coincida con la pieza de Taiwán. No es mucho trabajo de torno (taladro central, taladro, rosca) y sabría que el resto del eje engrana correctamente con el resto de su caja de cambios. 
+¿Cuánto desea REALMENTE desarmar y luego volver a armar su motor? Para poner un accesorio decorativo, casi inútil (los sistemas de arranque Evo Sporty son excelentes y fáciles de trabajar, no hay excusa para que uno no sea confiable) ? Si es absolutamente necesario tenerlo, consideraría mecanizar el extremo del eje principal original para que coincida con la pieza de Taiwán. No es mucho trabajo de torno (taladro central, taladro, rosca) y sabría que el resto del eje engrana correctamente con el resto de su caja de cambios.
 
 # Cubiertas / Gomas / Cauchos / Llantas / Neumaticos
 
@@ -860,32 +865,33 @@ Verifique el desgaste desigual de la banda de rodamiento, y cualquier deterioro 
 ## Medidas
 
 Harley proporciona una guia de tamaños de ruedas aqui :
-* https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf
-* Copia: https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/gomas/Harley_OE_and_Recommended_Replacement_Tires.pdf
+
+- https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf
+- Copia: https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/gomas/Harley_OE_and_Recommended_Replacement_Tires.pdf
 
 Esta guia puede estar incompleta, **VERIFICAR** antes de comprar que correspondan a tu modelo!!
 
 ### Delantera
 
-Modelos | Medida
---------|---------
-1983 a 2003 XL883 / 1200 / XR1000 | 100 90 19 / 2.15 x 19"
-2004+ XL | 100 90 19 / 2.15 x 19"
-XL883C / XL1200C / XL1200V | 90 90 21 - 2.15 x 21"
-+2010 XL1200X, +2018 XL1200XS | MT90B16 - 3.00 x 16"
-2008-2013 XR1200/X / 2017-2020 XL1200T Superlow | 120 70 18 - 3.5 x 18"
-+2016 XL1200CX | 120 70 19 / 3.00 x 19"
+| Modelos                                         | Medida                 |
+| ----------------------------------------------- | ---------------------- |
+| 1983 a 2003 XL883 / 1200 / XR1000               | 100 90 19 / 2.15 x 19" |
+| 2004+ XL                                        | 100 90 19 / 2.15 x 19" |
+| XL883C / XL1200C / XL1200V                      | 90 90 21 - 2.15 x 21"  |
+| +2010 XL1200X, +2018 XL1200XS                   | MT90B16 - 3.00 x 16"   |
+| 2008-2013 XR1200/X / 2017-2020 XL1200T Superlow | 120 70 18 - 3.5 x 18"  |
+| +2016 XL1200CX                                  | 120 70 19 / 3.00 x 19" |
 
 ### Trasera
 
-Modelos | Medida
---------|---------
-1981 a 2003 | 130 90 16 / 3.00 x 16"
-XL 2004+ y variantes | 150 80 16 / 3.00 x 16"
-2016+ XL1200CX | 150 70 18 /4.25 x 18"
-2008-2013 XR1200/X | 180 55 17 / 5.50 x 17"
-2011+ XL883L / XL1200T Superlow | 150 60 17 / 4.50 x 17"
-2014 a 2017 XL1200T | 150 70 17 / 4.50 x 17"
+| Modelos                         | Medida                 |
+| ------------------------------- | ---------------------- |
+| 1981 a 2003                     | 130 90 16 / 3.00 x 16" |
+| XL 2004+ y variantes            | 150 80 16 / 3.00 x 16" |
+| 2016+ XL1200CX                  | 150 70 18 /4.25 x 18"  |
+| 2008-2013 XR1200/X              | 180 55 17 / 5.50 x 17" |
+| 2011+ XL883L / XL1200T Superlow | 150 60 17 / 4.50 x 17" |
+| 2014 a 2017 XL1200T             | 150 70 17 / 4.50 x 17" |
 
 ### Tamaños máximos
 
@@ -899,7 +905,7 @@ Para poner ruedas mas anchas, hay que modificar de poco a mucho, segun el ancho,
 
 Estos son los tamaños máximos de cubiertas SIN modificar guardabarros stock, polea, etc.
 
-(Ver archivo adjunto para la tabla) - *TO-DO: sin hacer*
+(Ver archivo adjunto para la tabla) - _TO-DO: sin hacer_
 
 Nota: Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la Fate Gaucha, o la Pirelli, son baratas y tienen diente de perro (son agrícolas).
 
@@ -913,7 +919,7 @@ Hay otros: https://www.google.com/search?q=sportster+wide+tire+kit
 
 Fabrica: https://www.mpmotosport.com/ } fabrican ruedas de moto a medida, tambien rayos, aros, etc
 
-Para hacerlo fabricado, se usa la rueda del V-Rod,  se corta y ensancha el horquillon trasero.
+Para hacerlo fabricado, se usa la rueda del V-Rod, se corta y ensancha el horquillon trasero.
 
 Tambien hay que ponerle un espaciador a la polea delantera, y al eje de rueda. No es sencillo pero se puede hacer, te queda con una goma 240/40R-18 trasera si usas una rueda de V-Rod, que es 18" x 5.5"
 
@@ -928,8 +934,9 @@ En caso que queramos usar nuestra Sportster en caminos de ripio, lodo, etc, por 
 Tambien se recomienda ponerle una defensa al motor, y suspensiones altas de 13 pulgadas (recordar poner la pata larga tambien).
 
 Ver
-* https://www.youtube.com/watch?v=LKuYt_5O_6k
-* https://www.youtube.com/watch?v=tm7g6PjSVQg
+
+- https://www.youtube.com/watch?v=LKuYt_5O_6k
+- https://www.youtube.com/watch?v=tm7g6PjSVQg
 
 ### Goma Delantera Off Road
 
@@ -943,19 +950,19 @@ Si tenemos modelo con la rueda trasera **17" o 18"**, nuestras opciones son ampl
 
 En el caso de la **rueda 16"**, encontre pocos modelos que vienen con dibujo de trail. Otra idea es cambiar por un aro trasero 18" para tener mas opciones:
 
-* **Duro HF904 Median Dual-Sport Bias-Ply Rear Tire 130/90-16**, que es mas angosta que la 150 80 16 de los nuevos modelos (+2004 pero **igual sirve**. En modelos 2003 y anteriores que usan rueda de 130 de ancho queda perfecta.
+- **Duro HF904 Median Dual-Sport Bias-Ply Rear Tire 130/90-16**, que es mas angosta que la 150 80 16 de los nuevos modelos (+2004 pero **igual sirve**. En modelos 2003 y anteriores que usan rueda de 130 de ancho queda perfecta.
 
-* **Shinko E805 Rear 150/80/16** esta perfecta para modelos +2004. Nunca la vi en Argentina, deberia ser una importacion especial.  
+- **Shinko E805 Rear 150/80/16** esta perfecta para modelos +2004. Nunca la vi en Argentina, deberia ser una importacion especial.
 
-## Gomerias 
+## Gomerias
 
 Para comprar o cambiar la goma , en **Buenos Aires, Argentina**
 
-* Moto Vivac
-* 2TBoxes 
-* Cyclegom 
-* Gomeria Floresta 
-* Todo moto 935
+- Moto Vivac
+- 2TBoxes
+- Cyclegom
+- Gomeria Floresta
+- Todo moto 935
 
 Si saben alguna mas, me avisan!!
 
@@ -1053,7 +1060,7 @@ Ver : https://www.google.com/search?q=chrome+dress+up+kit+sportster
 
 Hay buenas casas de cromado en Argentina, donde pueden cromar y restaurar nuestras piezas metalicas.
 
-* Saavedra Cromados - http://cromadossaavedra.com.ar/ - EXCELENTE, aca hice cromar unas cosas con gran calidad. Aceptan(siguen?) cromar escapes.
+- Saavedra Cromados - http://cromadossaavedra.com.ar/ - EXCELENTE, aca hice cromar unas cosas con gran calidad. Aceptan(siguen?) cromar escapes.
 
 Av. García del Río 4522, Buenos Aires, Argentina
 
@@ -1061,9 +1068,9 @@ https://www.facebook.com/Est-Galvanotecnico-Saavedra-Cromados-875530772483854/
 
 Hacen reparaciones, cromados, niquelados, platil, cobreados, pulidos, bi niquel, niquel block, plateados, baño de oro, florentino, zincados, cobre viejo etc etc.
 
-* Cromados Albacrom - https://cromadosalbacrom.com/
+- Cromados Albacrom - https://cromadosalbacrom.com/
 
-* Cromados Peduto - excelente calidad, precio acorde, no acepta cromar escapes, al menos cuando yo los llame, preguntar igual por las dudas...
+- Cromados Peduto - excelente calidad, precio acorde, no acepta cromar escapes, al menos cuando yo los llame, preguntar igual por las dudas...
 
 y muchos más...
 
@@ -1091,9 +1098,9 @@ https://www.demaquinasyherramientas.com/herramientas-manuales/medicion-identific
 
 Encontré un catalogo online acá, ojo que algunas medidas están mal, **comparar con el tornillo original fisico siempre** antes de pedir!
 
-* https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
+- https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
 
-* http://sportsterpedia.com/doku.php/techtalk:ref:tools804
+- http://sportsterpedia.com/doku.php/techtalk:ref:tools804
 
 ## Tornillos de HD mas comunes
 
@@ -1101,13 +1108,13 @@ Aca hay una lista enorme, ver esto primero: http://sportsterpedia.com/doku.php/t
 
 Algunos tornillos comunes que siempre veo redondeados:
 
-* Filtro de aire tipo "lata de jamon" +2004: los dos tornillos externos son ALLEN PLANO 5/16 X 1/2 UNC
+- Filtro de aire tipo "lata de jamon" +2004: los dos tornillos externos son ALLEN PLANO 5/16 X 1/2 UNC
 
-* Tornillo soporte batería +2004:  HEXAGONAL  1/4 - 3/4 UNC -- SCREW 1/4-20 X 3/4 FLANGE
+- Tornillo soporte batería +2004: HEXAGONAL 1/4 - 3/4 UNC -- SCREW 1/4-20 X 3/4 FLANGE
 
-* Tornillo soporte tambor de la llave +2004: ALLEN BOTON INOXIDABLE 3/16 - 1/2 - UNC } EL MAS PROXIMO AL #10 -- SCREW NO. 10-24 X 1/2 SOCKET BUTTON HD
+- Tornillo soporte tambor de la llave +2004: ALLEN BOTON INOXIDABLE 3/16 - 1/2 - UNC } EL MAS PROXIMO AL #10 -- SCREW NO. 10-24 X 1/2 SOCKET BUTTON HD
 
-* Tornillos tapa de inspección cadena primaria: 41191-74A } **ESTE NO ESTOY SEGURO, LLEVAR LA MUESTRA, EL MANUAL TIENE MAL EL TAMAÑO! segun el manual son 1/4" de diametro, si pedis ese diametro te llegan unos tornillos gigantes, obviamente** **DEBUG, MEDIR Y CORREGIR**
+- Tornillos tapa de inspección cadena primaria: 41191-74A } **ESTE NO ESTOY SEGURO, LLEVAR LA MUESTRA, EL MANUAL TIENE MAL EL TAMAÑO! segun el manual son 1/4" de diametro, si pedis ese diametro te llegan unos tornillos gigantes, obviamente** **DEBUG, MEDIR Y CORREGIR**
 
 # Filtro de aire
 
@@ -1121,10 +1128,10 @@ Hay filtros de "alto flujo" o "personalizados" de todo tipo, es cuestion de mira
 
 ## Limpieza del filtro de aire
 
-*NOTA: PROCEDIMIENTO SOLO APLICA PARA MODELOS 2004 Y MAS MODERNOS CON EL FILTRO ORIGINAL!*
-*NOTA: Puede servir para otros filtros, aparentemente los modelos noventosos también tienen filtro lavable, confirmar con el manual del año correspondiente!*
+_NOTA: PROCEDIMIENTO SOLO APLICA PARA MODELOS 2004 Y MAS MODERNOS CON EL FILTRO ORIGINAL!_
+_NOTA: Puede servir para otros filtros, aparentemente los modelos noventosos también tienen filtro lavable, confirmar con el manual del año correspondiente!_
 
-*ATENCION*: Instale el filtro de aire **antes** de encender el motor. De lo contrario, puede entrar suciedad al motor y causar daño al motor.
+_ATENCION_: Instale el filtro de aire **antes** de encender el motor. De lo contrario, puede entrar suciedad al motor y causar daño al motor.
 
 A intervalos regulares, inspeccione el elemento del filtro de aire. Inspeccione más a menudo cuando las condiciones sean polvorientas.
 
@@ -1132,9 +1139,9 @@ A intervalos regulares, inspeccione el elemento del filtro de aire. Inspeccione 
 2. Inspeccione el elemento del filtro.
 3. Si es necesario, quite y limpie el elemento del filtro de aire.
 
-*ATENCION*: **No utilice gasolina ni solventes para limpiar el elemento del filtro. Los agentes limpiadores inflamables pueden provocar un incendio en el sistema de admisión de aire.**
+_ATENCION_: **No utilice gasolina ni solventes para limpiar el elemento del filtro. Los agentes limpiadores inflamables pueden provocar un incendio en el sistema de admisión de aire.**
 
-*NOTA*: No golpee el filtro contra una superficie dura para aflojar la suciedad. Reemplace el elemento del filtro si está dañado o si el elemento no se puede limpiar.
+_NOTA_: No golpee el filtro contra una superficie dura para aflojar la suciedad. Reemplace el elemento del filtro si está dañado o si el elemento no se puede limpiar.
 
 1. Lave el filtro en agua jabonosa tibia.
 2. Sostenga el filtro delante de una luz. El filtro está limpio si se puede ver la luz a través del mismo.
@@ -1153,11 +1160,11 @@ Ver en el manual de desarme cuantos cc lleva y a que intervalo se cambia
 
 ## Bomba de freno
 
-*informacion preliminar*
+_informacion preliminar_
 
 Los modelos mas nuevos traen ABS.
 
-La bomba se puede **reconstruir** (preferido), o cambiar. Para reconstruir buscar *"Master Cylinder Rebuild Kit"* , REAR o FRONT, depende si es trasero o frontal.
+La bomba se puede **reconstruir** (preferido), o cambiar. Para reconstruir buscar _"Master Cylinder Rebuild Kit"_ , REAR o FRONT, depende si es trasero o frontal.
 
 Para cambiar podemos poner original, marcas alternativas, o incluso chinas. Sobre todo la bomba de freno trasera de los modelos pre-ABS que es bastente generica.
 
@@ -1167,9 +1174,9 @@ Una muy parecida es la de la moto **AKT CR5 LONCIN** , que depende del mercado t
 
 Se pueden reconstruir / reempastar las pastillas con **ferodo** nuevo. Hay casas que lo hacen. Si conocen alguna cerca de Capital Federal me avisan. Lo mejor es cambiarlas por NUEVAS de primera marca, pero dada la pauperrima situacion del pais, esto es lo que queda...
 
-Testimonio de alguien que reempasto pastillas: *"les hice pegar los ferodos en Tosso frenos, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace"*
+Testimonio de alguien que reempasto pastillas: _"les hice pegar los ferodos en Tosso frenos, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace"_
 
-Nota: los ferodos deben ser de 8.5 mm de espesor (*TO-DO dato a confirmar con calibre en pastillas nuevas*)
+Nota: los ferodos deben ser de 8.5 mm de espesor (_TO-DO dato a confirmar con calibre en pastillas nuevas_)
 
 **EBC** van 10 puntos en seco y mojado, sino ver de reempastar las que ya tenes; en mi experiencia frenan mejor que las originales de Harley, sobre todo con lluvia.
 
@@ -1182,22 +1189,22 @@ Pastillas para Sportster : https://ebcbrakesdirect.com/motorcycle/harley-davidso
 Resumen EBC de pastillas de freno:
 **VERIFICAR ANTES DE COMPRAR, NO TENGO TODOS LOS AÑOS DE MOTOS!**
 
-*Nota*: si tiene doble caliper, precisa dos juegos delanteros. Por ejemplo la XL883R.
+_Nota_: si tiene doble caliper, precisa dos juegos delanteros. Por ejemplo la XL883R.
 
-*Nota*: hay varios compuestos mas blandos o duros, la HH es sinterizado, es la que me gusta a mi, frena mucho mas pero desgasta mas rapido los discos de freno; poner el compuesto que les guste a ustedes. Hay organico (suave, pero frena menos) y semi sinterizado también.
+_Nota_: hay varios compuestos mas blandos o duros, la HH es sinterizado, es la que me gusta a mi, frena mucho mas pero desgasta mas rapido los discos de freno; poner el compuesto que les guste a ustedes. Hay organico (suave, pero frena menos) y semi sinterizado también.
 
 **NOTA** : la XR1200R lleva pastillas especiales, ver la tabla!
 
-Modelo             | Delantera   | Trasera
--------------------|-------------|---------
-1979 a 1981        | FA071       | FA072
-1982 a 1983        | FA071       | FA078
-1984 a inicio 1987 | FA094       | FA078
-1987 a 1999        | FA094       | FA200
-2000-2003          | FA400       | FA400
-2004 a 2013        |  FA381HH    | FA387HH
-2014 a 2020        | FA640HH     | FA254HH
-XR1200 / XR1200X   | FA296HH (2u)| EPFA387HH
+| Modelo             | Delantera    | Trasera   |
+| ------------------ | ------------ | --------- |
+| 1979 a 1981        | FA071        | FA072     |
+| 1982 a 1983        | FA071        | FA078     |
+| 1984 a inicio 1987 | FA094        | FA078     |
+| 1987 a 1999        | FA094        | FA200     |
+| 2000-2003          | FA400        | FA400     |
+| 2004 a 2013        | FA381HH      | FA387HH   |
+| 2014 a 2020        | FA640HH      | FA254HH   |
+| XR1200 / XR1200X   | FA296HH (2u) | EPFA387HH |
 
 ## Discos de freno
 
@@ -1217,7 +1224,7 @@ Por las dudas, **verificar** en la tapa del deposito de liquido de frenos, y el 
 
 **DOT 5 y DOT 4 NO SE PUEDEN MEZCLAR**
 
-Ojo que **DOT 5 NO es lo mismo que DOT 5.1**!  DOT 5 es siliconado, y los demas NO lo son.
+Ojo que **DOT 5 NO es lo mismo que DOT 5.1**! DOT 5 es siliconado, y los demas NO lo son.
 
 Para DOT 4, Wagner Lockheed se fabrica en Argentina.
 
@@ -1240,9 +1247,10 @@ Las bujias marca Harley Davidson **6R12** tienen derivados en platinum, gold, et
 **NOTA**: esto solo aplica a **Sportster 883/1200**! - Otros modelos (XR1000, XL1100, y otras antiguas NO llevan esta bujia!)
 
 Las características son:
-* Diametro de rosca: 12mm
-* Largo de rosca: 19mm
-* Llave: 5/8" ó 16mm
+
+- Diametro de rosca: 12mm
+- Largo de rosca: 19mm
+- Llave: 5/8" ó 16mm
 
 **Champion RA8HC** : las tengo puestas en la 883 desde 2018, andan bien, son las mismas de Harley pero sin el logo impreso, se consiguen facil y barato en Argentina, las usan los motores Mercury 40/50/60 fuera de borda, buscar en casas de nautica.
 
@@ -1257,7 +1265,7 @@ Son las "iridium (IX), ¿se consiguen en Argentina? Son japonesas. Intenté comp
 
 NGK DR7EA -- son el equivalente de las Champion RA8HC, pero de marca NGK } **NO las recomiendo, llevan una llave de 18mm aunque su rosca y largo son identicas**
 
-Luz 0,8 mm - *TO-DO verificar con manual*
+Luz 0,8 mm - _TO-DO verificar con manual_
 
 Aca hay lista de alternativas:
 
@@ -1275,7 +1283,7 @@ https://www.sparkplug-crossreference.com/convert/CHAMP_PN/RA8HC
 
 Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años.
 
-Algo importante es verificar los **CCA** de la bateria *ANTES* de comprarla; al menos revisar sus dimensiones, la posicion del polo positivo, y sus CCA.
+Algo importante es verificar los **CCA** de la bateria _ANTES_ de comprarla; al menos revisar sus dimensiones, la posicion del polo positivo, y sus CCA.
 
 Este dato es fundamental conocerlo cuando vamos a utilizar nuestra baterías en aplicaciones donde exista una demanda de corriente alta o también conocido cómo pico de arranque. Cuanto más altos sean los CCA, mejor encenderá con el motor frío.
 
@@ -1289,15 +1297,15 @@ Lo mejor es buscar una batería según su equivalente en Yuasa, ya que son tomad
 
 Aqui un resumen, más abajo doy detalles. En negrita los años de moto más comunes en Argentina.
 
-Año(s)        |    Equivalencia Yuasa
---------------|-------------------------
-pre 1979      |  no tengo información todavía          
-1979 a 1985   |  YB16-B-CX, GYZ20H, YTX20H-BS
-1986 a 1996   |  YTX20H-BS
-**1997 a 2003**   |  YTX20HL-BS
-**2004 a 2020**   |  YTX14L-BS
+| Año(s)          | Equivalencia Yuasa           |
+| --------------- | ---------------------------- |
+| pre 1979        | no tengo información todavía |
+| 1979 a 1985     | YB16-B-CX, GYZ20H, YTX20H-BS |
+| 1986 a 1996     | YTX20H-BS                    |
+| **1997 a 2003** | YTX20HL-BS                   |
+| **2004 a 2020** | YTX14L-BS                    |
 
-*TO-DO : poner links a Mercado Libre etc para poder comprar*
+_TO-DO : poner links a Mercado Libre etc para poder comprar_
 
 ## Modelos 1979 a 1985
 
@@ -1325,15 +1333,15 @@ Buscando en Mercado Libre : **20HL BS** salen varios modelos teóricamente compa
 
 ## Modelos 2004 a 2020
 
-La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al **revés**, *se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables - TO-DO explicar mejor este procedimiento de emergencia / los cables que precisamos se hacen en talleres de auto-stereo*)
+La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al **revés**, _se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables - TO-DO explicar mejor este procedimiento de emergencia / los cables que precisamos se hacen en talleres de auto-stereo_)
 
 Características para buscar compatibles:
 
-Dato        | Detalle
-------------|-------------------------------
-Dimensiones | 150mm x 87mm x 145mm
-CCA minimo  | 200 (si tiene mas, mejor!)
-Voltaje     | 12 v
+| Dato        | Detalle                    |
+| ----------- | -------------------------- |
+| Dimensiones | 150mm x 87mm x 145mm       |
+| CCA minimo  | 200 (si tiene mas, mejor!) |
+| Voltaje     | 12 v                       |
 
 Yuasa hace dos modelos que sirven: **GYZ16HL** (alta performance) / **YTX14L-BS** (comun)
 
@@ -1347,52 +1355,56 @@ Buscando en Mercado Libre : **YTX14L** salen varios modelos teóricamente compat
 
 Estos modelos traen bornes que sirven, la puse en 883 y 1200 con buen resultado:
 
-**SLA Max BTX14HL** - va perfecto, testeada agosto 2019, mejor que la Motobatt, tiene mas CCA y por lo tanto arranca mas facil el motor. Esta es la que yo prefiero, por calidad y precio es la mejor. *Lamentablemente en 2020 esta dificil conseguirla en Argentina*
+**SLA Max BTX14HL** - va perfecto, testeada agosto 2019, mejor que la Motobatt, tiene mas CCA y por lo tanto arranca mas facil el motor. Esta es la que yo prefiero, por calidad y precio es la mejor. _Lamentablemente en 2020 esta dificil conseguirla en Argentina_
 
 https://www.facebook.com/bsbatteryargentina/
 
 https://bs-battery.com/btx14hl-sla-max/
 
-**Motobatt Gel MBTX12U** - Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt). A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas. *Nota: En Octubre 2020 no habia ni una en venta en Argentina, ¿que paso, alguien sabe?*
+**Motobatt Gel MBTX12U** - Esta la vengo usando hace años y anda bien, no es maravilla, pero sirve (la Motobatt). A partir de 2018 / 2019 cuesta mas conseguirla… están importando de otras marcas. _Nota: En Octubre 2020 no habia ni una en venta en Argentina, ¿que paso, alguien sabe?_
 
 **Motobatt MBYZ16HD** - Motobatt tiene un modelo especifico para Harley (color negro con letras naranjas), que sirve y entrega los CCA correctos. La de color amarillo se queda un poco corta en CCA con las motos EFI, mientras que la especifica para Harley es correcta en su potencia.
 
 https://www.motobatt.com/quadflex-batteries.html
 
-*Nota Octubre 2020: Motobatt esta vendiendo una version de litio para la Sportster a un precio delirante, superior a la bateria original de Harley, veremos que pasa luego de la pandemia...*
+_Nota Octubre 2020: Motobatt esta vendiendo una version de litio para la Sportster a un precio delirante, superior a la bateria original de Harley, veremos que pasa luego de la pandemia..._
 
 **Poweroad YG14L-BS** - Re chinas, baratas, nunca las probé pero me comentaron que sirven incluso en motos con EFI... en caso de estar desesperado la usaré. Se consiguen facil.
 
 TAMBIEN HAY BATERIAS DE **LITIO** COMPATIBLES, son carisimas, pero entregan muchisimos CCA y son livianas:
 Sirve la **WEX6L21-MF** -> http://www.wstandard-energy.com/en/statistics/w-products-en/07-w-standard-wex6l21-mf-21ah
 
-*Ideas a explorar: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD*
+_Ideas a explorar: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD_
 
 ## Cables de batería
 
 Se pueden hacer en cualquier casa de audio para autos.
 
 2004 - 2009
-* 70295-04A Battery To Starter Cable (with #70578-89 Rubber Boot)
-* 70296-04A Battery To Ground Cable
+
+- 70295-04A Battery To Starter Cable (with #70578-89 Rubber Boot)
+- 70296-04A Battery To Ground Cable
 
 2010 - 2013
-* 70295-10_ Battery To Starter Cable (with #70578-89 Rubber Boot)
-* 70296-04A Battery To Ground Cable
+
+- 70295-10\_ Battery To Starter Cable (with #70578-89 Rubber Boot)
+- 70296-04A Battery To Ground Cable
 
 2014 - present
-* 66000035 Battery Negative To Ground Cable
-* 66000036 Battery Positive To Starter Cable (with # 66000037 Rubber Boot)
+
+- 66000035 Battery Negative To Ground Cable
+- 66000036 Battery Positive To Starter Cable (with # 66000037 Rubber Boot)
 
 As per the J&P catalog.....
 
 1997-2003 XL
-* Positive OEM 70076-97 (9 3/4" length)
-* Negative OEM 70097-97 (12 1/2" length)
+
+- Positive OEM 70076-97 (9 3/4" length)
+- Negative OEM 70097-97 (12 1/2" length)
 
 # Luces
 
-Se consiguen todas en Argentina, son comunes. 
+Se consiguen todas en Argentina, son comunes.
 
 **MODELOS MAS NUEVOS LLEVAN LUCES LED, verificar ANTES de comprar**
 
@@ -1406,19 +1418,19 @@ Reemplazo para luz delantera en LED : **Harley DayMaker** y modelos similares.
 
 El modelo es de 5-3/4" (5.75", 14,6 cm) de diámetro, existen otras versiones en Amazon, Mercado Libre, y Ebay mucho mas baratas y que cumplen la misma función.
 
-## Trasera 
+## Trasera
 
 Trasera (freno y posición): OSRAM P27-7W 12V **3157** ; en modelos modernos es de LED.
 
 ## Giros
 
-Giros : 2013 y anteriores son luces de filamento. En modelos 2014 y superiores son de LED. *falta confirmarlo*
+Giros : 2013 y anteriores son luces de filamento. En modelos 2014 y superiores son de LED. _falta confirmarlo_
 
 En modelos para mercado USA, las luces de giro delanteras sirven de luz de posición también, tienen doble filamento. En modelo latino son de filamento simple.
 
 Bulbo 1157 (US) frente, 1156 o 1141 P21W trasero (y delantero latino).
 
-Se puede modernizar con luces LED los modelos mas antiguos, viene un kit. 
+Se puede modernizar con luces LED los modelos mas antiguos, viene un kit.
 
 También se puede cambiar solo el bulbo por uno LED, para no cambiar todo.
 
@@ -1452,7 +1464,7 @@ La opción preferida es eliminar la placa de resorte por completo instalando **d
 
 **Energy One tiene un reemplazo tambien:** https://www.energyoneclutches.com
 
-NOTA: yo puse en mi XL883L 2005 el Energy One BTX-11, eliminando la placa remachada, y la verdad es super super bueno. 
+NOTA: yo puse en mi XL883L 2005 el Energy One BTX-11, eliminando la placa remachada, y la verdad es super super bueno.
 
 Si bien es posible hacerlo en los modelos 1991 y anteriores con placas stock, una implementación más típica para los modelos 1986 y superiores es utilizar un kit completo de recambio con nuevas placas de acero y de fricción. Hay varios proveedores de estos kits, como Energy One, Barnett, Alto, etc, en varios materiales diferentes.
 
@@ -1466,26 +1478,26 @@ Además, las placas de embrague existentes pueden haberse deformado durante la f
 
 Puesto a cambiar, es mejor poner **partes mejores** que las originales, por ejemplo:
 
-* Energy One, kevlar: https://www.energyoneclutches.com/
-* Barnett, kevlar: https://www.barnettclutches.com/ -- **"Extra Plate Clutch Kit- Kevlar"** o fibra de carbono, a eleccion.
-* Embrague Screamig Eagle P/N  38002-04 : https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04
-* Alto Products, tiene uno con remaches de acero inoxidable: https://www.altousa.com/
-
+- Energy One, kevlar: https://www.energyoneclutches.com/
+- Barnett, kevlar: https://www.barnettclutches.com/ -- **"Extra Plate Clutch Kit- Kevlar"** o fibra de carbono, a eleccion.
+- Embrague Screamig Eagle P/N 38002-04 : https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04
+- Alto Products, tiene uno con remaches de acero inoxidable: https://www.altousa.com/
 
 **Leer mas en:**
-* http://sportsterpedia.com/doku.php/techtalk:evo:priclutch01
-* https://duckduckgo.com/?q=sportster+grenade+plate
-* https://www.cyclepedia.com/sportster-spring-plate/
+
+- http://sportsterpedia.com/doku.php/techtalk:evo:priclutch01
+- https://duckduckgo.com/?q=sportster+grenade+plate
+- https://www.cyclepedia.com/sportster-spring-plate/
 
 ## Sacar y poner embrague
 
-### Resumen embrague 
+### Resumen embrague
 
 1. Necesitamos esta herramienta: https://www.youtube.com/watch?v=0dHhb4fs96A
 
 2. Asi se cambia: https://www.youtube.com/watch?v=oQcbgr2arsw
 
-### Explicacion embrague 
+### Explicacion embrague
 
 Para sacar el embrague precisamos comprimirlo con una herramienta especial.
 
@@ -1493,7 +1505,7 @@ Podemos comprar la herramienta (USD +70), o fabricarla muy barato con un tubo de
 
 ![Sacar embrague](archivos_soporte/embrague/herramienta_comprimir_embrague.jpg)
 
-Herramienta casera para comprimir: 
+Herramienta casera para comprimir:
 
 https://www.youtube.com/watch?v=zQnlt8twX3k
 
@@ -1511,10 +1523,9 @@ Otro video de como poner el embrague: https://www.youtube.com/watch?v=oQcbgr2ars
 
 ### Instrucciones en PDF
 
-* [Instalar embrague, instrucciones de Harley](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_screaming_eagle_instalacion.pdf)
+- [Instalar embrague, instrucciones de Harley](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_screaming_eagle_instalacion.pdf)
 
-* [Instrucciones con fotos](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_instalar_con_fotos.pdf)
-
+- [Instrucciones con fotos](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_instalar_con_fotos.pdf)
 
 ## Discos de embrague
 
@@ -1522,13 +1533,13 @@ Otro video de como poner el embrague: https://www.youtube.com/watch?v=oQcbgr2ars
 
 **Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
 
-Se pueden reconstruir los viejos en **Tosso frenos**, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace. (*info Octubre 2020*)
+Se pueden reconstruir los viejos en **Tosso frenos**, es en Jesús María, pero a nivel país debe haber mucha gente que lo hace. (_info Octubre 2020_)
 
 Otro posible para reconstruir frenos y discos de embrague: FRAS-LE https://www.fras-le.com/
 
 **Info vieja**, parece que **Suberplastic se fundió en 2015**, investigar si continúa como cooperativa
 
-*Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)*
+_Se pueden reconstruir los viejos, preguntar aca: http://www.suberplastic.com.ar/ (INFO OBSOLETA)_
 
 ### Embrague centrifugo automatico
 
@@ -1540,11 +1551,11 @@ Ver **Rekluse Core EXP 3.0** : https://rekluse.com/product/core-exp-3-0-clutch/?
 
 Para saber el largo de los cables de embrague, acelerador, etc
 
-* https://www.motionpro.com/
+- https://www.motionpro.com/
 
-* https://magnumshielding.com
+- https://magnumshielding.com
 
-* https://catalog.zodiac.nl/en/15-control-cables-hydraulic-lines-27863
+- https://catalog.zodiac.nl/en/15-control-cables-hydraulic-lines-27863
 
 # Juntas para el motor y otras partes
 
@@ -1586,36 +1597,35 @@ http://www.correasrincon.com.ar/
 
 # Pintura
 
-## Codigos de color 
+## Codigos de color
 
 Conseguir los códigos de color de Harley siempre fue un misterio bastante bien guardado, pero tengo algunos recursos.
 
-Dos recursos que yo recopile: 
+Dos recursos que yo recopile:
 
-[Una lista de códigos de pintura PPG en este archivo de texto.](archivos_soporte/pintura/codigos_pintura_harley_PPG.txt) 
+[Una lista de códigos de pintura PPG en este archivo de texto.](archivos_soporte/pintura/codigos_pintura_harley_PPG.txt)
 
 [Una base de datos de códigos de pintura recopilada en esta base de datos. Tocar "download", descomprimir el archivo en una carpeta, e ingresar en el archivo "index.html" con el navegador para ver los codigos. ](archivos_soporte/pintura/harley_color_database.zip)
 
-Y varios enlaces mas : 
+Y varios enlaces mas :
 
-* https://paintref.com/cgi-bin/colorcodedisplay.cgi?make=Harley%20Davidson
+- https://paintref.com/cgi-bin/colorcodedisplay.cgi?make=Harley%20Davidson
 
-* https://hdpaintcode.com/complete-harley-color-code-database/
+- https://hdpaintcode.com/complete-harley-color-code-database/
 
-* https://hdpaintcode.com/harley-davidson-paint-code-crossover/
+- https://hdpaintcode.com/harley-davidson-paint-code-crossover/
 
-## En Argentina 
+## En Argentina
 
 Tienen pintura de retoque en los colores de Harley:
 
-> PINTURERIAS VICTORICA  
+> PINTURERIAS VICTORICA
 >
 > Pinturería
 >
 > Dirección: Av. Victorica 951, B1744BWJ Gran Buenos Aires, Buenos Aires
 >
 > Teléfono:0237 462-2242
-
 
 # Carburador CV40 (2006 y anteriores)
 
@@ -1647,9 +1657,9 @@ Video de como **LIMPIAR** el carburador : https://www.youtube.com/watch?v=Pp4l-z
 
 Tutorial para reconstruir el carburador CV40:
 
-* parte 1 http://sportsterpedia.com/doku.php/techtalk:evo:carb01a
+- parte 1 http://sportsterpedia.com/doku.php/techtalk:evo:carb01a
 
-* parte 2 http://sportsterpedia.com/doku.php/techtalk:evo:carb02
+- parte 2 http://sportsterpedia.com/doku.php/techtalk:evo:carb02
 
 Identificar el carburador: http://sportsterpedia.com/doku.php/techtalk:evo:carb01b
 
@@ -1685,10 +1695,11 @@ Ver figuras:
 
 Para extraer la valvula, consultar el manual de taller.
 
-*NOTA* El filtro de fábrica parece insuficiente, quizás conviene poner un filtro externo de combustible generico.
+_NOTA_ El filtro de fábrica parece insuficiente, quizás conviene poner un filtro externo de combustible generico.
 
-*NOTA* Si el filtro estuviera perforado, debe ser cambiado, se busca como "petcock screen" ó "Late Style Petcock Replacement Screen"
-*
+_NOTA_ Si el filtro estuviera perforado, debe ser cambiado, se busca como "petcock screen" ó "Late Style Petcock Replacement Screen"
+
+-
 
 # Inyección EFI (2007 en adelante)
 
@@ -1706,7 +1717,7 @@ Hay muchos componentes automotrices que valen mucho menos que los originales Har
 
 Ver: https://www.jpcycles.com/motorcycle-fuel-injection-components
 
-*Los inyectores 2007-2017 son Deplhi* <- nota para mi, buscar un reemplazo automotriz
+_Los inyectores 2007-2017 son Deplhi_ <- nota para mi, buscar un reemplazo automotriz
 
 Mucha información sobre la EFI:
 
@@ -1726,29 +1737,28 @@ Ver este video: https://www.youtube.com/watch?v=j3JiSOjkuZ0
 
 Y mas información: https://california-motorcycles.com/blogs/mecanicaharley/como-ver-y-borrar-los-codigos-de-error-efi-de-harley-davidson
 
-*NOTA* Otra manera de diagnostico es usar un scanner ODB2, como el económico **ELM327**, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas fácil usar el diagnostico que trae la moto igualmente.
+_NOTA_ Otra manera de diagnostico es usar un scanner ODB2, como el económico **ELM327**, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas fácil usar el diagnostico que trae la moto igualmente.
 
 ### Diagnostico mediante cable ODB2
 
 Si por alguna razón no podemos usar el diagnostico integrado, (por ejemplo un velocimetro de otra marca), podemos usar un cable, con un lector ODB2 y una app.
 
-La manera mas sencilla es combinar lo siguiente : 
-* Cable J1850 de 4 pines a ODB2 (2001-2014), convierte la conexión OBD2 de 4 pines a 16 pines para su uso con tus escáneres o lectores OBD2 capaces de J1850, conectado a 
-* ELM327 bluetooth, conectado a 
+La manera mas sencilla es combinar lo siguiente :
 
-* Aplicaciones tipo [HarleyDroid](https://play.google.com/store/apps/details?id=org.harleydroid) o [RPMitUP](https://play.google.com/store/apps/details?id=com.motorcycle.dashboard)
+- Cable J1850 de 4 pines a ODB2 (2001-2014), convierte la conexión OBD2 de 4 pines a 16 pines para su uso con tus escáneres o lectores OBD2 capaces de J1850, conectado a
+- ELM327 bluetooth, conectado a
 
-
+- Aplicaciones tipo [HarleyDroid](https://play.google.com/store/apps/details?id=org.harleydroid) o [RPMitUP](https://play.google.com/store/apps/details?id=com.motorcycle.dashboard)
 
 ![Cable ODB2](archivos_soporte/EFI/diagnostico/cable_diagnostico.jpg)
 
 ![ELM327](archivos_soporte/EFI/diagnostico/ELM327.jpg)
 
-Listo. Nota, el cable se puede comprar, o se puede hacer (en la carpeta EFI tengo los diagramas para hacerlo, aunque no vale la pena, mas barato comprarlo y ya). 
+Listo. Nota, el cable se puede comprar, o se puede hacer (en la carpeta EFI tengo los diagramas para hacerlo, aunque no vale la pena, mas barato comprarlo y ya).
 
 Hay escáneres especializados pero son muy caros para uso hogareño.
 
-También hay conectores de 6 y 10 pines, para otros años de Harley. El que yo menciono es el de 4 pines, años 2004 a 2013 inclusive. 
+También hay conectores de 6 y 10 pines, para otros años de Harley. El que yo menciono es el de 4 pines, años 2004 a 2013 inclusive.
 
 ## Limpiar los inyectores
 
@@ -1760,7 +1770,7 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 ## Diagnosticar inyectores
 
-* https://www.youtube.com/watch?v=H4HYD69TyuE
+- https://www.youtube.com/watch?v=H4HYD69TyuE
 
 ## Cambiar el filtro de nafta
 
@@ -1772,13 +1782,13 @@ Según el manual se reemplaza a las 100 mil millas, o sea 160 000 km, un poco op
 
 El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Dennis Kirk unos 20 dolares.
 
-* Ebay (mas barato) : https://www.ebay.com/sch/i.html?_nkw=sportster+fuel+filter+efi
+- Ebay (mas barato) : https://www.ebay.com/sch/i.html?_nkw=sportster+fuel+filter+efi
 
-* Dennis Kirk U$S 19 - P/N  1801082 : https://www.denniskirk.com/v-factor/oe-style-fuel-filter-kit-for-efi-models-75304-07a.p1801082.prd/1801082.sku
+- Dennis Kirk U$S 19 - P/N 1801082 : https://www.denniskirk.com/v-factor/oe-style-fuel-filter-kit-for-efi-models-75304-07a.p1801082.prd/1801082.sku
 
-* Drag Specialties U$S 40 - P/N 0707-0014 : https://www.dragspecialties.com/search;q=07070014
+- Drag Specialties U$S 40 - P/N 0707-0014 : https://www.dragspecialties.com/search;q=07070014
 
-* Harley ORIGINAL kit completo filtros US$ 110 - P/N 75304-07A
+- Harley ORIGINAL kit completo filtros US$ 110 - P/N 75304-07A
 
 ![Filtro de nafta EFI](archivos_soporte/EFI/filtro_nafta/filtro_nafta_reemplazables.jpg)
 
@@ -1786,29 +1796,29 @@ El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Denni
 
 ### Tutoriales para cambiar filto de nafta EFI
 
-* http://xlforum.net/forums/showthread.php?t=2014282
+- http://xlforum.net/forums/showthread.php?t=2014282
 
-* https://www.youtube.com/watch?v=EWng7GX_R44
+- https://www.youtube.com/watch?v=EWng7GX_R44
 
-* https://youtu.be/rGvAhi8XAGo
+- https://youtu.be/rGvAhi8XAGo
 
 ### Alternativas mas economicas filtro EFI
 
 Reemplazo para el **pre-filtro** alternativo y barato: el pre filtro de la Honda Xre 300 tiene medidas similares y va bien, hay muchos.
 
-*El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!*
+_El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!_
 
 Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el prefiltro): -- TRABAJO EN PROGRESO
 
 **Me falta medir el filtro de la Harley, diametro externo, interno y altura, para poder saber que filtro lo puede reemplazar.**
 
-Ver si hay filtro de nafta alternativo que le sirva a la bomba.- *// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva*
+Ver si hay filtro de nafta alternativo que le sirva a la bomba.- _// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva_
 
 CandidatoS a filtro de reemplazo barato -- NO VERIFIQUE MEDIDAS TODAVIA:
 
-* KTM - HF652, 5 USD en ML  : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
+- KTM - HF652, 5 USD en ML : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
 
-* Otro filtro posible es el HU719/6X del VW Vento 2.5, VER MEDIDAS A VER SI COINCIDEN, este tiene 125 alto, 31 interior, 64 exterior mm.
+- Otro filtro posible es el HU719/6X del VW Vento 2.5, VER MEDIDAS A VER SI COINCIDEN, este tiene 125 alto, 31 interior, 64 exterior mm.
 
 **Si alguien conoce algun filtro similar de menor precio, que me informe por favor**
 
@@ -1836,7 +1846,7 @@ Ver imagenes para referencia:
 
 ## Velocidad de ralenti / idle / regular
 
-La velocidad de ralentí / idle en las motos de inyección electrónica *no se puede alterar*. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
+La velocidad de ralentí / idle en las motos de inyección electrónica _no se puede alterar_. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
 
 La verdad es que **SI** se puede alterar la velocidad de ralentí, la moto de fábrica regula demasiado rapido para cumplir con los hippies de la Unión Europea, y sus normas de contaminación y ruido.
 
@@ -1858,17 +1868,17 @@ Cuando se apaga el encendido, el ECM 'reinicia' el IAC enviando suficientes puls
 
 El IAC dejará de tener control cuando el voltaje del TPS exceda el 1% (el acelerador está abierto), la batería cae por debajo de 9v o el VSS se vuelve mayor que 0 (la moto se está moviendo).
 
-Así es un IAC original eléctrico de Harley Sportster 
+Así es un IAC original eléctrico de Harley Sportster
 
 ![IAC original](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/original.jpg)
 
 El IAC manual es un invento que **puede tener muchas formas**, depende de quien lo fabrique, pero es mas o menos así:
 
-El de la foto lo hice yo con un torno manual, es el que tengo instalado en mi XL1200C ( pintado de negro alta temperatura antes de instalar ) 
+El de la foto lo hice yo con un torno manual, es el que tengo instalado en mi XL1200C ( pintado de negro alta temperatura antes de instalar )
 
 ![IAC manual](archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/prototipo.jpg)
 
-Este es otro, NO lo hice yo, esta mas desprolijo, pero también sirve: 
+Este es otro, NO lo hice yo, esta mas desprolijo, pero también sirve:
 
 ![IAC manual](archivos_soporte/EFI/control_IAC/control_IAC_manual_EFI_otra_version.jpg)
 
@@ -1880,7 +1890,7 @@ Y así fue ensamblado:
 
 [Los planos de CAD estan en los archivos de soporte, en la carpeta EFI](archivos_soporte/EFI/control_IAC)
 
-Aca se ve el pasaje de aire que abre y cierra la IAC, esta es la admision (sin el filtro de aire para ver mejor) 
+Aca se ve el pasaje de aire que abre y cierra la IAC, esta es la admision (sin el filtro de aire para ver mejor)
 
 ![Paso de aire ralenti](archivos_soporte/EFI/control_IAC/explicacion-ralenti-bajo-en-efi/sin-filtro2.jpg)
 
@@ -1897,11 +1907,12 @@ Con la adopción de la inyección electrónica es necesario que los diferentes s
 Esta comunicación se produce en lenguaje digital, es decir con “ceros y unos”, al igual que lo hacen nuestro ordenador personal o una tablet.
 
 ### HDLAN
+
 Hasta el 2011 el protocolo de comunicaciones utilizaba 1 cable y se basaba en es estándar J1850. A partir de este año se empezó a utilizar en los modelos Softail y posteriormente en la familia Dyna un protocolo más rápido, con 2 cables de comunicaciones, el HDLAN, basado en el estándar de automoción CAN BUS.
 
 Ver mas info en: https://california-motorcycles.com/blogs/mecanicaharley/el-sistema-de-comunicaciones-can-bus-de-harley-davidson-hdlan
 
-*TO-DO* **Pronto mas información.**
+_TO-DO_ **Pronto mas información.**
 
 # Amortiguadores traseros
 
@@ -1921,11 +1932,11 @@ http://sportsterpedia.com/doku.php/techtalk:evo:susp02
 
 Mucha info: http://sportsterpedia.com/doku.php/techtalk:evo:elec02?s[]=regulator
 
-*seccion en desarrollo - DZE 10181?*
+_seccion en desarrollo - DZE 10181?_
 
-Es una pieza que se quema a menudo! - *TO-DO explicar por que* http://xlforum.net/forums/archive/index.php/t-1648679.html
+Es una pieza que se quema a menudo! - _TO-DO explicar por que_ http://xlforum.net/forums/archive/index.php/t-1648679.html
 
-Revisar todo el circuito de carga! - *TO-DO explicar como* http://xlforum.net/forums/showpost.php?p=2239332
+Revisar todo el circuito de carga! - _TO-DO explicar como_ http://xlforum.net/forums/showpost.php?p=2239332
 
 **CUIDADO , SEGUN EL AÑO DE LA MOTO ES EL REGULADOR!!**
 
@@ -1952,9 +1963,9 @@ Es posible que el regulador de DZE se pueda adaptar, pero NO lo probe, en los mo
 
 http://dzecatalogo.com.ar/es/producto/10181/Harley%20Davison
 
-* Tension 12 V
-* Corriente 35 A
-* Tipo de entrada MONOFASICO
+- Tension 12 V
+- Corriente 35 A
+- Tipo de entrada MONOFASICO
 
 Hay que reutilizar las fichas del regulador de voltaje original, ya que el DZE trae las fichas peladas!! Prestar MUCHA atencion al cableado correcto.
 
@@ -1997,9 +2008,10 @@ Roland Sands
 etc
 
 ## Escapes nacionales (Argentina)
-*seccion en desarrollo*
 
-http://giacconeescapes.com/  o https://es-la.facebook.com/Giaccone001/ } estos fabrican para Harley Davidson a medida
+_seccion en desarrollo_
+
+http://giacconeescapes.com/ o https://es-la.facebook.com/Giaccone001/ } estos fabrican para Harley Davidson a medida
 
 http://www.escapesfabian.com.ar/
 
@@ -2021,7 +2033,7 @@ Es posible obtener mucha mas performance que la que viene de fábrica en la moto
 
 ¿Que tanta potencia podemos obtener? Depende de cuanto queremos gastar... hay una relación directamente proporcional entre $ invertido y hp conseguido.
 
-Lo más barato, y común es hacer un Stage 1, y/o convertir una 883 a 1200 (*1250cc, 1275cc*)
+Lo más barato, y común es hacer un Stage 1, y/o convertir una 883 a 1200 (_1250cc, 1275cc_)
 
 En cuanto a las etapas, notar que hay que hacerlas escalonadas, es decir para hacer un Stage 3, primero hay que hacer el 2 y el 1.
 
@@ -2039,7 +2051,7 @@ Ideal para conductores que desean mejorar el rendimiento, el aspecto y el sonido
 
 La etapa 1 ofrece el paso más rentable para mejorar el rendimiento. Combine cualquier filtro de aire y escape de alto flujo, junto con la calibración de ECM adecuada para aumentar el flujo de aire dentro y fuera del motor y sentirá un aumento de hasta un 10% en el rendimiento en todo el rango de RPM.
 
-*TO-DO : agregar informacion*
+_TO-DO : agregar informacion_
 
 ## Stage 2
 
@@ -2104,7 +2116,7 @@ Pistones VT No: 11-0852
 
 Se puede cambiar solo los pistones, rectificando los cilindros, **solo en modelos hasta el año 2007** (2008 en adelante NO) se puede rectificar los cilindros 883 para usar pistones 1200, a partir de ese año Harley puso camisas mas finas y ya no se puede rectificar un 883 a 1200, es necesario poner cilindros nuevos mas grandes. Ver boletín de servicio HD 1267 -> http://sportsterpedia.com/lib/exe/fetch.php/pdf-bulletin:tsb1267.pdf
 
-Procedimiento de rectificado de cilindros: https://serviceinfo.harley-davidson.com/sip/service/document-pdf-print/1458190526785034497/J05101_528322_es_ES.xml 
+Procedimiento de rectificado de cilindros: https://serviceinfo.harley-davidson.com/sip/service/document-pdf-print/1458190526785034497/J05101_528322_es_ES.xml
 
 Lo mejor es cambiar pistones y cilindros (así viene la mayoría de los kits), y de paso ver el estado de las válvulas.
 
@@ -2124,21 +2136,21 @@ En este documento, esta bien explicado, varia mucho segun el año : https://www.
 
 El encendido original HD solo lo puede programar el dealer. Lo mejor es cambiar a un Daytona Twin Tec TC88, o a un Dynatek Dyna Performance
 
-* Daytona TC88A: http://www.daytona-twintec.com/tc88atwincamignition.aspx
+- Daytona TC88A: http://www.daytona-twintec.com/tc88atwincamignition.aspx
 
-*Ojo con la version TC88A EX !! Es para que sea legal en California, por las pavadas de contaminacion, NO comprar esa version!*
+_Ojo con la version TC88A EX !! Es para que sea legal en California, por las pavadas de contaminacion, NO comprar esa version!_
 
-* Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dyna-performance-digitial-ignition-module-cdi-for-2004-2006-harley-davidson-sportsters-dspt-1/
+- Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dyna-performance-digitial-ignition-module-cdi-for-2004-2006-harley-davidson-sportsters-dspt-1/
 
-*este modelo es mas barato pero tiene menos funcionalidad que el Daytona*
+_este modelo es mas barato pero tiene menos funcionalidad que el Daytona_
 
 ### Modelos EFI 2007 en adelante
 
-*TO-DO me falta info* , hay que reflashear o reprogramar el encendido, por ejemplo con un Dynojet Power Vision (no los que se adosan a la ECM como Fuel Pak, sino una repro real!!)
+_TO-DO me falta info_ , hay que reflashear o reprogramar el encendido, por ejemplo con un Dynojet Power Vision (no los que se adosan a la ECM como Fuel Pak, sino una repro real!!)
 
-* Dynojet Power Vision : https://www.dynojet.com/power-vision/
+- Dynojet Power Vision : https://www.dynojet.com/power-vision/
 
-* Vance&Hines FP3 :  **NO anda bien para un kit 1250**, es mejor el Power Vision!
+- Vance&Hines FP3 : **NO anda bien para un kit 1250**, es mejor el Power Vision!
 
 **SIEMPRE PROGRAMAR LA ECM ANTES DEL PRIMER ARRANQUE** con el kit 1250, O PODES DAÑAR EL MOTOR EN EL PRIMER ENCENDIDO!!
 
@@ -2150,7 +2162,7 @@ TO-DO falta info
 
 # Otros accesorios
 
-*Seccion en desarrollo*
+_Seccion en desarrollo_
 
 Puños, pedales, respaldos, manillares, asientos, etc, se fabrican personalizados, ó se compran por eBay, Amazon, etc.
 
@@ -2184,17 +2196,17 @@ Venden soportes impermeables para el celular, que se agarran del manillar, recor
 
 Celus Android:
 
-* [Waze](https://play.google.com/store/apps/details?id=com.waze) -- el mejor, aunque a veces busca rutas muy rebuscadas o te manda por el medio de una villa, te marca camaras de velocidad, policia, retenes, etc
-* [Maps.ME](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) -- permite descargar los mapas al celular y funciona sin conexion a internet! hay que tenerlo siempre, recordar bajar los mapas ANTES de salir de viaje
-* [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)  -- viene con el celular, marca las rutas mas tradicionales, no marca policia, camaras, ni nada, medio boton...
+- [Waze](https://play.google.com/store/apps/details?id=com.waze) -- el mejor, aunque a veces busca rutas muy rebuscadas o te manda por el medio de una villa, te marca camaras de velocidad, policia, retenes, etc
+- [Maps.ME](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) -- permite descargar los mapas al celular y funciona sin conexion a internet! hay que tenerlo siempre, recordar bajar los mapas ANTES de salir de viaje
+- [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) -- viene con el celular, marca las rutas mas tradicionales, no marca policia, camaras, ni nada, medio boton...
 
 Sitios utiles para planear viajes :
 
-* Open Street Map: https://www.openstreetmap.org/
-* Google Maps y Street View: https://www.google.com/maps
-* Wikimapia : https://wikimapia.org/
-* Ruta 0 : https://www.ruta0.com/ (solo argentina)
-* Waze Live Map : https://www.waze.com/es/live-map (ver trafico, policia, camaras, etc)
+- Open Street Map: https://www.openstreetmap.org/
+- Google Maps y Street View: https://www.google.com/maps
+- Wikimapia : https://wikimapia.org/
+- Ruta 0 : https://www.ruta0.com/ (solo argentina)
+- Waze Live Map : https://www.waze.com/es/live-map (ver trafico, policia, camaras, etc)
 
 ## Pedalines
 
@@ -2224,7 +2236,7 @@ Hay muchos modelos, algunos buenos, otros malisimos. Yo tengo los de **Kuryakyn 
 
 También hay guantes calefactores con baterías.
 
-## Controles de manillar 
+## Controles de manillar
 
 Los hay negros y cromados, estamos hablando de los botones del manillar como giros, encender, etc. Los de ciertos modelos de Keeway son compatibles, no lo investigue a fondo.
 
@@ -2244,9 +2256,9 @@ https://houseofhandlebar.mercadoshops.com.ar/
 
 **TO-DO - falta información**
 
-Los asientos sirven según el año y modelo, no todos son lo mismo. 
+Los asientos sirven según el año y modelo, no todos son lo mismo.
 
-Se dividen en familias. 
+Se dividen en familias.
 
 Hasta 2003 inclusive es un modelo.
 
@@ -2254,11 +2266,11 @@ Hasta 2003 inclusive es un modelo.
 
 2007 a 2009 llevan la compu bajo el asiento, necesitan un asiento especial , o se puede re ubicar la compu, o se puede recortar un cuadradito bajo el asiento para que la compu entre bien (con un dremel o similar)
 
-2004 a 2006 y 2010 a 2018? son compatibles 
+2004 a 2006 y 2010 a 2018? son compatibles
 
-En 2004 y mas nuevas, los tanques custom mas anchos, necesitan un asiento mas corto, los tanques gota es mas largo el asiento. El asiento corto le va bien a las gota y custom, el problema esta en el frente del asiento, la parte de atras calza mas o menos igual en toda esa generacion, salvo en las que tienen la compu bajo el asiento. 
+En 2004 y mas nuevas, los tanques custom mas anchos, necesitan un asiento mas corto, los tanques gota es mas largo el asiento. El asiento corto le va bien a las gota y custom, el problema esta en el frente del asiento, la parte de atras calza mas o menos igual en toda esa generacion, salvo en las que tienen la compu bajo el asiento.
 
-En general los asientos un tapicero los puede adaptar, o uno mismo con un poco de ingenio... Tambien se pueden fabricar haciendo una base de fibra y tapizandola... 
+En general los asientos un tapicero los puede adaptar, o uno mismo con un poco de ingenio... Tambien se pueden fabricar haciendo una base de fibra y tapizandola...
 
 Aca hablan bastante del asunto, con fotos: https://www.hdforums.com/forum/sportster-models/975513-seat-fitment-guidelines-for-04-06-07-09-and-2010-with-pics-factory-saddles.html
 
@@ -2278,7 +2290,7 @@ La defensa es bastante util para proteger el motor en caidas a baja velocidad (p
 
 Harley vende un par de modelos, pero el envio a Argentina los hace extremadamente caro...
 
-En https://houseofhandlebar.mercadoshops.com.ar/  hacen un clon de uno de los modelos.
+En https://houseofhandlebar.mercadoshops.com.ar/ hacen un clon de uno de los modelos.
 
 ## Portaequipajes
 
@@ -2286,7 +2298,7 @@ Hay parrillas o Portaequipajes para ponerles. Aca hacen un modelo : https://hous
 
 ## Otros
 
-*TO-DO : agregar link a LCM covers y Tapiceria GALCE para los asientos; y demas links a covers, puños, etc, Barlitop para las alforjas de cuero, y hay otros mas*
+_TO-DO : agregar link a LCM covers y Tapiceria GALCE para los asientos; y demas links a covers, puños, etc, Barlitop para las alforjas de cuero, y hay otros mas_
 
 # Llaves
 
@@ -2341,15 +2353,15 @@ Traer cosas del exterior a Argentina es siempre un dolor de cabeza, gracias a la
 
 Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
 
-* Tienda Mia: https://tiendamia.com/ar/invite/70506fb664fc94d
+- Tienda Mia: https://tiendamia.com/ar/invite/70506fb664fc94d
 
-* Grabr: https://grabr.io/invitation/alvaro-gonzalezd2
+- Grabr: https://grabr.io/invitation/alvaro-gonzalezd2
 
-* Valija de un amigo que viaje al exterior... ojo que la aduana esta picante...
+- Valija de un amigo que viaje al exterior... ojo que la aduana esta picante...
 
-* correo argentino y rezar mucho que llegue
+- correo argentino y rezar mucho que llegue
 
-* etc, debo investigar mas...
+- etc, debo investigar mas...
 
 {a desarrollar}
 
@@ -2357,9 +2369,9 @@ Podes pedir tus repuestos a EEUU con descuento usando los siguientes links:
 
 Sitios donde podemos comprar cosas para nuestra moto(s):
 
-Algunos son de USA, otros de Argentina *TO-DO falta ordenarlos*
+Algunos son de USA, otros de Argentina _TO-DO falta ordenarlos_
 
-*lista muy preliminar, mas info pronto*
+_lista muy preliminar, mas info pronto_
 
 https://www.dragspecialties.com/
 
@@ -2405,12 +2417,11 @@ https://www.ridefree.com.ar/productos
 
 Y Muchos Mas
 
-
 # Choppers
 
 ["Its a chopper, baby"](https://www.youtube.com/watch?v=2ue996GQMC8)
 
-*seccion en desarrollo*
+_seccion en desarrollo_
 
 ## Como armar una chopper
 
@@ -2454,31 +2465,37 @@ https://www.mpmotosport.com/ } fabrican ruedas de moto a medida
 
 # Equipo para andar en moto
 
-*Nueva seccion , en desarrollo! - DEBUG TODO*
+_Nueva seccion , en desarrollo! - DEBUG TODO_
 
-Equipamiento para viajar y andar en  moto 
+Equipamiento para viajar y andar en moto
 
-## Cascos 
+## Cascos
 
-*SIN HACER*
+_SIN HACER_
 
-## Guantes 
+## Guantes
 
-*SIN HACER*
+_SIN HACER_
 
-## Botas 
+## Botas
 
-*SIN HACER*
+_SIN HACER_
 
-## Camperas 
+## Camperas
 
-## Chalecos 
+## Chalecos
 
-## Pantalones 
+## Pantalones
 
-## Equipo calefaccionado para invierno 
+## Traje de lluvia
 
-Existe equipo calefaccionado para el invierno 
+Yo tengo Givi y LS2, ambos son buenos.
+
+Como doblar el traje de lluvia: https://www.youtube.com/watch?v=U0s4NPuX7ww
+
+## Equipo calefaccionado para invierno
+
+Existe equipo calefaccionado para el invierno
 
 https://sraggioweb.com.ar/
 
@@ -2486,49 +2503,49 @@ https://www.wanderwarm.com.ar/
 
 y otros
 
-tambien se le puede poner PUÑOS CALEFACCIONADOS A LA MOTO, hay varias marcas y modelos 
+tambien se le puede poner PUÑOS CALEFACCIONADOS A LA MOTO, hay varias marcas y modelos
 
-## Alforjas 
+## Alforjas
 
-*SIN HACER*
+_SIN HACER_
 
 ## Infladores / selladores
 
 Existen infladores a 12 V portatiles, y tambien auto contenidos con su propia bateria.
 
-En viajes largos yo tengo uno marca SPARCO que anda muy bien, ademas sirve de linterna y bateria USB. 
+En viajes largos yo tengo uno marca SPARCO que anda muy bien, ademas sirve de linterna y bateria USB.
 
 Xiaomi hace uno tambien muy popular : https://www.mi.com/global/product/xiaomi-portable-electric-air-compressor-1s/
 
-*SIN TERMINAR - TO DO*
+_SIN TERMINAR - TO DO_
 
-## Herramientas 
+## Herramientas
 
-*SIN HACER*
+_SIN HACER_
 
-## Mochilas 
+## Mochilas
 
-*SIN HACER*
+_SIN HACER_
 
-## Defensa personal 
+## Defensa personal
 
-La mejor defensa es evitar zonas peligrosas, evitar el conflicto, salir relajado a la calle. 
+La mejor defensa es evitar zonas peligrosas, evitar el conflicto, salir relajado a la calle.
 
 Igualmente siempre hay gente de mierda que intentara atacarte o tomar lo que no es suyo.
 
-Kit basico: Baston plegable + spray pimienta. 
+Kit basico: Baston plegable + spray pimienta.
 
 En paises que es legal portar
 
-* Taurus Judge 2 in > https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in
+- Taurus Judge 2 in > https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in
 
-* Ruger LCP II
+- Ruger LCP II
 
-* S&W 642 Airweight
+- S&W 642 Airweight
 
-*SIN TERMINAR*
+_SIN TERMINAR_
 
-# Anexo: Reparar roscas 
+# Anexo: Reparar roscas
 
 Fuente : https://noticias.coches.com/consejos/helicoil-como-se-usa/342900
 
@@ -2556,15 +2573,13 @@ Los insertos Helicoil no requieren selladores para que queden retenidos. Una vez
 
 ## Ventajas de usar un Helicoil
 
-* Resistencia a la corrosión y a la temperatura. Los materiales en los que se fabrican los insertos Helicoil (acero inoxidable, bronce fosforoso, titanio o aleaciones de Inconel) hacen que sean robustos y fiables incuso en condiciones de elevadas temperaturas y humedad.
+- Resistencia a la corrosión y a la temperatura. Los materiales en los que se fabrican los insertos Helicoil (acero inoxidable, bronce fosforoso, titanio o aleaciones de Inconel) hacen que sean robustos y fiables incuso en condiciones de elevadas temperaturas y humedad.
 
-* Durabilidad. Su calidad de construcción garantiza una elevada resistencia al desgaste. Se pueden enroscar y desenroscar muchos tornillos antes de que se estropee. Además, distribuyen de forma uniforme de cargas y tensiones.
+- Durabilidad. Su calidad de construcción garantiza una elevada resistencia al desgaste. Se pueden enroscar y desenroscar muchos tornillos antes de que se estropee. Además, distribuyen de forma uniforme de cargas y tensiones.
 
-* Gran sujeción. No es necesario ningún tipo de arandela o pasador para fijar un tornillo usando un Helicoil.
+- Gran sujeción. No es necesario ningún tipo de arandela o pasador para fijar un tornillo usando un Helicoil.
 
-* Menos fricción sobre la rosca. La fuerza que se ejerce sobre el tornillo se puede ajustar de forma más precisa, aprovechando más eficientemente su elasticidad.
-
-
+- Menos fricción sobre la rosca. La fuerza que se ejerce sobre el tornillo se puede ajustar de forma más precisa, aprovechando más eficientemente su elasticidad.
 
 # Anexo: Costa Rica
 
@@ -2572,61 +2587,60 @@ Información de como mantener una Sportster en Costa Rica
 
 La agencia Harley oficial se fue de Costa Rica, sin embargo es más facil conseguir repuestos que en Argentina!
 
-## Lugares útiles en CR 
+## Lugares útiles en CR
 
-* Motochopper
-* Harley Point
-* Harleywood Motorcycles
-* Planet Speed Costa Rica
-* H-D Motors S.A -- https://www.facebook.com/hdmotorscr/ - Cel 7109-0690 - Tel 2101-0095 - Tienen grua y son servicio tecnico ex-oficial Harley Davidson
-* Garaje 33
-* Moto Bike CR
-* Ragnarok -- https://www.facebook.com/ragnarokmotorcycles/
-* Motohouse
-* Locos Por Las Motos
-* etc
+- Motochopper
+- Harley Point
+- Harleywood Motorcycles
+- Planet Speed Costa Rica
+- H-D Motors S.A -- https://www.facebook.com/hdmotorscr/ - Cel 7109-0690 - Tel 2101-0095 - Tienen grua y son servicio tecnico ex-oficial Harley Davidson
+- Garaje 33
+- Moto Bike CR
+- Ragnarok -- https://www.facebook.com/ragnarokmotorcycles/
+- Motohouse
+- Locos Por Las Motos
+- etc
 
-## Torneria y rectificacion 
+## Torneria y rectificacion
 
-* Precisión Barquero : https://www.facebook.com/tallerdeprecisionbarquero
+- Precisión Barquero : https://www.facebook.com/tallerdeprecisionbarquero
 
 ## Insumos
 
-* AMSoil
-* Castrol
-* Amazon
-* eBay
-* Aeropost } traer de USA
+- AMSoil
+- Castrol
+- Amazon
+- eBay
+- Aeropost } traer de USA
 
-* Moto Llantas Virtual - tiene gomas, neumáticos, cubiertas - https://www.facebook.com/Motollantasvirtual/
+- Moto Llantas Virtual - tiene gomas, neumáticos, cubiertas - https://www.facebook.com/Motollantasvirtual/
 
 ## Aceites
 
-* Walmart tiene el Castrol Actevo 20w50 mas barato.
-* Todas las demás también venden aceites buenos. Se consigue el Motul 7100 20w50 por ejemplo.
+- Walmart tiene el Castrol Actevo 20w50 mas barato.
+- Todas las demás también venden aceites buenos. Se consigue el Motul 7100 20w50 por ejemplo.
 
 ## Herramientas
 
-* Capris
-* EPA
-* El Lagar
-* Walmart
-* Universal de Tornillos y Herramientas
+- Capris
+- EPA
+- El Lagar
+- Walmart
+- Universal de Tornillos y Herramientas
 
 ## Tornilleria
 
-* Universal de Tornillos y Herramientas
-* La Casa Del Tornillo
+- Universal de Tornillos y Herramientas
+- La Casa Del Tornillo
 
 ## Traer repuestos de EEUU
 
-* Jetbox
-* Aeropost
-* AirboxCR : https://airboxcr.com/
-* Correos de Costa Rica
-* eBay
-* Amazon
-
+- Jetbox
+- Aeropost
+- AirboxCR : https://airboxcr.com/
+- Correos de Costa Rica
+- eBay
+- Amazon
 
 # Próximamente más información
 
