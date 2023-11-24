@@ -2537,11 +2537,11 @@ Kit basico: Baston plegable + spray pimienta.
 
 En paises que es legal portar
 
-- Taurus Judge 2 in > https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in
+- [Taurus Judge, 2 in](https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in)
 
-- Ruger LCP II
+- [Ruger LCP II](https://ruger.com/products/lcpII/models.html)
 
-- S&W 642 Airweight
+- [S&W 642 Airweight](https://www.smith-wesson.com/product/j-frame-163810)
 
 _SIN TERMINAR_
 
