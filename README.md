@@ -954,6 +954,8 @@ En el caso de la **rueda 16"**, encontre pocos modelos que vienen con dibujo de 
 
 - **Shinko E805 Rear 150/80/16** esta perfecta para modelos +2004. Nunca la vi en Argentina, deberia ser una importacion especial.
 
+- **Moto 150/80-16 Pirelli Mt60 Enduro** : la vi en venta en Uruguay.
+
 ## Gomerias
 
 Para comprar o cambiar la goma , en **Buenos Aires, Argentina**
