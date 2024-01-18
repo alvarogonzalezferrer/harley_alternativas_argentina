@@ -2333,9 +2333,9 @@ Para asegurar que la moto funcione bien al momento de volver a usarla, seguir es
 
 3. Rociar RAID anti **insectos** en las partes baja de la moto, un poquito, no esta de mas.
 
-4. Es importante que el **sistema de combustible** no falle, ya que la nafta tiene a ponerse fea y formar grumos y tapar conductos. Para esto tenemos que llenar el tanque de nafta premium, colocar estabilizador de combustible (segun las instrucciones del fabricante del producto que compremos), y, en caso de motos carburadas, seria util vaciar el carburador (cerrando la canilla de paso de nafta, y dejando funcionar la moto hasta que se apague).
+4. Es importante que el **sistema de combustible** no falle, ya que la nafta tiene a ponerse fea y formar grumos y tapar conductos. Para esto tenemos que llenar el tanque de nafta premium, colocar **estabilizador de combustible** (segun las instrucciones del fabricante del producto que compremos), y, en caso de motos carburadas, seria util vaciar el carburador (cerrando la canilla de paso de nafta, y dejando funcionar la moto hasta que se apague).
 
-5. **Bateria**: tenemos dos opciones, una es quitarla de la moto y ponerla con un "mantenedor de bateria", otra es dejarla colocada, tambien con el "mantenedor de bateria". Quitar el fusible principal MAXI es buena idea tambien. El "mantenedor de bateria" es un dispositivo que mantiene la carga de la bateria como si la estuvieramos usando, se usa en nautica, y equipos generadores tambien, es economico y prolonga la vida util de la costosa bateria (+200 USD vale la original aproximadamente...)
+5. **Bateria**: tenemos dos opciones, una es quitarla de la moto y ponerla con un **"mantenedor de bateria"**, otra es dejarla colocada, tambien con el "mantenedor de bateria". **Quitar el fusible principal MAXI** tambien. El "mantenedor de bateria" es un dispositivo que mantiene la carga de la bateria como si la estuvieramos usando, se usa en nautica, y equipos generadores tambien, es economico y prolonga la vida util de la costosa bateria (+200 USD vale la original aproximadamente...)
 
 6. Opcional: cambiarle el **aceite** por aceite nuevo, esto sobre todo si vamos a dejar la moto mucho tiempo parada.
 
@@ -2344,6 +2344,19 @@ En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible,
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
 Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
+
+## Estabilizador de combustible
+
+Muy importante, ya que la nafta con etanol tiende a ponerse fea despues de unos tres meses, con este aditivo dura mas de un año, yo llegue a dejar la moto tres años parada con esto en un viaje durante la pandemia, y arranco sin problemas.
+
+- Formula que uso siempre, la botellita de Honda,de estabilizador de combustible, le pongo dos onzas por tanque lleno. Se consigue en casas de nautica y motos.
+
+- Formula **casera** no probada:
+  - 4:2:1 proporcion
+  - 4 partes de diesel o aceite muy fino
+  - 2 partes de bencina o kerosen
+  - 1 partes de alcohol **isopropilico** (NO cualquier alcohol)
+  - Mezclar todo bien, poner dos onzas al tanque lleno de combustible fresco premium.
 
 # Catalogos online / comprar repuestos
 
