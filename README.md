@@ -2353,6 +2353,8 @@ Guardarla obviamente en un lugar **fresco y seco, tapada y bajo techo**, la hume
 
 ## Estabilizador de combustible
 
+Video interesante donde prueban varios: https://www.youtube.com/watch?v=chsGBhB5g7o
+
 Este componente es vital para almacenar la moto, y es dificil de conseguir en todos lados, y bastante costoso. Hay varias marcas, Stabil, Honda (de Stabil un spin off), Sea Foam, Liqui Moly, Ipone, Yamalube, Patriot Power, etc... yo solo use el de Honda con excelentes resultados.
 
 Muy importante, ya que la nafta con **etanol/bio alcohol** tiende a ponerse fea despues de unos tres meses, con este aditivo dura mas de un año, yo llegue a dejar la moto tres años parada con esto en un viaje durante la pandemia, y arranco sin problemas.
