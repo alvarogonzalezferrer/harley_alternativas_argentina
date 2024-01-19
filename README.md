@@ -1335,7 +1335,7 @@ Buscando en Mercado Libre : **20HL BS** salen varios modelos teóricamente compa
 
 ## Modelos 2004 a 2020
 
-La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al **revés**, _se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables - TO-DO explicar mejor este procedimiento de emergencia / los cables que precisamos se hacen en talleres de auto-stereo_)
+La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al **revés**, _se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables o usando barras de cobre. - TO-DO explicar mejor este procedimiento de emergencia / los cables que precisamos se hacen en talleres de auto-stereo_)
 
 Características para buscar compatibles:
 
@@ -2335,21 +2335,29 @@ Para asegurar que la moto funcione bien al momento de volver a usarla, seguir es
 
 3. Rociar RAID anti **insectos** en las partes baja de la moto, un poquito, no esta de mas.
 
-4. Es importante que el **sistema de combustible** no falle, ya que la nafta tiene a ponerse fea y formar grumos y tapar conductos. Para esto tenemos que llenar el tanque de nafta premium, colocar **estabilizador de combustible** (segun las instrucciones del fabricante del producto que compremos), y, en caso de motos carburadas, seria util vaciar el carburador (cerrando la canilla de paso de nafta, y dejando funcionar la moto hasta que se apague).
+4. Es importante que el **sistema de combustible** no falle, ya que la nafta tiene a ponerse fea, y formar grumos/gelatinas y tapar conductos. Para esto tenemos que llenar el tanque de nafta premium, colocar **estabilizador de combustible** (segun las instrucciones del fabricante del producto que compremos), y, en caso de motos carburadas, seria util vaciar el carburador (cerrando la canilla de paso de nafta, y dejando funcionar la moto hasta que se apague).
 
 5. **Bateria**: tenemos dos opciones, una es quitarla de la moto y ponerla con un **"mantenedor de bateria"**, otra es dejarla colocada, tambien con el "mantenedor de bateria". **Quitar el fusible principal MAXI** tambien. El "mantenedor de bateria" es un dispositivo que mantiene la carga de la bateria como si la estuvieramos usando, se usa en nautica, y equipos generadores tambien, es economico y prolonga la vida util de la costosa bateria (+200 USD vale la original aproximadamente...)
 
 6. Opcional: cambiarle el **aceite** por aceite nuevo, esto sobre todo si vamos a dejar la moto mucho tiempo parada.
 
-En **resumen**: lavar la moto y encerarla, ponerle estabilizador de combustible, ponerle mantenedor de bateria, inflar las cubiertas.
+7. Spray WD-40 en partes bajas para evitar oxido, y tambien sacar las dos bujias, tirarle un poquito de WD-40 a los cilindros por el orificio de las bujias, y volver a colocar las bujias, esto para prevenir que se peguen los aros de los pistones.
+
+En **resumen**: lavar la moto y encerarla,llenar tanque, ponerle estabilizador de combustible, ponerle mantenedor de bateria, inflar las cubiertas, tirarle poquito WD40 por los orificios de bujia.
 
 Con esto, nos aseguramos que al volver del viaje, cuarentena, lo que sea, la moto va a funcionar bien.
 
-Guardarla obviamente en un lugar **fresco y seco**, la humedad es un enemigo de las motos y todo lo que sea metales.
+Al regresar de un viaje de mas de tres meses, cambiarle la nafta vieja por nafta nueva.
+
+Guardarla obviamente en un lugar **fresco y seco, tapada y bajo techo**, la humedad es un enemigo de las motos y todo lo que sea metales.
 
 ## Estabilizador de combustible
 
-Muy importante, ya que la nafta con etanol tiende a ponerse fea despues de unos tres meses, con este aditivo dura mas de un año, yo llegue a dejar la moto tres años parada con esto en un viaje durante la pandemia, y arranco sin problemas.
+Este componente es vital para almacenar la moto, y es dificil de conseguir en todos lados, y bastante costoso. Hay varias marcas, Stabil, Honda (de Stabil un spin off), Sea Foam, Liqui Moly, Ipone, Yamalube, Patriot Power, etc... yo solo use el de Honda con excelentes resultados.
+
+Muy importante, ya que la nafta con **etanol/bio alcohol** tiende a ponerse fea despues de unos tres meses, con este aditivo dura mas de un año, yo llegue a dejar la moto tres años parada con esto en un viaje durante la pandemia, y arranco sin problemas.
+
+La dosis de 25 ml para cada 20 litros de combustible, es la comun, aunque tambien una onza por galon, depende del fabricante, ver bien la etiqueta. Stabil dice 60 ml por cada 9,5 litros en su website.
 
 - Formula que uso siempre, la botellita de Honda,de estabilizador de combustible, le pongo dos onzas por tanque lleno. Se consigue en casas de nautica y motos.
 
