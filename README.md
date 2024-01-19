@@ -2353,6 +2353,10 @@ Guardarla obviamente en un lugar **fresco y seco, tapada y bajo techo**, la hume
 
 ## Estabilizador de combustible
 
+Los hidrocarburos del petróleo reaccionan con el oxígeno y el ozono dando como resultado la formación de polímeros que normalmente se denominan "barniz/goma" cuando aparecen en los sistemas de combustible. Estos polímeros no son muy solubles en gasolina y se depositan en el fondo de carburadores, y obstruyen los filtros e inyectores.
+
+Los barnices y la nafta maloliente ya no son tan problemáticos como antes, con o sin estabilizadores añadidos. Las naftas actuales contienen una combinación de detergentes y antioxidantes, y son mucho más estables con el tiempo que antes. Se podría argumentar que en gran parte del mundo ya no es necesario añadir un estabilizador a la gasolina. El etanol es un gran problema, ya que se pone rancio rapidamente.
+
 Video interesante donde prueban varios: https://www.youtube.com/watch?v=chsGBhB5g7o
 
 Este componente es vital para almacenar la moto, y es dificil de conseguir en todos lados, y bastante costoso. Hay varias marcas, Stabil, Honda (de Stabil un spin off), Sea Foam, Liqui Moly, Ipone, Yamalube, Patriot Power, etc... yo solo use el de Honda con excelentes resultados.
@@ -2364,11 +2368,14 @@ La dosis de 25 ml para cada 20 litros de combustible, es la comun, aunque tambie
 - Formula que uso siempre, la botellita de Honda,de estabilizador de combustible, le pongo dos onzas por tanque lleno. Se consigue en casas de nautica y motos.
 
 - Formula **casera** no probada:
+
   - 4:2:1 proporcion
   - 4 partes de diesel o aceite muy fino
   - 2 partes de bencina o kerosen
   - 1 partes de alcohol **isopropilico** (NO cualquier alcohol)
   - Mezclar todo bien, poner dos onzas al tanque lleno de combustible fresco premium.
+
+  Una prueba real sería un conjunto de contenedores ventilados con varios estabilizadores de combustible agregados a la gasolina y dejados reposar durante un año. Una vez transcurrido el año, huélelos y viértelos a través de un filtro de papel para ver cuánto o qué poco barniz se forma.
 
 # Catalogos online / comprar repuestos
 
