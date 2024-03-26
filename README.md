@@ -8,7 +8,7 @@ Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 23/04/2023** , ±183000 km recorridos sin problemas.
+**Documento Actualizado 26/03/2024** , ±183000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
@@ -50,7 +50,7 @@ Dado la situación de Argentina, en permanente crisis, con constantes cepos a la
 
 Es por eso que recopile, a lo largo de mas de 17 años, una lista de repuestos alternativos para mantener la Harley Davidson Sportster en funcionamiento en optimas condiciones.
 
-Este proyecto inicia en 2004, cuando compre mi primer HD XL 883.
+Este proyecto inicia en 2004, hace mas de 20 años, cuando compre mi primer HD XL 883.
 
 ## Donaciones
 
