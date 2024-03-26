@@ -1442,15 +1442,23 @@ También se puede cambiar solo el bulbo por uno LED, para no cambiar todo.
 
 **Energy One** Clutches tambien tiene reemplazos para colocar en Sportster : https://www.energyoneclutches.com
 
-**Harley Davidson** ofrece un embrague mejor que el de fabrica, el modelo Screaming Eagle, ![P/N 38002-04](https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04)
+**Harley Davidson** ofrece un embrague mejor que el de fabrica, el modelo Screaming Eagle, [P/N 38002-04](https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04)
 
 ## Problema común del embrague
 
-El embrague tiene un problema crónico de diseño, a veces fallan unos remaches en un disco, y "explota" el disco resorte del embrague. Se puede solucionar cambiando ese disco por uno mejor (en lugar de volver a poner lo mismo).
+El embrague tiene un problema crónico de diseño, a veces fallan unos remaches en un disco, y "explota" el disco resorte del embrague. Se puede solucionar **cambiando ese disco por un sistema mejor** (en lugar de volver a poner lo mismo).
 
-Como se mencionó anteriormente, la placa de resorte se encuentra en el medio del paquete de embrague. Consiste en dos placas de acero separadas, unidas con resortes planos remachados, móviles, intercalados entre las dos placas de acero. Hay una placa de fricción a cada lado de la placa de resorte. La idea es absorber parte de la fuerza instantánea del acoplamiento del embrague y liberarla durante unos pocos microsegundos de transferencia de energía del resorte.
+El diseño original utiliza una placa de resorte adicional en el centro del paquete de embrague. Se trata de un plato doble con pequeños muelles entre el plato principal. Estas placas se mantienen unidas por remaches de latón.
 
-Si bien el objetivo funcional es una buena idea, esta placa de resorte ha causado innumerables dolores de cabeza a muchos motociclistas. Cuando los remaches fallan, quedan atrapados entre las placas de fricción y de acero, lo que hace que el embrague funcione mal y dañe las placas y la canasta del embrague.
+Como se mencionó anteriormente, la placa de resorte se encuentra en el medio del paquete de embrague.
+
+Consiste en dos placas de acero separadas, unidas con resortes planos remachados, móviles, intercalados entre las dos placas de acero. Hay una placa de fricción a cada lado de la placa de resorte.
+
+La idea es absorber parte de la fuerza instantánea del acoplamiento del embrague y liberarla durante unos pocos microsegundos de transferencia de energía del resorte.
+
+Si bien el objetivo funcional es una buena idea, esta placa de resorte ha causado innumerables dolores de cabeza a muchos motociclistas.
+
+Cuando los remaches fallan, quedan atrapados entre las placas de fricción y de acero, lo que hace que el embrague funcione mal y dañe las placas y la canasta del embrague.
 
 ![Disco explotado](archivos_soporte/embrague/grenade_plate.jpg)
 
@@ -1467,6 +1475,8 @@ La opción preferida es eliminar la placa de resorte por completo instalando **d
 **Barnett vende el reemplazo listo para colocar:** https://www.barnettclutches.com/
 
 **Energy One tiene un reemplazo tambien:** https://www.energyoneclutches.com
+
+**Harley Davidson** ofrece el modelo Screaming Eagle, [P/N 38002-04](https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04)
 
 NOTA: yo puse en mi XL883L 2005 el Energy One BTX-11, eliminando la placa remachada, y la verdad es super super bueno.
 
