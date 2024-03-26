@@ -1438,9 +1438,11 @@ También se puede cambiar solo el bulbo por uno LED, para no cambiar todo.
 
 # Embrague
 
-Barnett tiene reemplazos listos para colocar para todas las generaciones de Sportster: https://www.barnettclutches.com/
+**Barnett** tiene reemplazos listos para colocar para todas las generaciones de Sportster: https://www.barnettclutches.com/
 
 **Energy One** Clutches tambien tiene reemplazos para colocar en Sportster : https://www.energyoneclutches.com
+
+**Harley Davidson** ofrece un embrague mejor que el de fabrica, el modelo Screaming Eagle, ![P/N 38002-04](https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04)
 
 ## Problema común del embrague
 
