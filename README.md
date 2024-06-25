@@ -8,7 +8,7 @@ Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 26/03/2024** , ±183000 km recorridos sin problemas.
+**Documento Actualizado 25/06/2024** , ±184000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
@@ -20,7 +20,7 @@ La tabla de contenidos se actualiza automáticamente, dar click en el icono sobr
 
 Estas notas nacieron para el mantenimiento de mis motos.
 
-Me encanta la Sportster, tengo varias hace mas de 17 años, y la disfruto muchisimo.
+Me encanta la Sportster, tengo varias hace mas de 20 años, y la disfruto muchisimo.
 
 El contenido esta en constante evolución: cada vez que encuentro nueva información o soluciones, las agrego.
 
@@ -36,7 +36,7 @@ Gracias por leer!
 
 Amo las Sportster!
 
-Abril 2023, mis motos son:
+Mis motos son:
 
 - 2004 XL 883 - Mi primer amor!
 - 2005 XL 883 L - La que compre rota!
@@ -332,6 +332,7 @@ Lo mas importante es que **NO LE FALTE ACEITE**. Siempre verificar el nivel ante
 Variantes sugeridas para el cambio de aceite. **Hay muchas combinaciones posibles**, lo importante es elegir una que nos convenga y mantenerla en el tiempo, no mezclar indiscriminadamente aceites de diferentes marcas y viscosidades.
 
 El motor lleva **3 US quarts**, que son **2.83 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
+
 La primaria lleva **1 US quart**, que es **0,946 litros** de aceite de moto, mineral o sintético, 20w50, especificación JASO MA2.
 
 Ver la especificación API del aceite también, conviene que sea API SJ, SL, SM o SN (la mas moderna), además de JASO MA2.
@@ -340,9 +341,13 @@ Se hace un cambio cada **8000 km motor y filtro**, cada **16000 km la primaria**
 
 Si no se alcanzan los kilómetros en el año, **es recomendable cambiarlo una vez al año**.
 
+NOTA: si usamos aceite Castrol o similar para la primaria, aceite de moto, no aceite especifico para la primaria, conviene cambiarlo cada 8000 km junto con el de motor. Si usamos aceite Motul 3000, cada 5000 km para estar seguros, tanto en motor como primaria.
+
 **Ver manual para mas información.**
 
 ## Resumen cambio de aceite
+
+**NOTA**: reducir los intervalos de mantenimiento a 8000 km o 5000 km tanto en motor como primaria si usamos aceite Castro o Motul 3000
 
 | Item            | Reemplazo                                                                                                      | Periodo             |
 | --------------- | -------------------------------------------------------------------------------------------------------------- | ------------------- |
@@ -828,6 +833,8 @@ Segun el año, es el kit, los hace V-Twin Manufacturing, hay para 1991 a 2003, 2
 
 ![Kickstarter](archivos_soporte/patada/kit_conversion_a_patada.jpg)
 
+![Kickstarter](archivos_soporte/patada/motor_sportster_2004_up_con_patada.jpg)
+
 Se puede comprar en eBay, o aca
 
 https://california-motorcycles.com/products/kit-pata-arranque-para-harley-davidson-sportster-kick-starter-conversion-kit
@@ -840,7 +847,17 @@ etc
 
 En cuanto a esto, **yo NO lo compraria.**
 
-¿Cuánto desea REALMENTE desarmar y luego volver a armar su motor? Para poner un accesorio decorativo, casi inútil (los sistemas de arranque Evo Sporty son excelentes y fáciles de trabajar, no hay excusa para que uno no sea confiable) ? Si es absolutamente necesario tenerlo, consideraría mecanizar el extremo del eje principal original para que coincida con la pieza de Taiwán. No es mucho trabajo de torno (taladro central, taladro, rosca) y sabría que el resto del eje engrana correctamente con el resto de su caja de cambios.
+**¿Cuánto desea REALMENTE desarmar y luego volver a armar su motor?** Para poner un accesorio decorativo, casi inútil (los sistemas de arranque Evo Sporty son excelentes y fáciles de trabajar, no hay excusa para que uno no sea confiable) ? Si es absolutamente necesario tenerlo, consideraría mecanizar el extremo del eje principal original para que coincida con la pieza de Taiwán. No es mucho trabajo de torno (taladro central, taladro, rosca) y sabría que el resto del eje engrana correctamente con el resto de su caja de cambios.
+
+```console
+VT No: 22-0458
+Kick starter conversion kit includes polished sprocket cover with transmission mainshaft, kick starter arm, rubber pedal, and kick shaft. Includes alloy cover that features a natural finish. Fits 5-speed models.
+Kick Starter Kit includes main shaft with integral gear set, 17-0723, one piece forged construction as OEM. Also includes kick start cover, kick gear assembly and transmission main shaft that features a natural finish. Kicker arm and rubber pedal feature a chrome finish. Note: Must use with forward controls or relocation of master cylinder. Electric starter is retained. Kicker cover is milled out to allow use of original exhaust bracket. Unique design has kicker gear mounted on the side of the pulley, for easy access. Installation requires disassembly of the transmission to replace the mainshaft. Mechanical and technical expertise required.
+Fits:
+XL 2007-UP
+UOM: 1 - KIT
+Country of Origin: Taiwan?
+```
 
 # Cubiertas / Gomas / Cauchos / Llantas / Neumaticos
 
