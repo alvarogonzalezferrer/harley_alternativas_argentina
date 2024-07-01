@@ -48,7 +48,7 @@ Lista de repuestos alternativos para Harley Davidson Sportster que se consiguen 
 
 Dado la situación de Argentina, en permanente crisis, con constantes cepos a la importación y a la moneda extranjera, se hace difícil mantener funcionando una moto importada.
 
-Es por eso que recopile, a lo largo de mas de 17 años, una lista de repuestos alternativos para mantener la Harley Davidson Sportster en funcionamiento en optimas condiciones.
+Es por eso que recopile, a lo largo de más de 20 años, una lista de repuestos alternativos para mantener la Harley Davidson Sportster en funcionamiento en optimas condiciones.
 
 Este proyecto inicia en 2004, hace mas de 20 años, cuando compre mi primer HD XL 883.
 
@@ -110,15 +110,17 @@ Harley discontinuó la Sportster en 2021, y lanzó otro modelo, llamado Sportste
 
 Estos apuntes **NO** hablan del nuevo modelo RH1250S Sportster.
 
-Igualmente, para no dejar totalmente sin ayuda a los nuevos propietarios de la Sportster S, +2021 en adelante, les dejo links al manual del usuario y el manual de despiece de la nueva (2021) moto.
+Igualmente, para no dejar totalmente sin ayuda a los nuevos propietarios de la Sportster S, +2021 en adelante, ~les dejo links al manual del usuario y el manual de despiece de la nueva (2021) moto.~
 
 ## Sportster S RH1250S, 2021 en adelante
 
-Estos manuales NO son para las Sportster modelos con motor refrigerado por aire de la serie "vieja" codigo XL, son para la **nueva** Sportster S, codigo RH
+~Estos manuales NO son para las Sportster modelos con motor refrigerado por aire de la serie "vieja" codigo XL, son para la **nueva** Sportster S, codigo RH~
 
-- Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547687173511687457
+2024 - HARLEY LOS BAJO - VERE DE RE CONSEGUIRLOS DE OTRO LADO
 
-- Catalogo de partes: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547686249569650976
+~- Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547687173511687457~
+
+~- Catalogo de partes: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547686249569650976~
 
 > Owner's Manual:
 > Shipped with Harley SYN-BLEND 15w-50 motor oil.
@@ -2231,6 +2233,7 @@ http://hammerperf.com/883conversions.shtml
 Conversion de bajo costo: http://rosysumenteinquieta.blogspot.com/2016/01/como-convertimos-una-sportster-de-883cc.html
 
 Estos son los pistones mas baratos que encontre (por ahora): https://vtwin.parts/supplier/v-twin/sportster-1952-up/engine/piston/883-conversion-pistons/harley-davidson-indian-motorcycle-v-twin-883cc-conversion-piston-set-standard-3.498-11-0852?sort=p.price&order=ASC
+
 Pistones VT No: 11-0852
 
 Kits de S&S : https://www.sscycle.com/big-bore-sportster/
