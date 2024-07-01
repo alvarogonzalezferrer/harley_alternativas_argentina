@@ -1921,6 +1921,8 @@ El principal o-ring a cambiar, es el del cuello del acople, es por el que pierde
 
 IMPORTANTE! Material del o-ring, debe ser de compuesto **VITON**, que resiste el combustible.
 
+Ademas, lubricar un poquito la valvula y los orings al instalarlos.
+
 ### Donde comprar o-rings
 
 En EEUU, venden el kit completo de reconstruccion aca: https://fueltool.com/products/harley-check-valve-rebuild-kit/
