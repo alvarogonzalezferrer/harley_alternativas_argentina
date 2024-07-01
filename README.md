@@ -1714,7 +1714,7 @@ Diagrama del carburador CV40:
 
 Para cambiar la goma del **diafragma** ver este video : https://www.youtube.com/watch?v=H0GOExal_VA
 
-## Limpiar el filtro de nafta
+## Limpiar el filtro de nafta carburador (hasta 2006 inclusive)
 
 En los modelos carburados 2004 y adelante, el filtro de nafta esta en la valvula de paso de combustible.
 
@@ -1855,8 +1855,7 @@ Ver si hay filtro de nafta alternativo que le sirva a la bomba.- _// dic 2020 - 
 CandidatoS a filtro de reemplazo barato -- **NO VERIFIQUE MEDIDAS TODAVIA** TODO
 
 - KTM - HF652, 5 USD en ML : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
-
-- Otro filtro posible es el HU719/6X del VW Vento 2.5, VER MEDIDAS A VER SI COINCIDEN, este tiene 125 alto, 31 interior, 64 exterior mm.
+- MAHLE OX1092 , equivalente a HF652 , pero mas barato. Diámetro 33,5 mm ; Altura 86,5 mm ; Diámetro interno 12 mm ; Peso neto 35 g
 
 **Si alguien conoce algun filtro similar de menor precio, que me informe por favor**
 
