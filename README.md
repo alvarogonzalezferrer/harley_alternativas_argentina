@@ -1905,6 +1905,8 @@ Este acomple hembra, dentro tiene dos o-ring, uno que impide que el combustible 
 
 Tiene un muelle(resorte), piston, y dos juntas toricas (o-ring); el de abajo hace que no pierda, y la interior cierra el deposito de combustible.
 
+Estas juntas toricas estan construidas en VITON, que es un material especial que resiste el combustible, no sirve cualquier o-ring, ya que se estropea con el combustible.
+
 ![Diagrama acople rapido](archivos_soporte/EFI/bomba_nafta/acople_rapido_EFI_interno.jpg)
 
 Normalmente es este o-ring el que se daña, y empieza a sudar o gotear combustible.
