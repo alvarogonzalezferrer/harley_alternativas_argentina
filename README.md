@@ -2233,6 +2233,8 @@ Conversion de bajo costo: http://rosysumenteinquieta.blogspot.com/2016/01/como-c
 Estos son los pistones mas baratos que encontre (por ahora): https://vtwin.parts/supplier/v-twin/sportster-1952-up/engine/piston/883-conversion-pistons/harley-davidson-indian-motorcycle-v-twin-883cc-conversion-piston-set-standard-3.498-11-0852?sort=p.price&order=ASC
 Pistones VT No: 11-0852
 
+Kits de S&S : https://www.sscycle.com/big-bore-sportster/
+
 ![1275cc kit](archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg)
 
 ### Procedimiento 883 a 1200
@@ -2259,7 +2261,7 @@ En este documento, esta bien explicado, varia mucho segun el año : https://www.
 
 El encendido original HD solo lo puede programar el dealer. Lo mejor es cambiar a un Daytona Twin Tec TC88, o a un Dynatek Dyna Performance
 
-- Daytona TC88A: http://www.daytona-twintec.com/tc88atwincamignition.aspx
+- Daytona TC88A: https://daytona-twintec.com/product/1009-tc88a-twin-cam-ignition/
 
 _Ojo con la version TC88A EX !! Es para que sea legal en California, por las pavadas de contaminacion, NO comprar esa version!_
 
@@ -2780,6 +2782,7 @@ La agencia Harley oficial se fue de Costa Rica, sin embargo es más facil conseg
 - El Lagar
 - Walmart
 - Universal de Tornillos y Herramientas
+- NOVEX
 
 ## Tornilleria
 
