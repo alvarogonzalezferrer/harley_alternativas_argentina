@@ -1846,16 +1846,13 @@ Reemplazo para el **pre-filtro** alternativo y barato: el pre filtro de la Honda
 
 _El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!_
 
-Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el prefiltro): } TRABAJO EN PROGRESO - TODO
-
 **Me falta medir el filtro de la Harley, diametro externo, interno y altura, para poder saber que filtro lo puede reemplazar.**
-
-Ver si hay filtro de nafta alternativo que le sirva a la bomba.- _// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva_
 
 CandidatoS a filtro de reemplazo barato -- **NO VERIFIQUE MEDIDAS TODAVIA** TODO
 
-- KTM - HF652, 5 USD en ML : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
-- MAHLE OX1092 , equivalente a HF652 , pero mas barato. Diámetro 33,5 mm ; Altura 86,5 mm ; Diámetro interno 12 mm ; Peso neto 35 g
+** NO SIRVEN, TIENEN UN EXTREMO TAPADO, HAY QUE SEGUIR INVESTIGANDO**
+~- KTM - HF652, 5 USD en ML : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!~
+~- MAHLE OX1092 , equivalente a HF652 , pero mas barato. Diámetro 33,5 mm ; Altura 86,5 mm ; Diámetro interno 12 mm ; Peso neto 35 g~
 
 **Si alguien conoce algun filtro similar de menor precio, que me informe por favor**
 
