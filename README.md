@@ -1803,7 +1803,7 @@ https://www.youtube.com/watch?v=-eDcY0WhALI
 
 - https://www.youtube.com/watch?v=H4HYD69TyuE
 
-## Cambiar el filtro de nafta
+## Cambiar el filtro de nafta EFI
 
 Lleva DOS filtros, un prefiltro que es tipo una bolsita porosa, y el filtro que es un cilindro.
 
@@ -1848,7 +1848,7 @@ Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el 
 
 Ver si hay filtro de nafta alternativo que le sirva a la bomba.- _// dic 2020 - SI hay filtros aftermarket, hay que ver alguno automotriz que le sirva_
 
-CandidatoS a filtro de reemplazo barato -- NO VERIFIQUE MEDIDAS TODAVIA:
+CandidatoS a filtro de reemplazo barato -- **NO VERIFIQUE MEDIDAS TODAVIA** TODO
 
 - KTM - HF652, 5 USD en ML : http://www.hiflofiltro.com/catalogue/filter/hf652 -- VER SI COINCIDEN LAS MEDIDAS; el del KTM es de aceite, pero sirve para filtrar combustible!
 
@@ -1863,6 +1863,10 @@ Si la moto quedo parada muchisimo tiempo (por ejemplo en pandemia), la bomba pod
 Podemos como primer medida intentar limpiarla en una batea de ultrasonido.
 
 Sino, deberemos reemplazarla.
+
+Asi es la bomba, con su filtro, valvula de presion y sensor de nivel de reserva:
+
+![Diagrama bomba EFI](archivos_soporte/EFI/bomba_nafta/bomba_y_perdida_usual.jpg)
 
 La bomba original vale en Harley Argentina unos 300 USD.
 
@@ -1883,34 +1887,51 @@ NOTA: Al cambiar la manguera que conecta la bomba al filtro interno, si no podem
 La conexion de una bomba alternativa es como sigue:
 ![Bomba alternativa](archivos_soporte/EFI/bomba_nafta/conexiones_bomba_nafta_EFI.jpg)
 
-## Perdidas de combustible en motos EFI
+## Perdidas / fugas de combustible en motos EFI
 
 Luego del paso del tiempo, hay unos o-ring que se resecan y empieza a perder combustible.
 
-En este video explican muy bien como hacer la reparacion, **ver primero que nada**: https://www.youtube.com/watch?v=dfrIwD-G-eY
+### Fuga entre el acople rapido bajo tanque macho/hembra
 
-Hay dos lados por los que puede perder, uno es este, y otro es el desacople rapido en si, es decir por dentro del acople (no mostrado en la figura)
+En este video explican muy bien como hacer la reparacion, **ver primero que nada**:
 
-![Perdida usual EFI](archivos_soporte/EFI/bomba_nafta/bomba_y_perdida_usual.jpg)
+- https://www.youtube.com/watch?v=dfrIwD-G-eY
 
-Simplemente hay que desarmar y cambiarlos.
+Bajo el tanque de las motos EFI, hay un acople rapido hembra que conecta al macho de la manguera de combustible que va hacia el cuerpo de inyeccion.
 
-El principal es el de cuello del acople, es por el que pierde usualmente.
+![Diagrama acople rapido](archivos_soporte/EFI/bomba_nafta/acople_rapido_EFI_interno.jpg)
 
-### Medidas o-rings valvula EFI
+![Acople rapido](archivos_soporte/EFI/bomba_nafta/acople_rapido_bajo_tanque.jpg)
 
-**Código Parker 2013** (10,82 x 14,38mm) ; es un o-ring comun en maquinaria agricola.
+Este acomple hembra, dentro tiene dos o-ring, uno que impide que el combustible caiga del tanque cuando esta desconectado (el de mas arriba), y el de mas abajo que impide que el combustible se fugue entre los espacios que quedan entre el acople hembra y macho.
+
+Normalmente es este o-ring el que se daña, y empieza a sudar o gotear combustible.
+
+Simplemente hay que cambiarlos (ver video mas arriba, es complejo). En EEUU venden una herramienta profesional para cambiarlo, pero se puede cambiar sin la herramienta, sacando el tanque de combustible y poniendolo para arriba, o dejando el tanque puesto y usando un espejito (tipo de maquillaje) para ver lo que estamos haciendo.
+
+El principal o-ring a cambiar, es el del cuello del acople, es por el que pierde usualmente.
+
+#### Medida del o-ring del cuello del acople hembra
+
+- **Código Parker 2013** (10,82 x 14,38mm) ; es un o-ring comun en maquinaria agricola. material VITON!
 
 IMPORTANTE! Material del o-ring, debe ser de compuesto **VITON**, que resiste el combustible.
 
-![Medir o-rings](archivos_soporte/EFI/bomba_nafta/medir_orings.jpg)
+### Donde comprar o-rings
+
+En EEUU, venden el kit completo de reconstruccion aca: https://fueltool.com/products/harley-check-valve-rebuild-kit/
+
+Tambien te venden la herramienta para cambiar el o-ring facilmente, https://fueltool.com/products/harley-check-valve-tools/
+
+Es una herramienta cara, se justifica solo si tenes taller...
 
 En Argentina aca los tienen: https://www.o-ring.com.ar/buscador/
 
 Buscar con los parametros:
 
-- DI 8, DE 13, S 2.5
-- DI 10, DE 14, S 2
+- DI 10, DE 14, S 2 } este es el que normalmente se daña en el acople rapido.
+
+- DI 8, DE 13, S 2.5 } este va adentro del tanque, hace contacto con el filtro, no seria necesario cambiarlo
 
 (DI: diametro interno, DE: diametro externo, S: espesor, en milimetros)
 
@@ -1922,11 +1943,11 @@ Oring de abajo: M1206 metrico, ó AS905 estandar (pulgadas) // DI 10, DE 14, S 2
 
 Oring para el tapon de aceite, en metrico tenes M930 en la misma empresa.
 
-Para cambiarlos conviene usar la Herramienta Extractor de Oring / Sellos Ruleman.
+#### Como medir un o-ring?
 
-![Orings a cambiar](archivos_soporte/EFI/bomba_nafta/valvula_combustible_EFI.jpg)
+![Medir o-rings](archivos_soporte/EFI/bomba_nafta/medir_orings.jpg)
 
-Otros lugares donde comprar o-rings en Argentina:
+#### Otros lugares donde comprar o-rings en Argentina:
 
 - https://www.o-ring.com.ar/buscador/
 - http://www.vauton.com.ar/productos.php
