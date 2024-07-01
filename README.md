@@ -1903,6 +1903,8 @@ Bajo el tanque de las motos EFI, hay un acople rapido hembra que conecta al mach
 
 Este acomple hembra, dentro tiene dos o-ring, uno que impide que el combustible caiga del tanque cuando esta desconectado (el de mas arriba), y el de mas abajo que impide que el combustible se fugue entre los espacios que quedan entre el acople hembra y macho.
 
+Tiene un muelle(resorte), piston, y dos juntas toricas (o-ring); el de abajo hace que no pierda, y la interior cierra el deposito de combustible.
+
 ![Diagrama acople rapido](archivos_soporte/EFI/bomba_nafta/acople_rapido_EFI_interno.jpg)
 
 Normalmente es este o-ring el que se daña, y empieza a sudar o gotear combustible.
