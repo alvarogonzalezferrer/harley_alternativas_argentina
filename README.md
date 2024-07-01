@@ -8,7 +8,7 @@ Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 25/06/2024** , ±184000 km recorridos sin problemas.
+**Documento Actualizado 30/06/2024** , ±184000 km recorridos sin problemas.
 
 ## Tabla de contenidos
 
@@ -1809,7 +1809,10 @@ Lleva DOS filtros, un prefiltro que es tipo una bolsita porosa, y el filtro que 
 
 El filtro de nafta en las motos **EFI** esta dentro del tanque de nafta, junto con su bomba.
 
-Según el manual se reemplaza a las 100 mil millas, o sea 160 000 km, un poco optimista me parece...
+Va asi:
+![Bomba dentro del tanque](archivos_soporte/EFI/bomba_nafta/bomba_dentro_tanque_EFI.jpg)
+
+Según el manual se reemplaza a las **100 mil millas, o sea 160 000 km**, un poco optimista me parece...
 
 El kit original Harley vale unos 110 dolares (en EEUU), mientras que el de Dennis Kirk unos 20 dolares.
 
@@ -1839,7 +1842,7 @@ Reemplazo para el **pre-filtro** alternativo y barato: el pre filtro de la Honda
 
 _El pre filtro de nafta automotriz para bombas Bosch le va bien, aunque es mas gordito se puede poner. Ojo, es la "bolsita", no el filtro cilindrico. Ese no encontre reemplazo automotriz todavia. Si lo saben, me avisan!_
 
-Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el prefiltro): -- TRABAJO EN PROGRESO
+Notas para mi busqueda del filtro de reemplazo mas barato (el cilindrico, NO el prefiltro): } TRABAJO EN PROGRESO - TODO
 
 **Me falta medir el filtro de la Harley, diametro externo, interno y altura, para poder saber que filtro lo puede reemplazar.**
 
@@ -1855,9 +1858,9 @@ CandidatoS a filtro de reemplazo barato -- NO VERIFIQUE MEDIDAS TODAVIA:
 
 ## Bomba de nafta EFI
 
-Si la moto quedo parada muchisimo tiempo (por ejemplo en pandemia), la bomba podria estar arruinada o tapada.
+Si la moto quedo parada muchisimo tiempo (por ejemplo en pandemia), la bomba podria estar arruinada, o tapada.
 
-Podemos como primer medida intentar limpiarla en batea de ultrasonido.
+Podemos como primer medida intentar limpiarla en una batea de ultrasonido.
 
 Sino, deberemos reemplazarla.
 
@@ -1875,7 +1878,69 @@ Ver imagenes para referencia:
 
 ![alternativa USA fuel pump](archivos_soporte/EFI/bomba_nafta/alternativa_generica_3bar.jpg)
 
-## Velocidad de ralenti / idle / regular
+NOTA: Al cambiar la manguera que conecta la bomba al filtro interno, si no podemos desconectarla del alojamiento del filtro, podemos calentarla un poco con un secador de pelo o pistola de calor, y saldra facilmente.
+
+La conexion de una bomba alternativa es como sigue:
+![Bomba alternativa](archivos_soporte/EFI/bomba_nafta/conexiones_bomba_nafta_EFI.jpg)
+
+## Perdidas de combustible en motos EFI
+
+Luego del paso del tiempo, hay unos o-ring que se resecan y empieza a perder combustible.
+
+En este video explican muy bien como hacer la reparacion, **ver primero que nada**: https://www.youtube.com/watch?v=dfrIwD-G-eY
+
+Hay dos lados por los que puede perder, uno es este, y otro es el desacople rapido en si, es decir por dentro del acople (no mostrado en la figura)
+
+![Perdida usual EFI](archivos_soporte/EFI/bomba_nafta/bomba_y_perdida_usual.jpg)
+
+Simplemente hay que desarmar y cambiarlos.
+
+El principal es el de cuello del acople, es por el que pierde usualmente.
+
+### Medidas o-rings valvula EFI
+
+**Código Parker 2013** (10,82 x 14,38mm) ; es un o-ring comun en maquinaria agricola.
+
+IMPORTANTE! Material del o-ring, debe ser de compuesto **VITON**, que resiste el combustible.
+
+![Medir o-rings](archivos_soporte/EFI/bomba_nafta/medir_orings.jpg)
+
+En Argentina aca los tienen: https://www.o-ring.com.ar/buscador/
+
+Buscar con los parametros:
+
+- DI 8, DE 13, S 2.5
+- DI 10, DE 14, S 2
+
+(DI: diametro interno, DE: diametro externo, S: espesor, en milimetros)
+
+Viendo la conexion instalada en la moto, el oring mas grande es el de abajo
+
+Oring de arriba: M1472 metrico, ó AS109 estandar (pulgadas) // DI 8, DE 13 , S 2.5
+
+Oring de abajo: M1206 metrico, ó AS905 estandar (pulgadas) // DI 10, DE 14, S 2 } Este es el que normalmente pierde!
+
+Oring para el tapon de aceite, en metrico tenes M930 en la misma empresa.
+
+Para cambiarlos conviene usar la Herramienta Extractor de Oring / Sellos Ruleman.
+
+![Orings a cambiar](archivos_soporte/EFI/bomba_nafta/valvula_combustible_EFI.jpg)
+
+Otros lugares donde comprar o-rings en Argentina:
+
+- https://www.o-ring.com.ar/buscador/
+- http://www.vauton.com.ar/productos.php
+- https://www.industriasnelson.com.ar/producto/orings/
+- https://tecnosellos.com.ar/pruebas/catalogo/oring-arosellos/
+- https://www.ingese.com.ar/productos/o-rings
+- https://www.nuevaferia.com.ar/m-p.asp?i=7764
+- http://www.lapsellos.com.ar/orings.html#all
+- https://www.resortecnica.com.ar/orings.php
+- https://parkest.com.ar/categoria-producto/sellos/orings/
+
+En emergencias, el o-ring del tapon de aceite puede funcionar para el grande (el de mas abajo con la conexion puesta en la moto). Ese o-ring tiene 14.28 mm DE, por 11.11 mm DI, por 1.58 mm de espesor, es parecido al tamaño del oring original, pero no igual.
+
+## Velocidad de ralenti EFI / idle / regular
 
 La velocidad de ralentí / idle en las motos de inyección electrónica _no se puede alterar_. Eso dice Harley, por que debe cumplir con las normas de contaminación y ruido.
 
