@@ -1931,7 +1931,7 @@ Buscar con los parametros:
 
 - DI 10, DE 14, S 2 } este es el que normalmente se daña en el acople rapido.
 
-- DI 8, DE 13, S 2.5 } este va adentro del tanque, hace contacto con el filtro, no seria necesario cambiarlo
+- DI 8, DE 13, S 2.5 } este es el de mas arriba
 
 (DI: diametro interno, DE: diametro externo, S: espesor, en milimetros)
 
