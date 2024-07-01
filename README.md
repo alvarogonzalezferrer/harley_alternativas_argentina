@@ -977,7 +977,7 @@ En el caso de la **rueda 16"**, encontre pocos modelos que vienen con dibujo de 
 
 Para comprar o cambiar la goma , en **Buenos Aires, Argentina**
 
-- Moto Vivac
+- ~Moto Vivac~ ( no existe mas 2024 :( )
 - 2TBoxes
 - Cyclegom
 - Gomeria Floresta
@@ -991,9 +991,13 @@ Para hacer diferentes reparaciones, o cambiar un neumático pinchado, vamos a ne
 
 Ver aca varios metodos en este enlace : http://sportsterpedia.com/doku.php/techtalk:ref:tools110
 
-La moto siempre tiene que estar apoyada en tres puntos para que no se caiga, pueden ser las dos ruedas y la pata (la manera normal de siempre), y cuando sacamos una rueda sera la otra rueda, la pata y el gato / elevador / criquet / soporte que usemos...
+La moto siempre tiene que estar apoyada en **tres puntos** para que no se caiga, pueden ser las dos ruedas y la pata (la manera normal de siempre), y cuando sacamos una rueda sera la otra rueda, la pata y el gato / elevador / criquet / soporte que usemos...
 
 La mayoría de la gente que tiene auto lo usó alguna vez. El criquet, también conocido como “gato”, es un elemento indispensable a la hora de cambiar alguna rueda pinchada.
+
+Podemos comprar un criquet carrito de 2 toneladas de "perfil bajo", y nos servira tanto para la moto como el auto:
+
+![Criquet carrito perfil bajo](archivos_soporte/levantar_moto/criquet_perfil_bajo.jpg)
 
 Hay diferentes maneras de levantar la moto, la mas profesional es usar un elevador de motos, son bastante caros.
 
@@ -1899,11 +1903,11 @@ En este video explican muy bien como hacer la reparacion, **ver primero que nada
 
 Bajo el tanque de las motos EFI, hay un acople rapido hembra que conecta al macho de la manguera de combustible que va hacia el cuerpo de inyeccion.
 
-![Diagrama acople rapido](archivos_soporte/EFI/bomba_nafta/acople_rapido_EFI_interno.jpg)
-
 ![Acople rapido](archivos_soporte/EFI/bomba_nafta/acople_rapido_bajo_tanque.jpg)
 
 Este acomple hembra, dentro tiene dos o-ring, uno que impide que el combustible caiga del tanque cuando esta desconectado (el de mas arriba), y el de mas abajo que impide que el combustible se fugue entre los espacios que quedan entre el acople hembra y macho.
+
+![Diagrama acople rapido](archivos_soporte/EFI/bomba_nafta/acople_rapido_EFI_interno.jpg)
 
 Normalmente es este o-ring el que se daña, y empieza a sudar o gotear combustible.
 
