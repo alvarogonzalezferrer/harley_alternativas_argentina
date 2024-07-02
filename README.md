@@ -1309,8 +1309,6 @@ https://www.sparkplug-crossreference.com/convert/CHAMP_PN/RA8HC
 
 # Bateria
 
-Lo mejor es mantener la batería siempre con battery tender (cargador flotante, mantenedor) para que esté fresca, asi dura unos 5 años a veces hasta 7 años.
-
 Algo importante es verificar los **CCA** de la bateria _ANTES_ de comprarla; al menos revisar sus dimensiones, la posicion del polo positivo, y sus CCA.
 
 Este dato es fundamental conocerlo cuando vamos a utilizar nuestra baterías en aplicaciones donde exista una demanda de corriente alta o también conocido cómo pico de arranque. Cuanto más altos sean los CCA, mejor encenderá con el motor frío.
@@ -1318,6 +1316,20 @@ Este dato es fundamental conocerlo cuando vamos a utilizar nuestra baterías en 
 En las motos con inyección electronica (2007 y años superiores) tener una bateria que tenga CCA alto es fundamental, o nos va a costar arrancar (dado que tiene mas componentes electronicos que necesitan energia al momento del arranque).
 
 Mas informacion de los CCA de la bateria : https://es.wikipedia.org/wiki/Corriente_de_arranque_en_fr%C3%ADo
+
+## Mantenimiento bateria
+
+Lo mejor es mantener la batería siempre con **battery tender (cargador flotante, mantenedor)** para que esté fresca, asi dura unos 5 años a veces hasta 7 años.
+
+![Conector SAE](archivos_soporte/bateria/conector_SAE.jpg)
+
+El conecto que podemos usar para el mantenedor de bateria se llama "conector SAE 12v", se conecta al positivo de la bateria y la masa en la carcaza de la primaria, y permite mantener la bateria sin sacarla.
+
+Algunos modelos mas nuevos YA traen el harnes electrico con el conector de fabrica instalado. En los mas viejitos tenemos que colocarlo nosotros, suele venir con el mantenedor de bateria.
+
+![Battery tender](archivos_soporte/bateria/battery_tender.jpg)
+
+Usar un mantenedor de bateria **prolonga la vida util** de la misma, a mi me han llegado a durar hasta 10 años las baterias usando el mantenedor.
 
 ## Equivalencias Yuasa
 
@@ -1361,9 +1373,13 @@ Buscando en Mercado Libre : **20HL BS** salen varios modelos teóricamente compa
 
 ## Modelos 2004 a 2020
 
-La que lleva de Yuasa es **YTX14L-BS** (la YTX14-BS tiene los bornes al **revés**, _se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables o usando barras de cobre. - TO-DO explicar mejor este procedimiento de emergencia / los cables que precisamos se hacen en talleres de auto-stereo_)
+La que lleva de Yuasa es **YTX14L-BS** ; notar la L que es importante: es la posicion del borne positivo, a la derecha de la bateria vista de frente, o sea a la izquierda de la moto cuando la bateria esta colocada.
 
-Características para buscar compatibles:
+La YTX14-BS (sin L, se consigue mas facil en Argentina), tiene los bornes al **revés**, se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables o usando barras de cobre./ los cables que precisamos se hacen en talleres de auto-stereo_
+
+![YTX14L](archivos_soporte/bateria/YTX14L_BS.jpg)
+
+### Características para buscar compatibles:
 
 | Dato        | Detalle                    |
 | ----------- | -------------------------- |
@@ -1403,6 +1419,20 @@ TAMBIEN HAY BATERIAS DE **LITIO** COMPATIBLES, son carisimas, pero entregan much
 Sirve la **WEX6L21-MF** -> http://www.wstandard-energy.com/en/statistics/w-products-en/07-w-standard-wex6l21-mf-21ah
 
 _Ideas a explorar: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD_
+
+### Bateria YTX14 , borne al reves
+
+Este modelo se consigue facil en Argentina, y casi a mitad de precio que la YTX14L, sin embargo hay que hacer una adaptacion para poder usarla.
+
+![YTX14 borne al reves](archivos_soporte/bateria/YTX14_borne_al_reves.jpg)
+
+Para colocar una bateria YTX14 (sin L) , con el borne positivo a la izquierda (vista la bateria de frente), hay que orientar la bateria hacia atras en la moto, y tenemos dos opciones:
+
+1. extender los cables, se extiende el cable + de la moto, y el cable - se hace masa del otro lado reposicionandolo. Los cables se pueden hacer en cualquier casa de audio para autos.
+
+2. hacer unas extensiones de cobre (con caño de aire acondicionado achatado y AISLANTE en toda su extension excepto las puntas), que vaya por sobre la bateria, y conecte con los cables (ver diagrama)
+
+![YTX14 en 883](archivos_soporte/bateria/conectar_YTX14.jpg)
 
 ## Cables de batería
 
