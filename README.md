@@ -2372,10 +2372,6 @@ Probando la conexion en la moto
 
 ![Velocimetro](archivos_soporte/velocimetro_GPS/2.jpg)
 
-Probando la conexion en la moto
-
-![Velocimetro](archivos_soporte/velocimetro_GPS/2.jpg)
-
 Detalle de la conexion a la ficha de la moto (+12 v y GND)
 
 ![Velocimetro](archivos_soporte/velocimetro_GPS/3.jpg)
