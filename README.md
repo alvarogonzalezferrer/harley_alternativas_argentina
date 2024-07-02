@@ -108,15 +108,15 @@ Pero repito, si el problema supera nuestra habilidad, **lo mejor es consultar a 
 
 Harley discontinuó la Sportster en 2021, y lanzó otro modelo, llamado Sportster S, con el mismo nombre, pero codigo _RH1250S Sportster_.
 
-Estos apuntes **NO** hablan del nuevo modelo RH1250S Sportster.
+Estos apuntes **NO** hablan del nuevo modelo RH1250 S Sportster.
 
 Igualmente, para no dejar totalmente sin ayuda a los nuevos propietarios de la Sportster S, +2021 en adelante, ~les dejo links al manual del usuario y el manual de despiece de la nueva (2021) moto.~
 
 ## Sportster S RH1250S, 2021 en adelante
 
-~Estos manuales NO son para las Sportster modelos con motor refrigerado por aire de la serie "vieja" codigo XL, son para la **nueva** Sportster S, codigo RH~
+Estos manuales NO son para las Sportster modelos con motor refrigerado por aire de la serie "vieja" codigo XL, son para la **nueva** Sportster S, codigo RH
 
-2024 - HARLEY LOS BAJO - VERE DE RE CONSEGUIRLOS DE OTRO LADO
+2024 - HARLEY LOS BAJO - VERÉ DE CONSEGUIRLOS DE OTRO LADO; si alguien los tiene me los manda por favor!
 
 ~- Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547687173511687457~
 
@@ -227,6 +227,8 @@ _Algunos manuales son en PDF o estan comprimidos, precisas software para abrirlo
 
 - Pagina con varios manuales: https://www.carlsalter.com/harley-service-manuals.asp
 
+- Pagina con varios manuales: https://www.lowbrowcustoms.com/blogs/events-features/harley-davidson-motorcycle-manuals-trouble-shooting-guides-parts-books-free-download
+
 - Foro con manuales **en español**: https://harleyexpert.com/resources/
 
 Podemos buscar online usando los buscadores (probar todos los enlaces, cuesta encontrar pero están las cosas):
@@ -244,6 +246,7 @@ Podemos buscar online usando los buscadores (probar todos los enlaces, cuesta en
 - https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/
 - http://www.shopronniesharleydavidson.com/
 - http://partsfinder.onlinemicrofiche.com/ronnies/partsfinder.htm
+- https://partsfinder.onlinemicrofiche.com/ronnies/showmodel.asp?make=hdmc
 - https://shop.suburbanharley.com/oem-parts
 - https://www.jerseyh-d.com/original-harley-davidson-parts/
 
