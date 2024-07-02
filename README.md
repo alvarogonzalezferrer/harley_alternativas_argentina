@@ -1443,6 +1443,10 @@ Para colocar una bateria YTX14 (sin L) , con el borne positivo a la izquierda (v
 
 2. hacer unas extensiones de cobre (con caño de aire acondicionado achatado y AISLANTE en toda su extension excepto las puntas), que vaya por sobre la bateria, y conecte con los cables (ver diagrama)
 
+Estas Alargaderas de cobre: Asegúrate de que el cobre está lijado y de que utilizas varias capas de tubo termorretráctil, o cinta aislante para aislarlo de posibles cortocircuitos, y colocar una planchuela de goma (gomaeva) en la parte superior de todo el asunto después.
+
+La ubicacion de la batería es un reto debido al espacio reducido.
+
 ![YTX14 en 883](archivos_soporte/bateria/conectar_YTX14.jpg)
 
 ## Cables de batería
