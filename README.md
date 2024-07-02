@@ -544,7 +544,7 @@ El Motul 3000 es mineral, el 5100 es semi sintetico, y el 7100 es sintético, y 
 
 **Castrol** recomienda para Sportster, motor Y primaria:
 
-- Castrol Power 1 Racing 4T 10W-50
+- Castrol Power 1 Racing 4T 15W-50
 - Castrol Power 1 4T 20W-50
 - **Castrol Actevo 20W50** - este se consigue facil, sirve para motor y primaria, y muchos lo usan con éxito
 - **Castrol Actevo X-Tra 20w50** - semi synthetic -- preferido y facil de conseguir en Argentina
@@ -592,6 +592,8 @@ Características
 - Rosca : 3/4"-16
 - Alivio : 12 PSI max
 
+![Filtros aceite](archivos_soporte/aceite/filtros.jpg)
+
 **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. - Codigo **OC 21**
 
 **HIFlo HF170C** es cromado (o negro HF170B) y específico para Harley, se consigue en Mercado Libre barato. **Es mejor en calidad que el original de Harley**. http://www.hiflofiltro.com/catalogue/filter/hf170
@@ -632,7 +634,7 @@ Otros alternativos que se publican en internet, y que pueden reemplazar el origi
 
 Tu repuestero amigo te va a saber recomendar alguno con las mismas características, tomando como referencia el FRAM que es el más conocido en el pais.
 
-Con respecto a la pinta: hay algunos de estos que vienen cromados (FRAM tiene una versión cromada), otros vienen negros, y otros en colores como naranja o blanco.
+Hay algunos de estos que vienen cromados (FRAM tiene una versión cromada), otros vienen negros, y otros en colores como naranja o blanco.
 
 # Aceite de primaria
 
@@ -642,7 +644,9 @@ Embragues Barnett recomiendan un aceite **mineral** especifico para moto, con es
 
 Embragues Energy One recomiendan aceite mineral de moto, o ATF (caja automatica), NO SINTETICO.
 
-En resumen: se puede usar el mismo aceite que en el motor siempre que sea un aceite de **moto** con especificación JASO MA (MA2 mejor) al menos y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). Y convendria que sea mineral, si no sabemos que discos de embrague tiene la moto (puede no tener HD)
+El libro ["How to build a Harley Davidson Torque Monster"](archivos_soporte/aceite/aceite_primaria_15w50.jpg) recomienda usar un sintético: **75w90** de caja, o de moto **15w50** o **20w50**.
+
+En resumen: **se puede usar el mismo aceite que en el motor** siempre que sea un aceite de **moto** con especificación **JASO MA (MA2 mejor)** al menos y un API que no sea obsoleto (**SJ, SL, SM, SN** son actuales, el resto están obsoletos). Y convendria que sea **mineral**, si no sabemos que discos de embrague tiene la moto (puede no tener HD)
 
 ## Análisis largo
 
@@ -653,8 +657,6 @@ El **HD Formula+** de primaria era el equivalente a un semi sintético de caja *
 _Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360._
 
 Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
-
-El libro _"How to build a Harley Davidson Torque Monster"_ recomienda usar un sintético: **75w90** de caja, o de moto **15w50** o **20w50**.
 
 **Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** , y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). <- esto es MUY importante!
 
@@ -735,7 +737,9 @@ Ver este enlace:
 
 - https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick
 
-Este tapón también se puede _fabricar_ usando un termómetro de horno y modificando el original, o torneando uno.
+- https://www.amazon.com/s?k=sportster+oil+dipstick
+
+Este tapón también se puede _fabricar_ usando un termómetro de horno, y modificando el original, o torneando uno.
 
 _Temperatura óptima del aceite según lo citado por Harley-Davidson en la edición de febrero de 2010 de la revista American Rider, página 49._
 
@@ -776,7 +780,7 @@ https://www.dragspecialties.com/search;q=oil%20cooler
 
 https://serviceinfo.harley-davidson.com/sip/service/document/239678
 
-## Adaptar
+## Adaptar radiador
 
 Básicamente precisas un radiador de **aceite** de otra moto o auto, dos líneas de aceite, y enchufarlo eligiendo dos maneras posibles: a la linea de aceite del lado derecho inferior del motor, ó usando un adaptador al filtro de aceite.
 
