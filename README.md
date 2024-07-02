@@ -2388,7 +2388,7 @@ Detalles de la conexion para mi 2005, para otros años puede variar, no confiars
 
 ![Velocimetro](archivos_soporte/velocimetro_GPS/cableado.jpg)
 
-![Velocimetro](archivos_soporte/velocimetro_GPS/wiring.jpg)
+![Velocimetro](archivos_soporte/velocimetro_GPS/ficha.jpg)
 
 Otro proyecto que los "expertos" me dijeron que _no se podia_, y yo lo hice.
 
