@@ -1332,13 +1332,13 @@ Mas informacion de los CCA de la bateria : https://es.wikipedia.org/wiki/Corrien
 
 Lo mejor es mantener la batería siempre con **battery tender (cargador flotante, mantenedor)** para que esté fresca, asi dura unos 5 años a veces hasta 7 años.
 
-![Conector SAE](archivos_soporte/bateria/conector_SAE.jpg)
+![Battery tender](archivos_soporte/bateria/battery_tender.jpg)
 
 El conecto que podemos usar para el mantenedor de bateria se llama "conector SAE 12v", se conecta al positivo de la bateria y la masa en la carcaza de la primaria, y permite mantener la bateria sin sacarla.
 
-Algunos modelos mas nuevos YA traen el harnes electrico con el conector de fabrica instalado. En los mas viejitos tenemos que colocarlo nosotros, suele venir con el mantenedor de bateria.
+![Conector SAE](archivos_soporte/bateria/conector_SAE.jpg)
 
-![Battery tender](archivos_soporte/bateria/battery_tender.jpg)
+Algunos modelos mas nuevos YA traen el harnes electrico con el conector de fabrica instalado. En los mas viejitos tenemos que colocarlo nosotros, suele venir con el mantenedor de bateria.
 
 Usar un mantenedor de bateria **prolonga la vida util** de la misma, a mi me han llegado a durar hasta 10 años las baterias usando el mantenedor.
 
@@ -1452,6 +1452,10 @@ La ubicacion de la batería es un reto debido al espacio reducido.
 ## Cables de batería
 
 Se pueden hacer en cualquier casa de audio para autos.
+
+El cable stock de la Sportster parece ser 6-AWG ; algunos usan 4-AWG o 3-AWG, multi filamento.
+
+Mucha informacion sobre los cables, y terminales aca : https://sportsterpedia.com/doku.php/techtalk:evo:elec01
 
 2004 - 2009
 
