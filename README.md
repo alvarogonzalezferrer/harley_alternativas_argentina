@@ -175,12 +175,15 @@ Manuales para descargar:
 
 Notar que a veces se puede usar el mismo manual para varios modelos, por ejemplo:
 
+- 1959 a 1969 sirve el mismo manual
 - 1986 a 2003 son bastante similares
 - 2004 a 2006 son los modelos similares con motor montado sobre goma y carburados
 - 2007 a 2012 son los modelos inyeccion EFI, con motor montado sobre goma
 - 2013 a 2021 son los modelos inyeccion EFI, con motor montado sobre goma, y cambios en la electronica, ABS, etc
 
 Si la informacion no la encontramos en un pack de manuales, podemos buscar en los de modelos de años proximos. Por ejemplo si tengo una 2005, me puedo fijar en la 2006 o la 2004...
+
+- [Manual de taller 2021](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2021.7z)
 
 - [Manual de taller 2018](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2018.7z)
 
@@ -190,9 +193,13 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 
 - [Manual de taller 2011](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2011.7z)
 
-- [Manual de taller 2010](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010.7z)
+- [Manual de taller 2010 español](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010.7z)
 
-- [Manual de taller 2009](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009.7z)
+- [Manual de taller 2010 inglés](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010_v2.7z)
+
+- [Manual de taller 2009 español](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009_ES.7z)
+
+- [Manual de taller 2009 inglés](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009.7z)
 
 - [Manual de taller 2008](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2008.7z)
 
@@ -200,7 +207,9 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 
 - [Manual de taller 2004 a 2006](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual_JADE_NO_OFICIAL_MUY_BUENO.compressed.pdf)
 
-- [Manual de taller 2005](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005.7z)
+- [Manual de taller 2005 v2](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005_v2.7z)
+
+- [Manual de taller 2005 v1](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005.7z)
 
 - [Manual de taller 2004](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2004.7z)
 
@@ -215,6 +224,8 @@ Si la informacion no la encontramos en un pack de manuales, podemos buscar en lo
 - [Manual de problemas comunes hasta 2003, otro](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_troubleshooting_manual.compressed.pdf)
 
 - [Manual de taller 1970 a 1978](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970_78_XL_XLH_XLCH_XLT_1000_Service_Manual.compressed.pdf)
+
+- [Manual de taller 1959 a 1969](https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_1959_1969.7z)
 
 _Algunos manuales son en PDF o estan comprimidos, precisas software para abrirlos_
 
