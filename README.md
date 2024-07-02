@@ -2348,6 +2348,54 @@ Puños, pedales, respaldos, manillares, asientos, etc, se fabrican personalizado
 
 Ahora se venden también nacionales, los vi en Mercado Libre. (2020)
 
+## Velocimetro GPS
+
+Este velocimetro lee la velocidad mediante GPS, no toma la velocidad del sensor VSS de la moto.
+
+NO marca mapas GPS, simplemente mide la velocidad con los datos del GPS. Tiene una antena que hay que ocultar. Y ademas se puede poner en millas, nudos o kilometros, y cambiar el color de iluminacion (tiene muchos colores, yo lo configure en naranja)
+
+Lo instale en mi XL 2005 S ; ya que el velocimetro original estaba quemado.
+
+Es simplemente reemplazarlo y colocar +12 v y GND en la ficha.
+
+Lo compre en Amazon: https://www.amazon.com/ELING-DigitalGPS-Speedometer-Adjustable-Back-Lights/dp/B07KP7HGJ4?th=1
+
+Fabricante: ELING / ASIN: B07KP7HGJ4
+
+Fotos:
+
+Velocimetro original vs el de Amazon con GPS
+
+![Velocimetro original vs GPS](archivos_soporte/velocimetro_GPS/1.jpg)
+
+Probando la conexion en la moto
+
+![Velocimetro](archivos_soporte/velocimetro_GPS/2.jpg)
+
+Probando la conexion en la moto
+
+![Velocimetro](archivos_soporte/velocimetro_GPS/2.jpg)
+
+Detalle de la conexion a la ficha de la moto (+12 v y GND)
+
+![Velocimetro](archivos_soporte/velocimetro_GPS/3.jpg)
+
+Ficha lista casera, epoxi y silicona, con dos pines soldados del lado del velocimetro, para no tener que modificar la ficha original del harnes de la moto.
+
+![Velocimetro](archivos_soporte/velocimetro_GPS/4.jpg)
+
+Velocimetro funcionando, llevo años ya con este velocimetro.
+
+![Velocimetro](archivos_soporte/velocimetro_GPS/5.jpg)
+
+Detalles de la conexion para mi 2005, para otros años puede variar, no confiarse y revisar el manual de diagnostico electrico correspondiente!
+
+![Velocimetro](archivos_soporte/velocimetro_GPS/cableado.jpg)
+
+![Velocimetro](archivos_soporte/velocimetro_GPS/wiring.jpg)
+
+Otro proyecto que los "expertos" me dijeron que _no se podia_, y yo lo hice.
+
 ## Navegacion GPS, celular, toma 12V, y USB
 
 ### Toma 12V
