@@ -2789,7 +2789,7 @@ _SIN HACER_
 
 La mejor defensa es evitar zonas peligrosas, evitar el conflicto, salir relajado a la calle.
 
-Igualmente siempre hay gente de mierda que intentara atacarte o tomar lo que no es suyo.
+Igualmente siempre hay gente de mierda que intentara atacarte, o tomar lo que no es suyo.
 
 Kit basico: Baston plegable + spray pimienta.
 
