@@ -1828,7 +1828,7 @@ Ver este video: https://www.youtube.com/watch?v=j3JiSOjkuZ0
 
 Y mas información: https://california-motorcycles.com/blogs/mecanicaharley/como-ver-y-borrar-los-codigos-de-error-efi-de-harley-davidson
 
-_NOTA_ Otra manera de diagnostico es usar un scanner ODB2, como el económico **ELM327**, en la carpeta "archivos_soporte/EFI/diagnostico" puse la manera. Es mas fácil usar el diagnostico que trae la moto igualmente.
+_NOTA_ Otra manera de diagnostico es usar un scanner ODB2, como el económico **ELM327**, en esta [carpeta](archivos_soporte/EFI/diagnostico) puse la manera. Es mas fácil usar el diagnostico que trae la moto igualmente.
 
 ### Diagnostico mediante cable ODB2
 
