@@ -1792,8 +1792,6 @@ _NOTA_ El filtro de fábrica parece insuficiente, quizás conviene poner un filt
 
 _NOTA_ Si el filtro estuviera perforado, debe ser cambiado, se busca como "petcock screen" ó "Late Style Petcock Replacement Screen"
 
--
-
 # Inyección EFI (2007 en adelante)
 
 Del 2007 inclusive en adelante, Harley dejó de poner carburador en sus Sporster, y empezó a poner inyección electrónica de combustible en sus motos.
@@ -1841,7 +1839,11 @@ La manera mas sencilla es combinar lo siguiente :
 - Cable J1850 de 4 pines a ODB2 (2001-2014), convierte la conexión OBD2 de 4 pines a 16 pines para su uso con tus escáneres o lectores OBD2 capaces de J1850, conectado a
 - ELM327 bluetooth, conectado a
 
-- Aplicaciones tipo [HarleyDroid](https://play.google.com/store/apps/details?id=org.harleydroid) o [RPMitUP](https://play.google.com/store/apps/details?id=com.motorcycle.dashboard)
+- Aplicaciones tipo [~HarleyDroid~](https://play.google.com/store/apps/details?id=org.harleydroid) , [~RPMitUP~](https://play.google.com/store/apps/details?id=com.motorcycle.dashboard)  , [Torque](https://play.google.com/store/apps/details?id=org.prowl.torque)
+
+- 2024: Las aplicaciones antes mencionadas no existen mas en la Play Store, pero tengo una copia APK en la carpeta ["apps"](archivos_soporte/apps), bajarla de ahi.
+
+- El codigo fuente de HarleyDroid esta en https://github.com/stelian42/HarleyDroid
 
 ![Cable ODB2](archivos_soporte/EFI/diagnostico/cable_diagnostico.jpg)
 
