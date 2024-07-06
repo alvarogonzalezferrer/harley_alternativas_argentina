@@ -1513,7 +1513,33 @@ Bulbo 1157 (US) frente, 1156 o 1141 P21W trasero (y delantero latino).
 
 Se puede modernizar con luces LED los modelos mas antiguos, viene un kit.
 
-También se puede cambiar solo el bulbo por uno LED, para no cambiar todo.
+También se puede cambiar solo el bulbo por uno LED, para no cambiar todo, los venden en Amazon (yo los tengo instalados en mi 2005).
+
+### Funcionamiento de los intermitentes (Sportsters 2004+)
+
+Una de las cosas que realmente no se explica en el Manual del Propietario es cómo el Módulo de Intermitentes (TSM) controla el funcionamiento de los intermitentes, y las condiciones en las que el intermitente se cancela, permanece encendido, etc...
+
+En caso de que alguien pueda estar interesado, lo siguiente es lo que determina el parpadeo, o la cancelación de la señal después de "pulsar el botón"...
+
+*Nota* el TSM/TSSM no cancelará el intermitente antes de que se complete realmente el giro.
+
+#### Cancelación automática
+
+1. Cuando se pulsa y suelta el botón del intermitente, el sistema inicia una cuenta de 20. Mientras la motocicleta se mueva por encima de 7 MPH (11 KPH) y el TSM no reciba ninguna entrada adicional, los intermitentes se cancelarán después de 20 parpadeos de la bombilla.
+
+2. 2. Si la velocidad de la motocicleta desciende a 7 MPH (11 KPH) o menos, los intermitentes seguirán parpadeando. El conteo se reanuda cuando la motocicleta alcanza los 8 MPH (13 KPH) y los intermitentes se cancelarán cuando el conteo total sea igual a 20 destellos de bombilla.
+
+3. Los intermitentes se cancelarán dos segundos después de completar un giro de 45 grados o más.
+
+#### Cancelación manual
+
+1. Después de pulsar y soltar el botón de los intermitentes, el sistema inicia un recuento de 20. Para cancelar los intermitentes, pulse el botón de intermitentes una segunda vez.
+
+2. Si se cambia el sentido de giro, pulse el botón del intermitente opuesto. La señal primaria se cancela y la señal de giro opuesta parpadeará.
+
+La próxima vez que circule por una carretera recta (sin tráfico alrededor) pulse uno de los botones de los intermitentes. El intermitente debería cancelarse solo después de alcanzar la cuenta de 20 parpadeos.
+
+He verificado esto en mi 2005, y funcina exactamente como se describe anteriormente.
 
 # Embrague
 

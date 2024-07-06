@@ -1,0 +1,420 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Brettschneider equation, brightschneider, ec997, dynamometer, carbon balance AFR 
+calculations, Andros, o2, co, co2, hc, NOx, Horiba, Bridge, Lumnasense, factory 
+Pro, salvisberg, schafer robert schrader joe bisby</title>
+</head>
+
+<body>
+
+<font face="Times New Roman">
+<script language="javascript">
+<!--
+// constants
+var lambda = 1;
+var afratio = 14.7;
+
+// USA constants
+var USA_K = 3.5;
+var USA_Ocv = .0170;
+var USA_Hcv = 1.98;
+
+// Euro Constanss
+var EURO_K = 3.5;
+var EURO_Ocv = .0176;
+var EURO_Hcv = 1.7261;
+
+function doLambda()
+{
+	var K = 0;
+	var Ocv = 0;
+	var Hcv = 0;
+	var which = 0;
+
+	if (document.lambda.constants[1].checked)
+	{
+		which = 1;
+	}
+
+	K = eval(document.lambda.constants[which].value + "_K");
+	Ocv = eval(document.lambda.constants[which].value + "_Ocv");	
+	Hcv = eval(document.lambda.constants[which].value + "_Hcv");		
+
+	var co2 = document.lambda.co2.value;
+	co2 = co2 * 1;
+	var co = document.lambda.co.value;
+	co = co * 1;
+	var hc = document.lambda.hc.value;
+	hc = hc * 1;	
+	var o2 = document.lambda.o2.value;
+	o2 = o2 * 1;
+	var no = document.lambda.no.value;
+	no = no * 1;
+	
+  	     /* Rounding JavaScript is (c)1998-99 Christopher Bovitz. */
+		var sig = 3; // number of significant digits
+		var log10e = Math.log (10);
+		fourgaslambda = (co2+(co/2)+o2+((Hcv/4)*(K/(K+(co/co2)))-Ocv/2)*(co2+co))/((1+Hcv/4-Ocv/2)*(co2+co+6*(hc/10000)));
+		fourgasround = fourgaslambda;
+		
+		if (fourgasround >= 1)
+		{
+			sig = 4;
+		}
+		
+	     rounding_factor = Math.pow (10, -Math.floor (Math.log (Math.abs(fourgasround))/log10e - (sig-1) ) );
+        	fourgasround = Math.round (fourgasround * rounding_factor) / rounding_factor;
+		
+		fivegaslambda = (co2+(co/2)+o2+(no/10000)/2+((Hcv/4)*(K/(K+(co/co2)))-Ocv/2)*(co2+co))/((1+Hcv/4-Ocv/2)*(co2+co+6*(hc/10000)));
+		fivegasround = fivegaslambda;
+
+		if (fivegasround >= 1)
+		{
+			sig = 4;
+		}
+	
+	     rounding_factor = Math.pow (10, -Math.floor (Math.log (Math.abs(fivegasround))/log10e - (sig-1) ) );
+        	fivegasround = Math.round (fivegasround * rounding_factor) / rounding_factor;
+
+		fourgasaf = afratio*fourgaslambda;
+
+		sig = 4;
+		
+	     rounding_factor = Math.pow (10, -Math.floor (Math.log (Math.abs(fourgasaf))/log10e - (sig-1) ) );
+        	fourgasaf = Math.round (fourgasaf * rounding_factor) / rounding_factor;
+
+		fivegasaf = afratio*fivegaslambda;
+		
+	     rounding_factor = Math.pow (10, -Math.floor (Math.log (Math.abs(fivegasaf))/log10e - (sig-1) ) );
+        	fivegasaf = Math.round (fivegasaf * rounding_factor) / rounding_factor;
+
+
+	document.lambda.fourgaslambda.value = fourgasround;
+	document.lambda.fivegaslambda.value = fivegasround;
+	document.lambda.fourgasaf.value = fourgasaf;
+	document.lambda.fivegasaf.value = fivegasaf;
+}
+
+// -->
+</script>
+<meta content="MSHTML 6.00.2800.1170" name="GENERATOR">
+</head>
+
+</font>
+<body style="MARGIN-TOP: 0px; MARGIN-LEFT: 0px; font-family:v" text="#000000" vlink="#2883CA" alink="#2883CA" link="#206BA6" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+
+<div align="center">
+	<center><font face="Times New Roman"></font>
+	<table cellspacing="0" cellpadding="0" width="695" border="0">
+		<tr>
+			<td width="100"><font face="Times New Roman"></a></font></td>
+			<td bgcolor="#000000" height="2"><font face="Times New Roman">
+			<img height="2" src="iATN%20Lambda%20Calculator_files/dot.gif"></font></td>
+			</font>
+		</tr>
+	</table>
+	<table cellspacing="0" cellpadding="5" width="98%" border="0">
+		<tr>
+			<td valign="top" align="middle" width="70" bgcolor="#ffffff">
+			<font face="Times New Roman"></font></td>
+			<td width="2"><font face="Times New Roman">
+			<img height="1" src="iATN%20Lambda%20Calculator_files/dot.gif" width="1"></font></td>
+			<td width="2"></td>
+			<td valign="top"><font face="Times New Roman"></font>
+			<table cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tr>
+					<td>
+					<p align="center"><font face="Times New Roman" size="3"><b>Lambda 
+					Calculator - Brettschneider Equation&nbsp; (or how to determine 
+					AFR accurately)<br>
+					</b></font><font face="Times New Roman">
+					<img border="0" src="../images/Bretts1.gif" width="72" height="59"></font></p>
+					</td>
+					<td align="right"><font face="Times New Roman">
+					<img height="40" src="../../../../../../WINDOWS/Desktop/iATN%20Lambda%20Calculator_files/dot(1).gif" width="1" border="0"></font></td>
+				</tr>
+				<tr valign="top" bgcolor="#000000">
+					<td height="1"><font face="Times New Roman">
+					<img height="1" alt="" src="iATN%20Lambda%20Calculator_files/blackline.gif" width="1" border="0"></font></td>
+				</tr>
+			</table>
+			<font face="Times New Roman">
+			<!-- BEGIN PAGE BODY --><br>
+			</font><font face="Times New Roman" size="2">The <b>Brettschneider</b> 
+			equation is the de-facto standard method used to calculate the normalized 
+			air/fuel balance (Lambda) for domestic and international I&amp;M inspection 
+			programs. It is taken from a paper written by Dr. Johannes Brettschneider, 
+			at Robert Bosch in 1979 and published in &quot;Bosch technische Berichte&quot;, 
+			Vol 6 (1979) N0. 4, Pgs 177-186. In the paper, Dr. Brettschneider established 
+			a method to calculate Lambda (Balance of Oxygen to Fuel) by comparing 
+			the ratio of oxygen molecules to carbon and hydrogen molecules in the 
+			exhaust.</font><font face="Times New Roman"> </font>
+			<form name="lambda" action="http://members.iatn.net/tech/lambda.cgi" method="post">
+				<center>
+				<table cellspacing="0" cellpadding="1" bgcolor="#dddddd" border="0">
+					<tr>
+						<td>
+						<table cellspacing="3" cellpadding="3" width="923" bgcolor="#008000" border="0" height="357">
+							<tr>
+								<td colspan="3" style="border: 1px solid #C0C0C0" height="20">
+								<font face="Times New Roman" size="2">
+								<input type="radio" checked value="USA" name="constants" tabindex="0"> 
+								USA </font>
+								<font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+								<font face="Times New Roman">
+								<input type="radio" value="EURO" name="constants" tabindex="0"></font><font face="Times New Roman" size="2"> 
+								Europe</font></font></td>
+								<td height="20">
+								<p><font face="Times New Roman" size="1"><b>Note:</b> 
+								The USA and Europe choices are to account for the 
+								use of different values of Hcv and Ocv (see values 
+								below)</font></p>
+								</td>
+								<td valign="top" height="20">
+								<table cellspacing="0" cellpadding="3" width="1" border="0" id="table1">
+									<tr>
+										<td width="21">
+										<p align="center">&nbsp;</p>
+										</td>
+										<td width="32">
+										<p align="center">
+										<font face="Times New Roman" size="1">
+										<b>USA</b></font></p>
+										</td>
+										<td width="37">
+										<p align="center">
+										<font face="Times New Roman" size="1">
+										<b>Europe</b></font></p>
+										</td>
+									</tr>
+									<tr>
+										<td width="21">
+										<p align="center">
+										<font face="Times New Roman" size="1">Hcv</font></p>
+										</td>
+										<td width="32">
+										<p align="center">
+										<font face="Times New Roman" size="1">1.98</font></p>
+										</td>
+										<td width="37">
+										<p align="center">
+										<font face="Times New Roman" size="1">1.7261</font></p>
+										</td>
+									</tr>
+									<tr>
+										<td width="21">
+										<p align="center">
+										<font face="Times New Roman" size="1">Ocv</font></p>
+										</td>
+										<td width="32">
+										<p align="center">
+										<font face="Times New Roman" size="1">0.017</font></p>
+										</td>
+										<td width="37">
+										<p align="center">
+										<font face="Times New Roman" size="1">0.0176</font></p>
+										</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+							<tr>
+								<td style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">CO</font></td>
+								<td align="center" style="border: 1px solid #C0C0C0">
+								<font face="Times New Roman" size="2">
+								<input size="8" name="co" tabindex="1"></font></td>
+								<td height="28" style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">%</font></td>
+								<td bgcolor="#efede7" colspan="2" rowspan="3">
+								<ul>
+									<li>
+									<div align="left">
+										<b>
+										<font face="Times New Roman" size="2">FIRST 
+										ADVANTAGE: The<u> exhaust gas sample</u> 
+										can be taken <u>before or after the catalytic 
+										converter</u>.&nbsp;&nbsp;&nbsp; .</font></b></div>
+									</li>
+									<li>
+									<div align="left">
+										<b>
+										<font face="Times New Roman" size="2">SECOND 
+										ADVANTAGE: The AFR displayed compensates
+										<u>for the degree of combustion</u> - due 
+										to combustion inefficiencies, ignition timing, 
+										misfire, or poor CAT action.</font></b></div>
+									</li>
+									<li>
+									<div align="left">
+										<font face="Times New Roman" size="2">The 
+										exhaust system must be free of any air leaks.
+										</font></div>
+									</li>
+									<li>
+									<div align="left">
+										<font face="Times New Roman" size="2">If 
+										equipped with Exhaust Air Injection (AI) 
+										it should be disabled.</font></div>
+									</li>
+								</ul>
+								</td>
+							</tr>
+							<tr>
+								<td style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">HC</font></td>
+								<td align="center" style="border: 1px solid #C0C0C0">
+								<font face="Times New Roman" size="2">
+								<input size="8" name="hc" tabindex="2"></font></td>
+								<td height="28" style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">ppm</font></td>
+							</tr>
+							<tr>
+								<td style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">CO<sub>2</sub></font></td>
+								<td align="center" style="border: 1px solid #C0C0C0">
+								<font face="Times New Roman" size="2">
+								<input size="8" name="co2" tabindex="3"></font></td>
+								<td height="28" style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman">%</font></td>
+							</tr>
+							<tr>
+								<td style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">O<sub>2</sub></font></td>
+								<td align="center" style="border: 1px solid #C0C0C0">
+								<font face="Times New Roman" size="2">
+								<input size="8" name="o2" tabindex="4"></font></td>
+								<td height="28" style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">%</font></td>
+								<td bgcolor="#efede7" colspan="2" rowspan="3">
+								<table cellspacing="1" cellpadding="3" width="100%" border="0" id="table2">
+									<tr>
+										<td width="171" bgcolor="#dddddd" rowspan="3" align="center" valign="bottom">
+										<p align="center">
+										<font face="Times New Roman">
+										<input onclick="doLambda()" type="button" value="Calculate" name="Calculate" tabindex="6"></font></p>
+										</td>
+										<td width="171" bgcolor="#dddddd" align="center">
+										<font face="Times New Roman" size="2">
+										<b>Lambda Calculation</b></font></td>
+										<td width="109" bgcolor="#dddddd" align="center">
+										<b>
+										<font face="Times New Roman" size="2">Lambda</font></b></td>
+										<td width="118" bgcolor="#dddddd" align="center">
+										<b>
+										<font face="Times New Roman" size="2">A/F 
+										Ratio</font></b></td>
+									</tr>
+									<tr>
+										<td width="171" bgcolor="#eeeeee" align="center">
+										<font face="Times New Roman" size="2">using 
+										4-Gas Measurement</font></td>
+										<td width="109" bgcolor="#eeeeee" align="center">
+										<font face="Times New Roman" size="2">
+										<input size="8" name="fourgaslambda" tabindex="0">
+										</font></td>
+										<td width="118" bgcolor="#eeeeee" align="center">
+										<font face="Times New Roman" size="2">
+										<input size="8" name="fourgasaf" tabindex="0">
+										</font></td>
+									</tr>
+									<tr>
+										<td width="171" bgcolor="#eeeeee" align="center">
+										<font face="Times New Roman" size="2">using 
+										5-Gas Measurement</font></td>
+										<td width="109" bgcolor="#eeeeee" align="center">
+										<font face="Times New Roman" size="2">
+										<input size="8" name="fivegaslambda" tabindex="0">
+										</font></td>
+										<td width="118" bgcolor="#eeeeee" align="center">
+										<font face="Times New Roman" size="2">
+										<input size="8" name="fivegasaf" tabindex="0">
+										</font></td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+							<tr>
+								<td style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">NOx</font></td>
+								<td align="center" style="border: 1px solid #C0C0C0">
+								<font face="Times New Roman" size="2">
+								<input size="8" name="no" tabindex="5"></font></td>
+								<td height="6" style="border: 1px solid #C0C0C0" align="center">
+								<font face="Times New Roman" size="2">ppm</font></td>
+							</tr>
+							<tr>
+								<td valign="top" height="30">&nbsp;</td>
+								<td align="center" height="30">&nbsp;</td>
+								<td height="30">&nbsp;</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</center>
+				<p align="center"></p>
+			</form>
+			<p align="center"><font face="Times New Roman">
+			<img height="294" src="iATN%20Lambda%20Calculator_files/lambda.gif" width="450"></font></p>
+			<p><font face="Times New Roman"><br>
+			For Gasoline, K1 is 6.0, Hcv is about 1.800 (depending on the actual 
+			mix), and Ocv is 0.017 for oxygenated fuels. The equation above compares 
+			the sources of oxygen in the numerator, and all of the sources of carbon 
+			and hydrogen in the denominator. (The ratio of unburned hydrogen to 
+			water is determined by the ratio of CO to CO2 in the numerator).
+			</font></p>
+			<p><font face="Times New Roman">The Lambda result is a dimensionless 
+			value that indicates the balance of air to fuel compared to the stoichometric 
+			point, where Lambda = 1.000. As an example, Lambda of 1.010 means there 
+			is 1% too much oxygen (1% &quot;lean&quot; of stoichometric, not 1% lean of where 
+			the engine wants to be) and 0.990 means there is 1% too little oxygen 
+			(1% rich of stoicometric, not 1% richer than where the engine wants 
+			to be) in the exhaust gas makeup. </font></p>
+			<p><font face="Times New Roman">For gasoline, Lambda x 14.71 is the 
+			air/fuel mass ratio – as for gasoline, at the perfect stoichometric 
+			point the A/F mass ratio is 14.71 (1.00 Lambda). </font></p>
+			<p><font face="Times New Roman">That does not mean that and engine actually 
+			wants anything like 14.7:1, it just means that that&#39;s what the exhaust 
+			gases contain to back out the AFR,&nbsp; given the amount of air and 
+			fuel delivered and burned to some efficiency rate. When tuning an existing 
+			engine, 14.7:1 is essentially, a value that is only useful in a chemistry 
+			class.</font></p>
+			<p><font face="Times New Roman" size="2"><b>This</b> Lambda calculation 
+			determines the relative balance of Oxygen to Combustibles in the exhaust 
+			gas by direct measurement of oxygen and combustibles bearing gases. 
+			Lambda calculated in this way is <u>independent of the degree of combustion</u> 
+			- whether due to combustion inefficiencies, ignition timing, misfire, 
+			or poor CAT action, and is a good witness of the effectiveness of the 
+			vehicle EMS fuel control (lambda) closed loop system. </font></p>
+			<p><font face="Times New Roman" size="2">Also, because of the independence 
+			to combustion efficiency, <u>it does not matter whether pre or post 
+			CAT exhaust gases are used for the calculation. </u></font></p>
+			<p><font face="Times New Roman" size="2">Exhaust Air Leaks<br>
+			However, excess air caused by exhaust system air leaks, or air injection 
+			will cause the exhaust-gas-calculated Lambda to indicate leaner than 
+			actual values. These air dilution conditions are usually indicated by 
+			high O2 readings in the exhaust stream along with an overall reduction 
+			in the concentration of the other gases. To improve the correlation 
+			of the EGA Lambda to the Engine Management System mixture control point, 
+			air injection should be disabled, and exhaust air leaks should be corrected.
+			<br>
+			</font></p>
+			<hr noshade size="1">
+			<p align="center"><font face="Times New Roman" size="2">Reprinted by 
+			Factory Pro Courtesy of Robert Schrader - Bridge Analyzers, Inc. Copyright 
+			© Bridge Analyzers, Inc. </font></p>
+			<p><font face="Times New Roman"></font></p>
+			</td>
+		</tr>
+	</table>
+	</center></div>
+<font face="Times New Roman"></font>
+
+</body>
+
+</html>
