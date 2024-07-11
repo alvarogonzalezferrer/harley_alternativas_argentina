@@ -116,10 +116,11 @@ Igualmente, para no dejar totalmente sin ayuda a los nuevos propietarios de la S
 
 Estos manuales NO son para las Sportster modelos con motor refrigerado por aire de la serie "vieja" codigo XL, son para la **nueva** Sportster S, codigo RH
 
-2024 - HARLEY LOS BAJO - VERÉ DE CONSEGUIRLOS DE OTRO LADO; si alguien los tiene me los manda por favor!
+Les dejo un VIN valido de una Sportster RH1250S 2023 para buscar manuales: 5HD1ZC43XPB312865
 
-~- Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547687173511687457~
+- Manual de usuario : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1922009926143166862&groupId=2518
 
+2024 - HARLEY LO BAJO - VERÉ DE CONSEGUIRLOS DE OTRO LADO; si alguien los tiene me los manda por favor!
 ~- Catalogo de partes: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547686249569650976~
 
 > Owner's Manual:
@@ -164,8 +165,9 @@ NOTA: Si no tenemos VIN a mano, les dejo algunos genericos que pueden usar y eje
 
 3. Para EFI, 2007 en adelante: _1HD1CT311CC442353_ (2012) , _1HD4LE218LB434556_ (2020)
 
-- manual del propietario 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545140320163801375&groupId=16
+- manual del propietario 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545140320163801375
 - catalogo de partes 2012 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273148&groupId=14
+- manual del propietario 2022 : https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1807548144722844022
 
 ## Manual de taller
 
