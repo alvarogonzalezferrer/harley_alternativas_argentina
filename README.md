@@ -2,6 +2,8 @@
 
 ## Alternativas de mantenimiento
 
+:wrench: :wrench: :wrench: :wrench:
+
 ### Apuntes del propietario
 
 Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Company.
@@ -12,9 +14,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 
 ## Tabla de contenidos
 
-La tabla de contenidos se actualiza automáticamente, dar click en el icono sobre el margen izquierdo.
-
-![Tabla de contenido](archivos_soporte/contenido_help.jpg)
+La tabla de contenidos se actualiza automáticamente, dar click en el icono de arriba. :bookmark_tabs:
 
 ## Introducción
 
