@@ -598,6 +598,8 @@ Características
 
 **Mahle OC1021** es filtro para Harley y se consigue barato. Color negro. - Codigo **OC 21**
 
+**Mahle OC 988** es filtro automotriz casi identico al de Harley ; es el del Stratus, Neon, etc
+
 **HIFlo HF170C** es cromado (o negro HF170B) y específico para Harley, se consigue en Mercado Libre barato. **Es mejor en calidad que el original de Harley**. http://www.hiflofiltro.com/catalogue/filter/hf170
 Tambien hay un modelo "high performance" con un elemento filtrante mejorado, el HF170RC, pero no lo vi en venta en Argentina. Ver http://www.hiflofiltro.com/catalogue/filter/HF170RC
 
