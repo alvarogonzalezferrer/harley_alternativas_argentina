@@ -801,7 +801,7 @@ De auto:
 
 **Valvoline SynPower 75W-90 GL5** sirve y se consigue fácil.
 
-No daña los metales amarillos. Que diga “slip differential”o similar para el embrague del diferencial
+No daña los metales amarillos. Que diga "slip differential" "limited slip" o similar para el embrague del diferencial.
 
 **Valvoline High Perf 80w90 GL5** también (mineral, como piden algunos embragues tipo Barnett o Energy One)
 
