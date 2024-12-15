@@ -763,9 +763,9 @@ Este es un tema casi "místico" en el mundillo Harley, hay quienes juran que si 
 
 El **HD Formula+** de primaria era el equivalente a un semi sintético de caja **80w90**, ó equivalente a uno de motor **20w50**.
 
-_Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360._
+_Nota: Harley discontinuó en 2020 al Formula+, sugiriendo que se use el SYN3 o HD 360. Pero despues lo volvio a vender, la $ manda parece..._
 
-Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo.
+Un aceite **100% sintético 20W50 en primaria de primer nivel**, como el AMSOIL o el CASTROL POWER 1 RACING es un buen reemplazo, PARA EL EMBRAGUE ORIGINAL. Los embragues de otras marcas como Barnett o Ultima piden aceite mineral! 
 
 **Ver que el aceite sea para moto y cumpla la norma JASO MA o MA2** , y un API que no sea obsoleto (SJ, SL, SM, SN son actuales, el resto están obsoletos). <- esto es MUY importante!
 
@@ -788,22 +788,24 @@ Castrol recomienda varias opciones:
 **Castrol Power 1 4T 20W-50**
 **Castrol Power 1 4T 15w50**
 
-Ipone recomienda Ipone RS 4000 20w50
+Ipone recomienda **Ipone RS 4000 20w50**
 
 Mobil 1 recomienda para primaria (nunca los consegui en Argentina)
 
-- Mobil 1 Racing™ 4T 10W-40, but it is also okay to use Mobil 1™ V-Twin 20W-50.
+- Mobil 1 Racing™ 4T 10W-40
+- Mobil 1™ V-Twin 20W-50.
 - **Mobil 1 15w50 full syn** (coincide con la recomendacion del libro)
 - Mobil 1 75w90 gear oil
 
-De auto -- NO RECOMENDABLE, solo para desesperados:
+De auto:
+
 **Valvoline SynPower 75W-90 GL5** sirve y se consigue fácil.
 
 No daña los metales amarillos. Que diga “slip differential”o similar para el embrague del diferencial
 
-**Valvoline High Perf 80w90 GL5** también (mineral, más barato)
+**Valvoline High Perf 80w90 GL5** también (mineral, como piden algunos embragues tipo Barnett o Energy One)
 
-También sirve un **75w90** o similar, pero certificado para usar en primarias con embrague húmedo y **GL4**.
+También sirve un **75w90** o similar, pero certificado para usar con embrague húmedo y GL4.
 
 **Ipone**
 Tiene **Trans4 80w90** para cajas de cambio de moto separadas, deberia servir, **no lo investigue lo suficiente**
