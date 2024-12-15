@@ -1041,7 +1041,8 @@ Esta guia puede estar incompleta, **VERIFICAR** antes de comprar que corresponda
 | 2011+ XL883L / XL1200T Superlow | 150 60 17 / 4.50 x 17" |
 | 2014 a 2017 XL1200T             | 150 70 17 / 4.50 x 17" |
 
-### Tamaños máximos
+
+## Tamaños máximos
 
 Se puede poner una 130 en las 2003 y anteriores. Medir bien antes de comprar la goma!
 
@@ -1057,7 +1058,7 @@ Estos son los tamaños máximos de cubiertas SIN modificar guardabarros stock, p
 
 Nota: Para ponerle diente de perro a una bobber, la 650 R16 o 6.5 R16 sirve, p/ej la Fate Gaucha, o la Pirelli, son baratas y tienen diente de perro (son agrícolas).
 
-### Ensanchar rueda trasera
+## Ensanchar rueda trasera
 
 Se puede poner rueda trasera mas ancha, fabricando algo, o comprando el kit.
 
@@ -1115,6 +1116,70 @@ Para comprar o cambiar la goma , en **Buenos Aires, Argentina**
 - Todo moto 935 -- https://todomoto935.com.ar/
 
 Si saben alguna mas, me avisan!!
+
+## Rulemanes / rodamientos de rueda
+
+[TODO - A DESARROLLAR ]
+
+**ATENCION** diferentes años de la Sporster usan diferentes rodamientos, dado que cambia el diametro del eje de la rueda.
+
+Se recomienda cambiarlos cada 40 000 km? Creo...
+
+Buena marca de rodamientos
+* https://www.allballsracing.com/
+
+Instrucciones para cambiarlos
+* https://www.allballsracing.com/media/installation/Wheel_Bearing_Install.pdf
+* https://www.youtube.com/watch?v=sVXWt7xE9LI
+
+Traduccion de las instrucciones de All Balls Racing:
+
+### Extracción del rodamiento
+
+Utilice un punzón largo (debe tener un buen filo).
+
+Retire los circlips o retenes. Inserte el punzón en la rueda y atrape el borde del rodamiento en el otro lado.
+
+Usando un martillo, golpee el punzón y trabaje alrededor de toda la circunferencia del rodamiento.
+
+El rodamiento y la junta acabarán saliendo del cubo de la rueda.
+
+El segundo rodamiento se puede extraerse con un punzón, una llave de vaso larga u otro destornillador adecuado.
+
+Nota: Los cojinetes se dañarán durante el proceso de extracción y no deben reutilizarse.
+
+Los golpes del martillo transmiten su impacto a través de las bolas causando pequeños puntos planos, que harán que el rodamiento falle rápidamente si se vuelve a utilizar.
+
+### Inspección del rodamiento
+
+Espaciador interior: Compruebe que el agujero está limpio y que el eje lo atraviesa con facilidad.
+
+Compruebe cada extremo en busca de desgaste y rebabas.
+
+Los bordes deben estar a escuadra para que asienten correctamente contra los nuevos cojinetes.
+
+Si los cojinetes viejos fallaron es una buena idea confirmar que el espaciador central no ha sido dañado.
+
+Asegúrese de que el espacio interior tiene la misma longitud, o es ligeramente más largo que los topes de los rodamientos en el cubo o el soporte.
+
+Cubo de la rueda: Limpie el cubo, eliminando la suciedad y la corrosión. Asegúrese de no quitar el metal, esto afectaria negativamente al ajuste del rodamiento.
+
+Separadores exteriores de rueda: Limpie los espaciadores de la rueda exterior e inspecciónelos en busca de desgaste en cualquiera de los extremos, así como el desgaste en la superficie exterior donde hace contacto con la junta.
+Si los espaciadores están excesivamente desgastados deben ser sustituidos.
+
+### Instalación de los rodamientos
+
+Nota 1: Una instalación incorrecta puede causar daños en los cojinetes y reducir drásticamente su vida útil.
+
+Nota 2: Calentar el cubo de la rueda hará que el cubo se expanda ligeramente y facilitará la instalación del rodamiento.
+
+Siga las sencillas reglas que se indican a continuación para instalar correctamente los rodamientos:
+1. Aplique presión SÓLO en la pista exterior del rodamiento.
+2. Aplique presión uniformemente para que el rodamiento permanezca en escuadra con el cubo de la rueda.
+3. Asiente completamente el primer rodamiento.
+4. Recuerde colocar el espaciador interior entre los rodamientos.
+5. Golpee ligeramente el segundo rodamiento hasta que la pista interior toque el espaciador central.  El asentamiento completo del segundo cojinete puede causar que ambos cojinetes se carguen lateralmente causando un fallo prematuro.
+6.  Si el espaciador central está flojo después de instalar el segundo rodamiento, esto puede ser una señal de que el espaciador central es demasiado corto y necesita ser ajustado. espaciador central es demasiado corto y necesita ser reemplazado o el segundo cojinete necesita ser encintado más. Un espaciador central suelto o desgastado puede hacer que el rodamiento se cargue lateralmente en la dirección opuesta después de apretar el eje.
 
 # Levantar la moto
 
