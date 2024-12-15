@@ -1122,8 +1122,6 @@ Si saben alguna mas, me avisan!!
 
 ## Rulemanes / rodamientos de rueda
 
-[TODO - A DESARROLLAR ]
-
 **ATENCION** diferentes años de la Sporster usan diferentes rodamientos, dado que cambia el diametro del eje de la rueda.
 
 Se recomienda cambiarlos cada 40 000 km? Creo...
@@ -1136,6 +1134,35 @@ Instrucciones para cambiarlos
 * https://www.youtube.com/watch?v=sVXWt7xE9LI
 
 Traduccion de las instrucciones de All Balls Racing:
+
+### Tamaños de rulemanes / rodamientos
+
+Depende del año, traen diferentes rodamientos, por el tamaño del eje
+
+* Eje de 3/4": 1973-1999, **OEM 9052**, Juego de rodamientos cónicos de estilo original para ruedas con eje de 3/4", incluye también los dos sellos guardapolvos de 0,40" (10,16mm) de espesor. Sportster XL 1973-1999 (delantero) y Sportster XL 1979-1999 (trasero). 
+* Eje de 3/4": 2000-2007 Sportster XL (Delantero) y 2000-2004 Sportster XL (Trasero) - **OEM 9267**
+* Ejes de 1" : 2005-2007 Sportster XL (Trasero) -  **OEM 9247**
+* Ejes de 25 mm: **OEM 9276** (hay variantes A/B para  RH Sportster 2021-2023) 2008-2020 SIN ABS, por ejemplo todas las Sportsters sin ABS del 2008 al presente atrás y adelante.
+* MODELOS CON ABS en los frenos: **OEM 9252**, le sirve a la mayoría de Harley después del año 2000 con ejes de 25 mm, con ranura incorporada para que lo lea el decodificador de ABS, Usualmente la mayoría de Harley con ABS traen un roll de 25 mm normal y uno con ranura. **Cuando lo instale asegúrese que la parte magnética del roll apunte hacia afuera del aro.**
+
+### Medidas de los rulemanes
+
+Ver de referencia:
+* https://www.americanwheels.it/en/695-wheel-bearings
+
+
+Estos rodamientos me costaron bastante encontrarlos en Argentina, solo en el concesionario oficial. En EEUU estan disponibles de varias marcas y modelos, incluso mejores que originales. Si saben donde conseguirlos baratos en Argentina, por favor avisenme!
+
+**ATENCION** revisar con el manual de taller de la moto, y el ruleman con calibre ANTES de comprar, puede variar! Tabla solo informativa.
+
+
+| Modelo OEM     | Años	                                   | Diametro exterior | Diametro interior | Grosor    |
+| -------------- | --------------------------------------- | ----------------- | ----------------- | --------- |
+| 9052           | 1973-1999 delante, 1979-1999 atras      | 45.3 mm           | 3/4" / 19.05 mm   | 16.6 mm   |
+| 9267           | 2000-2007 delantero, 2000-2004 trasero  | 52 mm             | 3/4" / 19.05 mm   | 21 mm     |
+| 9247           | 2005-2007 trasero                       | 52 mm             | 1"   / 25.4 mm    | 21 mm     |
+| 9276/A/B       | 2008-2020 SIN ABS, RH 2021-2023		   | 52 mm             | 25 mm             | 15 mm     |  
+| 9252 **ABS**   |  Modelos ABS            			       | 52 mm             | 25 mm             | 15 mm     |
 
 ### Extracción del rodamiento
 
