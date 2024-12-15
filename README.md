@@ -1132,6 +1132,7 @@ Buena marca de rodamientos
 Instrucciones para cambiarlos
 * https://www.allballsracing.com/media/installation/Wheel_Bearing_Install.pdf
 * https://www.youtube.com/watch?v=sVXWt7xE9LI
+* https://sportsterpedia.com/doku.php/techtalk:evo:wheels01
 
 Traduccion de las instrucciones de All Balls Racing:
 
@@ -1142,7 +1143,7 @@ Depende del año, traen diferentes rodamientos, por el tamaño del eje
 * Eje de 3/4": 1973-1999, **OEM 9052**, Juego de rodamientos cónicos de estilo original para ruedas con eje de 3/4", incluye también los dos sellos guardapolvos de 0,40" (10,16mm) de espesor. Sportster XL 1973-1999 (delantero) y Sportster XL 1979-1999 (trasero). 
 * Eje de 3/4": 2000-2007 Sportster XL (Delantero) y 2000-2004 Sportster XL (Trasero) - **OEM 9267**
 * Ejes de 1" : 2005-2007 Sportster XL (Trasero) -  **OEM 9247**
-* Ejes de 25 mm: **OEM 9276** (hay variantes A/B para  RH Sportster 2021-2023) 2008-2020 SIN ABS, por ejemplo todas las Sportsters sin ABS del 2008 al presente atrás y adelante.
+* Ejes de 25 mm: **OEM 9276** (hay variantes A/B para  RH Sportster 2021-2023) 2008-2020 SIN ABS, por ejemplo todas las Sportsters sin ABS del 2008 al presente atrás y adelante. **En SKF tenemos 6205 2RSJEM (25x52x15 deep groove, double sealed, C3) para reemplazarlo.**
 * MODELOS CON ABS en los frenos: **OEM 9252**, le sirve a la mayoría de Harley después del año 2000 con ejes de 25 mm, con ranura incorporada para que lo lea el decodificador de ABS, Usualmente la mayoría de Harley con ABS traen un roll de 25 mm normal y uno con ranura. **Cuando lo instale asegúrese que la parte magnética del roll apunte hacia afuera del aro.**
 
 ### Medidas de los rulemanes
