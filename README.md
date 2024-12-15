@@ -1114,6 +1114,8 @@ Para comprar o cambiar la goma , en **Buenos Aires, Argentina**
 - Cyclegom
 - Gomeria Floresta
 - Todo moto 935 -- https://todomoto935.com.ar/
+- Bikers Motos - Lima 911 -- no me queda claro si dan servicio de gomeria
+- Al lado de Honda Power Bikes, Olivos, tambien hay un taller que cambiar , confirmado (esquina quinta presidencial)
 
 Si saben alguna mas, me avisan!!
 
