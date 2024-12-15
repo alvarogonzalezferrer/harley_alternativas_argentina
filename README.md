@@ -1116,6 +1116,7 @@ Para comprar o cambiar la goma , en **Buenos Aires, Argentina**
 - Todo moto 935 -- https://todomoto935.com.ar/ ; tambien es lavadero y taller
 - Bikers Motos - Lima 911 -- no me queda claro si dan servicio de gomeria
 - Armotorrad, Olivos --http://armotorrad.com/ ; tambien es lavadero y taller /  Av. del Libertador 2227, Olivos
+- Av Libertador 2216, Olivos, +54 9 11 6417-1823 } al lado casa Honda de la esquina de quinta presidencial
 
 Si saben alguna mas, me avisan!!
 
