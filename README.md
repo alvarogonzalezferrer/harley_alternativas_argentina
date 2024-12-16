@@ -1650,7 +1650,7 @@ Este modelo se consigue facil en Argentina, y casi a mitad de precio que la YTX1
 
 Para colocar una bateria YTX14 (sin L) , con el borne positivo a la izquierda (vista la bateria de frente), hay que orientar la bateria hacia atras en la moto, y tenemos dos opciones:
 
-1. extender los cables, se extiende el cable + de la moto, y el cable - se hace masa del otro lado reposicionandolo. Los cables se pueden hacer en cualquier casa de audio para autos.
+1. extender los cables, se extiende el cable + de la moto, y el cable - se hace masa del otro lado reposicionandolo. Los cables se pueden hacer en cualquier casa de audio para autos. 6 AWG o 16 mm2
 
 2. hacer unas extensiones de cobre (con caño de aire acondicionado achatado y AISLANTE en toda su extension excepto las puntas), que vaya por sobre la bateria, y conecte con los cables (ver diagrama)
 
@@ -3040,7 +3040,14 @@ En paises que es legal portar
 
 - [S&W 642 Airweight](https://www.smith-wesson.com/product/j-frame-163810)
 
+## Dinamometros
+
+Fabrica de dinamometros para moto, esto realmente no conviene comprarlo salvo que tengamos un taller mecanico: https://www.saenzdynos.com.ar/es/dinamometros-de-rodillos-k-m-c.html 
+
+
 _SIN TERMINAR_
+
+
 
 # Anexo: Reparar roscas
 
@@ -3084,7 +3091,7 @@ Información de como mantener una Sportster en Costa Rica
 
 La agencia Harley oficial se fue de Costa Rica, sin embargo es más facil conseguir repuestos que en Argentina!
 
-## Lugares útiles en CR
+## Lugares útiles en Costa Rica
 
 - Motochopper
 - Harley Point
