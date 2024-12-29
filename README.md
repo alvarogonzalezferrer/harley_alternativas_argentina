@@ -1642,7 +1642,7 @@ Sirve la **WEX6L21-MF** -> http://www.wstandard-energy.com/en/statistics/w-produ
 
 _Ideas a explorar: ¿Reconstituir una bateria usada de harley? nuevas salen +200 USD_
 
-### Bateria YTX14 , borne al reves
+### Bateria YTX14 , borne al reves -- 2004 en adelante
 
 Este modelo se consigue facil en Argentina, y casi a mitad de precio que la YTX14L, sin embargo hay que hacer una adaptacion para poder usarla.
 
@@ -1650,7 +1650,7 @@ Este modelo se consigue facil en Argentina, y casi a mitad de precio que la YTX1
 
 Para colocar una bateria YTX14 (sin L) , con el borne positivo a la izquierda (vista la bateria de frente), hay que orientar la bateria hacia atras en la moto, y tenemos dos opciones:
 
-1. extender los cables, se extiende el cable + de la moto, y el cable - se hace masa del otro lado reposicionandolo. Los cables se pueden hacer en cualquier casa de audio para autos. 6 AWG o 16 mm2
+1. extender los cables, se extienden los cables positivo y negativo de la moto. Los cables se pueden hacer en cualquier casa de audio para autos. 6 AWG o 16 mm2. Se posiciona la bateria mirando hacia atras, y se conecta y listo. 
 
 2. hacer unas extensiones de cobre (con caño de aire acondicionado achatado y AISLANTE en toda su extension excepto las puntas), que vaya por sobre la bateria, y conecte con los cables (ver diagrama)
 
@@ -1660,11 +1660,7 @@ La ubicacion de la batería es un reto debido al espacio reducido.
 
 ![YTX14 en 883](archivos_soporte/bateria/conectar_YTX14.jpg)
 
-## Cables de batería
-
-Se pueden hacer en cualquier casa de audio para autos.
-
-El cable stock de la Sportster parece ser 6-AWG ; algunos usan 4-AWG o 3-AWG, multi filamento.
+## Cables de batería mas largos
 
 Mucha informacion sobre los cables, y terminales aca : https://sportsterpedia.com/doku.php/techtalk:evo:elec01
 
@@ -1689,6 +1685,39 @@ As per the J&P catalog.....
 
 - Positive OEM 70076-97 (9 3/4" length)
 - Negative OEM 70097-97 (12 1/2" length)
+
+### Hacer cables mas largos
+
+Se pueden hacer en cualquier casa de audio para autos; o en **ENCENDIDO BOEDO** en Capital Federal. Vas con los cables originales, le pedis que te hagan lo mismo con cable 20 cm mas largo y ya.
+
+Tambien lo podes fabricar vos mismo facilmente en tu casa.
+
+El cable stock de la Sportster es Welding 6-AWG ; algunos propietarios usan 4-AWG o 3-AWG, multi filamento.
+
+#### Materiales necesarios
+
+Cable **6 AWG de soldadora**, o **16 mm2 de soldadora** ; 6 AWG Welding es el MISMO que viene de fabrica (al menos en las 3 que probe, XL 883 2004,XL 883 L 2005 ,XL 1200 C 2008, todas traian cable 6 AWG Welding (asi viene marcado en la funda del cable), en el sistema de Argentina equivale a 16 mm2 de soldadora (ojo son mm2!! no es el diametro del cable sino su superficie de cobre!!)
+
+Tipo de cable: Cable Flexible para soldadura 1x16mm2
+
+Diámetro Exterior: 9mm aprox
+
+**Terminales 16mm2** Ojal 5/16", o (lo que hice yo) fabricarlas mediante aplastamiento/perforacion/lijado de tuberia de cobre 3/8" (ver fotos, es tuberia del aire acondicionado)
+
+La verdad, primero compre terminales de Aluminio Scc 16mm Ojal 5/16" y fue perder plata, me quedaron mejores las que fabrique yo de cobre. 
+
+Crimpeamos y armamos todo, y listo.
+
+Listo, ya tenemos cables mas largos y podemos usar YTX14 o YTX14L , la que consigamos mas facil...
+
+Yo compre el cable de soldadora 1x16 mm2 en https://www.prestacioneselectricas.com/  ; y el caño de cobre 3/8" me lo regalo un amigo de sobras de la instalacion del aire.
+
+Otra opcion de compra son los lugares de repuestos para energia solar
+
+Ejemplo
+
+Cable https://adnsolar.com.ar/producto/cable-de-bateria-16mm2-x-200cm-par-rojo-negro/
+Terminales https://adnsolar.com.ar/producto/terminal-ojal-de-cobre-estanado-16mm2-ojal-5-16-x-4-unidades/
 
 # Luces
 
