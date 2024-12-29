@@ -1692,7 +1692,13 @@ Se pueden hacer en cualquier casa de audio para autos; o en **ENCENDIDO BOEDO** 
 
 Tambien lo podes fabricar vos mismo facilmente en tu casa.
 
+Ver video tutorial: https://www.youtube.com/watch?v=XkMdlPsBxkc
+
+Y tutorial de como hacer las terminales: https://www.youtube.com/watch?v=PqOa2d8v8Tw
+
 El cable stock de la Sportster es Welding 6-AWG ; algunos propietarios usan 4-AWG o 3-AWG, multi filamento.
+
+La unica dificultad real es sacar el cable negativo, pero sale facil usando un "movimiento universal" para orientar el tubo 7/16"... el positivo esta conectado al burro de arranque es mas facil sacar. 
 
 #### Materiales necesarios
 
