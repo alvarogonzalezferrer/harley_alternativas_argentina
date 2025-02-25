@@ -777,13 +777,16 @@ Fácil de conseguir en Argentina:
 
 El sitio de Motul recomienda **Motul 3000 20w50** o **7100 20w50** para la primaria de la Sportster.
 
+**Aceite Transmision Bel Ray thumper Gear Saver 80w-85w** se consigue en Mercado Libre (febrero 2025)
+
 Motorex recomienda **Motorex Legend 20w50**, se conseguia en Mercado Libre en 2019, en 2020 ya no lo veo listado.
 
 **Silkolene** recomienda su V Twin 20w50 (motor y caja), existe en Cordoba, Argentina: https://www.silkolene.com/motorcycle/4-stroke-engine-oils/v-twin-20w-50/
 
 https://www.fuchs.com/ar/es/marcas/s-z/silkolene/
 
-Castrol recomienda varias opciones:
+Castrol recomienda varias opciones, todas faciles de conseguir y buen precio:
+
 **Castrol Power 1 Racing 4T 10W-50**
 **Castrol Power 1 4T 20W-50**
 **Castrol Power 1 4T 15w50**
