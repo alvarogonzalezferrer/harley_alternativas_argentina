@@ -1913,6 +1913,25 @@ Ver **Rekluse Core EXP 3.0** : https://rekluse.com/product/core-exp-3-0-clutch/?
 
 # Cables de embrague, acelerador, etc
 
+## Reparacion de cables
+
+Se puden **reparar** con "evita soldaduras" y "kit universal para cable embrague / acelerador" ; conviene llevar un kit en viajes largos.
+
+Buscar "Kit Reparacion Universal Cable Embrague Y Acelerador" en Mercado Libre, Google, etc
+
+Conviene soldar / estañar el evita soldadura para que no se salga...
+
+Ver los videos:
+
+* https://www.youtube.com/watch?v=D9FfYxjjL6s
+
+* https://www.youtube.com/watch?v=S_l58vS1s3c
+
+* https://www.youtube.com/watch?v=Ysd8JkWclmc
+
+
+## Largo de cables
+
 Para saber el largo de los cables de embrague, acelerador, etc
 
 - https://www.motionpro.com/
@@ -1920,6 +1939,14 @@ Para saber el largo de los cables de embrague, acelerador, etc
 - https://magnumshielding.com
 
 - https://catalog.zodiac.nl/en/15-control-cables-hydraulic-lines-27863
+
+## Fabrica de cables en Argentina
+
+Algunas, hay muchas
+
+* https://www.cablescomandoarg.com/
+
+* https://cablesbotta.com.ar/
 
 # Juntas para el motor y otras partes
 
