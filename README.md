@@ -1663,6 +1663,8 @@ Estas Alargaderas de cobre: Asegúrate de que el cobre está lijado y de que uti
 
 La ubicacion de la batería es un reto debido al espacio reducido.
 
+Asi queda la bateria instalada al reves, una YTX 14 (sin L)
+
 ![Instalado al reves](archivos_soporte/bateria/cables_bateria/bateria_ytx14.jpg)
 
 
@@ -1720,7 +1722,6 @@ Diámetro Exterior: 9mm aprox
 
 ![Terminales caseros](archivos_soporte/bateria/cables_bateria/terminales_caseros.jpg)
 
-
 La verdad, primero compre terminales de Aluminio Scc 16mm Ojal 5/16" y fue perder plata, me quedaron mejores las que fabrique yo de cobre. 
 
 Crimpeamos y armamos todo, y listo.
@@ -1730,6 +1731,10 @@ Cable original vs el armado por mi:
 ![Cable original vs armado](archivos_soporte/bateria/cables_bateria/cables_largo_vs_original.jpg)
 
 Listo, ya tenemos cables mas largos y podemos usar YTX14 o YTX14L , la que consigamos mas facil...
+
+Asi queda la bateria instalada al reves, una YTX 14 (sin L)
+
+![Instalado al reves](archivos_soporte/bateria/cables_bateria/bateria_ytx14.jpg)
 
 Yo compre el cable de soldadora 1x16 mm2 en https://www.prestacioneselectricas.com/  ; y el caño de cobre 3/8" me lo regalo un amigo de sobras de la instalacion del aire.
 
