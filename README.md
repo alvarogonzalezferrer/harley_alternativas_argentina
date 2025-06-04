@@ -1712,6 +1712,12 @@ La unica dificultad real es sacar el cable negativo, pero sale facil usando un "
 
 #### Materiales necesarios
 
+* Cable de soldadora 6 AWG , 16 mm2
+* Tuberia de cobre de aire acondicionado de 3/8" para hacer los terminales o
+* Terminales adecuados ojal 5/16" (no los consegui)
+
+Paso a detallar:
+
 Cable **6 AWG de soldadora**, o **16 mm2 de soldadora** ; 6 AWG Welding es el MISMO que viene de fabrica (al menos en las 3 que probe, XL 883 2004,XL 883 L 2005 ,XL 1200 C 2008, todas traian cable 6 AWG Welding (asi viene marcado en la funda del cable), en el sistema de Argentina equivale a 16 mm2 de soldadora (ojo son mm2!! no es el diametro del cable sino su superficie de cobre!!)
 
 Tipo de cable: Cable Flexible para soldadura 1x16mm2 o 6 AWG
