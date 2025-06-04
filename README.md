@@ -1600,7 +1600,7 @@ Buscando en Mercado Libre : **20HL BS** salen varios modelos teóricamente compa
 
 La que lleva de Yuasa es **YTX14L-BS** ; notar la L que es importante: es la posicion del borne positivo, a la derecha de la bateria vista de frente, o sea a la izquierda de la moto cuando la bateria esta colocada.
 
-La YTX14-BS (sin L, se consigue mas facil en Argentina), tiene los bornes al **revés**, se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables o usando barras de cobre./ los cables que precisamos se hacen en talleres de auto-stereo_
+La YTX14-BS (sin L, se consigue mas facil en Argentina), tiene los bornes al **revés**, se puede poner orientando los bornes hacia atrás de la moto, y alargando los cables./ los cables que precisamos se hacen en talleres de auto-stereo_
 
 ![YTX14L](archivos_soporte/bateria/YTX14L_BS.jpg)
 
@@ -1651,19 +1651,24 @@ Este modelo se consigue facil en Argentina, y casi a mitad de precio que la YTX1
 
 ![YTX14 borne al reves](archivos_soporte/bateria/YTX14_borne_al_reves.jpg)
 
+![Baterias](archivos_soporte/bateria/cables_bateria/ytx14l_vs_ytx14.jpg)
+
 Para colocar una bateria YTX14 (sin L) , con el borne positivo a la izquierda (vista la bateria de frente), hay que orientar la bateria hacia atras en la moto, y tenemos dos opciones:
 
-1. extender los cables, se extienden los cables positivo y negativo de la moto. Los cables se pueden hacer en cualquier casa de audio para autos. 6 AWG o 16 mm2. Se posiciona la bateria mirando hacia atras, y se conecta y listo. 
+1. extender los cables, se extienden los cables positivo y negativo de la moto. Los cables se pueden hacer en cualquier casa de audio para autos. 6 AWG o 16 mm2. Se posiciona la bateria mirando hacia atras, y se conecta y listo. ES IMPORTANTE AISLAR EL BORNE POSITIVO!! 
 
-2. hacer unas extensiones de cobre (con caño de aire acondicionado achatado y AISLANTE en toda su extension excepto las puntas), que vaya por sobre la bateria, y conecte con los cables (ver diagrama)
+2. NO RECOMIENDO: hacer unas extensiones de cobre (con caño de aire acondicionado achatado y AISLANTE en toda su extension excepto las puntas), que vaya por sobre la bateria, y conecte con los cables (ver diagrama)
 
 Estas Alargaderas de cobre: Asegúrate de que el cobre está lijado y de que utilizas varias capas de tubo termorretráctil, o cinta aislante para aislarlo de posibles cortocircuitos, y colocar una planchuela de goma (gomaeva) en la parte superior de todo el asunto después.
 
 La ubicacion de la batería es un reto debido al espacio reducido.
 
-![YTX14 en 883](archivos_soporte/bateria/conectar_YTX14.jpg)
+![Instalado al reves](archivos_soporte/bateria/cables_bateria/bateria_ytx14.jpg)
+
 
 ## Cables de batería mas largos
+
+Esta es la ruta que tome yo, cuando no pude conseguir la bateria, funciono perfectamente.
 
 Mucha informacion sobre los cables, y terminales aca : https://sportsterpedia.com/doku.php/techtalk:evo:elec01
 
@@ -1707,15 +1712,22 @@ La unica dificultad real es sacar el cable negativo, pero sale facil usando un "
 
 Cable **6 AWG de soldadora**, o **16 mm2 de soldadora** ; 6 AWG Welding es el MISMO que viene de fabrica (al menos en las 3 que probe, XL 883 2004,XL 883 L 2005 ,XL 1200 C 2008, todas traian cable 6 AWG Welding (asi viene marcado en la funda del cable), en el sistema de Argentina equivale a 16 mm2 de soldadora (ojo son mm2!! no es el diametro del cable sino su superficie de cobre!!)
 
-Tipo de cable: Cable Flexible para soldadura 1x16mm2
+Tipo de cable: Cable Flexible para soldadura 1x16mm2 o 6 AWG
 
 Diámetro Exterior: 9mm aprox
 
 **Terminales 16mm2** Ojal 5/16", o (lo que hice yo) fabricarlas mediante aplastamiento/perforacion/lijado de tuberia de cobre 3/8" (ver fotos, es tuberia del aire acondicionado)
 
+![Terminales caseros](archivos_soporte/bateria/cables_bateria/terminales_caseros.jpg)
+
+
 La verdad, primero compre terminales de Aluminio Scc 16mm Ojal 5/16" y fue perder plata, me quedaron mejores las que fabrique yo de cobre. 
 
 Crimpeamos y armamos todo, y listo.
+
+Cable original vs el armado por mi: 
+
+![Cable original vs armado](archivos_soporte/bateria/cables_bateria/cables_largo_vs_original.jpg)
 
 Listo, ya tenemos cables mas largos y podemos usar YTX14 o YTX14L , la que consigamos mas facil...
 
