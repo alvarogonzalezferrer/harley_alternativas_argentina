@@ -267,7 +267,7 @@ Podemos buscar online usando los buscadores (probar todos los enlaces, cuesta en
 
 - Enciclopedia de la Sportster online : http://sportsterpedia.com/doku.php/start
 
-- Foro Sportster : http://xlforum.net
+- Foro Sportster : https://www.xlforum.net/
 
 - Generaciones de Sportster: ver https://www.autoevolution.com/moto/harley-davidson/sportster-1/
 
