@@ -2647,12 +2647,13 @@ El encendido original HD solo lo puede programar el dealer con el digital techni
 Lo mejor es cambiar a un Daytona Twin Tec TC88, o a un Dynatek Dyna Performance
 
 - Daytona TC88A: https://daytona-twintec.com/product/1009-tc88a-twin-cam-ignition/
+- Se puede programar asi: https://sportsterpedia.com/doku.php/techtalk:ref:engctl50h
+- Instalacion: https://www.xlforum.net/forum/sportster-motorcycle-forum/sportster-motorcycle-electrical/sportster-motorcycle-electrical-and-ignition/140699-installing-a-twin-tech-tc88a-on-an-04
 
 _Ojo con la version TC88A EX !! Es para que sea legal en California, por las pavadas de contaminacion, NO comprar esa version!_
 
 - Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dspt-ign-04-06-hd-sportster-883-1/
-
-_este modelo es mas barato pero tiene menos funcionalidad que el Daytona_
+  - NO RECOMENDADO ONLINE, MEJOR PAGAR UN POQUITO EXTRA Y COMRAR EL DAYTONA, este modelo es mas barato pero tiene menos funcionalidad que el Daytona 
 
 ### Modelos EFI 2007 en adelante
 
