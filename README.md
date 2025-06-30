@@ -2642,13 +2642,15 @@ En este documento, esta bien explicado, varia mucho segun el año : https://www.
 
 **SOLO PARA MODELOS CARBURADOS 2004 A 2006**
 
-El encendido original HD solo lo puede programar el dealer. Lo mejor es cambiar a un Daytona Twin Tec TC88, o a un Dynatek Dyna Performance
+El encendido original HD solo lo puede programar el dealer con el digital technician, o un taller que tenga un equivalente de equipamiento. 
+
+Lo mejor es cambiar a un Daytona Twin Tec TC88, o a un Dynatek Dyna Performance
 
 - Daytona TC88A: https://daytona-twintec.com/product/1009-tc88a-twin-cam-ignition/
 
 _Ojo con la version TC88A EX !! Es para que sea legal en California, por las pavadas de contaminacion, NO comprar esa version!_
 
-- Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dyna-performance-digitial-ignition-module-cdi-for-2004-2006-harley-davidson-sportsters-dspt-1/
+- Dynatek Dyna Performance Digitial Ignition: https://www.dynaonline.com/dspt-ign-04-06-hd-sportster-883-1/
 
 _este modelo es mas barato pero tiene menos funcionalidad que el Daytona_
 
@@ -2663,7 +2665,7 @@ En modelos EFI, hay que reprogramar el encendido (ECM), por ejemplo con un Dynoj
 Otra opcion es poner una ECM alternativa programable
 
 - ThunderMax , una opcion costosa pero muy buena : https://store.thunder-max.com/
-- https://daytona-twintec.com/shop_products/
+- Daytona Twintec tiene ECMs tambien : https://daytona-twintec.com/shop_products/
 
 Tambien hay opciones adaptables, como un Megasquirt o Arduino, pero claro hay que saber mucho de tecnologia. 
 - https://megasquirt.info/
