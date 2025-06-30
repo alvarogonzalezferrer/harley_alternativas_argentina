@@ -2654,11 +2654,19 @@ _este modelo es mas barato pero tiene menos funcionalidad que el Daytona_
 
 ### Modelos EFI 2007 en adelante
 
-_TO-DO me falta info_ , hay que reflashear o reprogramar el encendido, por ejemplo con un Dynojet Power Vision (no los que se adosan a la ECM como Fuel Pak, sino una repro real!!)
+En modelos EFI, hay que reprogramar el encendido (ECM), por ejemplo con un Dynojet Power Vision (no los que se adosan a la ECM como Fuel Pak, sino una repro real!!)
 
 - Dynojet Power Vision : https://www.dynojet.com/power-vision/
 
 - Vance&Hines FP3 : **NO anda bien para un kit 1250**, es mejor el Power Vision!
+
+Otra opcion es poner una ECM alternativa programable
+
+- ThunderMax , una opcion costosa pero muy buena : https://store.thunder-max.com/
+- https://daytona-twintec.com/shop_products/
+
+Tambien hay opciones adaptables, como un Megasquirt o Arduino, pero claro hay que saber mucho de tecnologia. 
+- https://megasquirt.info/
 
 **SIEMPRE PROGRAMAR LA ECM ANTES DEL PRIMER ARRANQUE** con el kit 1250, O PODES DAÑAR EL MOTOR EN EL PRIMER ENCENDIDO!!
 
@@ -2676,7 +2684,7 @@ Puños, pedales, respaldos, manillares, asientos, etc, se fabrican personalizado
 
 Ahora se venden también nacionales, los vi en Mercado Libre. (2020)
 
-## Velocimetro GPS
+# Velocimetro GPS
 
 Este velocimetro lee la velocidad mediante GPS, no toma la velocidad del sensor VSS de la moto.
 
@@ -2720,13 +2728,13 @@ Detalles de la conexion para mi 2005, para otros años puede variar, no confiars
 
 Otro proyecto que los "expertos" me dijeron que _no se podia_, y yo lo hice.
 
-## Navegacion GPS, celular, toma 12V, y USB
+# Navegacion GPS, celular, toma 12V, y USB
 
-### Toma 12V
+## Toma 12V
 
-Podemos tomarla directamente de la bateria, o poniendo un relay, recordar no exceder el consumo, y sobre todo, ponerle un fusible y alguna manera de cortar la corriente con un switch o similar. Aqui podriamos enchufar cosas como ropa calefaccionada, inflador, cargadores, elementos de camping, **pero siempre recordando no exceder el consumo maximo del circuito!**.-
+Podemos tomarla directamente de la bateria, o poniendo un relay, recordar no exceder el consumo, y sobre todo, ponerle un fusible y alguna manera de cortar la corriente con un switch o similar. Aqui podriamos enchufar cosas como ropa calefaccionada, inflador, cargadores, elementos de camping, **pero siempre recordando no exceder el consumo maximo del circuito!**
 
-### Cargador celular
+## Cargador celular
 
 Vienen cargadores USB para el manillar, que se adosan a los +12v y GND (tierra) de la moto. De donde tomar esos +12v es el asunto. Queremos que se apague cuando apagamos la moto, para que no nos descargue la bateria y tengamos problemas de arranque.
 
@@ -2736,7 +2744,7 @@ A continuacion un diagrama de donde podemos tomar el voltage, **recordar tomar c
 
 ![tomar +12V y GND](archivos_soporte/GPS/toma_USB_12V_GND_2004p.jpg)
 
-### GPS
+## GPS
 
 Normalmente se usa el celular dentro de una fundita impermeable que viene para eso.
 
@@ -2744,7 +2752,7 @@ Para viajes largos, o en ciudades que no conocemos, es util tener GPS para la na
 
 Venden soportes impermeables para el celular, que se agarran del manillar, recordar bajarlos al estacionar la moto para que no nos roben.
 
-#### Aplicaciones GPS para el celular
+### Aplicaciones GPS para el celular
 
 Celus Android:
 
@@ -2764,11 +2772,11 @@ Sitios utiles para planear viajes :
 - OsmAnd: https://osmand.net/
 - Organic Maps: https://organicmaps.app/es/
 
-## Pedalines
+# Pedalines
 
 Los pedalines se pueden comprar, o mandar a tornear, no tienen mucho secreto.
 
-## Manillares
+# Manillares
 
 Original de 1" (una pulgada, 2,54 cm aprox)
 
@@ -2780,11 +2788,11 @@ Tener en cuenta que si ponemos un manillar mas alto, por ejempo un cuelga monos,
 
 Nacionales: https://houseofhandlebar.mercadoshops.com.ar/
 
-### Puños
+# Puños
 
 Hay de goma como los originales, que Lamentablemente luego de unos años se pudren y se ponen pegajosos, y tambien de metal "billet" cromado o negro. Yo prefiero los "billet" ya que no se pudren con el tiempo. Es una cuestión estetica mas que nada elegir el correcto.
 
-### Calienta puños
+## Calienta puños
 
 TO-DO completar
 
@@ -2792,11 +2800,11 @@ Hay muchos modelos, algunos buenos, otros malisimos. Yo tengo los de **Kuryakyn 
 
 También hay guantes calefactores con baterías.
 
-## Controles de manillar
+# Controles de manillar
 
 Los hay negros y cromados, estamos hablando de los botones del manillar como giros, encender, etc. Los de ciertos modelos de Keeway son compatibles, no lo investigue a fondo.
 
-## Respaldos & sissy bar
+# Respaldos & sissy bar
 
 TO-DO
 
@@ -2808,7 +2816,7 @@ https://facebook.com/pages/category/Local-Business/House-of-Handlebar-3234028015
 
 https://houseofhandlebar.mercadoshops.com.ar/
 
-## Asientos
+# Asientos
 
 **TO-DO - falta información**
 
@@ -2830,17 +2838,17 @@ En general los asientos un tapicero los puede adaptar, o uno mismo con un poco d
 
 Aca hablan bastante del asunto, con fotos: https://www.hdforums.com/forum/sportster-models/975513-seat-fitment-guidelines-for-04-06-07-09-and-2010-with-pics-factory-saddles.html
 
-## Alforjas
+# Alforjas
 
 TO-DO
 
 Barlitop hacia alforjas de cuero en Buenos Aires, buscarlo en Facebook, me hizo las mias hace años, quedaron muy bien, no se si sigue en el negocio, fue año 2010...
 
-## Espejos
+# Espejos
 
 TO-DO
 
-## Defensa o "mataperros"
+# Defensa o "mataperros"
 
 La defensa es bastante util para proteger el motor en caidas a baja velocidad (por ejemplo se nos resbala la moto estacionando), y tambien para ponerle accesorios como faros buscahuellas, etc.
 
@@ -2848,11 +2856,11 @@ Harley vende un par de modelos, pero el envio a Argentina los hace extremadament
 
 En https://houseofhandlebar.mercadoshops.com.ar/ hacen un clon de uno de los modelos.
 
-## Portaequipajes
+# Portaequipajes
 
 Hay parrillas o Portaequipajes para ponerles. Aca hacen un modelo : https://houseofhandlebar.mercadoshops.com.ar/
 
-## Otros
+# Otros
 
 _TO-DO : agregar link a LCM covers y Tapiceria GALCE para los asientos; y demas links a covers, puños, etc, Barlitop para las alforjas de cuero, y hay otros mas_
 
