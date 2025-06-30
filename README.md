@@ -2152,13 +2152,14 @@ Y mas información: https://california-motorcycles.com/blogs/mecanicaharley/como
 
 _NOTA_ Otra manera de diagnostico es usar un scanner ODB2, como el económico **ELM327**, en esta [carpeta](archivos_soporte/EFI/diagnostico) puse la manera. Es mas fácil usar el diagnostico que trae la moto igualmente.
 
-### Diagnostico mediante cable ODB2
+## Diagnostico mediante escaner o cable ODB2
 
 Si por alguna razón no podemos usar el diagnostico integrado, (por ejemplo un velocimetro de otra marca), podemos usar un cable, con un lector ODB2 y una app.
 
 La manera mas sencilla es combinar lo siguiente :
 
-- Cable J1850 de 4 pines a ODB2 (2001-2014), convierte la conexión OBD2 de 4 pines a 16 pines para su uso con tus escáneres o lectores OBD2 capaces de J1850, conectado a
+- Cable J1850 de 4 pines a ODB2 (2001-2014), convierte la conexión OBD2 de 4 pines a 16 pines para su uso con tus escáneres o lectores OBD2 capaces de J1850, este cable se consigue en amazon como "harley odb2 cable" , y se conecta :
+
 - ELM327 bluetooth, conectado a
 
 - Aplicaciones tipo [~HarleyDroid~](https://play.google.com/store/apps/details?id=org.harleydroid) , [~RPMitUP~](https://play.google.com/store/apps/details?id=com.motorcycle.dashboard)  , [Torque](https://play.google.com/store/apps/details?id=org.prowl.torque)
@@ -2173,9 +2174,51 @@ La manera mas sencilla es combinar lo siguiente :
 
 Listo. Nota, el cable se puede comprar, o se puede hacer (en la carpeta EFI tengo los diagramas para hacerlo, aunque no vale la pena, mas barato comprarlo y ya).
 
+También hay conectores de 6 y 10 pines, para otros años de Harley. 
+El que yo menciono es el de 4 pines, años 2004 a 2013 inclusive.
+
 Hay escáneres especializados pero son muy caros para uso hogareño.
 
-También hay conectores de 6 y 10 pines, para otros años de Harley. El que yo menciono es el de 4 pines, años 2004 a 2013 inclusive.
+### Harley Digital Technician
+
+El técnico digital Harley-Davidson, también conocido como Digital Technician II (DT II), es una herramienta de diagnóstico y servicio exclusiva de los concesionarios autorizados Harley-Davidson
+
+Supuestamente cuesta mas de 10 mil dolares, ademas de la licencia de concesionario Harley, y el numero de parte es HD-48650 . Poca informacion disponible al publico. 
+
+Aunque consigas el dispositivo físico, no puedes acceder al software. Su software se comunica directamente con los servidores de Harley y si no tienes una cuenta de distribuidor activa, supuestamente no puedes hacer nada con el hardware.
+
+### Otros escaneres profesionales
+
+- Power Vision se "casa" con una sola moto, pero podes agregarle otras comprando una licencia
+
+https://www.dynojet.com/dynojet-motorcycle-power-vision/
+
+Techno Research tiene un escaner muy capaz
+
+https://technoresearch.info/
+
+- Centurion Diagnostic Software
+- Centurion Super Pro
+
+Este permite hacer practicamente TODO lo que hace el de Digital Technician de Harley; por supuesto no es barato y solo conviene la inversion si tenemos un taller profesional.
+
+https://technoresearch.info/diagnostic-tools-harley-davidson/centurion-super-pro/
+
+- MemoBike 6050 Diagnostic Scan Tool Kit for Harley-Davidson, Victory & Indian
+
+Vale unos 4000 dolares, ideal para talleres medianos a chicos.
+
+https://www.anseddiagnostics.com/products/ms6050r23-vtwin-motorcycle-powersports-diagnostic-scan-tool-kit
+
+- Daytona Twintec tiene varios escaneres
+
+Twin Scan 4 para modelos anteriores a 2014 (sin CANBUS) : https://daytona-twintec.com/product/15202-twin-scan-2-abs/
+
+Twin Scan 4 es muy bueno para 2014-2020 Sportster : https://daytona-twintec.com/product/15500-twin-scan-4-abs/
+
+Venden el kit de los 2 scaneres para un taller por ejemplo, ver bien el website.
+
+Seguramente hay muchos mas que no conozco.
 
 ## Limpiar los inyectores
 
@@ -2673,6 +2716,16 @@ Tambien hay opciones adaptables, como un Megasquirt o Arduino, pero claro hay qu
 
 **SIEMPRE PROGRAMAR LA ECM ANTES DEL PRIMER ARRANQUE** con el kit 1250, O PODES DAÑAR EL MOTOR EN EL PRIMER ENCENDIDO!!
 
+## Software de programacion ECU ECM EFI ICM etc
+
+Hay software especial "misterioso" para poder programar los diferentes modulos
+
+Uno es el Harley Digital Technician, que solo lo tienen (en teoria) los talleres autorizados por Harley (dealers)
+
+Otro que esta disponible, pero costoso es Centurion Diagnostic Software
+
+Uno que solo lee codigos es Harley Droid
+
 ### Modelos 2003 y anteriores
 
 Encendidos programables: http://www.daytona-twintec.com/carburetedignition.aspx
@@ -2969,6 +3022,8 @@ Sitios donde podemos comprar cosas para nuestra moto(s):
 Algunos son de USA, otros de Argentina _TO-DO falta ordenarlos_
 
 _lista muy preliminar, mas info pronto_
+
+https://www.denniskirk.com/ -- MUY BUENO, pones la moto que tenes y te da todos los datos de lo que lleva y le sirve
 
 https://www.dragspecialties.com/
 
