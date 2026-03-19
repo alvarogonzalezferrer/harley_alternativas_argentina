@@ -1,0 +1,66 @@
+Una fórmula casera popular para un **estabilizador de combustible** (para gasolina, especialmente con etanol, para motos como tu 883, generadores, cortacéspedes, etc.) se basa en imitar productos comerciales como **STA-BIL**, **Sea Foam** o similares. Estos caseros ayudan a reducir la oxidación, absorber algo de humedad y prevenir goma/barniz en el sistema de combustible durante almacenamiento (3-12 meses aprox., no años como los comerciales premium).
+
+### Fórmula casera más común y efectiva (versión "tipo Sea Foam / estabilizador básico")
+Esta es una de las recetas más mencionadas en foros de mecánica (BobIsTheOilGuy, etc.) y pruebas caseras:
+
+**Ingredientes (por cada litro de mezcla concentrada):**
+- 60% **Naphtha** (nafta liviana o solvente nafténico/petrolero, el más importante para limpiar y estabilizar) → ~600 ml  
+- 25% **Alcohol isopropílico** (isopropyl alcohol 91-99%, el de farmacia o "rubbing alcohol" alto %) → ~250 ml  
+- 15% **Aceite mineral pálido o aceite base para motos 2T** (pale oil, mineral oil ligero, o aceite 2 tiempos de calidad como Amsoil 100:1 o similar) → ~150 ml  
+
+**Proporciones aproximadas más fáciles de medir (para ~1 litro):**
+- 600 ml naphtha  
+- 250 ml alcohol isopropílico 91%+  
+- 150 ml aceite mineral o 2T  
+
+Mezcla bien en un recipiente de metal o plástico resistente a solventes (usa guantes y ventilación, son inflamables y tóxicos).
+
+### Cómo usarlo en tu gasolina
+- **Dosis típica**: 30-60 ml de esta mezcla por cada **10 litros** de gasolina (aprox. 1 oz por galón, similar a STA-BIL).  
+  - Para almacenamiento largo (invierno/meses sin uso): usa la dosis más alta (60 ml / 10 L).  
+  - Agrega al tanque **antes** de llenar con gasolina fresca, o mezcla en un bidón aparte y agita bien.  
+- En tu **Sportster 883**: Trata el tanque completo (alrededor de 12-13 litros) con ~70-100 ml de la mezcla. Enciende la moto unos minutos para que circule por carburador/injectores y sistema.
+
+### Variantes simples si no consigues todo
+- **Versión ultra-básica (absorbe humedad y limpia un poco)**: Solo alcohol isopropílico 91-99% al 5-10% del volumen de gasolina (ej: 500-1000 ml por 10 L de nafta). Bueno para etanol, pero menos estabilizador real.  
+- **Versión con xileno/tolueno (más octanaje + limpieza)**: 50% tolueno o xileno + 30% mineral spirits + 20% aceite 2T o ATF. Pero es más agresivo y no tan "estabilizador" puro.
+
+### Advertencias importantes
+- Estos caseros **no son tan efectivos** como STA-BIL Marine, PRI-G, Star Tron o el oficial de Harley/Sea Foam para periodos muy largos (>1 año) o gasolina con mucho etanol.  
+- Usa **solo en gasolina** (no diesel).  
+- **Seguridad**: Inflamable, vapores tóxicos → hazlo al aire libre, sin fumar, lejos de niños. Almacena en bidón metálico sellado.  
+- Prueba en pequeña cantidad primero: Trata un bidón de 5 L y ve si la moto arranca bien después de meses.  
+- Para tu moto en zona remota: Es una buena opción económica si no consigues el comercial. Muchos riders de motos clásicas lo usan sin problemas.
+
+Si no consigues naphtha (a veces lo venden como "diluyente universal" o "thinner nafténico" en ferreterías/pinturerías), la versión con solo isopropílico + un poco de aceite 2T funciona decente para estabilizar 3-6 meses. ¡Avísame si quieres ajustar proporciones o si tienes algún ingrediente específico disponible! 🏍️⛽
+
+****
+**No, el aguarrás (o aguarrás mineral) no es exactamente lo mismo que la naphtha (nafta liviana o solvent naphtha), aunque son parecidos y se usan en contextos similares.**  
+
+Aquí va la diferencia clara basada en lo que se encuentra comúnmente (especialmente en países de habla hispana como Latinoamérica o España):
+
+- **Naphtha** (nafta liviana, VM&P naphtha, lighter fluid o solvent naphtha): Es un destilado de petróleo más ligero y puro, con punto de ebullición bajo (~40-100°C). Se evapora **rápido**, tiene menos olor fuerte y es excelente para limpiar, diluir barnices y en estabilizadores de combustible porque penetra bien y no deja residuos pesados. Es la que se recomienda en recetas caseras tipo Sea Foam o STA-BIL porque actúa como solvente "limpio" y estabilizador de oxidación.
+
+- **Aguarrás mineral** (también llamado white spirit, gasolina blanca, mineral spirits o Stoddard solvent): Es un poco más pesado (punto de ebullición ~150-200°C), se evapora **más lento**, tiene más olor (a veces fuerte) y puede dejar un residuo aceitoso leve si no es 100% puro. Es el típico "diluyente para pinturas al óleo, esmaltes y limpieza de brochas". En muchos países hispanohablantes, "aguarrás" se refiere directamente a white spirit/mineral spirits.
+
+En resumen:
+- Naphtha → más ligera y volátil → mejor para estabilizadores de combustible (limpia inyectores/carburadores sin dejar mucho residuo).
+- Aguarrás mineral → más pesada y lenta → funciona como sustituto decente, pero no ideal (puede evaporarse más lento y dejar algo de residuo en el sistema de combustible si usas mucha cantidad).
+
+### ¿Puedes usar el aguarrás que consigues ahí para el estabilizador casero?
+**Sí, puedes usarlo como sustituto aproximado**, especialmente si es lo único disponible en tu zona remota. Muchos lo hacen en recetas caseras cuando no hay naphtha pura (por ejemplo, en foros de mecánica o woodworking donde usan mineral spirits en lugar de naphtha para thinning).  
+
+**Ajustes recomendados si usas aguarrás en la fórmula:**
+- Usa la misma proporción: ~60% aguarrás + 25% alcohol isopropílico 91-99% + 15% aceite mineral o 2T.
+- Dosis un poco más baja al principio: Empieza con **20-40 ml de la mezcla por cada 10 litros de gasolina** (en vez de 30-60 ml), porque el aguarrás es más "pesado" y podría hacer que la mezcla sea un poco más viscosa o lenta en evaporar.
+- Prueba en un tanque pequeño primero: Trata 5-10 litros de gasolina, deja reposar la moto 1-2 meses (o simula almacenamiento) y ve si arranca bien sin problemas en carburador/injectores o barniz.
+- Si notas que la mezcla huele muy fuerte o deja residuo aceitoso después de evaporar, reduce el % de aguarrás (por ejemplo, baja a 50% y sube alcohol isopropílico).
+
+### Alternativas si el aguarrás no convence
+- Si consigues **gasolina de mechero** (Zippo/Ronsonol fluid) o **nafta para encendedores**: Eso **es naphtha pura** y sería ideal (más cara, pero perfecta).
+- Solo alcohol isopropílico + un chorrito de aceite 2T: Versión simple que absorbe humedad y estabiliza algo (no tan potente, pero seguro).
+- Si encuentras **thinner** o **diluyente universal** (a veces más ligero): Puede ser más cercano a naphtha que el aguarrás.
+
+En tu **883 2004**, con gasolina que probablemente tiene etanol, el estabilizador casero con aguarrás debería ayudar para almacenamiento de 3-6 meses sin grandes dramas (mejor que nada). Siempre agrega antes de llenar, agita bien y usa gasolina fresca. ¡Si pruebas y notas algo raro (arranque difícil o olor extraño), vuelve a gasolina pura o busca naphtha real cuando puedas!
+
+¿Tienes alcohol isopropílico o aceite 2T disponible también? Avísame para ajustar la receta exacta. ⛽🏍️

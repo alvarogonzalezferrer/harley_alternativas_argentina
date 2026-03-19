@@ -1,0 +1,30 @@
+El **Harley-Davidson Formula+** (oficialmente "Formula+ Transmission and Primary Chaincase Lubricant") es un lubricante específico para la **transmisión** y la **carcasa primaria** (primary chaincase) en muchas Harley, especialmente modelos con embrague húmedo. Harley es algo "misterioso" con la fórmula exacta porque es propietaria, pero no es un secreto total: se sabe que es un aceite **mineral-based** con viscosidad equivalente a un **SAE 50** (o alrededor de 20-21 cSt a 100°C), formulado para mantener el coeficiente de fricción adecuado en el embrague húmedo, lubricar la cadena primaria y engranajes de la transmisión.
+
+No es un aceite de motor común ni un gear oil extremo; está diseñado específicamente para esas aplicaciones en Harleys (Big Twin, Sportster, etc., post-1971 en muchos casos).
+
+### Alternativas compatibles y equivalentes más comunes
+Muchos dueños y mecánicos de Harley usan estas opciones sin problemas (y a menudo más baratas o fáciles de conseguir), ya que cumplen o superan los requisitos de fricción, viscosidad y protección:
+
+- **Aceites de motor 20W-50 para motocicleta V-Twin** (los más recomendados y directos equivalentes):
+  - AMSOIL 20W-50 100% Synthetic V-Twin Motorcycle Oil → Amsoil lo certifica como reemplazo directo del Formula+.
+  - Mobil 1 V-Twin 20W-50.
+  - Bel-Ray V-Twin, Motul, Red Line V-Twin, etc.
+  - Muchos foros y Amsoil lo listan explícitamente como sustituto para primary y transmisión.
+
+- **Otras opciones populares en la comunidad**:
+  - ATF Type F (fluido de transmisión automática tipo F) → Da cambios más firmes; muy usado en primarias antiguas.
+  - Dexron/Mercon (ATF estándar) → Para cambios más suaves, especialmente con embragues Barnett.
+  - Rotella T 15W-40 o similar (diesel) → Algunos lo usan en primary por ser barato y resistente, aunque no es lo ideal para fricción del embrague.
+  - Spectro Heavy Duty Gear Oil o equivalentes GL-1/GL-3 en viscosidad similar (75W-90 o 80W-90).
+
+- **Marcas específicas que fabrican "equivalentes" directos**:
+  - Maxima V-Twin Primary Chaincase Oil.
+  - Red Line Primary Case Oil o Shockproof (algunos lo usan en primary/trans).
+  - Bel-Ray Primary Chaincase Lube.
+
+### Recomendaciones prácticas
+- Si quieres lo más cercano y seguro sin arriesgar: usa un **20W-50 sintético para V-Twin** de marcas como AMSOIL, Mobil 1 o Red Line. Son compatibles, mantienen el embrague bien y protegen mejor que el Formula+ original en muchos casos.
+- Para Sportster o Big Twin modernos: evita gear oils muy pesados (como 75W-140) en la primaria si tienes embrague húmedo stock, porque pueden hacer que el embrague patine o cambie mal.
+- Siempre verifica el manual de tu modelo específico (por año y motor: Evo, Twin Cam, M8, etc.), pero en general para primary y transmisión el Formula+ es el OEM, y los 20W-50 V-Twin son el sustituto más aceptado.
+
+En resumen, no es tan misterioso: **cualquier buen 20W-50 para motos V-Twin** (especialmente los que dicen "compatible con Harley primary/trans") funciona perfecto y muchos prefieren eso al original por precio y rendimiento. 
