@@ -10,7 +10,7 @@ Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**Documento Actualizado 30/06/2024** , ±184000 km recorridos sin problemas.
+**±184000 km recorridos sin problemas.**
 
 # Website
 
@@ -18,7 +18,7 @@ Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas 
 
 **Esta informacion tambien esta, de manera condensada, en formato website**
 
-[Podes acceder aqui a toda la informacion en un formato mas amigable.](harley_alternativas_argentina)
+[Podes acceder aqui a toda la informacion en un formato mas amigable.](https://alvarogonzalezferrer.github.io/harley_alternativas_argentina)
 
 No olvides compartirlo con tus amigos!
 
