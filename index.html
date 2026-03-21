@@ -1,0 +1,2316 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Harley Davidson Sportster — Apuntes del Propietario</title>
+  <meta name="description" content="Guía completa de mantenimiento y repuestos alternativos para la Harley Davidson Sportster XL. Más de 20 años de experiencia, 184.000 km." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    /* ===== TOKENS ===== */
+    :root {
+      --hd-orange:     #E8650A;
+      --hd-orange-lt:  #FF7C1F;
+      --hd-black:      #0C0C0C;
+      --hd-dark:       #141414;
+      --hd-card:       #1A1A1A;
+      --hd-border:     #2A2A2A;
+      --hd-chrome:     #B8B8B8;
+      --hd-muted:      #888;
+      --hd-text:       #E8E3DC;
+      --hd-text-dim:   #AAA4A0;
+      --hd-warn-bg:    #1F1200;
+      --hd-warn-brd:   #6B3000;
+      --hd-roto-bg:    #200000;
+      --hd-roto-brd:   #660000;
+      --hd-table-head: #1E1200;
+      --sidebar-w:     300px;
+      --content-max:   860px;
+      --radius:        4px;
+      --font-title:    'Bebas Neue', 'Impact', sans-serif;
+      --font-ui:       'Barlow Condensed', sans-serif;
+      --font-body:     'Barlow', sans-serif;
+    }
+
+    /* ===== RESET ===== */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; font-size: 16px; }
+    body {
+      background: var(--hd-black);
+      color: var(--hd-text);
+      font-family: var(--font-body);
+      font-weight: 300;
+      line-height: 1.75;
+      overflow-x: hidden;
+    }
+
+    /* ===== PROGRESS BAR ===== */
+    #progress-bar {
+      position: fixed; top: 0; left: 0; height: 3px;
+      background: var(--hd-orange);
+      width: 0%; z-index: 1000;
+      transition: width 0.1s linear;
+      box-shadow: 0 0 8px var(--hd-orange);
+    }
+
+    /* ===== HEADER ===== */
+    .site-header {
+      position: sticky; top: 0; z-index: 200;
+      background: rgba(12,12,12,.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--hd-border);
+      display: flex; align-items: center; gap: 16px;
+      padding: 0 24px; height: 56px;
+    }
+    .site-header .logo {
+      font-family: var(--font-title);
+      font-size: 1.4rem;
+      letter-spacing: 0.08em;
+      color: var(--hd-orange);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .site-header .logo span { color: var(--hd-chrome); }
+    .header-tagline {
+      font-family: var(--font-ui);
+      font-size: 0.75rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--hd-muted);
+      border-left: 1px solid var(--hd-border);
+      padding-left: 16px;
+    }
+    .menu-toggle {
+      display: none;
+      background: none; border: 1px solid var(--hd-border);
+      color: var(--hd-chrome); padding: 6px 10px;
+      cursor: pointer; border-radius: var(--radius);
+      font-size: 1rem; margin-left: auto;
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, #0C0C0C 0%, #1A0A00 50%, #0C0C0C 100%);
+      border-bottom: 2px solid var(--hd-orange);
+      padding: 72px 48px 64px;
+      position: relative; overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Cpath d='M0 60L60 0M-15 15L15 -15M45 75L75 45' stroke='%23E8650A' stroke-width='0.3' opacity='0.08'/%3E%3C/svg%3E");
+      pointer-events: none;
+    }
+    .hero-inner { position: relative; max-width: var(--content-max); }
+    .hero-eyebrow {
+      font-family: var(--font-ui);
+      font-size: 0.7rem; letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--hd-orange);
+      display: flex; align-items: center; gap: 10px;
+      margin-bottom: 16px;
+    }
+    .hero-eyebrow::before {
+      content: ''; display: block;
+      width: 32px; height: 1px;
+      background: var(--hd-orange);
+    }
+    .hero h1 {
+      font-family: var(--font-title);
+      font-size: clamp(3rem, 8vw, 5.5rem);
+      letter-spacing: 0.04em;
+      line-height: 0.95;
+      color: #fff;
+      margin-bottom: 20px;
+    }
+    .hero h1 .accent { color: var(--hd-orange); }
+    .hero-meta {
+      display: flex; gap: 24px; flex-wrap: wrap;
+      margin-top: 28px;
+    }
+    .meta-chip {
+      font-family: var(--font-ui);
+      font-size: 0.75rem; font-weight: 600;
+      letter-spacing: 0.12em; text-transform: uppercase;
+      padding: 6px 14px;
+      border: 1px solid var(--hd-border);
+      border-radius: 2px;
+      color: var(--hd-chrome);
+    }
+    .meta-chip.orange {
+      border-color: var(--hd-orange);
+      color: var(--hd-orange);
+    }
+
+    /* ===== LAYOUT ===== */
+    .layout {
+      display: grid;
+      grid-template-columns: var(--sidebar-w) 1fr;
+      min-height: calc(100vh - 56px);
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* ===== SIDEBAR ===== */
+    .sidebar {
+      position: sticky; top: 56px;
+      height: calc(100vh - 56px);
+      overflow-y: auto; overflow-x: hidden;
+      background: var(--hd-dark);
+      border-right: 1px solid var(--hd-border);
+      padding: 24px 0;
+      scrollbar-width: thin;
+      scrollbar-color: var(--hd-border) transparent;
+    }
+    .sidebar::-webkit-scrollbar { width: 4px; }
+    .sidebar::-webkit-scrollbar-thumb { background: var(--hd-border); }
+
+    .sidebar-heading {
+      font-family: var(--font-ui);
+      font-size: 0.6rem; letter-spacing: 0.3em;
+      text-transform: uppercase; color: var(--hd-orange);
+      padding: 0 20px 12px;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .sidebar-heading::after {
+      content: ''; flex: 1; height: 1px;
+      background: var(--hd-border);
+    }
+
+    /* TOC overrides */
+    .sidebar .toc { padding: 0; }
+    .sidebar ul { list-style: none; padding: 0; }
+    .sidebar > ul, .sidebar .toc > ul {
+      padding: 0;
+    }
+    .sidebar ul li a {
+      display: block;
+      font-family: var(--font-ui);
+      font-size: 0.82rem; font-weight: 400;
+      color: var(--hd-text-dim);
+      text-decoration: none;
+      padding: 5px 20px;
+      border-left: 2px solid transparent;
+      transition: all 0.15s ease;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .sidebar ul li a:hover {
+      color: var(--hd-orange);
+      border-left-color: var(--hd-orange);
+      background: rgba(232,101,10,.06);
+    }
+    .sidebar ul li a.active {
+      color: var(--hd-orange);
+      border-left-color: var(--hd-orange);
+      font-weight: 600;
+    }
+    /* nested items */
+    .sidebar ul ul {
+      padding-left: 12px;
+    }
+    .sidebar ul ul li a {
+      font-size: 0.75rem;
+      color: var(--hd-muted);
+      padding: 3px 20px 3px 16px;
+    }
+    .sidebar ul ul li a:hover { color: var(--hd-orange-lt); }
+
+    /* ===== CONTENT ===== */
+    .content {
+      padding: 40px 48px 80px;
+      max-width: 100%;
+    }
+    .content-inner { max-width: var(--content-max); margin: 0 auto; }
+
+    /* ===== TYPOGRAPHY ===== */
+    .content h1, .content h2, .content h3, .content h4 {
+      font-family: var(--font-title);
+      letter-spacing: 0.04em;
+      color: #fff;
+      line-height: 1.1;
+    }
+    .content h1 {
+      font-size: 3rem;
+      border-bottom: 2px solid var(--hd-orange);
+      padding-bottom: 12px;
+      margin: 60px 0 28px;
+    }
+    .content h1:first-child { margin-top: 0; }
+    .content h2 {
+      font-size: 2rem;
+      margin: 52px 0 18px;
+      padding-left: 14px;
+      border-left: 4px solid var(--hd-orange);
+      color: var(--hd-chrome);
+    }
+    .content h3 {
+      font-size: 1.4rem;
+      margin: 36px 0 12px;
+      color: var(--hd-chrome);
+    }
+    .content h3::before {
+      content: '// ';
+      color: var(--hd-orange);
+      opacity: 0.7;
+    }
+    .content h4 {
+      font-size: 1.1rem;
+      margin: 24px 0 10px;
+      color: var(--hd-text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+    .content p {
+      margin-bottom: 16px;
+      color: var(--hd-text);
+    }
+    .content a {
+      color: var(--hd-orange);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(232,101,10,.3);
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .content a:hover {
+      color: var(--hd-orange-lt);
+      border-bottom-color: var(--hd-orange);
+    }
+    .content strong { color: #fff; font-weight: 600; }
+    .content em { color: var(--hd-chrome); }
+    .content del { color: var(--hd-muted); opacity: 0.6; }
+    .content hr {
+      border: none;
+      border-top: 1px solid var(--hd-border);
+      margin: 48px 0;
+    }
+
+    /* ===== LISTS ===== */
+    .content ul, .content ol {
+      padding-left: 1.5rem;
+      margin-bottom: 16px;
+      color: var(--hd-text);
+    }
+    .content li { margin-bottom: 5px; }
+    .content ul li::marker { color: var(--hd-orange); }
+
+    /* ===== BLOCKQUOTES ===== */
+    .content blockquote, .content .hd-quote {
+      background: var(--hd-warn-bg);
+      border-left: 3px solid var(--hd-orange);
+      padding: 16px 20px;
+      margin: 20px 0;
+      border-radius: 0 var(--radius) var(--radius) 0;
+    }
+    .content blockquote p { color: var(--hd-text-dim); margin: 0; font-size: 0.9rem; }
+
+    /* ===== CODE ===== */
+    .content code {
+      font-family: 'Courier New', monospace;
+      font-size: 0.82em;
+      background: #1E1E1E;
+      color: #E8650A;
+      padding: 2px 6px;
+      border-radius: 3px;
+      border: 1px solid #333;
+    }
+    .content pre {
+      background: #111;
+      border: 1px solid var(--hd-border);
+      border-left: 3px solid var(--hd-chrome);
+      border-radius: var(--radius);
+      padding: 20px;
+      overflow-x: auto;
+      margin: 20px 0;
+    }
+    .content pre code {
+      background: none; border: none;
+      color: var(--hd-chrome);
+      font-size: 0.8rem; line-height: 1.6;
+    }
+
+    /* ===== TABLES ===== */
+    .content .table-wrap {
+      overflow-x: auto; margin: 20px 0;
+      border-radius: var(--radius);
+      border: 1px solid var(--hd-border);
+    }
+    .content table {
+      width: 100%; border-collapse: collapse;
+      font-family: var(--font-ui);
+      font-size: 0.85rem;
+    }
+    .content thead tr {
+      background: var(--hd-table-head);
+    }
+    .content th {
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--hd-orange);
+      padding: 10px 16px;
+      text-align: left;
+      border-bottom: 1px solid var(--hd-orange);
+      white-space: nowrap;
+    }
+    .content td {
+      padding: 9px 16px;
+      color: var(--hd-text);
+      border-bottom: 1px solid var(--hd-border);
+      vertical-align: top;
+    }
+    .content tr:last-child td { border-bottom: none; }
+    .content tbody tr:nth-child(even) { background: rgba(255,255,255,.02); }
+    .content tbody tr:hover { background: rgba(232,101,10,.04); }
+
+    /* ===== IMAGES ===== */
+    .content img {
+      max-width: 100%;
+      border-radius: var(--radius);
+      border: 1px solid var(--hd-border);
+      margin: 16px 0;
+      display: block;
+      transition: border-color 0.2s;
+    }
+    .content img:hover { border-color: var(--hd-orange); }
+
+    /* ===== SPECIAL BADGES ===== */
+    .badge-roto {
+      display: inline-block;
+      background: var(--hd-roto-bg);
+      border: 1px solid var(--hd-roto-brd);
+      color: #FF4444;
+      font-family: var(--font-ui);
+      font-size: 0.7rem; font-weight: 700;
+      letter-spacing: 0.1em;
+      padding: 1px 8px;
+      border-radius: 2px;
+      text-transform: uppercase;
+    }
+    .warning-p {
+      background: var(--hd-warn-bg);
+      border-left: 3px solid #CC5500;
+      padding: 12px 16px;
+      border-radius: 0 var(--radius) var(--radius) 0;
+      margin: 16px 0;
+    }
+    .warning-p .warn-icon { margin-right: 6px; }
+
+    /* Download link style */
+    .content a.dl-link {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-family: var(--font-ui);
+      font-size: 0.8rem; font-weight: 600;
+      letter-spacing: 0.05em;
+      background: rgba(232,101,10,.08);
+      border: 1px solid rgba(232,101,10,.3);
+      border-bottom: 1px solid rgba(232,101,10,.3);
+      color: var(--hd-orange);
+      padding: 3px 12px;
+      border-radius: 2px;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .content a.dl-link::before { content: '⬇ '; font-size: 0.7em; opacity: 0.8; }
+    .content a.dl-link:hover {
+      background: rgba(232,101,10,.18);
+      border-color: var(--hd-orange);
+      color: #fff;
+    }
+
+    /* ===== BACK TO TOP ===== */
+    #back-top {
+      position: fixed; bottom: 28px; right: 28px;
+      width: 44px; height: 44px;
+      background: var(--hd-orange);
+      color: #000; font-size: 1.2rem;
+      border: none; cursor: pointer;
+      border-radius: 2px; display: flex;
+      align-items: center; justify-content: center;
+      opacity: 0; pointer-events: none;
+      transition: opacity 0.3s, transform 0.3s;
+      z-index: 300;
+      font-weight: 900;
+      box-shadow: 0 4px 20px rgba(232,101,10,.4);
+    }
+    #back-top.visible { opacity: 1; pointer-events: all; }
+    #back-top:hover { transform: translateY(-3px); }
+
+    /* ===== FOOTER ===== */
+    .site-footer {
+      background: #0A0A0A;
+      border-top: 1px solid var(--hd-border);
+      padding: 32px 48px;
+      text-align: center;
+    }
+    .site-footer p {
+      font-family: var(--font-ui);
+      font-size: 0.75rem;
+      letter-spacing: 0.1em;
+      color: var(--hd-muted);
+    }
+    .site-footer a { color: var(--hd-orange); text-decoration: none; }
+    .footer-logo {
+      font-family: var(--font-title);
+      font-size: 1.8rem;
+      letter-spacing: 0.1em;
+      color: var(--hd-orange);
+      margin-bottom: 8px;
+    }
+    .footer-logo span { color: var(--hd-chrome); }
+    .footer-btc {
+      font-family: 'Courier New', monospace;
+      font-size: 0.72rem; color: var(--hd-muted);
+      margin-top: 12px; word-break: break-all;
+    }
+    .footer-btc strong { color: var(--hd-chrome); }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 900px) {
+      .layout { grid-template-columns: 1fr; }
+      .sidebar {
+        position: fixed; top: 56px; left: 0; bottom: 0;
+        width: min(var(--sidebar-w), 85vw);
+        transform: translateX(-110%);
+        transition: transform 0.3s ease;
+        z-index: 150;
+        box-shadow: 4px 0 30px rgba(0,0,0,.5);
+      }
+      .sidebar.open { transform: translateX(0); }
+      .sidebar-overlay {
+        display: none; position: fixed; inset: 0;
+        background: rgba(0,0,0,.7); z-index: 140;
+      }
+      .sidebar-overlay.visible { display: block; }
+      .menu-toggle { display: flex; align-items: center; gap: 6px; }
+      .content { padding: 28px 20px 60px; }
+      .hero { padding: 48px 20px 40px; }
+      .site-footer { padding: 24px 20px; }
+    }
+    @media (max-width: 500px) {
+      .content h1 { font-size: 2rem; }
+      .content h2 { font-size: 1.5rem; }
+    }
+
+    /* ===== WRAP TABLES (JS does this, but fallback) ===== */
+    .table-wrap { overflow-x: auto; }
+  </style>
+</head>
+<body>
+
+<div id="progress-bar"></div>
+<div class="sidebar-overlay" id="overlay"></div>
+
+<!-- HEADER -->
+<header class="site-header">
+  <a href="#" class="logo">Sportster<span> XL</span></a>
+  <span class="header-tagline">Apuntes del Propietario · Harley Davidson</span>
+  <button class="menu-toggle" id="menu-btn" aria-label="Menú">☰ Índice</button>
+</header>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">Harley Davidson · Sportster XL · 1957–2021</div>
+    <h1>Apuntes del<br/><span class="accent">Propietario</span></h1>
+    <p style="color:var(--hd-text-dim); max-width:520px; font-size:1rem; margin-top:12px;">
+      Guía de mantenimiento, repuestos alternativos y soluciones para la Sportster.
+      Más de 20 años de experiencia real. ±184.000 km recorridos.
+    </p>
+    <div class="hero-meta">
+      <span class="meta-chip orange">⚙️ Modelos 2004+</span>
+      <span class="meta-chip">🇦🇷 Argentina · 🇨🇷 Costa Rica</span>
+      <span class="meta-chip">📅 Actualizado Jun 2024</span>
+    </div>
+  </div>
+</div>
+
+<!-- LAYOUT -->
+<div class="layout">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-heading">Índice</div>
+    <ul>
+<li><a href="#tabla-de-contenidos">Tabla de contenidos</a></li>
+<li><a href="#introduccion">Introducción</a><ul>
+<li><a href="#mis-motos">Mis motos</a></li>
+</ul>
+</li>
+<li><a href="#alternativas-de-repuestos-en-argentina">Alternativas de repuestos en Argentina</a></li>
+<li><a href="#donaciones">Donaciones</a></li>
+<li><a href="#atencion-aviso-legal">⚠️ ATENCIÓN — Aviso legal</a></li>
+<li><a href="#no-soy-mecanico">No soy mecánico</a><ul>
+<li><a href="#mecanicos">Mecánicos</a></li>
+</ul>
+</li>
+<li><a href="#sportster-19572021-rip">Sportster 1957–2021 — RIP</a></li>
+<li><a href="#sportster-s-rh1250s-2021-en-adelante">Sportster S RH1250S (2021 en adelante)</a></li>
+<li><a href="#sportster-xl-2021-y-anteriores">Sportster XL 2021 y anteriores</a><ul>
+<li><a href="#vins-genericos-de-referencia">VINs genéricos de referencia</a></li>
+</ul>
+</li>
+<li><a href="#manual-de-taller">Manual de taller</a><ul>
+<li><a href="#manuales-para-descargar">Manuales para descargar</a></li>
+<li><a href="#buscar-mas-manuales">Buscar más manuales</a></li>
+<li><a href="#despieces-y-microfichas">Despieces y microfichas</a></li>
+<li><a href="#recursos-adicionales">Recursos adicionales</a></li>
+<li><a href="#archivos-extra">Archivos extra</a></li>
+</ul>
+</li>
+<li><a href="#especificaciones">Especificaciones</a><ul>
+<li><a href="#clima-frio">Clima frío</a></li>
+</ul>
+</li>
+<li><a href="#aceite-de-motor-opciones">Aceite de motor — Opciones</a><ul>
+<li><a href="#kits-oficiales-harley">Kits oficiales Harley</a></li>
+<li><a href="#opciones-alternativas-recomendadas">Opciones alternativas (recomendadas)</a></li>
+<li><a href="#recomendacion-oficial-harley-boletin-de-servicio">Recomendación oficial Harley (boletín de servicio)</a></li>
+<li><a href="#recomendaciones-de-otras-marcas">Recomendaciones de otras marcas</a></li>
+</ul>
+</li>
+<li><a href="#filtros-de-aceite">Filtros de aceite</a></li>
+<li><a href="#temperatura-del-aceite">Temperatura del aceite</a></li>
+<li><a href="#radiador-de-aceite">Radiador de aceite</a><ul>
+<li><a href="#kit-universal-casero">Kit universal casero</a></li>
+</ul>
+</li>
+<li><a href="#presion-de-inflado">Presión de inflado</a></li>
+<li><a href="#medidas-por-modelo">Medidas por modelo</a><ul>
+<li><a href="#delantera">Delantera</a></li>
+<li><a href="#trasera">Trasera</a></li>
+<li><a href="#tamanos-maximos-sin-modificar">Tamaños máximos sin modificar</a></li>
+<li><a href="#off-road-dual-purpose">Off-road / dual purpose</a></li>
+</ul>
+</li>
+<li><a href="#gomerias-en-buenos-aires">Gomerías en Buenos Aires</a></li>
+<li><a href="#rulemanes-rodamientos-de-rueda">Rulemanes / rodamientos de rueda</a><ul>
+<li><a href="#tabla-de-rodamientos-por-ano">Tabla de rodamientos por año</a></li>
+<li><a href="#extraccion-e-instalacion">Extracción e instalación</a></li>
+</ul>
+</li>
+<li><a href="#aluminio-pulido">Aluminio pulido</a></li>
+<li><a href="#negro">Negro</a></li>
+<li><a href="#cromado">Cromado</a></li>
+<li><a href="#como-medir-e-identificar-tornillos">Cómo medir e identificar tornillos</a></li>
+<li><a href="#tamanos-de-tornillos-de-la-moto">Tamaños de tornillos de la moto</a></li>
+<li><a href="#tornillos-comunes-que-se-redondean-modelos-2004">Tornillos comunes que se redondean (modelos +2004)</a></li>
+<li><a href="#limpieza-modelos-2004-con-filtro-original">Limpieza (modelos 2004+ con filtro original)</a></li>
+<li><a href="#liquido-de-frenos">Líquido de frenos</a></li>
+<li><a href="#bomba-de-freno">Bomba de freno</a></li>
+<li><a href="#pastillas-de-freno">Pastillas de freno</a></li>
+<li><a href="#discos-de-freno">Discos de freno</a></li>
+<li><a href="#mantenimiento_1">Mantenimiento</a></li>
+<li><a href="#equivalencias-por-ano">Equivalencias por año</a><ul>
+<li><a href="#modelos-19791985">Modelos 1979–1985</a></li>
+<li><a href="#modelos-19861996">Modelos 1986–1996</a></li>
+<li><a href="#modelos-19972003">Modelos 1997–2003</a></li>
+<li><a href="#modelos-20042020">Modelos 2004–2020</a></li>
+<li><a href="#usando-la-ytx14-sin-l-borne-al-reves">Usando la YTX14 (sin L) — borne al revés</a></li>
+</ul>
+</li>
+<li><a href="#luz-delantera">Luz delantera</a></li>
+<li><a href="#trasera-freno-y-posicion">Trasera (freno y posición)</a></li>
+<li><a href="#giros">Giros</a><ul>
+<li><a href="#funcionamiento-de-los-intermitentes-sportsters-2004">Funcionamiento de los intermitentes (Sportsters 2004+)</a></li>
+</ul>
+</li>
+<li><a href="#marcas-y-proveedores">Marcas y proveedores</a></li>
+<li><a href="#problema-cronico-la-spring-plate-grenade-plate">Problema crónico: la Spring Plate ("grenade plate")</a></li>
+<li><a href="#embrague-centrifugo-automatico">Embrague centrífugo automático</a></li>
+<li><a href="#como-cambiar-el-embrague">Cómo cambiar el embrague</a></li>
+<li><a href="#discos-de-embrague-reconstruccion">Discos de embrague — reconstrucción</a></li>
+<li><a href="#reparacion-de-cables">Reparación de cables</a></li>
+<li><a href="#largo-de-cables">Largo de cables</a></li>
+<li><a href="#fabricantes-de-cables-en-argentina">Fabricantes de cables en Argentina</a></li>
+<li><a href="#tension">Tensión</a></li>
+<li><a href="#reemplazos-fabricantes-en-argentina">Reemplazos / Fabricantes en Argentina</a></li>
+<li><a href="#codigos-de-color">Códigos de color</a></li>
+<li><a href="#pintura-de-retoque-en-argentina">Pintura de retoque en Argentina</a></li>
+<li><a href="#filtro-de-nafta-modelos-carburados-hasta-2006">Filtro de nafta (modelos carburados hasta 2006)</a></li>
+<li><a href="#modo-diagnostico-integrado">Modo diagnóstico integrado</a></li>
+<li><a href="#diagnostico-con-cable-obd2">Diagnóstico con cable OBD2</a></li>
+<li><a href="#escaneres-profesionales">Escáneres profesionales</a></li>
+<li><a href="#filtro-de-nafta-efi">Filtro de nafta EFI</a></li>
+<li><a href="#bomba-de-nafta-efi">Bomba de nafta EFI</a></li>
+<li><a href="#perdidas-fugas-de-combustible-efi">Pérdidas / fugas de combustible (EFI)</a><ul>
+<li><a href="#acople-rapido-hembra-bajo-el-tanque">Acople rápido hembra bajo el tanque</a></li>
+</ul>
+</li>
+<li><a href="#ralenti-idle-efi">Ralentí / idle EFI</a></li>
+<li><a href="#canbus-hdlan">CANBUS / HDLAN</a></li>
+<li><a href="#analisis-de-performance-en-dinamometro">Análisis de performance en dinamómetro</a></li>
+<li><a href="#marcas-importadas">Marcas importadas</a></li>
+<li><a href="#fabricantes-nacionales-argentina">Fabricantes nacionales (Argentina)</a></li>
+<li><a href="#modificar-silenciadores-originales">Modificar silenciadores originales</a></li>
+<li><a href="#stage-1">Stage 1</a></li>
+<li><a href="#stage-2">Stage 2</a></li>
+<li><a href="#stage-3">Stage 3</a></li>
+<li><a href="#mas-info-sobre-las-etapas">Más info sobre las etapas</a></li>
+<li><a href="#convertir-883-a-1200-1250-1275-cc">Convertir 883 a 1200 / 1250 / 1275 cc</a><ul>
+<li><a href="#encendido-programable-modelos-carburados-20042006">Encendido programable — modelos carburados 2004–2006</a></li>
+<li><a href="#encendidoecm-programable-modelos-efi-2007">Encendido/ECM programable — modelos EFI 2007+</a></li>
+</ul>
+</li>
+<li><a href="#toma-de-12-v">Toma de 12 V</a></li>
+<li><a href="#cargador-de-celular-usb">Cargador de celular USB</a></li>
+<li><a href="#aplicaciones-gps-para-celular">Aplicaciones GPS para celular</a></li>
+<li><a href="#sitios-para-planear-viajes">Sitios para planear viajes</a></li>
+<li><a href="#pedalines">Pedalines</a></li>
+<li><a href="#manillares">Manillares</a></li>
+<li><a href="#punos">Puños</a></li>
+<li><a href="#respaldos-sissy-bar">Respaldos &amp; Sissy bar</a></li>
+<li><a href="#asientos">Asientos</a></li>
+<li><a href="#alforjas">Alforjas</a></li>
+<li><a href="#defensa-mataperros">Defensa / "mataperros"</a></li>
+<li><a href="#portaequipajes">Portaequipajes</a></li>
+<li><a href="#llaves">Llaves</a><ul>
+<li><a href="#estabilizador-de-combustible">Estabilizador de combustible</a></li>
+</ul>
+</li>
+<li><a href="#casco">Casco</a></li>
+<li><a href="#traje-de-lluvia">Traje de lluvia</a></li>
+<li><a href="#equipo-calefaccionado-para-invierno">Equipo calefaccionado para invierno</a></li>
+<li><a href="#infladores-selladores-portatiles">Infladores / selladores portátiles</a></li>
+<li><a href="#defensa-personal">Defensa personal</a></li>
+<li><a href="#dinamometros">Dinamómetros</a></li>
+<li><a href="#que-es-un-helicoil">¿Qué es un Helicoil?</a></li>
+<li><a href="#como-se-usa">¿Cómo se usa?</a></li>
+<li><a href="#ventajas">Ventajas</a></li>
+<li><a href="#talleres-y-repuestos">Talleres y repuestos</a></li>
+<li><a href="#torneria-y-rectificacion">Tornería y rectificación</a></li>
+<li><a href="#aceites">Aceites</a></li>
+<li><a href="#herramientas">Herramientas</a></li>
+<li><a href="#tornilleria_1">Tornillería</a></li>
+<li><a href="#traer-repuestos-de-eeuu">Traer repuestos de EE.UU.</a></li>
+<li><a href="#insumos">Insumos</a></li>
+</ul>
+
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="content" id="main">
+    <article class="content-inner">
+<h1 id="harley-davidson-sportster-apuntes-del-propietario">Harley Davidson Sportster — Apuntes del Propietario</h1>
+<p>:wrench: :wrench: :wrench: :wrench:</p>
+<blockquote class="hd-quote">
+<p><strong>Este sitio NO está asociado en manera alguna a Harley-Davidson Motor Company.</strong><br />
+Harley-Davidson® y el logotipo Bar &amp; Shield son marcas registradas de HD Michigan, Inc.</p>
+</blockquote>
+<p><strong>Última actualización: 30/06/2024</strong> — ±184.000 km recorridos sin problemas.</p>
+<hr />
+<h2 id="tabla-de-contenidos">Tabla de contenidos</h2>
+<p>La tabla de contenidos se actualiza automáticamente; dar click en el ícono :bookmark_tabs: de arriba.</p>
+<hr />
+<h2 id="introduccion">Introducción</h2>
+<p>Estas notas nacieron del mantenimiento de mis propias motos. Llevo más de 20 años con Sportsters y las disfruto muchísimo. El contenido está en constante evolución: cada vez que encuentro nueva información o soluciones, las agrego.</p>
+<p><strong>No olvides revisarlas seguido, crecen día a día.</strong></p>
+<p>En la carpeta de <a href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/tree/master/archivos_soporte">archivos de soporte</a> hay información recopilada muy útil: diagramas, documentos, manuales, apps, etc. Mucho de ese material todavía no fue incorporado a este documento.</p>
+<p>Espero que la información les sea de mucha utilidad. ¡Gracias por leer!</p>
+<h3 id="mis-motos">Mis motos</h3>
+<p>Amo las Sportster. Las mías son:</p>
+<ul>
+<li><strong>2004 XL 883</strong> — ¡Mi primer amor!</li>
+<li><strong>2005 XL 883 L</strong> — La que compré rota.</li>
+<li><strong>2008 XL 1200 C</strong> — La que más viajé.</li>
+</ul>
+<hr />
+<h2 id="alternativas-de-repuestos-en-argentina">Alternativas de repuestos en Argentina</h2>
+<p>Lista de repuestos alternativos para Harley Davidson Sportster conseguibles en Argentina. Puede servir también para otros países; en un mundo globalizado todo es posible.</p>
+<p>Dado la situación argentina — en permanente crisis, con constantes cepos a la importación y a la moneda extranjera — se hace difícil mantener funcionando una moto importada. Por eso recopilé, a lo largo de más de 20 años, una lista de repuestos alternativos para mantener la Sportster en condiciones óptimas.</p>
+<p>Este proyecto inicia en 2004, cuando compré mi primera HD XL 883.</p>
+<hr />
+<h2 id="donaciones">Donaciones</h2>
+<p>Hacer este documento lleva mucho tiempo, esfuerzo e investigación.</p>
+<p><strong>Donar</strong> mediante Bitcoin; todo ayuda, pueden ser centavos, no importa:</p>
+<p><strong>33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q</strong></p>
+<p><img loading="lazy" alt="Wallet 33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/btc/wallet.png" /></p>
+<p><strong>¡Muchas gracias por tu donación!</strong></p>
+<hr />
+<h2 id="atencion-aviso-legal">⚠️ ATENCIÓN — Aviso legal</h2>
+<p>LA INFORMACIÓN SE PROPORCIONA "COMO ESTÁ", <strong>SIN GARANTÍA DE NINGÚN TIPO</strong>. EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES DE RECLAMOS, DAÑOS U OTRAS RESPONSABILIDADES DERIVADAS DEL USO DE ESTA INFORMACIÓN.</p>
+<ul>
+<li>Modelos más nuevos o más viejos <strong>TIENEN DIFERENCIAS</strong>, especialmente eléctricas. Esta información es orientativa.</li>
+<li>La Sportster se fabrica desde 1957; las variantes son enormes. Es importante investigar a qué generación pertenece tu moto.</li>
+<li>Este documento sirve principalmente para <strong>modelos 2004 en adelante</strong>. Algunas cosas aplican a modelos más viejos.</li>
+<li><strong>SOLO SE PERMITE EL USO NO COMERCIAL DE ESTA INFORMACIÓN.</strong></li>
+</ul>
+<hr />
+<h2 id="no-soy-mecanico">No soy mecánico</h2>
+<p>Solo soy un enamorado de las motos, principalmente de mi Sportster. Mi primera moto la tuve a los 13 años (una Daelim Liberty 50cc, hace más de 25 años). Soy Licenciado en Informática.</p>
+<p>Estos apuntes surgen porque toda pasión lleva a conocer más el objeto de adoración.</p>
+<p><a href="https://www.youtube.com/watch?v=FAyTabHw-Gk"><em>"No detenga su motor, e investigue su interior"</em></a></p>
+<h3 id="mecanicos">Mecánicos</h3>
+<p>Cuando un problema supera nuestra habilidad, lo mejor es ir a un mecánico calificado o al concesionario oficial <a href="https://www.harley-davidson.com.ar/">Harley Davidson Argentina</a>.</p>
+<p>En Argentina hay excelentes mecánicos, honestos y profesionales. Yo fui a varios y todos me atendieron excelentemente. Simplemente me quedan lejos, y es más divertido hacerlo uno mismo. Pero repito: <strong>si el problema supera nuestra habilidad, lo mejor es consultar a los profesionales</strong>.</p>
+<hr />
+<h1 id="manuales">Manuales</h1>
+<p><strong>La primera referencia que debemos consultar siempre es el manual del propietario, y sobre todo el manual de taller.</strong></p>
+<h2 id="sportster-19572021-rip">Sportster 1957–2021 — RIP</h2>
+<p>Harley discontinuó la Sportster XL en 2021, reemplazándola con la <strong>Sportster S (RH1250S)</strong>, que solo comparte el nombre. Estos apuntes <strong>NO</strong> hablan del nuevo modelo RH1250S.</p>
+<h2 id="sportster-s-rh1250s-2021-en-adelante">Sportster S RH1250S (2021 en adelante)</h2>
+<p>Estos manuales son para la <strong>nueva</strong> Sportster S (código RH), <strong>no</strong> para las XL de motor refrigerado por aire.</p>
+<p>VIN de referencia para buscar manuales: <code>5HD1ZC43XPB312865</code></p>
+<ul>
+<li>Manual de usuario: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1922009926143166862&amp;groupId=2518 — <span class="badge-roto"><span class="badge-roto">⚠️ ROTO</span></span> <em>(Harley lo dio de baja en 2024. Si alguien lo tiene, por favor compartirlo.)</em></li>
+<li>~Catálogo de partes: https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1547686249569650976~ — <span class="badge-roto"><span class="badge-roto">⚠️ ROTO</span></span></li>
+</ul>
+<blockquote class="hd-quote">
+<p><strong>Datos de referencia del manual (Sportster S):</strong><br />
+- Sale de fábrica con aceite SYN-BLEND 15w-50.<br />
+- Bujías: cada 10.000 millas (vs 30.000 mi en XL).<br />
+- Aceite y filtro: cada 5.000 millas (incluye primaria/transmisión, ya que comparten cárter).<br />
+- Refrigerante: cada 30.000 millas.</p>
+</blockquote>
+<h2 id="sportster-xl-2021-y-anteriores">Sportster XL 2021 y anteriores</h2>
+<p>Portal de información técnica Harley: https://serviceinfo.harley-davidson.com/sip/index</p>
+<p><strong>Manual del propietario</strong> (requiere VIN): https://serviceinfo.harley-davidson.com/sip/vehicle/lookupForm</p>
+<p><strong>Hojas de servicio de piezas</strong>: https://serviceinfo.harley-davidson.com/sip/isheet/lookupForm</p>
+<h3 id="vins-genericos-de-referencia">VINs genéricos de referencia</h3>
+<p>Si no tenés el VIN a mano, podés usar estos:</p>
+<p><strong>1. Noventosas (199x) — VIN: <code>1HD1CAP14SY219269</code> (1995)</strong><br />
+- <a href="https://serviceinfo.harley-davidson.com/sip/content/document/view?id=6335&amp;groupId=16">Manual del propietario 1995</a><br />
+- <a href="https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273239&amp;groupId=14">Catálogo de partes 1995</a></p>
+<p><strong>2. Carburadas 2004–2006 — VIN: <code>5HD1CGP1X6K468728</code> (2006)</strong><br />
+- <a href="https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273005&amp;groupId=14">Catálogo de partes 2006</a><br />
+- <a href="https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545139912053563680&amp;groupId=16">Manual del propietario 2006</a></p>
+<p><strong>3. EFI 2007 en adelante — VINs: <code>1HD1CT311CC442353</code> (2012) / <code>1HD4LE218LB434556</code> (2020)</strong><br />
+- <a href="https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1545140320163801375">Manual del propietario 2012</a><br />
+- <a href="https://serviceinfo.harley-davidson.com/sip/content/document/view?id=273148&amp;groupId=14">Catálogo de partes 2012</a><br />
+- <a href="https://serviceinfo.harley-davidson.com/sip/content/document/view?id=1807548144722844022">Manual del propietario 2022</a></p>
+<h2 id="manual-de-taller">Manual de taller</h2>
+<p>El manual de taller ("workshop manual") se <strong>compra</strong>; normalmente son tres tomos: manual de taller, diagnóstico eléctrico y catálogo de partes. A veces se consigue online (eBay o versiones no oficiales).</p>
+<p><strong>Compatibilidades entre años:</strong><br />
+- 1959 a 1969: mismo manual<br />
+- 1986 a 2003: muy similares<br />
+- 2004 a 2006: motor sobre goma, carburado<br />
+- 2007 a 2012: EFI, motor sobre goma<br />
+- 2013 a 2021: EFI, motor sobre goma, cambios en electrónica, ABS, etc.</p>
+<p>Si la info no está en el manual de tu año, buscá en años cercanos (ej: para 2005, mirá el 2004 o el 2006).</p>
+<h3 id="manuales-para-descargar">Manuales para descargar</h3>
+<ul>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2021.7z">Manual de taller 2021</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2018.7z">Manual de taller 2018</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2015.7z">Manual de taller 2015</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2013.7z">Manual de taller 2013</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2011.7z">Manual de taller 2011</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010.7z">Manual de taller 2010 — español</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2010_v2.7z">Manual de taller 2010 — inglés</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009_ES.7z">Manual de taller 2009 — español</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2009.7z">Manual de taller 2009 — inglés</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2008.7z">Manual de taller 2008</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2006.7z">Manual de taller 2006</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_04-06_Repair_Manual_JADE_NO_OFICIAL_MUY_BUENO.compressed.pdf">Manual de taller 2004–2006 (no oficial, muy bueno)</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005_v2.7z">Manual de taller 2005 v2</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2005.7z">Manual de taller 2005 v1</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2004.7z">Manual de taller 2004</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2003.7z">Manual de taller 2003</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_2002.7z">Manual de taller 2002</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Harley-Davidson-Sportster-1986-2003-Service-Manual.compressed.pdf">Manual de taller 1986–2003</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/Sportster_troubleshooting_manual_CYCLETECH_1986_2003.compressed.pdf">Manual de problemas comunes 1986–2003 (Cycletech)</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_troubleshooting_manual.compressed.pdf">Manual de problemas comunes hasta 2003, alternativo</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/1970_78_XL_XLH_XLCH_XLT_1000_Service_Manual.compressed.pdf">Manual de taller 1970–1978</a></li>
+<li><a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/manuales/XL_1959_1969.7z">Manual de taller 1959–1969</a></li>
+</ul>
+<p><em>Algunos manuales están en PDF o comprimidos. Software recomendado:</em><br />
+- Archivos comprimidos: https://www.7-zip.org/<br />
+- PDFs: https://www.sumatrapdfreader.org/free-pdf-reader</p>
+<h3 id="buscar-mas-manuales">Buscar más manuales</h3>
+<ul>
+<li>Comprar manuales online: https://motorcycle-manual-download.com/</li>
+<li>Carl Salter (varios manuales): https://www.carlsalter.com/harley-service-manuals.asp</li>
+<li>Lowbrow Customs (manuales y guías): https://www.lowbrowcustoms.com/blogs/events-features/harley-davidson-motorcycle-manuals-trouble-shooting-guides-parts-books-free-download</li>
+<li>Foro con manuales <strong>en español</strong>: https://harleyexpert.com/resources/</li>
+<li>Búsqueda en Google: https://www.google.com/search?q=sportster+service+manual+filetype:pdf</li>
+<li>Búsqueda en DuckDuckGo: https://www.duckduckgo.com/?q=sportster+service+manual+filetype:pdf</li>
+</ul>
+<h3 id="despieces-y-microfichas">Despieces y microfichas</h3>
+<ul>
+<li>https://www.harley-davidson.com/us/en/shop/c/motorcycle-service-parts</li>
+<li>https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/</li>
+<li>https://partsfinder.onlinemicrofiche.com/ronnies/showmodel.asp?make=hdmc</li>
+<li>https://shop.suburbanharley.com/oem-parts</li>
+<li>https://www.jerseyh-d.com/original-harley-davidson-parts/</li>
+</ul>
+<h3 id="recursos-adicionales">Recursos adicionales</h3>
+<ul>
+<li>Foro con manuales: https://foroharley.com/forums/manuales-y-documentos.33/</li>
+<li><strong>Sportsterpedia</strong> (enciclopedia online de la Sportster): http://sportsterpedia.com/doku.php/start</li>
+<li><strong>XL Forum</strong> (foro Sportster): https://www.xlforum.net/</li>
+<li>Generaciones de Sportster: https://www.autoevolution.com/moto/harley-davidson/sportster-1/</li>
+</ul>
+<hr />
+<h1 id="evolucion-de-la-sportster">Evolución de la Sportster</h1>
+<p>La Sportster es una línea producida continuamente desde <strong>1957</strong> por Harley-Davidson. El código "XL" hace referencia al modelo eXperimental Ligero original. Sus predecesores fueron los Modelos K, KH y KHK (1952–1956), creados para competir con las marcas europeas, principalmente las británicas.</p>
+<p><strong>Hitos clave:</strong><br />
+- <strong>1958</strong> — Se incorpora el "peanut tank" característico.<br />
+- <strong>1967</strong> — Se agrega arranque eléctrico.<br />
+- <strong>1969</strong> — Se instalan silenciadores por contaminación acústica.<br />
+- <strong>1972</strong> — La cilindrada sube a 1.000 cc para competir con las japonesas.<br />
+- <strong>1983</strong> — Se relanza el modelo XL.<br />
+- <strong>1986</strong> — Motores "Evolution" (EVO).<br />
+- <strong>1991</strong> — Se pasa a cinco velocidades (hasta 1990 eran cuatro).<br />
+- <strong>2004</strong> — Rediseño completo: motor montado sobre tacos de goma (menos vibración), escapes rediseñados, rueda trasera de 150 mm (antes 130 mm).<br />
+- <strong>2007</strong> — Se reemplaza el carburador por inyección electrónica EFI (50° aniversario de la línea).<br />
+- <strong>2014</strong> — Rotores de freno de 300 mm (antes 292 mm), ABS opcional, CANBUS, sistema H-D1 de personalización.<br />
+- <strong>2020</strong> — Harley confirma que la Sportster no se actualizará para cumplir Euro 5 y se descontinuará en Europa.<br />
+- <strong>2022</strong> — Fin de la producción de la Sportster XL. Fin de una era.</p>
+<p><em>Más info:</em><br />
+- https://haynes.com/en-us/tips-tutorials/harley-davidson-sportster-history-1970-2013<br />
+- https://www.hdforums.com/forum/sportster-models/1304092-six-decades-of-the-sportster-is-coming-to-a-close.html<br />
+- https://ultimatemotorcycling.com/2014/09/16/harley-davidson-sportster-history-reaching-every-niche/<br />
+- https://www.lowbrowcustoms.com/blogs/events-features/history-harley-davidson-sportster-blowing-away-big-twins-since-1957</p>
+<hr />
+<h1 id="mantenimiento">Mantenimiento</h1>
+<p>El buen mantenimiento es sinónimo de una motocicleta segura. Inspeccionar frecuentemente entre los intervalos regulares de servicio.</p>
+<p><strong>Intervalos básicos:</strong><br />
+- <strong>Aceite motor y filtro</strong>: cada 8.000 km o un año (lo que ocurra primero).<br />
+- <strong>Aceite primaria</strong>: cada 16.000 km.<br />
+- En climas fríos o trayectos cortos frecuentes: reducir a 5.000 km.</p>
+<p><strong>Checklist de inspección regular:</strong><br />
+1. Neumáticos: presión correcta, sin abrasiones ni cortes.<br />
+2. Correa y cadena primaria: tensión correcta, sin desgaste ni daño.<br />
+3. Frenos, dirección y acelerador: respuesta correcta, sin atascamientos.<br />
+4. Nivel y estado del líquido de frenos. Desgaste de pastillas y discos.<br />
+5. Cables: sin deshilachado, operación libre.<br />
+6. Niveles de aceite (motor y primaria/transmisión).<br />
+7. Luces: delantera, trasera, freno y giros.</p>
+<h3 id="archivos-extra">Archivos extra</h3>
+<p>En la carpeta <a href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/tree/master/archivos_soporte">archivos_soporte</a> hay diagramas, documentos y manuales adicionales. Revisarla vale la pena.</p>
+<hr />
+<h1 id="cambios-de-aceite">Cambios de aceite</h1>
+<h2 id="especificaciones">Especificaciones</h2>
+<table>
+<thead>
+<tr>
+<th>Compartimiento</th>
+<th>Cantidad</th>
+<th>Especificación</th>
+<th>Intervalo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Motor</strong></td>
+<td>3 US qt = 2,83 L</td>
+<td>20w50, JASO MA2, API SJ/SL/SM/SN</td>
+<td>8.000 km o 1 año</td>
+</tr>
+<tr>
+<td><strong>Primaria</strong></td>
+<td>1 US qt = 0,946 L</td>
+<td>20w50 <strong>mineral</strong>, JASO MA2, API SJ/SL/SM/SN</td>
+<td>16.000 km o 2 años</td>
+</tr>
+<tr>
+<td><strong>Filtro</strong></td>
+<td>Ø 75 mm, rosca 3/4"-16, válvula ≤ 12 PSI</td>
+<td>—</td>
+<td>8.000 km o 1 año</td>
+</tr>
+</tbody>
+</table>
+<blockquote class="hd-quote">
+<p><strong>Lo más importante: que NO le falte aceite. Verificar el nivel ANTES de arrancar.</strong></p>
+</blockquote>
+<p><strong>Nota</strong>: si usás aceite Castrol Actevo o Motul 3000 en la primaria, cambiarlo cada 8.000 km junto con el del motor. Si usás Motul 3000, 5.000 km para más seguridad.</p>
+<h3 id="clima-frio">Clima frío</h3>
+<p>En climas bajo 16°C o trayectos frecuentes de menos de 24 km, reducir el intervalo a <strong>5.000 km</strong>. El vapor de agua es subproducto de la combustión y, si el motor no alcanza temperatura normal, se acumula agua en el aceite formando lodo dañino para el motor.</p>
+<hr />
+<h2 id="aceite-de-motor-opciones">Aceite de motor — Opciones</h2>
+<p>Lo más importante al elegir un aceite:<br />
+- <strong>Viscosidad SAE</strong>: usar <strong>20w50</strong> (o 15w50 según clima).<br />
+- <strong>API</strong>: mínimo SJ. Los actuales son SL (2004+), SM (2010+), SN/SP (2020+). Los códigos SA a SH son <strong>obsoletos</strong> — evitarlos.<br />
+- <strong>JASO MA o MA2</strong>: garantiza compatibilidad con embragues húmedos. MA2 es el ideal.<br />
+- <strong>NO mezclar</strong> marcas y viscosidades indiscriminadamente.<br />
+- Un aceite almacenado <strong>sellado</strong> en su envase original dura hasta <strong>5 años</strong>.</p>
+<h3 id="kits-oficiales-harley">Kits oficiales Harley</h3>
+<ul>
+<li>Kit oficial mineral: <strong>H-D 360</strong> motorcycle oil, SAE 20w50 (~55 USD). <img loading="lazy" alt="Aceite HD360" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/aceite/hd360_kit.jpg" /></li>
+<li>Kit oficial sintético: <strong>H-D SYN3</strong>, SAE 20w50 (~80 USD). <img loading="lazy" alt="Aceite SYN3" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/aceite/syn3_kit.jpg" /></li>
+</ul>
+<p>Ver: https://www.harley-davidson.com/us/en/shop/c/motorcycle-oil-change-kits</p>
+<h3 id="opciones-alternativas-recomendadas">Opciones alternativas (recomendadas)</h3>
+<p><strong>Opción económica</strong> (casi omnipresente en Latinoamérica):<br />
+- Filtro: FRAM PH3614, FRAM PH6022, Mahle OC1021, HiFlo HF170B/C<br />
+- Motor: Castrol Actevo 20w50 o Motul 3000 20w50<br />
+- Primaria: Castrol Actevo o Motul 3000 20w50<br />
+- Costo total estimado: 37–50 USD</p>
+<p><strong>Semi sintético:</strong><br />
+- Motor: Castrol Actevo X-Tra 20w50, Motul 5100 15w50, Ipone Road Twin 15w50, Ipone R4000 RS 20w50, Valvoline Durablend 4T 20w50 (API SL, JASO MA2)<br />
+- Primaria: aceite mineral 20w50 de buena calidad</p>
+<p><strong>Sintético:</strong><br />
+- Mannol V-Twin 20w50, Putoline Genuine V-Twin 20w50, Bel-Ray V-Twin 10w50, Motul 7100 20w50, AMSOIL 20w50 (este último difícil de conseguir en Argentina)<br />
+- Ipone Full Power Katana 15w50 (recomendado por Ipone para Sportster)</p>
+<p><strong>Mineral:</strong><br />
+- Castrol Actevo 20w50, Silkolene V-Twin 20w50, Motul 3000 20w50, Ipone R4000 RS 20w50</p>
+<blockquote class="hd-quote">
+<p class="warning-p"><span class="warn-icon">⚠️</span> Nota importante sobre aceites de auto</strong>: Solo usar en emergencias. <strong>NUNCA</strong> usar aceite para autos nafteros/gasolina. El aceite diesel de servicio pesado puede usarse en motor (no en primaria). Ver boletín oficial Harley más abajo.</p>
+</blockquote>
+<h3 id="recomendacion-oficial-harley-boletin-de-servicio">Recomendación oficial Harley (boletín de servicio)</h3>
+<p>https://serviceinfo.harley-davidson.com/sip/service/procedure/1332041847506356430/BLAISE/1137435/en_US?nid=5728</p>
+<p>Orden de preferencia según Harley: 1°) SYN3; 2°) H-D 360 motorcycle oil; 3°) Aceite diesel de emergencia (categorías SH, CH-4, CI-4 o CJ-4, viscosidades 20w50, 15w40 o 10w40). <strong>El aceite diesel solo va en el motor, nunca en primaria ni transmisión.</strong></p>
+<h3 id="recomendaciones-de-otras-marcas">Recomendaciones de otras marcas</h3>
+<table>
+<thead>
+<tr>
+<th>Marca</th>
+<th>Recomendación motor</th>
+<th>Recomendación primaria</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Harley</strong></td>
+<td>SYN3 o H-D 360 20w50</td>
+<td>Igual al motor</td>
+</tr>
+<tr>
+<td><strong>Castrol</strong></td>
+<td>Actevo 20w50 / Actevo X-Tra 20w50 / Power 1 V-Twin 20w50</td>
+<td>Mismo</td>
+</tr>
+<tr>
+<td><strong>Motul</strong></td>
+<td>7100 20w50 (o 5100 15w50 semi-sint.)</td>
+<td>3000 20w50</td>
+</tr>
+<tr>
+<td><strong>Motorex</strong></td>
+<td>Legend 20w50</td>
+<td>Mismo</td>
+</tr>
+<tr>
+<td><strong>Bel-Ray</strong></td>
+<td>V-Twin 20w50 o 10w50</td>
+<td>Sport Trans 85w</td>
+</tr>
+<tr>
+<td><strong>Silkolene</strong></td>
+<td>V-Twin 20w50</td>
+<td>Mismo</td>
+</tr>
+<tr>
+<td><strong>Ipone</strong></td>
+<td>R4000 RS 20w50 o Full Power Katana 15w50</td>
+<td>Road Twin 15w50</td>
+</tr>
+<tr>
+<td><strong>AMSOIL</strong></td>
+<td>20w50</td>
+<td>Mismo</td>
+</tr>
+<tr>
+<td><strong>Mannol</strong></td>
+<td>Harley Davidson 20w50</td>
+<td>Mismo</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nota sobre la primaria</strong>: Embragues Barnett y Energy One recomiendan aceite <strong>mineral</strong> con JASO MA/MA2, nunca sintético. Si no sabés qué embrague tiene tu moto, usá mineral.</p>
+<p><em>Más info:</em> http://sportsterpedia.com/doku.php/techtalk:ref:oil01</p>
+<hr />
+<h2 id="filtros-de-aceite">Filtros de aceite</h2>
+<p><strong>Características del filtro correcto:</strong><br />
+- Altura: ±86 mm (puede variar un poco)<br />
+- Diámetro exterior: 75 mm<br />
+- Rosca: <strong>3/4"-16 UNF</strong><br />
+- Válvula de alivio: <strong>máx. 12 PSI</strong> ← MUY IMPORTANTE</p>
+<p><img loading="lazy" alt="Filtros aceite" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/aceite/filtros.jpg" /></p>
+<blockquote class="hd-quote">
+<p class="warning-p"><span class="warn-icon">⚠️</span> NO usar cualquier filtro de auto. La válvula de retorno de alto PSI puede matar el motor. Verificar siempre los PSI de la válvula.</strong></p>
+</blockquote>
+<p><strong>Filtros específicos para Harley (recomendados):</strong><br />
+- <strong>Mahle OC1021</strong> — negro, económico, específico para Harley.<br />
+- <strong>HiFlo HF170C</strong> — cromado (HF170B negro). Mejor calidad que el original Harley. http://www.hiflofiltro.com/catalogue/filter/hf170<br />
+- <strong>HiFlo HF170RC</strong> — "high performance" con elemento filtrante mejorado. http://www.hiflofiltro.com/catalogue/filter/HF170RC<br />
+- <strong>CHAMPION COF071C</strong> — visto en ML (mayo 2021).</p>
+<p><strong>Filtros de auto compatibles (alternativos):</strong><br />
+- FRAM PH3614 (Neon, Stratus, Hilux) — PSI 12 — omnipresente en Latinoamérica.<br />
+- Mahle OC988 (Stratus, Neon) — casi idéntico al de Harley.<br />
+- FRAM PH6022 — negro, PSI 12.<br />
+- FRAM PH6065B — cromado, PSI 7-9. <em>(Difícil en Argentina)</em><br />
+- Purolator PL14476 / Mobil1 M1-102 / Bosch 3330 / WIX 51394 / WEGA JFO-0050 / TECFIL PSL637</p>
+<p><strong>Lista completa de filtros automotrices compatibles</strong> (Ø exterior 78 mm, altura 78 mm, rosca 3/4x16):</p>
+<table>
+<thead>
+<tr>
+<th>Marca</th>
+<th>Código</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FRAM</td>
+<td>PH 3614</td>
+</tr>
+<tr>
+<td>MAHLE</td>
+<td>OC216 / OC988</td>
+</tr>
+<tr>
+<td>MANNFILTER</td>
+<td>W71180 / W71283</td>
+</tr>
+<tr>
+<td>BOSCH</td>
+<td>0451103322 / 451103271</td>
+</tr>
+<tr>
+<td>PUROLATOR</td>
+<td>L1063</td>
+</tr>
+<tr>
+<td>BALDWIN</td>
+<td>BT223</td>
+</tr>
+<tr>
+<td>DONALDSON</td>
+<td>P550335</td>
+</tr>
+<tr>
+<td>TECFIL</td>
+<td>PSL134 / PSL146</td>
+</tr>
+<tr>
+<td>TECNECO</td>
+<td>OL449 / OL479</td>
+</tr>
+<tr>
+<td>FIAAM</td>
+<td>FT5274</td>
+</tr>
+<tr>
+<td>FLEETGUARD</td>
+<td>LF3335</td>
+</tr>
+<tr>
+<td>CHRYSLER</td>
+<td>04105409AC</td>
+</tr>
+<tr>
+<td>TOYOTA</td>
+<td>9091520003 / 9091520004 / 90915YZZA1</td>
+</tr>
+<tr>
+<td>SUBARU</td>
+<td>15208AA020</td>
+</tr>
+<tr>
+<td>SUZUKI</td>
+<td>1651060B01</td>
+</tr>
+<tr>
+<td>WEGA</td>
+<td>JFO211</td>
+</tr>
+</tbody>
+</table>
+<p>Vehículos de referencia: Alfa Romeo 166, Chery Fulwin/Face, Chrysler PT Cruiser/Neon/Stratus/Sebring/Caravan, Ford Bronco, Jeep Wrangler (07), Saab 9-3/9-5, Toyota Supra/Hilux/SW4/RAV4/Camry/Previa/Innova/4Runner.</p>
+<hr />
+<h2 id="temperatura-del-aceite">Temperatura del aceite</h2>
+<p><strong>Normal</strong>: entre <strong>220°F y 250°F</strong> (104–121°C) en el tanque. Picos de hasta <strong>300°F</strong> en ralentí prolongado, verano o crucero de alta velocidad.</p>
+<p>Se puede medir con un tapón termómetro (varilla medidora con termómetro incorporado):</p>
+<p><img loading="lazy" alt="Oil temp dipstick" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/radiador_aceite/oil_temp_plug.jpg" /></p>
+<ul>
+<li>Buscar en eBay: https://www.ebay.com/sch/i.html?_nkw=sportster+oil+dipstick</li>
+<li>Buscar en Amazon: https://www.amazon.com/s?k=sportster+oil+dipstick</li>
+<li>También se puede fabricar con un termómetro de horno modificando el tapón original.</li>
+</ul>
+<hr />
+<h2 id="radiador-de-aceite">Radiador de aceite</h2>
+<p><strong>Primero verificar si realmente recalienta</strong> (usando el tapón termómetro; ¿pasa de 300°F?). Si no es necesario, no comprarlo. En climas fríos generalmente no hace falta; en climas tropicales o con veranos intensos puede ser necesario, sobre todo en el 1200cc.</p>
+<p><strong>Kit oficial Harley (P/N 62700082):</strong></p>
+<p><img loading="lazy" alt="oil cooler kit HD" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_aceite_kit_HD_PN_62700082.jpg" /><br />
+<img loading="lazy" alt="oil cooler instalado" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/radiador_aceite/hd_sin_adaptador/radiador_instalado_HD.jpg" /></p>
+<p>Más info: http://sportsterpedia.com/doku.php/techtalk:ref:oil14 | https://jagg.com/collections/harley-davidson-sportster | https://www.jpcycles.com/motorcycle-oil-cooler-kits</p>
+<h3 id="kit-universal-casero">Kit universal casero</h3>
+<ol>
+<li><strong>Adaptador</strong> ("torta") para el filtro — buscar en ML "adaptador universal radiador aceite", rosca 3/4"-16 UNF.</li>
+<li><strong>Líneas de aceite</strong> AN10 — se fabrican en casas de hidráulica.</li>
+<li><strong>Radiador</strong> pequeño de 6, 8 o 10 líneas.</li>
+</ol>
+<p><img loading="lazy" alt="Adaptador universal" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/radiador_aceite/torta_universal_radiador_aceite.jpg" /><br />
+<img loading="lazy" alt="Radiador universal" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/radiador_aceite/radiador_universal.jpg" /></p>
+<p><strong>Radiadores de otras motos con dimensiones adecuadas:</strong> Zanella RZ 25, Gilera VC 200R, Mondial HD 254, YBR 250.</p>
+<p><strong>Casas de hidráulica en Argentina:</strong><br />
+- http://www.todoflex.com.ar/ ← tiene mangueras y acoples<br />
+- http://mangueraflexarg.com.ar/ ← catálogo completo<br />
+- https://conman.com.ar/<br />
+- https://www.hidraulicagomar.com.ar/</p>
+<hr />
+<h1 id="motor-de-arranque-burro-starter">Motor de arranque (burro / starter)</h1>
+<p><img loading="lazy" alt="Arranque" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/burro/burro.jpg" /></p>
+<p>Si la batería está buena pero al darle arranque hace un <strong>solo clic</strong> (no varios), es muy probable que sea el <strong>solenoide</strong> sucio, gastado o trabado. Se puede reparar sin sacar el burro (con codo flexible), aunque es más cómodo bajarlo — lo que implica drenar el aceite de la primaria y abrirla.</p>
+<p><strong>Kit de reparación del solenoide:</strong></p>
+<p><img loading="lazy" alt="Solenoide" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/burro/kit_solenoide.jpg" /></p>
+<p>El kit de Reparación de Solenoide Toyota Hilux (Nippondenso) es muy similar al de Harley. El émbolo de Toyota Corolla/Celica también parece compatible. Se puede usar kit automotriz; llevar muestra al repuestero.</p>
+<hr />
+<h1 id="arranque-a-patada-kickstarter">Arranque a patada (kickstarter)</h1>
+<p>Los modelos modernos de Sportster <strong>NO</strong> traen arranque a patada, pero existe un kit de conversión.</p>
+<p>Es costoso y complicado (especialmente en modelos 2004 y más nuevos, donde hay que separar los cárteres). Lo fabrica V-Twin Manufacturing para 1991–2003, 2004–2006 y 2007 en adelante.</p>
+<p><img loading="lazy" alt="Kickstarter" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/patada/kit_conversion_a_patada.jpg" /><br />
+<img loading="lazy" alt="Kickstarter instalado" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/patada/motor_sportster_2004_up_con_patada.jpg" /></p>
+<ul>
+<li>https://california-motorcycles.com/products/kit-pata-arranque-para-harley-davidson-sportster-kick-starter-conversion-kit</li>
+<li>https://www2.vtwinmfg.com/kick-starter-conversion-kit-chrome-3.html</li>
+</ul>
+<blockquote class="hd-quote">
+<p><strong>Opinión personal</strong>: No lo compraría. Los sistemas de arranque EVO Sporty son excelentes. Si fuera absolutamente necesario, consideraría mecanizar el eje principal original en un torno en lugar de instalar la pieza taiwanesa. Si igual querés hacerlo, nota que <strong>requiere desmontar la transmisión</strong>.</p>
+</blockquote>
+<hr />
+<h1 id="cubiertas-gomas-neumaticos">Cubiertas / Gomas / Neumáticos</h1>
+<p><strong>Marcas recomendadas</strong>: Metzeler ME880, Dunlop, Michelin, Pirelli. Las marcas chinas de bajo costo tienen caucho muy duro y poco grip — <strong>no recomendables</strong>.</p>
+<p>Metzeler tiene mejor grip (caucho más blando) pero duran menos. Las Dunlop son más duras y no se agarran bien en lluvia.</p>
+<h2 id="presion-de-inflado">Presión de inflado</h2>
+<table>
+<thead>
+<tr>
+<th>Condición</th>
+<th>Delantera</th>
+<th>Trasera</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Solo conductor</td>
+<td>30 psi</td>
+<td>36 psi</td>
+</tr>
+<tr>
+<td>Con carga / 2 pasajeros</td>
+<td>36 psi</td>
+<td>40 psi</td>
+</tr>
+</tbody>
+</table>
+<p>Al almacenar la moto, inflar +5 psi en cada neumático.</p>
+<h2 id="medidas-por-modelo">Medidas por modelo</h2>
+<p>Guía oficial Harley: https://www.harley-davidson.com/app-content/eStore/OE_and_Recommended_Replacement_Tires.pdf<br />
+Copia: https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/gomas/Harley_OE_and_Recommended_Replacement_Tires.pdf</p>
+<p class="warning-p"><span class="warn-icon">⚠️</span> Verificar siempre antes de comprar que correspondan a tu modelo.</strong></p>
+<h3 id="delantera">Delantera</h3>
+<table>
+<thead>
+<tr>
+<th>Modelos</th>
+<th>Medida</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1983–2003 XL883/1200/XR1000 y 2004+ XL</td>
+<td>100/90-19 / 2.15 x 19"</td>
+</tr>
+<tr>
+<td>XL883C / XL1200C / XL1200V</td>
+<td>90/90-21 / 2.15 x 21"</td>
+</tr>
+<tr>
+<td>+2010 XL1200X / +2018 XL1200XS</td>
+<td>MT90B16 / 3.00 x 16"</td>
+</tr>
+<tr>
+<td>2008–2013 XR1200/X / 2017–2020 XL1200T Superlow</td>
+<td>120/70-18 / 3.5 x 18"</td>
+</tr>
+<tr>
+<td>+2016 XL1200CX</td>
+<td>120/70-19 / 3.00 x 19"</td>
+</tr>
+</tbody>
+</table>
+<h3 id="trasera">Trasera</h3>
+<table>
+<thead>
+<tr>
+<th>Modelos</th>
+<th>Medida</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1981–2003</td>
+<td>130/90-16 / 3.00 x 16"</td>
+</tr>
+<tr>
+<td>XL 2004+ y variantes</td>
+<td>150/80-16 / 3.00 x 16"</td>
+</tr>
+<tr>
+<td>2016+ XL1200CX</td>
+<td>150/70-18 / 4.25 x 18"</td>
+</tr>
+<tr>
+<td>2008–2013 XR1200/X</td>
+<td>180/55-17 / 5.50 x 17"</td>
+</tr>
+<tr>
+<td>2011+ XL883L / XL1200T Superlow</td>
+<td>150/60-17 / 4.50 x 17"</td>
+</tr>
+<tr>
+<td>2014–2017 XL1200T</td>
+<td>150/70-17 / 4.50 x 17"</td>
+</tr>
+</tbody>
+</table>
+<h3 id="tamanos-maximos-sin-modificar">Tamaños máximos sin modificar</h3>
+<ul>
+<li>Modelos 2003 y anteriores: se puede poner 130 de ancho.</li>
+<li>Modelos 2004+: se puede poner 160 sin modificar mucho.</li>
+<li>Para ruedas más anchas: http://xlforum.net/forums/showthread.php?t=10170</li>
+</ul>
+<h3 id="off-road-dual-purpose">Off-road / dual purpose</h3>
+<p>Para rutas de ripio (Ruta 40, Panamericana), etc. Se recomienda neumático 60/40 trail-aventura. También agregar defensa de motor y suspensiones de 13 pulgadas.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=LKuYt_5O_6k">Video referencia 1</a> / <a href="https://www.youtube.com/watch?v=tm7g6PjSVQg">Video referencia 2</a></li>
+</ul>
+<p><strong>Delanteras off-road</strong>: Shinko E804 (disponible en medidas 19" y 21").</p>
+<p><strong>Traseras off-road</strong>:<br />
+- Para rueda 17"/18": amplia oferta (BMW, Honda trail, etc.).<br />
+- Para rueda 16": <strong>Duro HF904 Median 130/90-16</strong>, <strong>Shinko E805 150/80/16</strong>, <strong>Pirelli MT60 Enduro 150/80-16</strong>.<br />
+- Opción alternativa: cambiar a aro trasero 18" para más opciones.</p>
+<h2 id="gomerias-en-buenos-aires">Gomerías en Buenos Aires</h2>
+<ul>
+<li>~~Moto Vivac~~ — <strong>⚠️ cerró en 2024</strong></li>
+<li>2TBoxes</li>
+<li>Cyclegom</li>
+<li>Gomería Floresta</li>
+<li>Todo Moto 935 — https://todomoto935.com.ar/</li>
+<li>Armotorrad, Olivos — http://armotorrad.com/ (también lavadero y taller)</li>
+<li>Av. Libertador 2216, Olivos — +54 9 11 6417-1823</li>
+</ul>
+<hr />
+<h2 id="rulemanes-rodamientos-de-rueda">Rulemanes / rodamientos de rueda</h2>
+<p class="warning-p"><span class="warn-icon">⚠️</span> Diferentes años usan diferentes rodamientos</strong> (cambia el diámetro del eje). Se recomienda cambiarlos cada ±40.000 km.</p>
+<p>Buena marca: https://www.allballsracing.com/</p>
+<p><strong>Instrucciones de instalación:</strong><br />
+- https://www.allballsracing.com/media/installation/Wheel_Bearing_Install.pdf<br />
+- https://www.youtube.com/watch?v=sVXWt7xE9LI<br />
+- https://sportsterpedia.com/doku.php/techtalk:evo:wheels01</p>
+<h3 id="tabla-de-rodamientos-por-ano">Tabla de rodamientos por año</h3>
+<table>
+<thead>
+<tr>
+<th>Modelo OEM</th>
+<th>Años</th>
+<th>Ø exterior</th>
+<th>Ø interior</th>
+<th>Grosor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>9052</strong></td>
+<td>1973–1999 delante / 1979–1999 atrás</td>
+<td>45,3 mm</td>
+<td>3/4" / 19,05 mm</td>
+<td>16,6 mm</td>
+</tr>
+<tr>
+<td><strong>9267</strong></td>
+<td>2000–2007 delantero / 2000–2004 trasero</td>
+<td>52 mm</td>
+<td>3/4" / 19,05 mm</td>
+<td>21 mm</td>
+</tr>
+<tr>
+<td><strong>9247</strong></td>
+<td>2005–2007 trasero</td>
+<td>52 mm</td>
+<td>1" / 25,4 mm</td>
+<td>21 mm</td>
+</tr>
+<tr>
+<td><strong>9276/A/B</strong></td>
+<td>2008–2020 SIN ABS / RH 2021–2023</td>
+<td>52 mm</td>
+<td>25 mm</td>
+<td>15 mm</td>
+</tr>
+<tr>
+<td><strong>9252 (ABS)</strong></td>
+<td>Modelos con ABS</td>
+<td>52 mm</td>
+<td>25 mm</td>
+<td>15 mm</td>
+</tr>
+</tbody>
+</table>
+<p>Reemplazo para 9276 en SKF: <strong>6205 2RSJEM</strong> (25x52x15, double sealed, C3).</p>
+<p class="warning-p"><span class="warn-icon">⚠️</span> Los modelos CON ABS tienen ranura en el rodamiento para el decodificador ABS. Al instalar, asegurarse que la parte magnética apunte hacia afuera del aro.</strong></p>
+<h3 id="extraccion-e-instalacion">Extracción e instalación</h3>
+<p><strong>Extracción</strong>: Usar punzón largo. Retirar circlips. Insertar punzón y golpear con martillo alrededor de la circunferencia. Los rodamientos se dañan al extraerlos — <strong>no reutilizar</strong>.</p>
+<p><strong>Instalación</strong>:<br />
+1. Aplicar presión solo en la <strong>pista exterior</strong> del rodamiento.<br />
+2. Presión uniforme para que quede escuadrado.<br />
+3. Asentar completamente el primer rodamiento.<br />
+4. Colocar el espaciador interior entre rodamientos.<br />
+5. Golpear suavemente el segundo hasta que la pista interior toque el espaciador (no asentar completamente o se cargarán lateralmente).</p>
+<p><em>Referencia de medidas:</em> https://www.americanwheels.it/en/695-wheel-bearings</p>
+<hr />
+<h1 id="levantar-la-moto">Levantar la moto</h1>
+<p>La moto debe estar apoyada en <strong>tres puntos</strong> siempre. Al sacar una rueda: la otra rueda, la pata y el elevador/gato.</p>
+<p><strong>Opciones de menor a mayor costo:</strong></p>
+<ol>
+<li><strong>Viga de madera</strong> 4x8" x 1 m (10x20 cm) — la más barata. Guía: http://www.nightrider.com/biketech/bikelift.htm — <a href="https://www.youtube.com/watch?v=U10ZQbfK6bI">Video fabricación</a> — <a href="https://www.youtube.com/watch?v=eRIyCkiNV9k">Otra idea</a></li>
+</ol>
+<p><img loading="lazy" alt="Elevador de Madera" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/levantar_moto/woodjack.jpg" /><br />
+<img loading="lazy" alt="Elevador de Madera 2" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/levantar_moto/woodjack2.jpg" /></p>
+<ol start="2">
+<li><strong>Criquet carrito de perfil bajo</strong> (2 toneladas) — sirve tanto para la moto como para el auto.</li>
+</ol>
+<p><img loading="lazy" alt="Criquet carrito" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/levantar_moto/criquet_perfil_bajo.jpg" /></p>
+<ol start="3">
+<li><strong>Elevador profesional de motos</strong> — caro pero lo más práctico.</li>
+</ol>
+<p><img loading="lazy" alt="Elevador ProJack" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/levantar_moto/projack.jpg" /><br />
+<img loading="lazy" alt="Elevador ProJack 2" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/levantar_moto/projack2.jpg" /></p>
+<ol start="4">
+<li><strong>Gato de auto en emergencia</strong> (tijera o hidráulico ≥ 1 tonelada) con taco de madera en el cuadro. <strong>ES LA MANERA MÁS PELIGROSA.</strong> Ver antes: <a href="https://www.youtube.com/watch?v=aKX6fuGW_a8">Video 1</a> / <a href="https://www.youtube.com/watch?v=qDD82jzgvJo">Video 2</a></li>
+</ol>
+<p><img loading="lazy" alt="Criquet de auto" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/levantar_moto/carjack_883_1.jpg" /></p>
+<p>Referencia general: http://sportsterpedia.com/doku.php/techtalk:ref:tools110</p>
+<hr />
+<h1 id="acabados-del-motor">Acabados del motor</h1>
+<p>El motor puede venir en tres terminaciones: <strong>negro</strong>, <strong>aluminio pulido</strong> o <strong>cromado</strong>.</p>
+<h2 id="aluminio-pulido">Aluminio pulido</h2>
+<p>Fácil de arruinar sin mantenimiento constante. El pulido tiene una capa de laca; si se opaca, hay que retirarla antes de pulir.</p>
+<p>Para pulir: discos de pulido y pastas de pulir. Videos: <a href="https://www.youtube.com/watch?v=c1mbRoaGs3s">1</a> — <a href="https://www.youtube.com/watch?v=p6W-snSeCtg">2</a> — <a href="https://www.youtube.com/watch?v=Qj2aFJeFdA0">3</a></p>
+<p><img loading="lazy" alt="Pastas de pulir" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/pulir_aluminio/pastas_de_pulir.jpg" /></p>
+<p><strong>Pasta de pulir casera</strong>: aceite vegetal (girasol/colza/soja) + harina de maíz/Maizena + bicarbonato sódico. El bicarbonato es lo que realmente pule; si tiene poco, será poco efectiva.</p>
+<h2 id="negro">Negro</h2>
+<p>Tutorial para pintar el motor negro: https://www.hdforums.com/how-tos/a/harley-davidson-sportster-how-to-black-out-engine-casing-412785</p>
+<h2 id="cromado">Cromado</h2>
+<p><strong>Opción fácil</strong>: kit de embellecimiento (tapas cromadas que van sobre las tapas originales). Buscar: https://www.google.com/search?q=chrome+dress+up+kit+sportster</p>
+<p><strong>Cromados en Argentina:</strong><br />
+- <strong>Saavedra Cromados</strong> ← EXCELENTE, calidad superior, aceptan cromar escapes. http://cromadossaavedra.com.ar/ — Av. García del Río 4522, Buenos Aires. https://www.facebook.com/Est-Galvanotecnico-Saavedra-Cromados-875530772483854/<br />
+- <strong>Cromados Albacrom</strong> — https://cromadosalbacrom.com/<br />
+- <strong>Cromados Peduto</strong> — excelente calidad, no acepta cromar escapes.</p>
+<hr />
+<h1 id="tornilleria">Tornillería</h1>
+<h2 id="como-medir-e-identificar-tornillos">Cómo medir e identificar tornillos</h2>
+<p>Tres medidas clave: <strong>diámetro</strong>, <strong>largo</strong> y <strong>tipo de rosca</strong> (gruesa, fina o métrica). Un tornillo 1/2" x 2": diámetro 1/2", largo 2". Prestar mucha atención a la rosca para no barrer una rosca incorrecta.</p>
+<ul>
+<li>https://www.torec.mx/pages/como-medir</li>
+<li>https://www.fastenersuperstore.com/fastener-guides/measuring-screws-bolts</li>
+<li>https://www.demaquinasyherramientas.com/herramientas-manuales/medicion-identificacion-roscas-pernos-tornillos</li>
+</ul>
+<h2 id="tamanos-de-tornillos-de-la-moto">Tamaños de tornillos de la moto</h2>
+<ul>
+<li>Catálogo online: https://www.thunderbike.com/parts/thunderbike-h-d-partsfinder/</li>
+<li>Lista Sportsterpedia: http://sportsterpedia.com/doku.php/techtalk:ref:tools804</li>
+</ul>
+<h2 id="tornillos-comunes-que-se-redondean-modelos-2004">Tornillos comunes que se redondean (modelos +2004)</h2>
+<ul>
+<li><strong>Filtro de aire tipo "lata de jamón"</strong> (tornillos externos): ALLEN PLANO 5/16 x 1/2 UNC</li>
+<li><strong>Soporte de batería</strong>: HEXAGONAL 1/4 - 3/4 UNC (SCREW 1/4-20 x 3/4 FLANGE)</li>
+<li><strong>Soporte tambor de la llave</strong>: ALLEN BOTÓN INOXIDABLE 3/16 - 1/2 - UNC (#10-24 x 1/2 SOCKET BUTTON HD)</li>
+<li><strong>Tapa de inspección cadena primaria</strong>: 41191-74A ← <strong>⚠️ EN REVISIÓN — llevar muestra al repuestero, el manual tiene el tamaño mal</strong></li>
+</ul>
+<hr />
+<h1 id="filtro-de-aire">Filtro de aire</h1>
+<p>El filtro original es <strong>lavable</strong>. Ver procedimiento en el manual del propietario.</p>
+<p>Para reemplazarlo: K&amp;N tiene todos los modelos — https://www.knfiltros.com/</p>
+<h2 id="limpieza-modelos-2004-con-filtro-original">Limpieza (modelos 2004+ con filtro original)</h2>
+<blockquote class="hd-quote">
+<p class="warning-p"><span class="warn-icon">⚠️</span> Instalar el filtro ANTES de encender el motor. Sin filtro puede entrar suciedad al motor.</strong><br />
+<strong>⚠️ NO usar gasolina ni solventes. Pueden causar incendio.</strong><br />
+NO golpear el filtro para aflojar suciedad. Reemplazar si está dañado.</p>
+</blockquote>
+<ol>
+<li>Extraer tornillo(s) de la cubierta y cubierta del filtro.</li>
+<li>Inspeccionar el elemento.</li>
+<li>Lavar en agua jabonosa tibia.</li>
+<li>Verificar limpieza sosteniendo frente a una luz (debe verse a través del filtro).</li>
+<li>Secar al sol o con aire a presión baja (desde adentro hacia afuera).</li>
+<li>Reinstalar al revés. Usar trabacuerdas (Loctite) en las roscas.</li>
+</ol>
+<hr />
+<h1 id="aceite-de-horquilla">Aceite de horquilla</h1>
+<ul>
+<li><strong>Motul Fork Oil 20W</strong> (recomendado por Motul para Harley)</li>
+<li><strong>Castrol Fork Oil 15W</strong></li>
+</ul>
+<p>Ver en el manual de desarme la cantidad en cc y el intervalo de cambio.</p>
+<hr />
+<h1 id="frenos">Frenos</h1>
+<h2 id="liquido-de-frenos">Líquido de frenos</h2>
+<table>
+<thead>
+<tr>
+<th>Modelos</th>
+<th>Líquido</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2006 y anteriores</td>
+<td><strong>DOT 5</strong> (silicona, NO higroscópico)</td>
+</tr>
+<tr>
+<td>2007 y posteriores</td>
+<td><strong>DOT 4</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote class="hd-quote">
+<p class="warning-p"><span class="warn-icon">⚠️</span> DOT 5 y DOT 4 NO se pueden mezclar.</strong><br />
+<strong>⚠️ DOT 5 NO es lo mismo que DOT 5.1.</strong> El DOT 5 es siliconado; los demás NO lo son.</p>
+</blockquote>
+<ul>
+<li>DOT 4: Wagner Lockheed se fabrica en Argentina.</li>
+<li>DOT 5: Bel-Ray lo tiene. Difícil conseguir en Argentina con stock permanente. (Sugerencias bienvenidas.)</li>
+</ul>
+<h2 id="bomba-de-freno">Bomba de freno</h2>
+<p>La bomba se puede <strong>reconstruir</strong> (preferido) o cambiar. Buscar "Master Cylinder Rebuild Kit" (REAR o FRONT según corresponda).</p>
+<p>Para modelos pre-ABS: la bomba de freno trasera es bastante genérica. Una muy similar es la de la <strong>AKT CR5 / Loncin</strong>, que se vende como Guerrero GR5 230 (Argentina) o Italika 250Z (México).</p>
+<h2 id="pastillas-de-freno">Pastillas de freno</h2>
+<p>Se pueden reempastar con <strong>ferodo</strong> nuevo. Testimonios: "Tosso Frenos, Jesús María" (nivel nacional debe haber muchos). El ferodo debe ser de ±8,5 mm de espesor.</p>
+<p><strong>EBC</strong> — excelentes en seco y mojado, en mi experiencia mejor que las originales Harley, especialmente con lluvia. Compuesto HH (sinterizado) frena más pero desgasta más los discos. También hay orgánico y semi-sinterizado.</p>
+<ul>
+<li>Website: https://ebcbrakes.com/ — Selector: https://ebcbrakes.com/brakes-selector-chart/</li>
+<li>Pastillas para Sportster: https://ebcbrakesdirect.com/motorcycle/harley-davidson-sportster</li>
+</ul>
+<p class="warning-p"><span class="warn-icon">⚠️</span> VERIFICAR antes de comprar — no tengo todos los años de moto.</strong><br />
+<em>Nota: Si tiene doble caliper (ej. XL883R), necesita dos juegos delanteros.</em></p>
+<table>
+<thead>
+<tr>
+<th>Modelo</th>
+<th>Delantera</th>
+<th>Trasera</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1979 a 1981</td>
+<td>FA071</td>
+<td>FA072</td>
+</tr>
+<tr>
+<td>1982 a 1983</td>
+<td>FA071</td>
+<td>FA078</td>
+</tr>
+<tr>
+<td>1984–inicio 1987</td>
+<td>FA094</td>
+<td>FA078</td>
+</tr>
+<tr>
+<td>1987 a 1999</td>
+<td>FA094</td>
+<td>FA200</td>
+</tr>
+<tr>
+<td>2000–2003</td>
+<td>FA400</td>
+<td>FA400</td>
+</tr>
+<tr>
+<td>2004 a 2013</td>
+<td>FA381HH</td>
+<td>FA387HH</td>
+</tr>
+<tr>
+<td>2014 a 2020</td>
+<td>FA640HH</td>
+<td>FA254HH</td>
+</tr>
+<tr>
+<td>XR1200 / XR1200X</td>
+<td>FA296HH (2 uds)</td>
+<td>EPFA387HH</td>
+</tr>
+</tbody>
+</table>
+<h2 id="discos-de-freno">Discos de freno</h2>
+<p>Los discos se pueden rectificar si están rayados. <strong>EBC</strong> vende discos excelentes para Sportster.</p>
+<hr />
+<h1 id="bujias">Bujías</h1>
+<p>Están en el lateral izquierdo de la moto. Se saca con <strong>llave sacabujía de 5/8" o 16 mm</strong>. Se pueden limpiar con cepillito de bronce. <strong>Ajustar sin reventar la rosca.</strong></p>
+<blockquote class="hd-quote">
+<p class="warning-p"><span class="warn-icon">⚠️</span> Solo aplica a Sportster 883/1200.</strong> Otros modelos (XR1000, XL1100, antiguas) llevan bujías diferentes.</p>
+</blockquote>
+<p><strong>Bujía original Harley: 6R12</strong> — características:<br />
+- Diámetro de rosca: 12 mm<br />
+- Largo de rosca: 19 mm<br />
+- Llave: 5/8" ó 16 mm</p>
+<p><strong>Alternativas:</strong><br />
+- <strong>Champion RA8HC</strong> — las mismas que Harley sin el logo. Se consiguen fácil y barato (las usan motores Mercury 40/50/60 fuera de borda; buscar en casas de náutica). Las tengo desde 2018 en la 883.<br />
+- <strong>NGK DCPR7E</strong> — excelentes, se consiguen en Argentina (Fiat 500 Sport 16v, algunos Alfa Romeo).<br />
+- <strong>NGK DCPR8E</strong> — brasileras, un poco más frías que las 7E, baratas en Argentina.<br />
+- <strong>NGK DCPR7EIX / DCPR8EIX</strong> — iridio (japonesas), difíciles de conseguir en Argentina.<br />
+- <strong>NGK DR7EA</strong> — equivalente al Champion RA8HC, pero llevan llave de 18 mm aunque rosca y largo son idénticos. No recomendadas.</p>
+<p>Luz de bujía: 0,8 mm <em>(TO-DO: verificar con manual)</em></p>
+<p>Referencias cruzadas:<br />
+- http://www.harley-performance.com/harley-spark-plug.html<br />
+- http://www.nightrider.com/biketech/hdsparkplugs01.htm<br />
+- https://www.sparkplug-crossreference.com/convert/hd/6R12<br />
+- https://www.sparkplug-crossreference.com/convert/CHAMP_PN/RA8HC</p>
+<hr />
+<h1 id="bateria">Batería</h1>
+<p><strong>Siempre verificar los CCA</strong> (Corriente de Arranque en Frío) antes de comprar, además de las dimensiones y la posición del polo positivo. Más CCA = mejor arranque en frío, especialmente en modelos EFI (2007+).</p>
+<p>Más info: https://es.wikipedia.org/wiki/Corriente_de_arranque_en_fr%C3%ADo</p>
+<h2 id="mantenimiento_1">Mantenimiento</h2>
+<p>Lo ideal es usar un <strong>battery tender</strong> (cargador flotante/mantenedor) siempre. Me han llegado a durar hasta 10 años las baterías usándolo. El conector se llama <strong>SAE 12v</strong>; se conecta al positivo de la batería y a masa en la carcasa de la primaria. Algunos modelos nuevos ya lo traen de fábrica.</p>
+<p><img loading="lazy" alt="Battery tender" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/battery_tender.jpg" /><br />
+<img loading="lazy" alt="Conector SAE" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/conector_SAE.jpg" /></p>
+<h2 id="equivalencias-por-ano">Equivalencias por año</h2>
+<table>
+<thead>
+<tr>
+<th>Año(s)</th>
+<th>Equivalencia Yuasa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pre 1979</td>
+<td>Sin info disponible</td>
+</tr>
+<tr>
+<td>1979–1985</td>
+<td>YB16-B-CX / GYZ20H / YTX20H-BS</td>
+</tr>
+<tr>
+<td>1986–1996</td>
+<td>YTX20H-BS</td>
+</tr>
+<tr>
+<td><strong>1997–2003</strong></td>
+<td>YTX20HL-BS</td>
+</tr>
+<tr>
+<td><strong>2004–2020</strong></td>
+<td>YTX14L-BS</td>
+</tr>
+</tbody>
+</table>
+<h3 id="modelos-19791985">Modelos 1979–1985</h3>
+<p>Yuasa YB16-B-CX, GYZ20H o YTX20H-BS. Borne (+) izquierdo visto de frente.</p>
+<h3 id="modelos-19861996">Modelos 1986–1996</h3>
+<p>Yuasa <strong>YTX20H-BS</strong> y compatibles. https://www.yuasabatteries.com/battery/ytx20h-bs/</p>
+<h3 id="modelos-19972003">Modelos 1997–2003</h3>
+<p>Yuasa <strong>YTX20HL-BS</strong> y compatibles. Borne (+) derecho visto de frente. Dimensiones: 175 x 87 x 155 mm. https://www.yuasabatteries.com/battery/ytx20hl-bs</p>
+<h3 id="modelos-20042020">Modelos 2004–2020</h3>
+<p>Yuasa <strong>YTX14L-BS</strong> — la "L" indica borne positivo a la derecha de la batería vista de frente (izquierda de la moto al estar colocada).</p>
+<p><img loading="lazy" alt="YTX14L" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/YTX14L_BS.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th>Dato</th>
+<th>Detalle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dimensiones</td>
+<td>150 x 87 x 145 mm</td>
+</tr>
+<tr>
+<td>CCA mínimo</td>
+<td>200 (más es mejor)</td>
+</tr>
+<tr>
+<td>Voltaje</td>
+<td>12 V</td>
+</tr>
+</tbody>
+</table>
+<p>Yuasa hace dos modelos que sirven: <strong>GYZ16HL</strong> (alta performance) y <strong>YTX14L-BS</strong> (común). Lamentablemente Yuasa Argentina no importa ninguna.</p>
+<p><strong>Alternativas probadas:</strong><br />
+- <strong>SLA Max BTX14HL</strong> — la mejor opción por calidad/precio. Tiene más CCA que la Motobatt.  https://bs-battery.com/btx14hl-sla-max/ / https://www.facebook.com/bsbatteryargentina/<br />
+- <strong>Motobatt MBYZ16HD</strong> — modelo específico para Harley (negro con letras naranjas). La amarilla se queda corta en CCA para EFI.  https://www.motobatt.com/quadflex-batteries.html<br />
+- <strong>Motobatt Gel MBTX12U</strong> — sirve, no es maravilla pero funciona.<br />
+- <strong>Poweroad YG14L-BS</strong> — chinas, baratas, me comentaron que sirven incluso en EFI.<br />
+- <strong>Litio WEX6L21-MF</strong> — carísima pero muy livianas y con muchos CCA. http://www.wstandard-energy.com/</p>
+<h3 id="usando-la-ytx14-sin-l-borne-al-reves">Usando la YTX14 (sin L) — borne al revés</h3>
+<p>La YTX14 (sin L, borne positivo a la izquierda vista de frente) se consigue más fácil y casi a mitad de precio. Para usarla hay que orientarla hacia atrás en la moto y <strong>extender los cables</strong>.</p>
+<p><img loading="lazy" alt="YTX14 borne al revés" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/YTX14_borne_al_reves.jpg" /><br />
+<img loading="lazy" alt="YTX14L vs YTX14" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/cables_bateria/ytx14l_vs_ytx14.jpg" /></p>
+<p><strong>Opción 1 (recomendada)</strong>: Extender los cables positivo y negativo. Se hacen en cualquier casa de audio para autos o en <strong>ENCENDIDO BOEDO</strong> (Capital Federal). Cable stock: Welding 6-AWG / 16 mm². Terminal: ojal 5/16".</p>
+<p><strong>Opción 2 (NO recomendada)</strong>: extensiones de cobre sobre la batería — riesgo de cortocircuito.</p>
+<p><img loading="lazy" alt="Batería instalada al revés" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/cables_bateria/bateria_ytx14.jpg" /><br />
+<img loading="lazy" alt="Cable original vs armado" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/cables_bateria/cables_largo_vs_original.jpg" /><br />
+<img loading="lazy" alt="Terminales caseros" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/bateria/cables_bateria/terminales_caseros.jpg" /></p>
+<p><strong>Tutorial fabricar cables</strong>: <a href="https://www.youtube.com/watch?v=XkMdlPsBxkc">Video 1</a> — <a href="https://www.youtube.com/watch?v=PqOa2d8v8Tw">Tutorial terminales</a></p>
+<p>Mucha información sobre cables: https://sportsterpedia.com/doku.php/techtalk:evo:elec01</p>
+<p><strong>Números de parte por año:</strong><br />
+- 2004–2009: 70295-04A (positivo) / 70296-04A (negativo)<br />
+- 2010–2013: 70295-10_ (positivo) / 70296-04A (negativo)<br />
+- 2014+: 66000036 (positivo) / 66000035 (negativo)<br />
+- 1997–2003: OEM 70076-97 (positivo) / OEM 70097-97 (negativo)</p>
+<p><strong>Materiales para fabricar cables:</strong><br />
+- Cable de soldadora 1x16 mm² (6 AWG Welding)<br />
+- Terminales ojal 16 mm², 5/16" — o fabricar de tubería de cobre 3/8" de aire acondicionado</p>
+<p>Compras: https://www.prestacioneselectricas.com/ / https://adnsolar.com.ar/</p>
+<hr />
+<h1 id="luces">Luces</h1>
+<p class="warning-p"><span class="warn-icon">⚠️</span> Los modelos más nuevos llevan luces LED — verificar ANTES de comprar.</strong></p>
+<h2 id="luz-delantera">Luz delantera</h2>
+<ul>
+<li>Filamento: <strong>H4</strong></li>
+<li>LED: reemplazar todo el conjunto por uno LED. El reemplazo ideal es el formato <strong>5-3/4" (14,6 cm)</strong> — Harley DayMaker o similares (hay opciones mucho más baratas en Amazon, ML y eBay que cumplen la misma función).</li>
+</ul>
+<h2 id="trasera-freno-y-posicion">Trasera (freno y posición)</h2>
+<ul>
+<li>OSRAM P27-7W 12V <strong>3157</strong>. En modelos modernos: LED.</li>
+</ul>
+<h2 id="giros">Giros</h2>
+<ul>
+<li>2013 y anteriores: filamento. 2014+: LED.</li>
+<li>Modelos USA: doble filamento (sirven de luz de posición también). Modelos latinos: filamento simple.</li>
+<li>Bulbos: <strong>1157</strong> (US) frente, <strong>1156 / 1141 P21W</strong> trasero (y delantero latino).</li>
+<li>Se puede modernizar con kit LED; también se puede cambiar solo el bulbo por uno LED.</li>
+</ul>
+<h3 id="funcionamiento-de-los-intermitentes-sportsters-2004">Funcionamiento de los intermitentes (Sportsters 2004+)</h3>
+<p>El Módulo de Intermitentes (TSM/TSSM) controla la cancelación automática:</p>
+<p><strong>Cancelación automática:</strong><br />
+1. Al pulsar y soltar, inicia conteo de 20 parpadeos. A más de 7 MPH (11 km/h) sin input adicional, se cancelan al llegar a 20.<br />
+2. Si la velocidad baja de 7 MPH, siguen parpadeando. El conteo se reanuda a 8 MPH (13 km/h).<br />
+3. Se cancelan 2 segundos después de completar un giro de 45° o más.</p>
+<p><strong>Cancelación manual:</strong><br />
+1. Pulsar el botón de intermitente una segunda vez.<br />
+2. Para cambiar de sentido: pulsar el botón opuesto.</p>
+<hr />
+<h1 id="embrague">Embrague</h1>
+<h2 id="marcas-y-proveedores">Marcas y proveedores</h2>
+<ul>
+<li><strong>Barnett</strong> — reemplazos para todas las generaciones. https://www.barnettclutches.com/</li>
+<li><strong>Energy One</strong> — reemplazos para Sportster. https://www.energyoneclutches.com</li>
+<li><strong>Harley Screaming Eagle</strong> P/N 38002-04 — mejor que el de fábrica. https://www.harley-davidson.com/us/en/shop/screamin-eagle-performance-clutch-kit/p/38002-04</li>
+<li><strong>Alto Products</strong> — versión con remaches de acero inoxidable. https://www.altousa.com/</li>
+</ul>
+<h2 id="problema-cronico-la-spring-plate-grenade-plate">Problema crónico: la Spring Plate ("grenade plate")</h2>
+<p>El embrague tiene un problema de diseño conocido: la <strong>placa de resorte</strong> (disco doble con muelles remachados) falla cuando los remaches de latón se rompen, quedando atrapados entre las placas y dañando todo el conjunto.</p>
+<p><strong>Síntomas</strong>: embrague "raro" o endurecido, dificultad para poner neutro, virutas de bronce en el aceite de primaria, embrague patinando.</p>
+<p><img loading="lazy" alt="Disco explotado" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/embrague/grenade_plate.jpg" /></p>
+<p><strong>Solución</strong> (para modelos 1991+): eliminar la placa de resorte instalando <strong>dos placas de acero adicionales y una placa de fricción adicional</strong>. Esto lo resuelve definitivamente. Yo puse el Energy One BTX-11 en mi XL883L 2005: excelente resultado.</p>
+<p><img loading="lazy" alt="Kit embrague extra disco" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/embrague/kit_embrague_extra_disco.jpg" /></p>
+<blockquote class="hd-quote">
+<p>Al cambiar, usar piezas mejores que las originales (kevlar, fibra de carbono). Si la placa resorte se desintegró: verificar canasta del embrague (posibles rebabas), revisar que las placas no se deformaron, y reemplazar todo para evitar daños en las piezas nuevas.</p>
+</blockquote>
+<p>Leer más:<br />
+- http://sportsterpedia.com/doku.php/techtalk:evo:priclutch01<br />
+- https://www.cyclepedia.com/sportster-spring-plate/</p>
+<h2 id="embrague-centrifugo-automatico">Embrague centrífugo automático</h2>
+<p>Para situaciones de tráfico intenso o limitación física de la mano izquierda: <strong>Rekluse Core EXP 3.0</strong> — instalación sin modificaciones extras, ~900 USD en EE.UU. https://rekluse.com/product/core-exp-3-0-clutch/?pd=1</p>
+<h2 id="como-cambiar-el-embrague">Cómo cambiar el embrague</h2>
+<p>Se necesita una herramienta compresora (comprar ~70 USD, o fabricar con tubo PVC 3" y planchuela perforada).</p>
+<p><img loading="lazy" alt="Herramienta comprimir embrague" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/embrague/herramienta_comprimir_embrague.jpg" /></p>
+<p>Videos:<br />
+- <strong><a href="https://www.youtube.com/watch?v=g8BMUy-pTBs">Hammer Performance — el más completo</a></strong><br />
+- <a href="https://www.youtube.com/watch?v=0dHhb4fs96A">Herramienta casera</a><br />
+- <a href="https://www.youtube.com/watch?v=m26np1MntQA">20 minutos</a> — <a href="https://www.youtube.com/watch?v=OK02f5lHrPo">En español</a><br />
+- <a href="https://www.youtube.com/watch?v=6XimJ2aX848">Kit sin remaches</a></p>
+<p><strong>Instrucciones en PDF:</strong><br />
+- <a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_screaming_eagle_instalacion.pdf">Instrucciones oficiales Harley</a><br />
+- <a class="dl-link" href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina/raw/master/archivos_soporte/embrague/embrague_instalar_con_fotos.pdf">Instrucciones con fotos</a></p>
+<h2 id="discos-de-embrague-reconstruccion">Discos de embrague — reconstrucción</h2>
+<p>Se pueden reempastar en <strong>Tosso Frenos</strong> (Jesús María, o similares a nivel nacional). Ferodo de 8,5 mm de espesor. También: FRAS-LE https://www.fras-le.com/</p>
+<hr />
+<h1 id="cables-de-embrague-acelerador-etc">Cables de embrague, acelerador, etc.</h1>
+<h2 id="reparacion-de-cables">Reparación de cables</h2>
+<p>Se pueden <strong>reparar en ruta</strong> con "evita soldaduras" y kit universal para cable embrague/acelerador — conveniente tener uno en viajes largos. Buscar "Kit Reparacion Universal Cable Embrague Y Acelerador" en ML o Google. Soldar/estañar el evita soldadura para que no se salga.</p>
+<p>Videos: <a href="https://www.youtube.com/watch?v=D9FfYxjjL6s">1</a> — <a href="https://www.youtube.com/watch?v=S_l58vS1s3c">2</a> — <a href="https://www.youtube.com/watch?v=Ysd8JkWclmc">3</a></p>
+<h2 id="largo-de-cables">Largo de cables</h2>
+<ul>
+<li>https://www.motionpro.com/</li>
+<li>https://magnumshielding.com</li>
+<li>https://catalog.zodiac.nl/en/15-control-cables-hydraulic-lines-27863</li>
+</ul>
+<h2 id="fabricantes-de-cables-en-argentina">Fabricantes de cables en Argentina</h2>
+<ul>
+<li>https://www.cablescomandoarg.com/</li>
+<li>https://cablesbotta.com.ar/</li>
+</ul>
+<hr />
+<h1 id="juntas-del-motor">Juntas del motor</h1>
+<ul>
+<li><strong>Cyco Gasket</strong> — económicas y buenas: https://cycogasket.com/</li>
+<li><strong>Cometic</strong> — MUY superiores a las originales: https://www.cometic.com/ (catálogo completo: motor, primaria, kits)</li>
+<li><strong>James Gasket</strong> — buena alternativa, más económica: https://www.jamesgaskets.com/</li>
+</ul>
+<p><img loading="lazy" alt="Kit James de juntas" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/juntas/james_gasket_kit.jpg" /></p>
+<hr />
+<h1 id="rayos-de-la-rueda">Rayos de la rueda</h1>
+<ul>
+<li>https://www.facebook.com/RayosyNiples33/</li>
+<li>http://www.chiuchich.com.ar</li>
+<li>https://www.mpmotosport.com/ (fabrican ruedas a medida, rayos, aros, etc.)</li>
+</ul>
+<hr />
+<h1 id="correa-de-transmision">Correa de transmisión</h1>
+<h2 id="tension">Tensión</h2>
+<p>Se mide con un aparato especial (conseguir en eBay). El procedimiento está en el manual del propietario. La correcta tensión y limpieza es vital para la durabilidad.</p>
+<h2 id="reemplazos-fabricantes-en-argentina">Reemplazos / Fabricantes en Argentina</h2>
+<ul>
+<li>http://www.ges.com.ar/</li>
+<li>http://www.alestel.com.ar/</li>
+<li>http://www.correasrincon.com.ar/</li>
+</ul>
+<hr />
+<h1 id="pintura">Pintura</h1>
+<h2 id="codigos-de-color">Códigos de color</h2>
+<ul>
+<li><a href="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/pintura/codigos_pintura_harley_PPG.txt">Lista de códigos de pintura PPG</a></li>
+<li><a href="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/pintura/harley_color_database.zip">Base de datos completa de códigos (descomprimir e ingresar a index.html)</a></li>
+<li>https://paintref.com/cgi-bin/colorcodedisplay.cgi?make=Harley%20Davidson</li>
+<li>https://hdpaintcode.com/complete-harley-color-code-database/</li>
+<li>https://hdpaintcode.com/harley-davidson-paint-code-crossover/</li>
+</ul>
+<h2 id="pintura-de-retoque-en-argentina">Pintura de retoque en Argentina</h2>
+<blockquote class="hd-quote">
+<p><strong>PINTURERIAS VICTORICA</strong><br />
+Av. Victorica 951, B1744BWJ Gran Buenos Aires<br />
+Tel: 0237 462-2242</p>
+</blockquote>
+<hr />
+<h1 id="carburador-cv40-modelos-19882006">Carburador CV40 (modelos 1988–2006)</h1>
+<p>El carburador original es un <strong>Keihin CV 40mm</strong>. El original tiene el logo HD en ambos lados; las copias chinas son prácticamente idénticas. El CVK es para Kawasaki y otras marcas.</p>
+<p>Con la moto parada mucho tiempo, agregar <strong>estabilizador de combustible</strong>. También un <strong>limpia carburadores STP</strong> cada tanto.</p>
+<p>Si quedó parada meses: limpiar los chicler/jets cuidadosamente. Si las gomas están rotas (diafragma, fuelles): comprar un "CV40 rebuild kit" (Amazon, JP Cycles, eBay).</p>
+<p><strong>El diafragma de la Kawasaki Vulcan VN800 es compatible</strong> (usan casi el mismo carburador, sin bomba de pique).</p>
+<p><img loading="lazy" alt="CV40 rebuild kit" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/carburador/cv40_rebuild_kit.jpg" /><br />
+<img loading="lazy" alt="Diagrama CV40" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/carburador/HD04XL_CV40-CARBURETOR-SCHEMATIC.gif" /></p>
+<p><strong>Recursos:</strong><br />
+- Video limpieza: https://www.youtube.com/watch?v=Pp4l-zbQcy0<br />
+- Reconstrucción parte 1: http://sportsterpedia.com/doku.php/techtalk:evo:carb01a<br />
+- Reconstrucción parte 2: http://sportsterpedia.com/doku.php/techtalk:evo:carb02<br />
+- Identificar el carburador: http://sportsterpedia.com/doku.php/techtalk:evo:carb01b<br />
+- Reparar el choke/cebador: http://sportsterpedia.com/doku.php/techtalk:evo:carb01f<br />
+- Kit en eBay: https://www.ebay.com/sch/i.html?_nkw=sportster+cv+rebuild+kit<br />
+- Cambiar el diafragma: https://www.youtube.com/watch?v=H0GOExal_VA<br />
+- Más info: http://sportsterpedia.com/doku.php/techtalk:evo:carb01</p>
+<h2 id="filtro-de-nafta-modelos-carburados-hasta-2006">Filtro de nafta (modelos carburados hasta 2006)</h2>
+<p>El filtro está en la válvula de paso de combustible. Se <strong>limpia</strong>, no se reemplaza salvo que esté perforado.</p>
+<p>Como limpiar el filtro: https://www.youtube.com/watch?v=8Xs6ZjrAD6o</p>
+<p><img loading="lazy" alt="Filtro nafta carburador" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/carburador/filtro_y_valvula_nafta_carburador.jpg" /><br />
+<img loading="lazy" alt="Filtro nafta carburador 2" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/carburador/filtro_y_valvula_nafta_carburador_2.jpg" /></p>
+<p>Si el filtro está perforado, buscar "petcock screen" o "Late Style Petcock Replacement Screen".</p>
+<hr />
+<h1 id="inyeccion-efi-2007-en-adelante">Inyección EFI (2007 en adelante)</h1>
+<p>Del 2007 en adelante, la Sportster lleva inyección electrónica de combustible.</p>
+<p>Más información: https://www.jpcycles.com/motorcycle-fuel-injection-components | http://sportsterpedia.com/doku.php/techtalk:evo:engctl03</p>
+<h2 id="modo-diagnostico-integrado">Modo diagnóstico integrado</h2>
+<p>La ECM tiene modo diagnóstico incorporado, fácil de usar:</p>
+<p>Mantener presionado el <strong>botón de reset del cuentakilómetros</strong> mientras se pone la llave en "on". La aguja se moverá en todo su recorrido, todos los testigos se iluminarán, y luego aparece el menú de códigos de fallo.</p>
+<ul>
+<li>Video: https://www.youtube.com/watch?v=j3JiSOjkuZ0</li>
+<li>Tutorial: https://california-motorcycles.com/blogs/mecanicaharley/como-ver-y-borrar-los-codigos-de-error-efi-de-harley-davidson</li>
+</ul>
+<h2 id="diagnostico-con-cable-obd2">Diagnóstico con cable OBD2</h2>
+<p>Para cuando no podemos usar el diagnóstico integrado (por ejemplo, velocímetro de otra marca):</p>
+<p>Combinar:<br />
+1. <strong>Cable J1850 de 4 pines a OBD2</strong> (2001–2014) — buscar "harley odb2 cable" en Amazon.<br />
+2. <strong>ELM327 Bluetooth</strong>.<br />
+3. <strong>Aplicación</strong>: ~~HarleyDroid~~ / ~~RPMitUP~~ — <strong><span class="badge-roto">⚠️ ROTO</span>S</strong> (ya no existen en Play Store). Copias APK disponibles en la carpeta <a href="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/apps">apps</a>. Código fuente de HarleyDroid: https://github.com/stelian42/HarleyDroid. Alternativa activa: <a href="https://play.google.com/store/apps/details?id=org.prowl.torque">Torque</a>.</p>
+<p><img loading="lazy" alt="Cable ODB2" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/diagnostico/cable_diagnostico.jpg" /><br />
+<img loading="lazy" alt="ELM327" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/diagnostico/ELM327.jpg" /></p>
+<p>El conector de 4 pines aplica a años <strong>2004–2013</strong> inclusive. Para otros años hay conectores de 6 y 10 pines.</p>
+<p><em>Más info en la <a href="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/diagnostico">carpeta EFI de diagnóstico</a>.</em></p>
+<h2 id="escaneres-profesionales">Escáneres profesionales</h2>
+<ul>
+<li><strong>Daytona Twin Scan 2</strong> (hasta 2013, sin CANBUS): https://daytona-twintec.com/product/15202-twin-scan-2-abs/</li>
+<li><strong>Daytona Twin Scan 4</strong> (2014–2020 Sportster): https://daytona-twintec.com/product/15500-twin-scan-4-abs/</li>
+<li><strong>Power Vision</strong> (se asocia a una moto; licencia adicional para más motos): https://www.dynojet.com/dynojet-motorcycle-power-vision/</li>
+<li><strong>Techno Research Centurion Super Pro</strong> (casi todo lo del Digital Technician): https://technoresearch.info/diagnostic-tools-harley-davidson/centurion-super-pro/</li>
+<li><strong>MemoBike MS6050</strong> (~4.000 USD, ideal talleres medianos): https://www.anseddiagnostics.com/products/ms6050r23-vtwin-motorcycle-powersports-diagnostic-scan-tool-kit</li>
+<li><strong>Harley Digital Technician II</strong> — exclusivo de concesionarios autorizados. Requiere cuenta de distribuidor activa; +10.000 USD. P/N HD-48650.</li>
+</ul>
+<h2 id="filtro-de-nafta-efi">Filtro de nafta EFI</h2>
+<p>El filtro está <strong>dentro del tanque de nafta</strong>, junto con la bomba. Son <strong>dos filtros</strong>: un pre-filtro (bolsita porosa) y un filtro cilíndrico. Según Harley, se reemplaza a las 100.000 millas (160.000 km).</p>
+<p><img loading="lazy" alt="Bomba dentro del tanque" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/bomba_dentro_tanque_EFI.jpg" /><br />
+<img loading="lazy" alt="Filtro de nafta EFI" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/filtro_nafta/filtro_nafta_reemplazables.jpg" /><br />
+<img loading="lazy" alt="Despiece filtro nafta" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/filtro_nafta/despiece_filtro_nafta.jpg" /></p>
+<p><strong>Opciones de compra:</strong><br />
+- eBay (más barato): https://www.ebay.com/sch/i.html?_nkw=sportster+fuel+filter+efi<br />
+- Dennis Kirk ~19 USD — P/N 1801082: https://www.denniskirk.com/v-factor/oe-style-fuel-filter-kit-for-efi-models-75304-07a.p1801082.prd/1801082.sku<br />
+- Drag Specialties ~40 USD — P/N 0707-0014: https://www.dragspecialties.com/search;q=07070014<br />
+- Harley original kit ~110 USD — P/N 75304-07A</p>
+<p><strong>Pre-filtro alternativo barato</strong>: el pre-filtro de Honda XRE 300 tiene medidas similares. El pre-filtro automotriz para bombas Bosch también sirve (la "bolsita", no el cilíndrico). <em>TO-DO: medir el filtro cilíndrico de Harley para encontrar reemplazo automotriz.</em></p>
+<p><strong>Tutoriales:</strong><br />
+- http://xlforum.net/forums/showthread.php?t=2014282<br />
+- https://www.youtube.com/watch?v=EWng7GX_R44</p>
+<h2 id="bomba-de-nafta-efi">Bomba de nafta EFI</h2>
+<p>Si la moto estuvo parada mucho tiempo, la bomba puede estar arruinada. Primer paso: intentar limpiarla con ultrasonido.</p>
+<p><img loading="lazy" alt="Diagrama bomba EFI" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/bomba_y_perdida_usual.jpg" /></p>
+<p><strong>Opciones:</strong><br />
+- Harley Argentina: ~300 USD<br />
+- Alternativa USA (~70 USD): https://www.jpcycles.com/harley-sportster-1200-fuel-pump-components<br />
+- <strong>Bomba Bosch de 3,5–4 Bar</strong> (~15 USD) — la reemplaza directamente, se consigue fácil en ML o casas de repuestos argentinas.</p>
+<p><img loading="lazy" alt="Bomba alternativa USA" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/bomba_alternativa_jpcycles.jpg" /><br />
+<img loading="lazy" alt="Alternativa Bosch 3 bar" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/alternativa_bosch_3bar.jpg" /><br />
+<img loading="lazy" alt="Alternativa genérica 3 bar" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/alternativa_generica_3bar.jpg" /><br />
+<img loading="lazy" alt="Conexiones bomba" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/conexiones_bomba_nafta_EFI.jpg" /></p>
+<p><strong>Nota</strong>: al cambiar la manguera que conecta bomba con filtro interno, calentarla con secador de pelo si no sale.</p>
+<h2 id="perdidas-fugas-de-combustible-efi">Pérdidas / fugas de combustible (EFI)</h2>
+<p>Con el tiempo, los <strong>O-rings</strong> del acople rápido bajo el tanque se resecan y pierden combustible.</p>
+<h3 id="acople-rapido-hembra-bajo-el-tanque">Acople rápido hembra bajo el tanque</h3>
+<p>Video explicativo (ver primero): https://www.youtube.com/watch?v=dfrIwD-G-eY</p>
+<p><img loading="lazy" alt="Acople rápido" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/acople_rapido_bajo_tanque.jpg" /><br />
+<img loading="lazy" alt="Diagrama acople rápido" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/acople_rapido_EFI_interno.jpg" /></p>
+<p>El acople tiene dos O-rings de <strong>VITON</strong> (resiste combustible — no sirve cualquier O-ring):</p>
+<ul>
+<li><strong>O-ring inferior</strong> (el que normalmente falla): Parker <strong>2013</strong> — DI 10, DE 14, S 2 mm. Código métrico: <strong>M1206</strong>, estándar: AS905.</li>
+<li><strong>O-ring superior</strong>: DI 8, DE 13, S 2,5 mm. Código métrico: <strong>M1472</strong>, estándar: AS109.</li>
+</ul>
+<p><em>En emergencia, el O-ring del tapón de aceite (M930) puede funcionar como el grande; tiene 14,28 mm DE, 11,11 mm DI, 1,58 mm espesor — similar pero no idéntico.</em></p>
+<p><img loading="lazy" alt="Medir O-rings" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/bomba_nafta/medir_orings.jpg" /></p>
+<p><strong>Dónde comprar O-rings en Argentina:</strong><br />
+- https://www.o-ring.com.ar/buscador/<br />
+- http://www.vauton.com.ar/productos.php<br />
+- https://www.industriasnelson.com.ar/producto/orings/<br />
+- https://tecnosellos.com.ar/pruebas/catalogo/oring-arosellos/<br />
+- https://parkest.com.ar/categoria-producto/sellos/orings/</p>
+<p>En EE.UU.: Kit completo en https://fueltool.com/products/harley-check-valve-rebuild-kit/</p>
+<h2 id="ralenti-idle-efi">Ralentí / idle EFI</h2>
+<p>Harley dice que no se puede alterar el ralentí en modelos EFI para cumplir normas de emisiones. <strong>Sí se puede.</strong> El IAC (motor paso a paso de control de aire en ralentí) es el que regula.</p>
+<p><strong>No bajar de 950 rpm</strong> para mantener correcta lubricación.</p>
+<p><strong>Opciones:</strong><br />
+- <strong>IAC manual</strong> — reemplaza el IAC eléctrico original por un dispositivo ajustable manualmente.</p>
+<p><img loading="lazy" alt="IAC original" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/original.jpg" /><br />
+<img loading="lazy" alt="IAC manual prototipo" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/prototipo.jpg" /><br />
+<img loading="lazy" alt="IAC manual otra versión" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/control_IAC/control_IAC_manual_EFI_otra_version.jpg" /><br />
+<img loading="lazy" alt="IAC ensamblaje" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/control_IAC/iac-fotos-prototipo/sin-terminar.jpg" /><br />
+<img loading="lazy" alt="Paso de aire" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/control_IAC/explicacion-ralenti-bajo-en-efi/sin-filtro2.jpg" /></p>
+<p><a href="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/EFI/control_IAC">Planos CAD del IAC manual</a></p>
+<ul>
+<li><strong>Reprogramar la ECM</strong> (ver sección de Performance)</li>
+<li><strong>Reemplazar la ECM</strong> por una programable (ThunderMax, Daytona Twintec)</li>
+</ul>
+<h2 id="canbus-hdlan">CANBUS / HDLAN</h2>
+<p>A partir de 2011 (comenzando en Softail, luego Dyna), Harley adoptó el protocolo <strong>HDLAN</strong>, basado en el estándar CAN BUS de automoción — dos cables de comunicaciones, más rápido que el J1850 anterior.</p>
+<p>Más info: https://california-motorcycles.com/blogs/mecanicaharley/el-sistema-de-comunicaciones-can-bus-de-harley-davidson-hdlan</p>
+<hr />
+<h1 id="amortiguadores-traseros">Amortiguadores traseros</h1>
+<p><strong>FAR</strong> — fábrica nacional, línea completa para Harley Davidson, excelente calidad y precio conveniente. https://www.farmotopartes.com.ar/product-category/amortiguadores-far/amortiguadores-far-venta-amortig-linea-custom/</p>
+<p>Guía completa de amortiguadores:<br />
+- https://www.hdforums.com/how-tos/a/harley-davidson-sportster-the-ultimate-shocks-guide-413022<br />
+- http://sportsterpedia.com/doku.php/techtalk:evo:susp02</p>
+<hr />
+<h1 id="regulador-de-voltaje">Regulador de voltaje</h1>
+<p><strong>¡Pieza que se quema frecuentemente!</strong> Siempre revisar todo el circuito de carga.</p>
+<p class="warning-p"><span class="warn-icon">⚠️</span> CUIDADO: el regulador varía según el año de la moto.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Años</th>
+<th>P/N Harley</th>
+<th>Notas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1996–2003</td>
+<td>74523-94</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2004–2006</td>
+<td>74523-04</td>
+<td>Monofásico 22 A, 12 V</td>
+</tr>
+<tr>
+<td>2007–2008</td>
+<td>74546-07A</td>
+<td>32 A — no encontré reemplazo argentino</td>
+</tr>
+<tr>
+<td>2009–2013</td>
+<td>74711-08</td>
+<td>32 A — no encontré reemplazo argentino</td>
+</tr>
+<tr>
+<td>2014+</td>
+<td>74700012</td>
+<td>Estado sólido — solo reemplazos en EE.UU.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Reemplazo nacional DZE 10181</strong> — para modelos 2006 y anteriores. 12 V, 35 A, monofásico. http://dzecatalogo.com.ar/es/producto/10181/Harley%20Davison</p>
+<p class="warning-p"><span class="warn-icon">⚠️</span> Reutilizar las fichas originales (el DZE trae fichas peladas). Una mala adaptación puede freír la batería o la electrónica.</strong></p>
+<p>Referencias:<br />
+- http://sportsterpedia.com/doku.php/techtalk:evo:elec02?s[]=regulator<br />
+- http://www.pietcard.com.ar/</p>
+<hr />
+<h1 id="escapes">Escapes</h1>
+<p>La elección del escape modifica el <strong>sonido</strong>, el <strong>look</strong> y la <strong>performance</strong>. Elegir el escape del año correcto: 1986–2003 / 2004–2013 (2007+ debe tener toma para sondas lambda) / 2014+.</p>
+<h2 id="analisis-de-performance-en-dinamometro">Análisis de performance en dinamómetro</h2>
+<p>https://www.1250kits.com/ttxlexhaust.shtml</p>
+<h2 id="marcas-importadas">Marcas importadas</h2>
+<p>Supertrapp / Screaming Eagle / Bassani / Arlen Ness / Vance &amp; Hines / Cycle Shack / Roland Sands / etc.</p>
+<h2 id="fabricantes-nacionales-argentina">Fabricantes nacionales (Argentina)</h2>
+<ul>
+<li>http://giacconeescapes.com/ o https://es-la.facebook.com/Giaccone001/ — fabrican para Harley a medida.</li>
+<li>http://www.escapesfabian.com.ar/</li>
+<li>http://www.tubosilescapes.com.ar/</li>
+<li>http://dmescapes.com.ar/</li>
+<li>https://www.mpmotosport.com/ — también hacen quillas y asientos.</li>
+<li>Lucky Custom: https://www.facebook.com/pages/category/Local-Business/Lucky-Custom-128082827250041/</li>
+</ul>
+<h2 id="modificar-silenciadores-originales">Modificar silenciadores originales</h2>
+<p>Se puede remover el núcleo del escape original para que haga más ruido.</p>
+<hr />
+<h1 id="mejorar-performance">Mejorar performance</h1>
+<p>¿Cuánta potencia se puede obtener? Depende del presupuesto — hay relación directamente proporcional entre $ invertido y HP conseguido. Las etapas son escalonadas (para hacer Stage 3 hay que haber hecho el 1 y 2 antes).</p>
+<h2 id="stage-1">Stage 1</h2>
+<p>Escape de alto flujo + filtro de aire de alto flujo + remapear EFI o recarburar. Aumento de hasta un 10% en todo el rango de RPM.</p>
+<p>Yo tengo en mi EFI: filtro Screamin' Eagle, escapes con silenciador custom, y Power Commander. En la carburada: filtro redondo genérico de alto flujo, escape SE II (con clones en venta), y kit Dynojet para el carburador.</p>
+<p>http://www.harley-performance.com/stage-1.html</p>
+<h2 id="stage-2">Stage 2</h2>
+<p>Levas modificadas (Torque Cam o Power Cam según estilo de conducción) + pistones de alta compresión + kits de alta cilindrada.</p>
+<h2 id="stage-3">Stage 3</h2>
+<p>Todo vale: culatas CNC de mayor flujo, cuerpo de acelerador de mayor diámetro, cilindros y pistones a medida, leva adecuada.</p>
+<h2 id="mas-info-sobre-las-etapas">Más info sobre las etapas</h2>
+<ul>
+<li>http://sportsterpedia.com/doku.php/techtalk:ref:perf01</li>
+<li>https://suburbanharley.com/Performance-Kits-Sportster</li>
+<li>http://www.hammerperf.com/techtips.shtml</li>
+<li>http://nrhsperformance.com/tech.shtml</li>
+</ul>
+<hr />
+<h2 id="convertir-883-a-1200-1250-1275-cc">Convertir 883 a 1200 / 1250 / 1275 cc</h2>
+<p>Se pueden cambiar pistones y cilindros para ganar cilindrada. Desde preparación básica (70 HP) hasta +120 HP.</p>
+<p class="warning-p"><span class="warn-icon">⚠️</span> Modelos 2008 y posteriores</strong>: Harley puso camisas más finas — NO se pueden rectificar los cilindros 883 para usar pistones 1200. Se deben comprar cilindros nuevos. Ver boletín de servicio HD 1267 → http://sportsterpedia.com/lib/exe/fetch.php/pdf-bulletin:tsb1267.pdf</p>
+<p><strong>Kits recomendados:</strong><br />
+- <strong>Hammer Performance</strong> — el que yo tengo, excelente atención: http://hammerperf.com/883conversions.shtml<br />
+- <strong>S&amp;S</strong>: https://www.sscycle.com/big-bore-sportster/<br />
+- <strong>V-Twin Manufacturing</strong> y otros.</p>
+<p><img loading="lazy" alt="Kit 1275cc Hammer Performance" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg" /></p>
+<p><strong>Conversión de bajo costo</strong>: http://rosysumenteinquieta.blogspot.com/2016/01/como-convertimos-una-sportster-de-883cc.html</p>
+<p><strong>Pistones más baratos encontrados</strong>: https://vtwin.parts/supplier/v-twin/sportster-1952-up/engine/piston/883-conversion-pistons/harley-davidson-indian-motorcycle-v-twin-883cc-conversion-piston-set-standard-3.498-11-0852</p>
+<p><strong>INSTRUCCIONES DE INSTALACIÓN</strong>: https://www.1250kits.com/ttinstallkit.shtml</p>
+<p class="warning-p"><span class="warn-icon">⚠️</span> Es VITAL ajustar el encendido</strong> — la sincronización estándar es demasiado agresiva para la mayor compresión del kit. El ajuste incorrecto es la causa número uno de pistones dañados. Ver: https://www.1250kits.com/ttinstallkit.shtml#Tuning</p>
+<p class="warning-p"><span class="warn-icon">⚠️</span> SIEMPRE PROGRAMAR LA ECM ANTES DEL PRIMER ARRANQUE</strong> (modelos EFI).</p>
+<h3 id="encendido-programable-modelos-carburados-20042006">Encendido programable — modelos carburados 2004–2006</h3>
+<ul>
+<li><strong>Daytona TC88A</strong> (recomendado): https://daytona-twintec.com/product/1009-tc88a-twin-cam-ignition/ — Ver programación: https://sportsterpedia.com/doku.php/techtalk:ref:engctl50h</li>
+<li><strong>Dynatek Dyna Performance</strong>: https://www.dynaonline.com/dspt-ign-04-06-hd-sportster-883-1/ — menos funcional que el Daytona, no recomendado si podés pagar el extra.</li>
+</ul>
+<p><em>Ojo con la versión TC88A EX — es para cumplir normas de California, tiene limitaciones.</em></p>
+<h3 id="encendidoecm-programable-modelos-efi-2007">Encendido/ECM programable — modelos EFI 2007+</h3>
+<ul>
+<li><strong>Dynojet Power Vision</strong> (no los que se adosan a la ECM como Fuel Pak — una reprogramación real): https://www.dynojet.com/power-vision/</li>
+<li><strong>ThunderMax</strong> (costoso pero muy completo): https://store.thunder-max.com/</li>
+<li><strong>Daytona Twintec ECM</strong>: https://daytona-twintec.com/shop_products/</li>
+<li><strong>Vance &amp; Hines FP3</strong>: NO funciona bien para kits 1250.</li>
+</ul>
+<hr />
+<h1 id="velocimetro-gps">Velocímetro GPS</h1>
+<p>Este velocímetro lee la velocidad mediante GPS (no del sensor VSS de la moto). No es navegador — solo mide velocidad. Configurable en km/h, mph o nudos. Iluminación en múltiples colores.</p>
+<p>Lo instalé en mi XL 2005 S cuando el velocímetro original se quemó. Solo requiere +12 V y GND en la ficha.</p>
+<p>Lo compré en Amazon: https://www.amazon.com/ELING-DigitalGPS-Speedometer-Adjustable-Back-Lights/dp/B07KP7HGJ4?th=1 (Fabricante ELING, ASIN: B07KP7HGJ4)</p>
+<p><img loading="lazy" alt="Velocímetro original vs GPS" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/velocimetro_GPS/1.jpg" /><br />
+<img loading="lazy" alt="Probando conexión" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/velocimetro_GPS/2.jpg" /><br />
+<img loading="lazy" alt="Detalle conexión" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/velocimetro_GPS/3.jpg" /><br />
+<img loading="lazy" alt="Ficha casera" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/velocimetro_GPS/4.jpg" /><br />
+<img loading="lazy" alt="Funcionando" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/velocimetro_GPS/5.jpg" /><br />
+<img loading="lazy" alt="Cableado" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/velocimetro_GPS/cableado.jpg" /><br />
+<img loading="lazy" alt="Ficha" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/velocimetro_GPS/ficha.jpg" /></p>
+<hr />
+<h1 id="navegacion-gps-y-electricidad">Navegación GPS y electricidad</h1>
+<h2 id="toma-de-12-v">Toma de 12 V</h2>
+<p>Se puede tomar directamente de la batería (con relay, fusible y switch de corte) para enchufar ropa calefaccionada, inflador, cargadores, etc. No exceder el consumo máximo del circuito.</p>
+<h2 id="cargador-de-celular-usb">Cargador de celular USB</h2>
+<p>Para consumos bajos como un cargador celular, se puede tomar de las luces delanteras de la moto:<br />
+- Todos los modelos: luz baja.<br />
+- Modelos internacionales (VIN HDI): luz de posición delantera.<br />
+- Modelos USA: luces de posición en giros frontales.</p>
+<p><strong>Recordar: consumo mínimo, fusible siempre.</strong></p>
+<p><img loading="lazy" alt="Toma 12V y GND 2004+" src="https://raw.githubusercontent.com/alvarogonzalezferrer/harley_alternativas_argentina/master/archivos_soporte/GPS/toma_USB_12V_GND_2004p.jpg" /></p>
+<h2 id="aplicaciones-gps-para-celular">Aplicaciones GPS para celular</h2>
+<table>
+<thead>
+<tr>
+<th>App</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://play.google.com/store/apps/details?id=com.waze"><strong>Waze</strong></a></td>
+<td>El mejor. Marca cámaras, policía, retenes. A veces rutas algo rebuscadas.</td>
+</tr>
+<tr>
+<td><a href="https://play.google.com/store/apps/details?id=app.organicmaps"><strong>Organic Maps</strong></a></td>
+<td>Mapas descargables, sin publicidad, funciona sin internet.</td>
+</tr>
+<tr>
+<td><a href="https://play.google.com/store/apps/details?id=net.osmand"><strong>OsmAnd</strong></a></td>
+<td>Similar a Organic Maps, con más puntos de interés. Algo pesado.</td>
+</tr>
+<tr>
+<td><a href="https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro"><strong>Maps.ME</strong></a></td>
+<td>Mapas descargables, funciona offline. Contiene anuncios.</td>
+</tr>
+<tr>
+<td><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps"><strong>Google Maps</strong></a></td>
+<td>Viene con el celular. No marca policía ni cámaras.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sitios-para-planear-viajes">Sitios para planear viajes</h2>
+<ul>
+<li>Open Street Map: https://www.openstreetmap.org/</li>
+<li>Google Maps y Street View: https://www.google.com/maps</li>
+<li>Ruta 0 (Argentina): https://www.ruta0.com/</li>
+<li>Waze Live Map (tráfico, policía, cámaras): https://www.waze.com/es/live-map</li>
+<li>OsmAnd: https://osmand.net/</li>
+</ul>
+<hr />
+<h1 id="accesorios-varios">Accesorios varios</h1>
+<h2 id="pedalines">Pedalines</h2>
+<p>Se pueden comprar o mandar a tornear; no tienen mucho secreto.</p>
+<h2 id="manillares">Manillares</h2>
+<p>Original de <strong>1 pulgada</strong> (2,54 cm aprox). Se puede modificar para pasar los cables eléctricos por dentro. Si se pone uno más alto (ej. "cuelga monos"), hay que reemplazar también la línea de freno delantero, embrague, cables eléctricos y acelerador.</p>
+<ul>
+<li>Manillares nacionales: https://houseofhandlebar.mercadoshops.com.ar/</li>
+</ul>
+<h2 id="punos">Puños</h2>
+<p>Los originales de goma se pudren con los años; los de metal "billet" (cromados o negros) no se pudren.</p>
+<p><strong>Puños calefaccionados</strong>: yo tengo <strong>Kuryakyn Heat Demon</strong>, andan bien pero son complicados de instalar. También hay guantes calefactores con baterías.</p>
+<h2 id="respaldos-sissy-bar">Respaldos &amp; Sissy bar</h2>
+<p>The House Of Handlebar (Argentina) fabrica un sissy bar muy bueno: https://houseofhandlebar.mercadoshops.com.ar/ / https://facebook.com/pages/category/Local-Business/House-of-Handlebar-323402801569381/</p>
+<h2 id="asientos">Asientos</h2>
+<p>Los asientos varían según año y modelo:<br />
+- Hasta 2003 inclusive: un modelo de anclaje.<br />
+- 2004+: cambiaron el sistema de anclaje.<br />
+- 2007–2009: la compu está bajo el asiento (necesita asiento especial o reubicar la compu, o recortar el asiento con dremel).<br />
+- 2004–2006 y 2010–2018 aprox: compatibles entre sí.</p>
+<p>Un tapicero puede adaptar la mayoría. Referencia con fotos: https://www.hdforums.com/forum/sportster-models/975513-seat-fitment-guidelines-for-04-06-07-09-and-2010-with-pics-factory-saddles.html</p>
+<h2 id="alforjas">Alforjas</h2>
+<p>Barlitop hacía alforjas de cuero en Buenos Aires, buscar en Facebook. <em>(Info de 2010, verificar si sigue activo.)</em></p>
+<h2 id="defensa-mataperros">Defensa / "mataperros"</h2>
+<p>Útil para proteger el motor en caídas a baja velocidad y para montar accesorios. Harley vende modelos pero el envío a Argentina los hace muy caros. The House Of Handlebar tiene un clon: https://houseofhandlebar.mercadoshops.com.ar/</p>
+<h2 id="portaequipajes">Portaequipajes</h2>
+<p>Hay parrillas disponibles en: https://houseofhandlebar.mercadoshops.com.ar/</p>
+<h2 id="llaves">Llaves</h2>
+<p><strong>Duplicar</strong>: necesitar llave en blanco (venta online) y un buen cerrajero. Los modelos nuevos tienen FOB de seguridad difícil de duplicar. Con el número de cuatro dígitos impreso en el dorso de la llave, el concesionario puede pedir un repuesto.</p>
+<p><strong>Programar el llavero FOB</strong>: https://www.hdforums.com/how-tos/a/harley-davidson-sportster-how-to-reprogram-key-fob-412757</p>
+<hr />
+<h1 id="almacenar-la-moto">Almacenar la moto</h1>
+<p>Al dejar la moto parada por tiempo prolongado (viaje, pandemia, etc.):</p>
+<ol>
+<li><strong>Lavar</strong>, secar y encerar con cera protectora. Aplicar WD-40 en partes bajas para desplazar humedad.</li>
+<li><strong>Neumáticos</strong>: inflar +5 psi (35 psi adelante, 40 psi atrás). Caballete si es posible.</li>
+<li><strong>Insectos</strong>: rociar Raid en partes bajas.</li>
+<li><strong>Sistema de combustible</strong>: llenar el tanque con nafta premium + <strong>estabilizador de combustible</strong> (ver instrucciones del producto). En modelos carburados: vaciar el carburador (cerrar la canilla y dejar andar hasta que se apague).</li>
+<li><strong>Batería</strong>: colocar <strong>battery tender / mantenedor de batería</strong>. Quitar el fusible principal MAXI.</li>
+<li><strong>Aceite</strong> (opcional): cambiar por aceite nuevo si va a quedar mucho tiempo.</li>
+<li><strong>WD-40 en bujías</strong>: sacar ambas bujías, tirar un poco de WD-40 en los cilindros por los orificios, volver a colocarlas. Previene que se peguen los aros de los pistones.</li>
+</ol>
+<p><strong>Al regresar</strong> (más de 3 meses): cambiar la nafta vieja por nafta nueva.</p>
+<p><strong>Guardar</strong> en lugar fresco, seco, tapado y bajo techo. La humedad es enemigo de los metales.</p>
+<h3 id="estabilizador-de-combustible">Estabilizador de combustible</h3>
+<p>Fundamental para almacenamiento prolongado. Las naftas con etanol/bio-alcohol se ponen rancias después de ±3 meses. Con estabilizador, duran más de un año.</p>
+<p><strong>Dosis</strong>: 25 ml cada 20 litros de combustible (varía según marca). Yo uso la botellita de Honda (2 onzas por tanque lleno), con excelentes resultados — dejé la moto 3 años parada durante la pandemia y arrancó sin problemas.</p>
+<p><strong>Marcas</strong>: Honda, Stabil, Sea Foam, Liqui Moly, Ipone, Yamalube.</p>
+<p>Video comparativo: https://www.youtube.com/watch?v=chsGBhB5g7o</p>
+<hr />
+<h1 id="catalogos-online-comprar-repuestos">Catálogos online / Comprar repuestos</h1>
+<p><em>TO-DO — ampliar esta sección</em></p>
+<p>Principales tiendas online:</p>
+<ul>
+<li>J&amp;P Cycles: https://www.jpcycles.com/</li>
+<li>Dennis Kirk: https://www.denniskirk.com/</li>
+<li>Drag Specialties: https://www.dragspecialties.com/</li>
+<li>Revzilla: https://www.revzilla.com/</li>
+<li>eBay: https://www.ebay.com/</li>
+<li>Amazon: https://www.amazon.com/</li>
+<li>California Motorcycles: https://california-motorcycles.com/</li>
+</ul>
+<hr />
+<h1 id="indumentaria-y-equipo">Indumentaria y equipo</h1>
+<h2 id="casco">Casco</h2>
+<p><em>TO-DO</em></p>
+<h2 id="traje-de-lluvia">Traje de lluvia</h2>
+<p>Yo tengo Givi y LS2; ambos son buenos.</p>
+<p>Cómo doblar el traje de lluvia: https://www.youtube.com/watch?v=U0s4NPuX7ww</p>
+<h2 id="equipo-calefaccionado-para-invierno">Equipo calefaccionado para invierno</h2>
+<p>También se puede poner <strong>puños calefaccionados</strong> a la moto (varias marcas y modelos). Indumentaria:<br />
+- https://sraggioweb.com.ar/<br />
+- https://www.wanderwarm.com.ar/</p>
+<h2 id="infladores-selladores-portatiles">Infladores / selladores portátiles</h2>
+<p>Existen infladores a 12 V y autocontenidos con batería propia. En viajes largos yo uso uno marca <strong>SPARCO</strong> — sirve de linterna y batería USB también.</p>
+<p>Xiaomi tiene uno muy popular: https://www.mi.com/global/product/xiaomi-portable-electric-air-compressor-1s/</p>
+<h2 id="defensa-personal">Defensa personal</h2>
+<p>La mejor defensa: evitar zonas peligrosas, evitar el conflicto, salir relajado.</p>
+<p>Kit básico: bastón plegable + spray pimienta.</p>
+<p>En países donde es legal portar armas de fuego:<br />
+- <a href="https://www.taurususa.com/revolvers/taurus-judge/judge-public-defender-r-45-colt-410-ga-matte-black-oxide-2-in">Taurus Judge 2"</a><br />
+- <a href="https://ruger.com/products/lcpII/models.html">Ruger LCP II</a><br />
+- <a href="https://www.smith-wesson.com/product/j-frame-163810">S&amp;W 642 Airweight</a></p>
+<h2 id="dinamometros">Dinamómetros</h2>
+<p>Solo conviene comprarlo si tenemos un taller mecánico: https://www.saenzdynos.com.ar/es/dinamometros-de-rodillos-k-m-c.html</p>
+<hr />
+<h1 id="anexo-reparar-roscas-helicoil">Anexo: Reparar roscas — Helicoil</h1>
+<p><em>Fuente: https://noticias.coches.com/consejos/helicoil-como-se-usa/342900</em></p>
+<p>Cuando un tornillo queda suelto por una "pasada de rosca" (hilos pelados), un <strong>Helicoil</strong> es la solución ideal.</p>
+<h2 id="que-es-un-helicoil">¿Qué es un Helicoil?</h2>
+<p>Un alambre de acero inoxidable o bronce fosforado helicoidal con sección transversal en forma de diamante. La parte externa se fija en el orificio roscado; la espiral interna aloja el tornillo. Las aplicaciones más comunes en autos/motos son la reparación de culatas y bujías.</p>
+<p>El Helicoil <strong>no soluciona</strong> hilos del tornillo dañados — si el tornillo también está en mal estado, hay que reemplazarlo también.</p>
+<p>El kit incluye: insertos, macho, broca y herramienta de compresión.</p>
+<h2 id="como-se-usa">¿Cómo se usa?</h2>
+<ol>
+<li><strong>Taladrar</strong> el orificio con la broca del tamaño adecuado. Llegar hasta el fondo pero sin profundizar de más. Mantener el ángulo original del orificio — si no, ningún Helicoil te salva.</li>
+<li><strong>Roscar</strong> con el macho del kit (ligeramente más grande que el agujero). Se puede engrasar para facilitar la entrada.</li>
+<li><strong>Insertar el Helicoil</strong>: la herramienta de compresión encaja con la lengüeta del inserto. Enroscar con cuidado.</li>
+<li><strong>Eliminar la espiga</strong> sobrante: golpe seco con punzón o con alicates.</li>
+</ol>
+<p>Los Helicoils instalados no requieren selladores. Son muy confiables y duraderos.</p>
+<h2 id="ventajas">Ventajas</h2>
+<ul>
+<li>Resistencia a corrosión y temperatura (acero inox, bronce fosforoso, titanio, Inconel).</li>
+<li>Alta durabilidad y distribución uniforme de cargas.</li>
+<li>No requieren arandelas ni pasadores adicionales.</li>
+<li>Menos fricción sobre la rosca para un ajuste más preciso.</li>
+</ul>
+<hr />
+<h1 id="anexo-costa-rica">Anexo: Costa Rica</h1>
+<p>La agencia Harley oficial se fue de Costa Rica, pero es más fácil conseguir repuestos que en Argentina.</p>
+<h2 id="talleres-y-repuestos">Talleres y repuestos</h2>
+<ul>
+<li>Motochopper</li>
+<li>Harley Point</li>
+<li>Harleywood Motorcycles</li>
+<li>Planet Speed Costa Rica</li>
+<li><strong>H-D Motors S.A.</strong> — https://www.facebook.com/hdmotorscr/ — Cel 7109-0690 / Tel 2101-0095. Tienen grúa y son servicio técnico ex-oficial Harley Davidson.</li>
+<li>Garaje 33</li>
+<li>Moto Bike CR</li>
+<li><strong>Ragnarok</strong> — https://www.facebook.com/ragnarokmotorcycles/</li>
+<li>Motohouse</li>
+<li>Locos Por Las Motos</li>
+</ul>
+<h2 id="torneria-y-rectificacion">Tornería y rectificación</h2>
+<ul>
+<li>Precisión Barquero: https://www.facebook.com/tallerdeprecisionbarquero</li>
+</ul>
+<h2 id="aceites">Aceites</h2>
+<ul>
+<li>Walmart tiene el Castrol Actevo 20w50 más barato.</li>
+<li>Motul 7100 20w50 se consigue en la mayoría de casas de motos.</li>
+</ul>
+<h2 id="herramientas">Herramientas</h2>
+<p>Capris / EPA / El Lagar / Walmart / Universal de Tornillos y Herramientas / NOVEX.</p>
+<h2 id="tornilleria_1">Tornillería</h2>
+<p>Universal de Tornillos y Herramientas / La Casa del Tornillo.</p>
+<h2 id="traer-repuestos-de-eeuu">Traer repuestos de EE.UU.</h2>
+<ul>
+<li>Jetbox / Aeropost / <strong>AirboxCR</strong>: https://airboxcr.com/ / Correos de Costa Rica / eBay / Amazon.</li>
+</ul>
+<h2 id="insumos">Insumos</h2>
+<p>AMSoil / Castrol / Amazon / eBay / Aeropost. <strong>Moto Llantas Virtual</strong> (neumáticos): https://www.facebook.com/Motollantasvirtual/</p>
+<hr />
+<h1 id="proximamente-mas-informacion">Próximamente más información</h1>
+<p>¡No te olvides de <strong>revisar frecuentemente</strong> esta página, se actualiza a menudo!</p>
+<p><strong>Saludos y buenas rutas!</strong> 🏍️</p>
+    </article>
+  </main>
+
+</div>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-logo">Sportster<span> XL</span></div>
+  <p>
+    Información proporcionada "como está", sin garantía de ningún tipo. Solo uso no comercial.
+    Este sitio NO está asociado a Harley-Davidson Motor Company.
+  </p>
+  <div class="footer-btc">
+    <strong>Bitcoin:</strong> 33Xh8YBQsMW8LGrnRR5wgEKXNzoaE5C95Q
+  </div>
+  <p style="margin-top:16px;">
+    <a href="https://github.com/alvarogonzalezferrer/harley_alternativas_argentina" target="_blank">
+      Ver en GitHub
+    </a>
+  </p>
+</footer>
+
+<button id="back-top" title="Volver arriba">▲</button>
+
+<script>
+// ── Progress bar ──────────────────────────────────────────
+const bar = document.getElementById('progress-bar');
+window.addEventListener('scroll', () => {
+  const h = document.documentElement;
+  const pct = (h.scrollTop / (h.scrollHeight - h.clientHeight)) * 100;
+  bar.style.width = pct + '%';
+}, { passive: true });
+
+// ── Back to top ───────────────────────────────────────────
+const btn = document.getElementById('back-top');
+window.addEventListener('scroll', () => {
+  btn.classList.toggle('visible', window.scrollY > 400);
+}, { passive: true });
+btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+// ── Sidebar toggle (mobile) ───────────────────────────────
+const sidebar = document.getElementById('sidebar');
+const overlay = document.getElementById('overlay');
+const menuBtn = document.getElementById('menu-btn');
+function closeSidebar() {
+  sidebar.classList.remove('open');
+  overlay.classList.remove('visible');
+}
+menuBtn.addEventListener('click', () => {
+  const open = sidebar.classList.toggle('open');
+  overlay.classList.toggle('visible', open);
+});
+overlay.addEventListener('click', closeSidebar);
+
+// ── Active TOC highlight ──────────────────────────────────
+const headings = document.querySelectorAll('h1[id], h2[id], h3[id]');
+const tocLinks = document.querySelectorAll('.sidebar a');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      tocLinks.forEach(a => a.classList.remove('active'));
+      const active = document.querySelector(`.sidebar a[href="#${entry.target.id}"]`);
+      if (active) {
+        active.classList.add('active');
+        active.scrollIntoView({ block: 'nearest' });
+      }
+    }
+  });
+}, { rootMargin: '-10% 0px -75% 0px', threshold: 0 });
+headings.forEach(h => observer.observe(h));
+
+// ── Close sidebar on TOC click (mobile) ───────────────────
+tocLinks.forEach(a => a.addEventListener('click', () => {
+  if (window.innerWidth < 900) closeSidebar();
+}));
+
+// ── Wrap tables ───────────────────────────────────────────
+document.querySelectorAll('table').forEach(t => {
+  if (!t.parentElement.classList.contains('table-wrap')) {
+    const wrap = document.createElement('div');
+    wrap.className = 'table-wrap';
+    t.parentNode.insertBefore(wrap, t);
+    wrap.appendChild(t);
+  }
+});
+
+// ── Lightbox for images ───────────────────────────────────
+document.querySelectorAll('.content img').forEach(img => {
+  img.style.cursor = 'zoom-in';
+  img.addEventListener('click', () => {
+    const overlay = document.createElement('div');
+    overlay.style.cssText = `
+      position:fixed;inset:0;background:rgba(0,0,0,.92);
+      z-index:9999;display:flex;align-items:center;
+      justify-content:center;cursor:zoom-out;padding:20px;
+    `;
+    const big = document.createElement('img');
+    big.src = img.src;
+    big.style.cssText = 'max-width:90vw;max-height:90vh;border-radius:4px;border:1px solid #444;';
+    overlay.appendChild(big);
+    overlay.addEventListener('click', () => overlay.remove());
+    document.body.appendChild(overlay);
+  });
+});
+</script>
+</body>
+</html>
