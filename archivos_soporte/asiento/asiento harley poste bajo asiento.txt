@@ -1,0 +1,30 @@
+POSTE QUE SOSTIENE EL ASIENTO
+
+la parte que tengo y no perdi:
+
+59723-04 -- NUT,GRABSTRAP RETENTION
+
+si este "honguito" se pierde, se puede improvisar con tornillo, tuerca union, arandelas y una tuerca de seguridad
+
+desde abajo del guardabarros asi:
+
+tornillo > arandela <|> arandela > tuerca union > arandela fender (grande, se llama fender en CR) > tuerca de seguridad o tuerca ciega
+
+--- mi problema
+lo que me falta conseguir:
+
+4017 SCREW HEX CAP -- el tornillo 5/16-18 x 1" hexagon head screw
+
+medida: 5/16-18 X 1″ ; rosca UNC
+
+7882 SPACER,X -- espaciador desde abajo
+
+11474 GROMMET -- de arriba; espaciador de goma, evitara el agua?
+
+6702  WASHER PLAIN,TYPE-A -- arandelas, lleva dos, de abajo y arriba
+medida 5/16" X 11/16" X 1/16" 
+
+
+*** ATENCION
+
+se pueden comprar inoxidables las tuercas y tornillos y mejorar el setup original

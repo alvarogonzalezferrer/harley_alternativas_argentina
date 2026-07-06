@@ -995,6 +995,11 @@ Más info: http://sportsterpedia.com/doku.php/techtalk:ref:perf01 | https://subu
 - **Hammer Performance** (el que yo tengo): http://hammerperf.com/883conversions.shtml
 - **S&S**: https://www.sscycle.com/big-bore-sportster/
 - Conversión de bajo costo: http://rosysumenteinquieta.blogspot.com/2016/01/como-convertimos-una-sportster-de-883cc.html
+- V Twin MFG Kit de V Twin para 2004+:
+- VT No 11-1270 (plata) y VT No 11-1333 (negro) para 2004+ **1270cc**
+- VT No 11-0377 (plata) y VT No 11-0378 (negro) para 2004+ **1200 cc**
+- https://www2.vtwinmfg.com/1200cc-cylinder-and-piston-conversion-kit-black-4.html
+- https://www2.vtwinmfg.com/1270cc-cylinder-and-piston-conversion-kit-black.html
 
 ![Kit 1275cc Hammer Performance](archivos_soporte/883_a_1200/kit_1275_hammer_performance.jpg)
 

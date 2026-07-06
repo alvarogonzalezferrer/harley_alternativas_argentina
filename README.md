@@ -2645,7 +2645,7 @@ http://nrhsperformance.com/tech.shtml
 
 http://www.floheadworks.com/Departments/articles.htm
 
-## Convertir 883 a 1200 / 1250 / 1275
+## Convertir 883 a 1200 / 1250 / 1270 / 1275
 
 Es posible convertir una 883 a 1200, incluso a más, 1275cc por ejemplo, de manera relativamente sencilla.
 
@@ -2668,6 +2668,18 @@ Conversion de bajo costo: http://rosysumenteinquieta.blogspot.com/2016/01/como-c
 Estos son los pistones mas baratos que encontre (por ahora): https://vtwin.parts/supplier/v-twin/sportster-1952-up/engine/piston/883-conversion-pistons/harley-davidson-indian-motorcycle-v-twin-883cc-conversion-piston-set-standard-3.498-11-0852?sort=p.price&order=ASC
 
 Pistones VT No: 11-0852
+
+Catalogo V Twin de pistones y cilindros para diversos años: https://www2.vtwinmfg.com/sportster_1952_up/engine/cylinder.html/cylinders-with-pistons.html
+
+Kit de V Twin para 2004+:
+
+- VT No 11-1270 (plata) y VT No 11-1333 (negro) para 2004+ **1270cc**
+
+- VT No 11-0377 (plata) y VT No 11-0378 (negro) para 2004+ : **1200 cc**
+
+https://www2.vtwinmfg.com/1200cc-cylinder-and-piston-conversion-kit-black-4.html
+
+https://www2.vtwinmfg.com/1270cc-cylinder-and-piston-conversion-kit-black.html
 
 Kits de S&S : https://www.sscycle.com/big-bore-sportster/
 
