@@ -1,0 +1,64 @@
+tapa supertrapp supermeg 2:1 sporster 883 2005
+
+TODO EL MATERIAL ES ACERO INOXIDABLE INCLUSO LOS TORNILLOS
+
+tiene 17 discos, mas el disco final ciego, mas la tapa: total 19 piezas; siento que original eran 20 discos quiza alguno se perdio
+
+
+TORNILLOS:
+
+los tornillos pueden ser Allen #10-24 UNC - 2,5" de largo, confirmar con peina roscas
+los tornillos son americanos , cabeza para allen redonda por fuera, usan llave 5/32, parece rosca UNC, bastante gruesita
+largo esparragos (son 6) , sin contar la cabeza: 2,5" ; tienen menos de 5 mm pero mas de 4 mm de diametro la rosca
+
+los seis agujeros por donde pasan los tornillos largos (esparragos) son de 6 mm
+seis agujeros cada 60 grados 
+entre borde y borde mas cercanos al centro de agujeros enfrentados hay 77 mm, o sea de centro a centro hay 80 mm?
+
+DISCOS:
+
+discos de 4" en realidad tienen un poco menos de 4"
+
+altura de todo el conjunto discos mas tapa 50 mm
+
+altura de todo el conjunto de discos solos 35 mm
+
+dimensiones de cada disco
+
+	diametro total exterior : 96 mm
+
+	diametro interno: 62 mm
+
+	borde externo plano donde van los agujeros: 10 mm 
+
+	borde interno plegado: 7 mm
+
+	altura total del disco : 5 mm 
+
+	altura parte plana (tiene el borde exterior plegado 2 mm) : 2 mm 
+
+	altura parte plegada interna : 3 mm 
+
+	espesor chapa del disco 1 mm
+
+
+
+vista lateral del disco
+
+| plano	|plegado| pasa el gas | plegado | plano | 
+| 10 mm | 7 mm 	| 62 mm vacio | 7 mm    | 10 mm | } total 96 mm 
+
+
+
+
+
+la tapa final son dos
+una ciega de chapa que es opcional (la tengo puesta)
+y una de fundicion que es un aro con el centro libre, que tiene altura 15 mm para ocultar la cabeza de los tornillos
+la tapa final tiene forma conica del diametro mayor and interior, y recesos para que los tornillos queden ocultos
+
+muy lindo todo la verdad
+
+
+
+
