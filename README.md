@@ -2552,8 +2552,8 @@ Entre 2004 y 2013 usaron básicamente **tres números de parte** repartidos entr
 ### Resumen de escapes OEM
 
 - **2004–2013:** tres números de parte (64842-04, 65232-04, 64890-04), compatibles mecánicamente entre sí en cuanto a montaje, pero con diferencias de catalizador según año/mercado. El 64842-04 es el único confirmado sin catalizador tras inspección física.
-- **2014 en adelante:** rediseño completo — el crossover pasó de estar entre los silenciadores a estar entre los headers, y cambió toda la numeración a un esquema 649002XX+. No son intercambiables funcionalmente con la generación anterior aunque compartan el mismo diámetro de montaje.
-- Si tu Sportster es 2014+, confirmá el número exacto para tu año/modelo en el catálogo oficial antes de comprar — el prefijo 64900 es común a varios sufijos distintos.
+- **2014 en adelante:** rediseño completo - el crossover pasó de estar entre los silenciadores a estar entre los headers, y cambió toda la numeración a un esquema 649002XX+. No son intercambiables funcionalmente con la generación anterior aunque compartan el mismo diámetro de montaje.
+- Si tu Sportster es 2014+, confirmá el número exacto para tu año/modelo en el catálogo oficial antes de comprar - el prefijo 64900 es común a varios sufijos distintos.
 
 ![Headers 2014](archivos_soporte/escapes/2004_up_header.jpg)
 
@@ -2568,9 +2568,9 @@ CA = estado de California, con leyes de contaminacion mas estrictas.
 
 | Número de parte | Posición | Mercado | ¿Catalizador? |
 |---|---|---|---|
-| **64842-04** | Delantero y/o trasero (según año) | Doméstico (todos los estados) | **No** — confirmado al inspeccionar físicamente varias unidades 2009–2013 |
+| **64842-04** | Delantero y/o trasero (según año) | Doméstico (todos los estados) | **No** - confirmado al inspeccionar físicamente varias unidades 2009–2013 |
 | **65232-04** | Delantero | Solo California | Si, su uso exclusivo para CA en el único año que estuvo en catálogo. |
-| **64890-04** | Trasero | Doméstico y California | No — se introdujo en 2004, antes de que rigieran las normas CARB Stage 2 (2008) y EPA equivalente (2010) |
+| **64890-04** | Trasero | Doméstico y California | No - se introdujo en 2004, antes de que rigieran las normas CARB Stage 2 (2008) y EPA equivalente (2010) |
 
 **Conclusión práctica:** de los tres, el único que se confirmó *sin* catalizador mediante inspección física es el **64842-04**. El 65232-04 es el más sospechoso de llevar catalizador, pero solo se usó un año (2006) y después fue discontinuado del catálogo.
 
@@ -2599,7 +2599,7 @@ La diferencia central es dónde está el tubo cruzado (crossover) que conecta lo
 - **2007–2013:** el crossover va **entre los silenciadores**. Cada silenciador tiene un orificio y un empaque para esa conexión.
 - **2014 en adelante:** el crossover se movió **entre los caños de salida (headers)**, antes de llegar a los silenciadores. Los silenciadores nuevos ya no tienen el orificio de crossover.
 
-Por eso, aunque un silenciador viejo pueda calzar mecánicamente en un tubo nuevo, el sistema no está diseñado para funcionar así — te vas a quedar sin la conexión cruzada que necesita el motor para respirar bien en ambos cilindros. 
+Por eso, aunque un silenciador viejo pueda calzar mecánicamente en un tubo nuevo, el sistema no está diseñado para funcionar así - te vas a quedar sin la conexión cruzada que necesita el motor para respirar bien en ambos cilindros. 
 
 Harley también cambió el esquema de numeración: dejaron atrás el formato "-04" y pasaron a números de 8 dígitos que arrancan con **649002XX / 649003XX / 649004XX**, dependiendo del año y la versión (doméstica, California, Screamin' Eagle, etc.).
 
@@ -2609,7 +2609,7 @@ Harley también cambió el esquema de numeración: dejaron atrás el formato "-0
 |---|---|---|
 | **64900213** | 2014, XL1200T / XL883L / XL883N | Doméstico |
 
-Para el resto de los modelos 2014+ (1200C, 1200X, 1200V, 1200CX, versiones California, etc.) la numeración sigue el mismo prefijo **64900-XXX** pero cada combinación de año/modelo/mercado tiene su propio sufijo de 3 dígitos — no hay un número único "para todo 2014 en adelante". 
+Para el resto de los modelos 2014+ (1200C, 1200X, 1200V, 1200CX, versiones California, etc.) la numeración sigue el mismo prefijo **64900-XXX** pero cada combinación de año/modelo/mercado tiene su propio sufijo de 3 dígitos - no hay un número único "para todo 2014 en adelante". 
 
 
 ## Performance de escapes
