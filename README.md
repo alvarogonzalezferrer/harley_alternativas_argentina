@@ -2551,10 +2551,12 @@ Entre 2004 y 2013 usaron básicamente **tres números de parte** repartidos entr
 
 ### 2004–2013: los tres números de parte "-04"
 
+CA = estado de California, con leyes de contaminacion mas estrictas.
+
 | Número de parte | Posición | Mercado | ¿Catalizador? |
 |---|---|---|---|
 | **64842-04** | Delantero y/o trasero (según año) | Doméstico (todos los estados) | **No** — confirmado al inspeccionar físicamente varias unidades 2009–2013 |
-| **65232-04** | Delantero | Solo California | Sospechado que sí (nunca abierto y confirmado, pero su uso exclusivo para CA en el único año que estuvo en catálogo sugiere que sí) |
+| **65232-04** | Delantero | Solo California | Si, su uso exclusivo para CA en el único año que estuvo en catálogo. |
 | **64890-04** | Trasero | Doméstico y California | No — se introdujo en 2004, antes de que rigieran las normas CARB Stage 2 (2008) y EPA equivalente (2010) |
 
 **Conclusión práctica:** de los tres, el único que se confirmó *sin* catalizador mediante inspección física es el **64842-04**. El 65232-04 es el más sospechoso de llevar catalizador, pero solo se usó un año (2006) y después fue discontinuado del catálogo.
@@ -2565,7 +2567,7 @@ Entre 2004 y 2013 usaron básicamente **tres números de parte** repartidos entr
 |---|---|---|---|
 | 2004–2005 | 64842-04 | — | 64842-04 solo se usaba adelante |
 | 2006 (1200R / 1200C, 49 estados) | 64842-04 | 64842-04 | Mismo número adelante y atrás |
-| 2006 (1200R / 1200C, California) | 65232-04 | — | Versión CA con catalizador (sospechado) |
+| 2006 (1200R / 1200C, California) | 65232-04 | — | Versión CA con catalizador |
 | 2006 (883C, todos los estados) | 64842-04 | 65232-04 | 883C llevaba catalizador atrás ese año |
 | 2006 (883 Std, 50 estados) | 65232-04 | 64890-04 | Configuración distinta para el 883 Std |
 | 2007–2008 (EFI) | 64842-04 | 64890-04 | Se elimina el 65232-04 del catálogo |
