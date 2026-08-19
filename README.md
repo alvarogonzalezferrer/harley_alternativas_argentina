@@ -2565,9 +2565,9 @@ CA = estado de California, con leyes de contaminacion mas estrictas.
 
 | Año | Delantero | Trasero | Comentario |
 |---|---|---|---|
-| 2004–2005 | 64842-04 | — | 64842-04 solo se usaba adelante |
+| 2004–2005 | 64842-04 | 64890-04 | 64842-04 solo se usaba adelante |
 | 2006 (1200R / 1200C, 49 estados) | 64842-04 | 64842-04 | Mismo número adelante y atrás |
-| 2006 (1200R / 1200C, California) | 65232-04 | — | Versión CA con catalizador |
+| 2006 (1200R / 1200C, California) | 65232-04 | 64842-04 | Versión CA con catalizador |
 | 2006 (883C, todos los estados) | 64842-04 | 65232-04 | 883C llevaba catalizador atrás ese año |
 | 2006 (883 Std, 50 estados) | 65232-04 | 64890-04 | Configuración distinta para el 883 Std |
 | 2007–2008 (EFI) | 64842-04 | 64890-04 | Se elimina el 65232-04 del catálogo |
