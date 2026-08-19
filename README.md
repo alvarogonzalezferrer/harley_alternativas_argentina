@@ -10,7 +10,7 @@ Este sitio web **NO** está asociado en manera alguna a Harley-Davidson Motor Co
 
 Harley-Davidson® y el logotipo Bar & Shield son marcas comerciales registradas de HD Michigan, Inc.
 
-**±184000 km recorridos sin problemas.**
+**±194000 km recorridos sin problemas.**
 
 # Website
 
@@ -2543,13 +2543,73 @@ Si bien los escapes para Harley se eligen principalmente por el look y el sonido
 
 Tenemos que tener cuidado al elegir el escape que vaya para nuestro año de moto: 1986 a 2003 usan similar escape, 2004 a 2013 otro tipo (cuidado que 2007 en adelante tiene que tener para colocar las sondas lambda! si no lo tiene solo sirve para las carburadas 2004 a 2006), y 2014 en adelante otro tipo. Para anteriores 1986 tambien hay, pero es mas dificil de conseguir.
 
+## Escapes OEM de Sportster
+
+Estos me sirven principalmente para pasar las inspeciones VTV, Dekra, ITV, etc; el escape mas deseable es el 64842-04 que se puede poner adelante y atras en 2004 a 2013 (2014 cambia, ver abajo, aunque podria adaptarse).
+
+Entre 2004 y 2013 usaron básicamente **tres números de parte** repartidos entre versión doméstica y versión California (CARB), y para colmo, en 2014 cambiaron todo el diseño del sistema de escape.
+
+### 2004–2013: los tres números de parte "-04"
+
+| Número de parte | Posición | Mercado | ¿Catalizador? |
+|---|---|---|---|
+| **64842-04** | Delantero y/o trasero (según año) | Doméstico (todos los estados) | **No** — confirmado al inspeccionar físicamente varias unidades 2009–2013 |
+| **65232-04** | Delantero | Solo California | Sospechado que sí (nunca abierto y confirmado, pero su uso exclusivo para CA en el único año que estuvo en catálogo sugiere que sí) |
+| **64890-04** | Trasero | Doméstico y California | No — se introdujo en 2004, antes de que rigieran las normas CARB Stage 2 (2008) y EPA equivalente (2010) |
+
+**Conclusión práctica:** de los tres, el único que se confirmó *sin* catalizador mediante inspección física es el **64842-04**. El 65232-04 es el más sospechoso de llevar catalizador, pero solo se usó un año (2006) y después fue discontinuado del catálogo.
+
+### Cómo fue cambiando la aplicación año por año
+
+| Año | Delantero | Trasero | Comentario |
+|---|---|---|---|
+| 2004–2005 | 64842-04 | — | 64842-04 solo se usaba adelante |
+| 2006 (1200R / 1200C, 49 estados) | 64842-04 | 64842-04 | Mismo número adelante y atrás |
+| 2006 (1200R / 1200C, California) | 65232-04 | — | Versión CA con catalizador (sospechado) |
+| 2006 (883C, todos los estados) | 64842-04 | 65232-04 | 883C llevaba catalizador atrás ese año |
+| 2006 (883 Std, 50 estados) | 65232-04 | 64890-04 | Configuración distinta para el 883 Std |
+| 2007–2008 (EFI) | 64842-04 | 64890-04 | Se elimina el 65232-04 del catálogo |
+| 2009–2013 (883C y similares) | 64842-04 | 64842-04 | Mismo número adelante y atrás hasta el final de esta generación |
+
+El dato interesante es que **2006 fue el año más inconsistente**: según el modelo, algunos 883 y 1200 de 50 estados llevaban catalizador adelante, otros atrás, y no había un patrón único. A partir de 2007, con la llegada de la inyección electrónica (EFI), el sistema se simplificó a dos números nada más (64842-04 y 64890-04) y desapareció el 65232-04 de California.
+
+Un dato adicional que quedó suelto en la investigación original: en un video de Reino Unido se documentó la conversión de silenciadores con catalizador (para mercado europeo, con normativa mucho más estricta) a silenciadores sin catalizador. El panal catalítico tiene el mismo diámetro que el interior de la carcasa del silenciador y va ubicado en la sección delantera, antes del deflector/baffle.
+
+### 2014 en adelante: cambia el diseño completo
+
+Los silenciadores 2004–2013 no son intercambiables 1:1 con los 2014+, aunque monten físicamente en la moto.
+
+La diferencia central es dónde está el tubo cruzado (crossover) que conecta los dos lados del escape:
+
+- **2007–2013:** el crossover va **entre los silenciadores**. Cada silenciador tiene un orificio y un empaque para esa conexión.
+- **2014 en adelante:** el crossover se movió **entre los caños de salida (headers)**, antes de llegar a los silenciadores. Los silenciadores nuevos ya no tienen el orificio de crossover.
+
+Por eso, aunque un silenciador viejo pueda calzar mecánicamente en un tubo nuevo, el sistema no está diseñado para funcionar así — te vas a quedar sin la conexión cruzada que necesita el motor para respirar bien en ambos cilindros. 
+
+Harley también cambió el esquema de numeración: dejaron atrás el formato "-04" y pasaron a números de 8 dígitos que arrancan con **649002XX / 649003XX / 649004XX**, dependiendo del año y la versión (doméstica, California, Screamin' Eagle, etc.).
+
+### Ejemplo confirmado
+
+| Número de parte | Año / modelos | Mercado |
+|---|---|---|
+| **64900213** | 2014, XL1200T / XL883L / XL883N | Doméstico |
+
+Para el resto de los modelos 2014+ (1200C, 1200X, 1200V, 1200CX, versiones California, etc.) la numeración sigue el mismo prefijo **64900-XXX** pero cada combinación de año/modelo/mercado tiene su propio sufijo de 3 dígitos — no hay un número único "para todo 2014 en adelante". 
+
+### Resumen de escapes OEM
+
+- **2004–2013:** tres números de parte (64842-04, 65232-04, 64890-04), compatibles mecánicamente entre sí en cuanto a montaje, pero con diferencias de catalizador según año/mercado. El 64842-04 es el único confirmado sin catalizador tras inspección física.
+- **2014 en adelante:** rediseño completo — el crossover pasó de estar entre los silenciadores a estar entre los headers, y cambió toda la numeración a un esquema 649002XX+. No son intercambiables funcionalmente con la generación anterior aunque compartan el mismo diámetro de montaje.
+- Si tu Sportster es 2014+, confirmá el número exacto para tu año/modelo en el catálogo oficial antes de comprar — el prefijo 64900 es común a varios sufijos distintos.
+
+
 ## Performance de escapes
 
 Acá tenemos un análisis en dinamómetro de diferentes escapes: https://www.1250kits.com/ttxlexhaust.shtml
 
 ## Escapes importados
 
-Supertrapp
+Supertrapp (CERRO, no existen mas 2026)
 
 Screaming Eagle
 
@@ -2559,7 +2619,7 @@ Arlen Ness
 
 Vance & Hines
 
-Cycle Shack
+Cycle Shack (no existen mas)
 
 Roland Sands
 
@@ -2583,7 +2643,7 @@ Lucky Custom hace escapes y monton de cosas: https://www.facebook.com/pages/cate
 
 ## Modificar silenciadores originales
 
-Se puede remover el núcleo del escape original para que haga mas ruido.
+Se puede remover el núcleo del escape original para que haga mas ruido. NO CONVIENE.
 
 # Mejorar performance
 
