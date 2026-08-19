@@ -2549,6 +2549,19 @@ Estos me sirven principalmente para pasar las inspeciones VTV, Dekra, ITV, etc; 
 
 Entre 2004 y 2013 usaron básicamente **tres números de parte** repartidos entre versión doméstica y versión California (CARB), y para colmo, en 2014 cambiaron todo el diseño del sistema de escape.
 
+### Resumen de escapes OEM
+
+- **2004–2013:** tres números de parte (64842-04, 65232-04, 64890-04), compatibles mecánicamente entre sí en cuanto a montaje, pero con diferencias de catalizador según año/mercado. El 64842-04 es el único confirmado sin catalizador tras inspección física.
+- **2014 en adelante:** rediseño completo — el crossover pasó de estar entre los silenciadores a estar entre los headers, y cambió toda la numeración a un esquema 649002XX+. No son intercambiables funcionalmente con la generación anterior aunque compartan el mismo diámetro de montaje.
+- Si tu Sportster es 2014+, confirmá el número exacto para tu año/modelo en el catálogo oficial antes de comprar — el prefijo 64900 es común a varios sufijos distintos.
+
+![Headers 2014](archivos_soporte/escapes/2004_up_header.jpg)
+
+![Headers 2014](archivos_soporte/escapes/2014_up_headers.jpg)
+
+![Headers 2014](archivos_soporte/escapes/2004_vs_2014_mufflers.jpg)
+
+
 ### 2004–2013: los tres números de parte "-04"
 
 CA = estado de California, con leyes de contaminacion mas estrictas.
@@ -2597,12 +2610,6 @@ Harley también cambió el esquema de numeración: dejaron atrás el formato "-0
 | **64900213** | 2014, XL1200T / XL883L / XL883N | Doméstico |
 
 Para el resto de los modelos 2014+ (1200C, 1200X, 1200V, 1200CX, versiones California, etc.) la numeración sigue el mismo prefijo **64900-XXX** pero cada combinación de año/modelo/mercado tiene su propio sufijo de 3 dígitos — no hay un número único "para todo 2014 en adelante". 
-
-### Resumen de escapes OEM
-
-- **2004–2013:** tres números de parte (64842-04, 65232-04, 64890-04), compatibles mecánicamente entre sí en cuanto a montaje, pero con diferencias de catalizador según año/mercado. El 64842-04 es el único confirmado sin catalizador tras inspección física.
-- **2014 en adelante:** rediseño completo — el crossover pasó de estar entre los silenciadores a estar entre los headers, y cambió toda la numeración a un esquema 649002XX+. No son intercambiables funcionalmente con la generación anterior aunque compartan el mismo diámetro de montaje.
-- Si tu Sportster es 2014+, confirmá el número exacto para tu año/modelo en el catálogo oficial antes de comprar — el prefijo 64900 es común a varios sufijos distintos.
 
 
 ## Performance de escapes
